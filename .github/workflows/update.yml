@@ -1,29 +1,37 @@
 name: Update Job Applications Data
 
-# This schedule runs the workflow every hour.
 on:
   schedule:
     - cron: '0 * * * *'
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      # No need to expose GMAIL_CREDENTIALS here as an environment variable,
+      # we will write it to a file.
     steps:
       - uses: actions/checkout@v2
+
+      # Write the Gmail credentials to a file before running the scripts.
+      - name: Set up Gmail credentials
+        run: |
+          mkdir -p config
+          echo "${{ secrets.GMAIL_CREDENTIALS }}" > config/gmail_credentials.json
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
+
       - name: Install dependencies
         run: pip install -r requirements.txt
+
       - name: Run pipeline
         run: python main.py
 
-
-      # Optionally commit and push updated files (e.g., data and visualizations) back to the repository.
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
