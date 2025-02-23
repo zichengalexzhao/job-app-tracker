@@ -19,7 +19,7 @@ jobs:
       - name: Set up Gmail credentials
         run: |
           mkdir -p config
-          echo "${{ secrets.GMAIL_CREDENTIALS }}" > config/gmail_credentials.json
+          echo "${{ secrets.GMAIL_CREDENTIALS_B64 }}" > config/gmail_credentials.json
 
       - name: Set up Python
         uses: actions/setup-python@v2
