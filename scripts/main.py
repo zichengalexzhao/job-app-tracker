@@ -80,7 +80,7 @@ def save_results(results, filename="data/job_applications.json"):
 
 if __name__ == '__main__':
     try:
-        results = process_all_emails(limit=10)
+        results = process_all_emails(limit=None)
         save_results(results)  # Save the processed data into data/job_applications.json
     except KeyboardInterrupt:
         print("\nProcess interrupted by user.")
