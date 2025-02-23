@@ -9,38 +9,31 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
     steps:
-      # Check out your repository so the workflow has access to your files.
       - uses: actions/checkout@v2
-
-      # Set up Python (you can adjust the version if needed)
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
-
-      # Install dependencies from requirements.txt
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
+      - name: Run pipeline
+        run: python main.py
 
-      # Run your main processing script that fetches emails and updates data.
-      - name: Run the pipeline
-        run: |
-          python main.py
 
       # Optionally commit and push updated files (e.g., data and visualizations) back to the repository.
-      #- name: Commit and push changes
-      #  env:
-      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #  run: |
-      #    git config --global user.name "GitHub Actions"
-      #    git config --global user.email "actions@github.com"
-      #    git add data/job_applications.json visualizations/
-      #    if ! git diff --cached --quiet; then
-      #      git commit -m "Automated update of job application data"
-      #      git push
-      #    else
-      #      echo "No changes to commit."
-      #    fi
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add data/job_applications.json visualizations/
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated update of job application data"
+            git push
+          else
+            echo "No changes to commit."
+          fi
