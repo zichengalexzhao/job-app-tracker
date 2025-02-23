@@ -28,7 +28,7 @@ jobs:
       # Run your main processing script that fetches emails and updates data.
       - name: Run the pipeline
         run: |
-          python scripts/main.py
+          python main.py
 
       # Optionally commit and push updated files (e.g., data and visualizations) back to the repository.
       - name: Commit and push changes
