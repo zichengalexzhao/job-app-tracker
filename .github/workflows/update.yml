@@ -31,19 +31,16 @@ jobs:
           python main.py
 
       # Optionally commit and push updated files (e.g., data and visualizations) back to the repository.
-      - name: Commit and push changes
-        env:
-          # GITHUB_TOKEN is automatically provided by GitHub Actions.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          # Add only files that change (e.g., your data and visualizations)
-          git add data/job_applications.json visualizations/
-          # Commit only if there are changes
-          if ! git diff --cached --quiet; then
-            git commit -m "Automated update of job application data"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+      #- name: Commit and push changes
+      #  env:
+      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #  run: |
+      #    git config --global user.name "GitHub Actions"
+      #    git config --global user.email "actions@github.com"
+      #    git add data/job_applications.json visualizations/
+      #    if ! git diff --cached --quiet; then
+      #      git commit -m "Automated update of job application data"
+      #      git push
+      #    else
+      #      echo "No changes to commit."
+      #    fi
