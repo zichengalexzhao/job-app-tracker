@@ -1,1 +1,8 @@
-# List of required Python packages
+google-api-python-client
+google-auth-oauthlib
+python-dotenv
+openai==0.28
+plotly
+kaleido
+numpy
+pandas
