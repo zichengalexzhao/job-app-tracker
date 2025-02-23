@@ -1,0 +1,62 @@
+[
+    {
+        "Company": "Not mentioned",
+        "Job Title": "Intern, Data Analytics",
+        "Location": "Not mentioned",
+        "status": "Applied"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Big Data Engineering Intern",
+        "Location": "Washington",
+        "status": "Applied"
+    },
+    {
+        "Company": "CONMED",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Not provided",
+        "status": "Declined"
+    },
+    {
+        "Company": "Revvity",
+        "Job Title": "Intern - IT Data Analyst",
+        "Location": "Not mentioned",
+        "status": "Applied"
+    },
+    {
+        "Company": "Not provided",
+        "Job Title": "Qualitative Analyst",
+        "Location": "Not provided",
+        "status": "Applied"
+    },
+    {
+        "Company": "Goodwill South Florida",
+        "Job Title": "Junior Business Analyst",
+        "Location": "Not specified",
+        "status": "Applied"
+    },
+    {
+        "Company": "Arizona State University",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Not specified",
+        "status": "Applied"
+    },
+    {
+        "Company": "Arizona State University",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Not mentioned",
+        "status": "Applied"
+    },
+    {
+        "Company": "Allstate Insurance Company",
+        "Job Title": "Not specified",
+        "Location": "Not specified",
+        "status": "Applied"
+    },
+    {
+        "Company": "Not mentioned",
+        "Job Title": "Consulting Associate, Data Analytics (Entry Level)",
+        "Location": "Not mentioned",
+        "status": "Applied"
+    }
+]

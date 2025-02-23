@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore sensitive configuration files
+config/.env
+config/token.json
+
+# Ignore common OS files
+.DS_Store
