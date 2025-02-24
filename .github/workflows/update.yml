@@ -1,3 +1,4 @@
+# .github/workflows/update.yml
 name: Job App Tracker Automation
 
 on:
@@ -19,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r job-app-tracker/requirements.txt  # Updated path
+          pip install -r job-app-tracker/requirements.txt
 
       - name: Create Gmail credentials file
         run: |
@@ -31,7 +32,11 @@ jobs:
           echo "${{ secrets.GMAIL_TOKEN }}" > config/token.json
 
       - name: Run main script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python job-app-tracker/main.py
 
       - name: Clean duplicates
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python job-app-tracker/clean_duplicates.py
