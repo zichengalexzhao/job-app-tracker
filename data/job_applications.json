@@ -1,0 +1,44 @@
+[
+    {
+        "Company": "AARP",
+        "Job Title": "Data Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "Waters Corporation",
+        "Job Title": "Intern, Data Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "Waters Corporation",
+        "Job Title": "Intern, Sales Enablement Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "Jasper AI",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "Fidelity Investments",
+        "Job Title": "Data Science (Blockchain) Associate",
+        "Location": "Wellesley, MA",
+        "status": "Applied",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "ICW Group",
+        "Job Title": "Business Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-24"
+    }
+]
