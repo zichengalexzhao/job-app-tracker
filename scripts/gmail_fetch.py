@@ -10,13 +10,21 @@ SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 def get_gmail_service():
     creds = None
-    if os.path.exists('config/token.json'):
-        creds = Credentials.from_authorized_user_file('config/token.json', SCOPES)
+    token_path = 'config/token.json'
+    creds_path = 'config/gmail_credentials.json'
+    
+    if os.path.exists(token_path):
+        creds = Credentials.from_authorized_user_file(token_path, SCOPES)
+    
     if not creds or not creds.valid:
-        flow = InstalledAppFlow.from_client_secrets_file('config/gmail_credentials.json', SCOPES)
-        creds = flow.run_local_server(port=8080)
-        with open('config/token.json', 'w') as token:
-            token.write(creds.to_json())
+        if os.path.exists(creds_path):
+            flow = InstalledAppFlow.from_client_secrets_file(creds_path, SCOPES)
+            creds = flow.run_local_server(port=0)  # Port 0 picks any free port
+            with open(token_path, 'w') as token:
+                token.write(creds.to_json())
+        else:
+            raise FileNotFoundError("Gmail credentials file not found at config/gmail_credentials.json")
+    
     return build('gmail', 'v1', credentials=creds)
 
 def fetch_emails(since_hours=1):
