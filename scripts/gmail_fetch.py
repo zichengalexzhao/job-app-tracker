@@ -1,67 +1,83 @@
-# scripts/gmail_fetch.py
+# gmail_fetch.py
 import os
+import json
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
+from datetime import datetime, timedelta
 
-# Define the Gmail API scope (read-only in this case)
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 def get_gmail_service():
-    """
-    Authenticates and returns a Gmail service instance.
-    Checks for a saved token and, if not found or invalid, starts the OAuth flow.
-    """
     creds = None
-    # Check if token.json exists in the config folder
     if os.path.exists('config/token.json'):
         creds = Credentials.from_authorized_user_file('config/token.json', SCOPES)
-    
-    # If there are no valid credentials available, initiate the OAuth flow
     if not creds or not creds.valid:
         flow = InstalledAppFlow.from_client_secrets_file('config/gmail_credentials.json', SCOPES)
         creds = flow.run_local_server(port=8080)
-        # Save the credentials for the next run
         with open('config/token.json', 'w') as token:
             token.write(creds.to_json())
-    
-    # Build and return the Gmail API service object
     return build('gmail', 'v1', credentials=creds)
 
-def fetch_emails():
-    """
-    Fetches all email metadata (IDs and thread IDs) from the user's INBOX.
-    Handles pagination to retrieve more than 100 messages if available.
-    """
+def fetch_emails(since_hours=1):
     service = get_gmail_service()
+    
+    query = ""
+    if since_hours is not None:
+        time_threshold = (datetime.now() - timedelta(hours=since_hours)).strftime('%Y/%m/%d')
+        query = f"after:{time_threshold}"
+    print(f"Query: '{query}'")
+    
     all_messages = []
-    response = service.users().messages().list(userId='me', labelIds=['INBOX']).execute()
+    response = service.users().messages().list(userId='me', labelIds=['INBOX'], q=query, maxResults=500).execute()
     messages = response.get('messages', [])
-    all_messages.extend(messages)
-
-    # Continue fetching if there's a nextPageToken
+    print(f"Initial page: {len(messages)} emails")
+    all_messages.extend(messages or [])
+    
+    page_count = 1
     while 'nextPageToken' in response:
+        page_count += 1
         page_token = response['nextPageToken']
         response = service.users().messages().list(
-            userId='me', 
-            labelIds=['INBOX'], 
-            pageToken=page_token
+            userId='me', labelIds=['INBOX'], q=query, pageToken=page_token, maxResults=500
         ).execute()
         messages = response.get('messages', [])
-        all_messages.extend(messages)
-
+        print(f"Page {page_count}: {len(messages)} emails")
+        all_messages.extend(messages or [])
+    
+    print(f"Total emails fetched: {len(all_messages)}")
     return all_messages
 
-def get_email_content(message_id):
-    """
-    Retrieves the full email content (or snippet) for a given message ID.
-    Here we use the 'snippet' field for simplicity.
-    """
+def get_email_snippet(message_id):
     service = get_gmail_service()
-    message = service.users().messages().get(userId='me', id=message_id, format='full').execute()
+    message = service.users().messages().get(userId='me', id=message_id, format='minimal').execute()
     return message.get('snippet', '')
 
-if __name__ == '__main__':
-    msgs = fetch_emails()
-    print(f"Found {len(msgs)} messages")
-    print("Messages:", msgs)
+def get_email_content(message_id):
+    service = get_gmail_service()
+    message = service.users().messages().get(userId='me', id=message_id, format='full').execute()
+    payload = message.get('payload', {})
+    parts = payload.get('parts', [])
+    body = ""
+    if parts:
+        for part in parts:
+            if part['mimeType'] == 'text/plain':
+                body += part.get('body', {}).get('data', '')
+    else:
+        body = payload.get('body', {}).get('data', '')
+
+    if body:
+        import base64
+        body = base64.urlsafe_b64decode(body).decode('utf-8', errors='ignore')
+    else:
+        body = message.get('snippet', '')
+
+    headers = message.get('payload', {}).get('headers', [])
+    from_header = next((h['value'] for h in headers if h['name'] == 'From'), '')
+    subject = next((h['value'] for h in headers if h['name'] == 'Subject'), '')
+    full_content = f"From: {from_header}\nSubject: {subject}\n\n{body}"
+
+    internal_date = int(message.get('internalDate', 0)) / 1000
+    email_date = datetime.fromtimestamp(internal_date).strftime('%Y-%m-%d') if internal_date else 'Unknown'
+
+    return {"content": full_content[:4000], "date": email_date}
