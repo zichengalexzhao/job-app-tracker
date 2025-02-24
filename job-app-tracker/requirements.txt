@@ -1,5 +1,6 @@
 google-api-python-client
 google-auth-oauthlib
+google-auth-httplib2
 python-dotenv
 openai==0.28
 plotly
