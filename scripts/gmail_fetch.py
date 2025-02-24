@@ -8,23 +8,41 @@ from datetime import datetime, timedelta
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
+from google.auth.transport.requests import Request
+import os
+
+SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
+
 def get_gmail_service():
     creds = None
     token_path = 'config/token.json'
     creds_path = 'config/gmail_credentials.json'
-    
+
+    # Load token if it exists
     if os.path.exists(token_path):
         creds = Credentials.from_authorized_user_file(token_path, SCOPES)
-    
+    else:
+        print(f"Warning: No token found at {token_path}")
+
+    # Handle invalid or expired credentials
     if not creds or not creds.valid:
-        if os.path.exists(creds_path):
+        if creds and creds.expired and creds.refresh_token:
+            print("Token expired, attempting to refresh...")
+            creds.refresh(Request())  # Refresh using refresh_token
+        elif os.path.exists(creds_path):
+            print("No valid token; running local auth (not suitable for CI)...")
             flow = InstalledAppFlow.from_client_secrets_file(creds_path, SCOPES)
-            creds = flow.run_local_server(port=0)  # Port 0 picks any free port
+            creds = flow.run_local_server(port=0)  # Only for local runs
             with open(token_path, 'w') as token:
                 token.write(creds.to_json())
         else:
-            raise FileNotFoundError("Gmail credentials file not found at config/gmail_credentials.json")
-    
+            raise FileNotFoundError(
+                f"Authentication failed: No valid token at {token_path} and no credentials at {creds_path}"
+            )
+
     return build('gmail', 'v1', credentials=creds)
 
 def fetch_emails(since_hours=1):
