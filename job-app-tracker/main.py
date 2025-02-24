@@ -9,7 +9,7 @@ from scripts.process_emails import is_job_application, classify_email
 # Global variables
 results = []
 interrupted = False
-processed_email_ids = set()  # Moved to global scope for clarity
+processed_email_ids = set()  
 
 def normalize_status(raw_status):
     raw = raw_status.lower().strip()

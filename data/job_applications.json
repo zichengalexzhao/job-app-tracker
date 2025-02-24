@@ -40,5 +40,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-24"
+    },
+    {
+        "Company": "Premier, Inc.",
+        "Job Title": "Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "Commonwealth of VA",
+        "Job Title": "Statistical Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "Waters Corporation",
+        "Job Title": "Intern, Data Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-23"
+    },
+    {
+        "Company": "Waters Corporation",
+        "Job Title": "Intern, Sales Enablement Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-23"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-23"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-23"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Summer 2025 Big Data Engineering Intern (90351722)",
+        "Location": "Washington",
+        "status": "Applied",
+        "Date": "2025-02-23"
     }
 ]
