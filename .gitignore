@@ -4,6 +4,7 @@ venv/
 # Ignore sensitive configuration files
 config/.env
 config/token.json
+config/gmail_credentials.json
 
 # Ignore common OS files
 .DS_Store
