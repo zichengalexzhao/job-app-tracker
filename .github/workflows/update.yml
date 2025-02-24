@@ -25,11 +25,12 @@ jobs:
       - name: Create Gmail credentials file
         run: |
           mkdir -p config
-          echo "${{ secrets.GMAIL_CREDENTIALS }}" > config/gmail_credentials.json
+          echo '${{ secrets.GMAIL_CREDENTIALS }}' | jq . > config/gmail_credentials.json
 
       - name: Create Gmail token file
         run: |
-          echo "${{ secrets.GMAIL_TOKEN }}" > config/token.json
+          echo '${{ secrets.GMAIL_TOKEN }}' | jq . > config/token.json
+
 
       - name: Run main script
         env:

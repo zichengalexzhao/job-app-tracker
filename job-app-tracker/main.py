@@ -55,8 +55,15 @@ def save_results(filename="data/job_applications.json"):
 
 def load_existing_results(filename="data/job_applications.json"):
     if os.path.exists(filename):
-        with open(filename, "r") as f:
-            return json.load(f)
+        try:
+            with open(filename, "r") as f:
+                content = f.read().strip()
+                if not content:
+                    return []
+                return json.loads(content)
+        except json.JSONDecodeError as e:
+            print(f"Error reading {filename}: {e}")
+            return []
     return []
 
 def save_processed_ids(ids, filename="data/processed_ids.json"):
@@ -67,9 +74,17 @@ def save_processed_ids(ids, filename="data/processed_ids.json"):
 
 def load_processed_ids(filename="data/processed_ids.json"):
     if os.path.exists(filename):
-        with open(filename, "r") as f:
-            return set(json.load(f))
+        try:
+            with open(filename, "r") as f:
+                content = f.read().strip()
+                if not content:
+                    return set()
+                return set(json.loads(content))
+        except json.JSONDecodeError as e:
+            print(f"Error reading {filename}: {e}")
+            return set()
     return set()
+
 
 def signal_handler(sig, frame):
     global interrupted

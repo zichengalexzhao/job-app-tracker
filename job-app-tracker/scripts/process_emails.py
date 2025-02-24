@@ -54,4 +54,11 @@ def classify_email(email_content):
             {"role": "user", "content": email_content}
         ]
     )
-    return response.choices[0].message.content
+    try:
+        classification = response.choices[0].message.content.strip()
+        if not classification.startswith("Company:"):
+            return "Not Job Application"
+        return classification
+    except (IndexError, AttributeError, KeyError) as e:
+        print(f"Error processing OpenAI response: {e}")
+        return "Not Job Application"
