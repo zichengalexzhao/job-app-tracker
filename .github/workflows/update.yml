@@ -1,47 +1,37 @@
-name: Update Job Applications Data
+name: Job App Tracker Automation
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Every hour
-  workflow_dispatch:  # Manual trigger option
+  push:
+    branches: [main]
 
 jobs:
-  update:
+  run-script:
     runs-on: ubuntu-latest
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
     steps:
-      - uses: actions/checkout@v3  # Updated to v3
-
-      - name: Set up Gmail credentials
-        run: |
-          mkdir -p config
-          echo "${{ secrets.GMAIL_CREDENTIALS_B64 }}" | base64 -d > config/gmail_credentials.json
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v4  # Updated to v4
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run pipeline
         run: |
-          python main.py  # Runs with since_hours=1 (update main.py below)
-          python clean_duplicates.py
-          python visualize_table.py
+          python -m pip install --upgrade pip
+          pip install -r job-app-tracker/requirements.txt  # Updated path
 
-      - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Gmail credentials file
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add data/job_applications.json data/processed_ids.json TABLE.md visualizations/sankey.html
-          if ! git diff --cached --quiet; then
-            git commit -m "Automated update: job applications, table, and Sankey chart"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          mkdir -p config
+          echo "${{ secrets.GMAIL_CREDENTIALS }}" > config/gmail_credentials.json
+
+      - name: Create Gmail token file
+        run: |
+          echo "${{ secrets.GMAIL_TOKEN }}" > config/token.json
+
+      - name: Run main script
+        run: python job-app-tracker/main.py
+
+      - name: Clean duplicates
+        run: python job-app-tracker/clean_duplicates.py
