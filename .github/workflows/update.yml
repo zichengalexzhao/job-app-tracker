@@ -1,46 +1,44 @@
 name: Update Job Applications Data
 
-# This schedule runs the workflow every hour.
 on:
   schedule:
     - cron: '0 * * * *'
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      # No need to expose GMAIL_CREDENTIALS here as an environment variable,
+      # we will write it to a file.
     steps:
-      # Check out your repository so the workflow has access to your files.
       - uses: actions/checkout@v2
 
-      # Set up Python (you can adjust the version if needed)
+      # Write the Gmail credentials to a file before running the scripts.
+      - name: Set up Gmail credentials
+        run: |
+          mkdir -p config
+          echo "${{ secrets.GMAIL_CREDENTIALS_B64 }}" > config/gmail_credentials.json
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
 
-      # Install dependencies from requirements.txt
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
-      # Run your main processing script that fetches emails and updates data.
-      - name: Run the pipeline
-        run: |
-          python main.py
+      - name: Run pipeline
+        run: python main.py
 
-      # Optionally commit and push updated files (e.g., data and visualizations) back to the repository.
       - name: Commit and push changes
         env:
-          # GITHUB_TOKEN is automatically provided by GitHub Actions.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          # Add only files that change (e.g., your data and visualizations)
           git add data/job_applications.json visualizations/
-          # Commit only if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "Automated update of job application data"
             git push

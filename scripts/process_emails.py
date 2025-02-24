@@ -33,6 +33,15 @@ def classify_email(email_content):
     )
     return response.choices[0].message.content
 
+def save_results(results, filename="data/job_applications.json"):
+    """
+    Saves the results (a list of dictionaries) to the specified JSON file.
+    """
+    os.makedirs("data", exist_ok=True)
+    with open(filename, "w") as f:
+        json.dump(results, f, indent=4)
+    print(f"Saved {len(results)} records to {filename}")
+
 if __name__ == '__main__':
     # For demonstration, we simulate an email content.
     sample_email = (
