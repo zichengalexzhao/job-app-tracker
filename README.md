@@ -1,6 +1,6 @@
 # Job Application Tracker
 
-This project automates job application tracking by fetching relevant emails, extracting job details using AI, and visualizing the data. It runs locally or via GitHub Actions.
+This project automates job application tracking by fetching relevant emails, extracting job details using LLM, and visualizing the data. It runs locally or via GitHub Actions.
 
 ## Features
 
