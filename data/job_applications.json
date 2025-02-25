@@ -7665,13 +7665,6 @@
         "Date": "2024-08-17"
     },
     {
-        "Company": "Unknown",
-        "Job Title": "Unknown",
-        "Location": "San Francisco, 94102",
-        "status": "Offer",
-        "Date": "2024-08-15"
-    },
-    {
         "Company": "Antra Inc.",
         "Job Title": "Azure Data and BI Engineer",
         "Location": "Sterling, VA",
@@ -7705,19 +7698,5 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-07-02"
-    },
-    {
-        "Company": "Academe at 198",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-06-24"
-    },
-    {
-        "Company": "University of California, Davis, College of Engineering, Department of Computer Science",
-        "Job Title": "Research Assistant",
-        "Location": "Davis, CA 95616",
-        "status": "Applied",
-        "Date": "2024-04-17"
     }
 ]
