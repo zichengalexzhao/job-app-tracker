@@ -1,9 +1,10 @@
-# .github/workflows/update.yml
 name: Job App Tracker Automation
 
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour at the start of the hour (e.g., 1:00, 2:00, etc.)
 
 jobs:
   run-script:
@@ -31,7 +32,6 @@ jobs:
         run: |
           echo '${{ secrets.GMAIL_TOKEN }}' | jq . > config/token.json
 
-
       - name: Run main script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -41,3 +41,18 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python job-app-tracker/clean_duplicates.py
+
+      - name: Generate visualizations
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python job-app-tracker/visualize_table.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Automated update of job applications, duplicates, and visualizations" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
