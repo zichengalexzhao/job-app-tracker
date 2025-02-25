@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
+| IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
+| Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
+| Aquabyte | Data Scientist | Unknown | Applied | 2025-02-25 |
+| Robert Half | Unknown | San Francisco | Applied | 2025-02-25 |
+| BayOne Solutions | Business Intelligence Analyst | San Francisco, CA | Applied | 2025-02-25 |
+| PlayStation (Sony) | Data Scientist | Unknown | Declined | 2025-02-25 |
+| TransUnion | Unknown | Unknown | Applied | 2025-02-25 |
+| Norstella | NLP & LLM Data Scientist – Healthcare & Life Sciences | Unknown | Applied | 2025-02-25 |
+| Lantern Care | Data Analyst, Research and Strategy | Unknown | Declined | 2025-02-25 |
+| Clover Health | Senior Data Scientist | Unknown | Declined | 2025-02-25 |
 | AARP | Data Analytics Analyst | Unknown | Declined | 2025-02-24 |
 | Waters Corporation | Intern, Data Analytics | Unknown | Declined | 2025-02-24 |
 | Waters Corporation | Intern, Sales Enablement Analyst | Unknown | Declined | 2025-02-24 |
@@ -20,7 +31,6 @@
 | RPA Advertising | Analyst | Unknown | Applied | 2025-02-24 |
 | iBusiness Funding | Unknown | Unknown | Applied | 2025-02-24 |
 | NBCUniversal | Data Analyst | Unknown | Applied | 2025-02-24 |
-| Lantern Care | Data Analyst, Research and Strategy | Unknown | Applied | 2025-02-24 |
 | Notion | Data Scientist, Growth | Unknown | Applied | 2025-02-24 |
 | Tencent | Unknown | Unknown | Applied | 2025-02-24 |
 | Tencent | Unknown | Unknown | Applied | 2025-02-24 |
@@ -31,8 +41,9 @@
 | Jerry | Data Scientist | Unknown | Applied | 2025-02-24 |
 | Aquabyte | Data Scientist | Unknown | Applied | 2025-02-24 |
 | TransUnion | Unknown | Unknown | Applied | 2025-02-24 |
-| Waters Corporation | Intern, Data Analytics | Unknown | Applied | 2025-02-23 |
-| Waters Corporation | Intern, Sales Enablement Analyst | Unknown | Applied | 2025-02-23 |
+| Oracle | Facilities Maintenance Intern | Unknown | Applied | 2025-02-24 |
+| Jump Associates LLC | Unknown | San Mateo, California | Applied | 2025-02-24 |
+| FundingU | Data Analyst - Student Lending | Unknown | Applied | 2025-02-24 |
 | Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
 | Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
 | Amtrak | Summer 2025 Big Data Engineering Intern (90351722) | Washington | Applied | 2025-02-23 |
@@ -80,21 +91,16 @@
 | Applied Materials | Corporate Strategy Intern – Data Science | Santa Clara, CA | Applied | 2025-02-21 |
 | The Newrez Family of Companies | Business Analyst | Unknown | Applied | 2025-02-21 |
 | Weee! Inc | Data Analyst | Unknown | Applied | 2025-02-21 |
-| AARP | Data Analytics Analyst | Unknown | Applied | 2025-02-21 |
 | Red Bull | Shopper Insights Analyst | Unknown | Applied | 2025-02-21 |
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-21 |
-| Laserfiche | Data Analyst | Unknown | Applied | 2025-02-21 |
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-21 |
 | Department of Motor Vehicles | DMV Statistical Analyst - 01099 | Unknown | Applied | 2025-02-21 |
 | Norstella | NLP & LLM Data Scientist - Healthcare & Life Sciences | Unknown | Applied | 2025-02-21 |
-| Unknown | Data Scientist | San Francisco, CA | Applied | 2025-02-21 |
-| Unknown | Data Scientist | San Francisco, CA | Applied | 2025-02-21 |
 | Lattice | Temporary People Analytics Analyst | Unknown | Applied | 2025-02-21 |
 | Databricks | Data Scientist - New Grad | Unknown | Declined | 2025-02-21 |
 | Databricks | Data Scientist - New Grad | Unknown | Declined | 2025-02-21 |
 | Databricks | Data Scientist - New Grad | Unknown | Declined | 2025-02-21 |
 | Extend | Unknown | Unknown | Applied | 2025-02-21 |
-| Clover Health | Senior Data Scientist | Unknown | Applied | 2025-02-21 |
 | Databricks | Data Scientist - New Grad | Unknown | Declined | 2025-02-21 |
 | Derex Technologies Inc | Research Data Scientist | Unknown | Applied | 2025-02-21 |
 | Thumbtack | Senior Data Scientist, Business Analytics | Unknown | Applied | 2025-02-21 |
@@ -147,8 +153,6 @@
 | Applied Medical | SAP PM Business Analyst | Unknown | Declined | 2025-02-19 |
 | SHEIN Group | Machine Learning Engineer I | Unknown | Applied | 2025-02-19 |
 | Equifax | Unknown | Unknown | Applied | 2025-02-19 |
-| Edward Jones | Data Scientist I - Firm Analytics | Unknown | Applied | 2025-02-19 |
-| Amplify | Data Scientist | Unknown | Applied | 2025-02-19 |
 | Garner Health | Unknown | Unknown | Applied | 2025-02-19 |
 | ABOUT HEALTHCARE INC | Data Scientist | Unknown | Applied | 2025-02-19 |
 | eRESI Mortgage | Business Analyst | Unknown | Declined | 2025-02-19 |
@@ -160,9 +164,7 @@
 | VS America, Inc. | CRM and Data Analyst | Unknown | Applied | 2025-02-19 |
 | I3 Broadband LLC | Marketing Data Analyst | Unknown | Applied | 2025-02-19 |
 | National Grid | Data Analyst, Management Data Analysis | Unknown | Applied | 2025-02-19 |
-| Docusign | Sales Strategy & Operations Analyst | Unknown | Applied | 2025-02-19 |
 | SilverEdge Government Solutions | Data Scientist | Unknown | Applied | 2025-02-19 |
-| Jasper AI | Data Analyst | Unknown | Applied | 2025-02-19 |
 | YipitData | Data Consultant - Corporate | Unknown | Applied | 2025-02-19 |
 | Planes Companies | Data Analyst | Unknown | Applied | 2025-02-19 |
 | Gamesight | Data Analyst | Unknown | Declined | 2025-02-19 |
@@ -181,7 +183,6 @@
 | eBay | Marketing Business Analyst | Unknown | Declined | 2025-02-19 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-18 |
 | Unknown | Marketing Data Analyst | Remote | Applied | 2025-02-18 |
-| SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2025-02-18 |
 | Zillow | Sr. Business Intelligence Analyst / Analista de Inteligencia de Negocios | San Quentin, CA | Applied | 2025-02-18 |
 | University of California, Davis | Virtual Student Assistant | Unknown | Applied | 2025-02-18 |
 | Unknown | Data Scientist | Unknown | Declined | 2025-02-17 |
@@ -215,7 +216,6 @@
 | Volvo Cars | CRM Analytics Intern | Mahwah | Applied | 2025-02-13 |
 | ETS | Business Analyst Intern | Unknown | Applied | 2025-02-13 |
 | Strategic Data Systems | Unknown | Unknown | Applied | 2025-02-13 |
-| Galileo | Data Analyst | Unknown | Applied | 2025-02-13 |
 | OneImaging | Data Engineer | Unknown | Applied | 2025-02-13 |
 | Channel Factory | Jr Data Analyst - Data & Analytics | Unknown | Applied | 2025-02-13 |
 | BDG | Data Engineer | Unknown | Applied | 2025-02-13 |
@@ -250,14 +250,12 @@
 | WEX | Risk Data Scientist - Risk Solutions | Unknown | Declined | 2025-02-12 |
 | Allegiant Air | Customer Intelligence Analyst | Unknown | Declined | 2025-02-12 |
 | Unknown | Unknown | Unknown | Applied | 2025-02-11 |
-| DoorDash | Associate, Strategy & Operations, DoorDash for Business | Unknown | Applied | 2025-02-11 |
 | Allegiant | Customer Intelligence Analyst | Unknown | Applied | 2025-02-11 |
 | SentiLink | Unknown | Unknown | Applied | 2025-02-11 |
 | Unknown | Risk Data Scientist - Risk Solutions | Unknown | Applied | 2025-02-11 |
 | KLA-Tencor | Data Scientist | Unknown | Applied | 2025-02-11 |
 | Western Digital | Data Analytics | Unknown | Applied | 2025-02-11 |
 | Tesla | Data Analyst, Supply Chain, 236995 | Unknown | Applied | 2025-02-11 |
-| SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2025-02-11 |
 | GOBankingRates | Data Analyst | 100% Remote, Anywhere in the USA | Declined | 2025-02-11 |
 | Oscar | Operations, Data Analyst | Unknown | Declined | 2025-02-11 |
 | Robert Bosch Automotive Technologies (Thailand) Co., Ltd. | Data Analyst | 500/92 Moo 3 Tasith, Pluak daeng District, Rayong, Thailand, Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand | Declined | 2025-02-11 |
@@ -300,7 +298,6 @@
 | Google | Unknown | Unknown | Applied | 2025-02-06 |
 | Google | Unknown | Unknown | Applied | 2025-02-06 |
 | Capgemini Group | Data Analyst (Oracle Database, SQL/PLSQL) | Unknown | Declined | 2025-02-06 |
-| Lantern Care | Data Analyst, Research and Strategy | Unknown | Applied | 2025-02-06 |
 | Amazon | Business Analyst, Buyer Abuse | Unknown | Applied | 2025-02-06 |
 | Amazon | Business Analyst, Buyer Abuse | Unknown | Applied | 2025-02-06 |
 | Tesla | Data Analyst, Field Reliability Engineering | Unknown | Declined | 2025-02-06 |
@@ -309,14 +306,11 @@
 | Sephora | Unknown | Unknown | Applied | 2025-02-06 |
 | American Express | Java Engineer - Enterprise Identity | Unknown | Applied | 2025-02-06 |
 | CBRE | Research Analyst (hybrid) | Unknown | Declined | 2025-02-06 |
-| Inmar | Contractor, Data Analytics | Unknown | Applied | 2025-02-06 |
 | Wells Fargo | Senior Data Scientist | Unknown | Applied | 2025-02-06 |
 | Circana | Client Insights Analyst | Unknown | Applied | 2025-02-06 |
 | DaVita Kidney Care | Business Analyst | Unknown | Applied | 2025-02-06 |
 | Wounded Warrior Project | Data Analyst Specialist - Programs Impact & Evaluation | Unknown | Applied | 2025-02-06 |
-| Ascension | Qualtrics Analyst - Technology | Unknown | Applied | 2025-02-06 |
 | Rippling | Growth Analyst, Core HR | Unknown | Declined | 2025-02-06 |
-| Danaher | Legal Data Analyst | Unknown | Applied | 2025-02-06 |
 | Hill International | Data Analyst | Unknown | Applied | 2025-02-06 |
 | TD Bank Group | Data Scientist I | US | Applied | 2025-02-05 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Applied | 2025-02-05 |
@@ -327,29 +321,21 @@
 | Roblox | Data Scientist / Senior Data Scientist - Analytical Data Product | Unknown | Declined | 2025-02-05 |
 | Roblox | Data Scientist / Senior Data Scientist - Social Communities | Unknown | Declined | 2025-02-05 |
 | GroupM Choreograph | Senior Analyst, Analytics | Unknown | Declined | 2025-02-05 |
-| SoFi Technologies | Business Operation Analyst | Unknown | Applied | 2025-02-05 |
 | Jellyfish | Data Scientist, Product | Unknown | Applied | 2025-02-05 |
 | Fetch | Unknown | Unknown | Applied | 2025-02-05 |
 | Assurant | Insights Product Analyst | Unknown | Applied | 2025-02-05 |
-| Strive Health | Data Analyst | Unknown | Applied | 2025-02-05 |
-| Oscar | Operations Data Analyst | Unknown | Applied | 2025-02-05 |
 | 2K | Analyst, Commercial Strategy & Operations | Unknown | Applied | 2025-02-05 |
 | NAVEX Global A | Data Analyst | Unknown | Applied | 2025-02-05 |
-| DoiT | Business Intelligence Analyst - Marketing | Unknown | Applied | 2025-02-05 |
 | Rocket Money | Unknown | Unknown | Applied | 2025-02-05 |
 | Salesforce | Analyst - Private Equity Practice | Unknown | Declined | 2025-02-05 |
 | PlayStation | Baseball Test Analyst | Unknown | Applied | 2025-02-04 |
 | PlayStation | Game Content Analyst | Unknown | Applied | 2025-02-04 |
 | Revenue Analytics | Unknown | Unknown | Applied | 2025-02-04 |
-| DoorDash | Associate, DashMart - Strategy & Analytics | Unknown | Applied | 2025-02-04 |
 | Unknown | Data Analyst, Investment Proposals - Parametric | Unknown | Applied | 2025-02-04 |
-| The Wonderful Company | Junior Data Scientist, Global Sourcing | Unknown | Applied | 2025-02-04 |
 | Bitwise Asset Management | Junior Salesforce Business Analyst | Unknown | Applied | 2025-02-04 |
-| Gamesight | Data Analyst | Unknown | Applied | 2025-02-04 |
 | Paramount | Unknown | Unknown | Applied | 2025-02-04 |
 | Stripe | Data Analyst, New Grad | Unknown | Applied | 2025-02-04 |
 | Thumbtack | Data Scientist, Product (Marketplace) | Unknown | Applied | 2025-02-04 |
-| SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2025-02-04 |
 | CBRE | Research Analyst | Unknown | Applied | 2025-02-04 |
 | Circle K | Unknown | Unknown | Applied | 2025-02-04 |
 | TEKsystems | Unknown | Unknown | Applied | 2025-02-04 |
@@ -357,10 +343,8 @@
 | Equip Health | Data Analyst I | Unknown | Applied | 2025-02-04 |
 | Moelis & Company | Unknown | Unknown | Applied | 2025-02-04 |
 | Bryant University D | Data Analyst | Unknown | Applied | 2025-02-04 |
-| DoorDash | Associate, DashMart - Strategy & Analytics | Unknown | Applied | 2025-02-04 |
 | Applied Materials | Pricing Analyst Product Marketing Intern- Master's | Santa Clara, CA | Applied | 2025-02-04 |
 | Xero | Marketing Operations Analyst | Unknown | Applied | 2025-02-04 |
-| Rippling | Growth Analyst, Core HR | Unknown | Applied | 2025-02-04 |
 | TikTok | Data Scientist- TikTok Ads, Privacy | Unknown | Applied | 2025-02-04 |
 | TikTok | Applied Scientist, Search, E-Commerce Alliance | Unknown | Applied | 2025-02-04 |
 | Yelp | Analyst, Revenue Operations | Unknown | Declined | 2025-02-04 |
@@ -413,13 +397,10 @@
 | Intel | Business Process Analyst | Unknown | Applied | 2025-01-29 |
 | Adobe | Data Scientist - Mobile Analytics and Insights | Unknown | Applied | 2025-01-29 |
 | Block | Data Analyst, Developers | Unknown | Applied | 2025-01-29 |
-| Notion | Data Scientist, Product | Unknown | Applied | 2025-01-29 |
 | The Voleon Group | Data Scientist, Trading Operations | Unknown | Applied | 2025-01-29 |
 | KPMG Thailand | Unknown | Unknown | Applied | 2025-01-29 |
 | Shopee | Recruitment project Data Analyst (SPX Express) | Unknown | Applied | 2025-01-29 |
 | Lazada Group | Data Analyst - Fleet LM, SSW | Unknown | Applied | 2025-01-29 |
-| EssenceMediacom | Analyst, Analytics | Unknown | Applied | 2025-01-29 |
-| GroupM Choreograph | Senior Analyst, Analytics | Unknown | Applied | 2025-01-29 |
 | LG Ad Solutions | Jr Business Data Analyst | Unknown | Applied | 2025-01-29 |
 | Nextdoor | Unknown | Unknown | Applied | 2025-01-29 |
 | Nextdoor | Unknown | Unknown | Applied | 2025-01-29 |
@@ -446,7 +427,6 @@
 | Live Nation Entertainment | Data Analyst | Unknown | Applied | 2025-01-28 |
 | Citadel \| Citadel Securities | Research Data Analyst | Unknown | Applied | 2025-01-28 |
 | GSA Management/InSite Property Group | Data Analyst | Unknown | Declined | 2025-01-28 |
-| IBM | Customer Success Manager Specialist | Unknown | Applied | 2025-01-28 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-28 |
 | Unknown | Global Ambassador Mentor Fellows | Unknown | Applied | 2025-01-28 |
 | Microsoft | Business Analytics: MBA Internship | Unknown | Declined | 2025-01-28 |
@@ -454,10 +434,7 @@
 | Jobright.ai | Data Scientist - Remote Internship | Unknown | Applied | 2025-01-28 |
 | Lumenalta | Unknown | Unknown | Declined | 2025-01-28 |
 | Braintrust | Unknown | Unknown | Applied | 2025-01-27 |
-| Deloitte | People Analytics Consultant | Unknown | Applied | 2025-01-27 |
 | Trace3 | Data & Analytics | Unknown | Applied | 2025-01-27 |
-| Lumenalta | Unknown | Unknown | Applied | 2025-01-27 |
-| Ellucian | Business Intelligence Analyst | 100% remote | Applied | 2025-01-27 |
 | Oracle | Biostatistician - 270351 | Unknown | Applied | 2025-01-27 |
 | Unknown | Unknown | Unknown | Applied | 2025-01-27 |
 | Blue Cross NC | Unknown | Unknown | Applied | 2025-01-27 |
@@ -465,9 +442,7 @@
 | Figma | Technical Operations & Insights Analyst | Unknown | Applied | 2025-01-27 |
 | Russell Tobin | Unknown | Unknown | Applied | 2025-01-27 |
 | Petco | Treasury Analyst | Unknown | Applied | 2025-01-27 |
-| Salesforce | Analyst - Private Equity Practice | Unknown | Applied | 2025-01-27 |
 | Tesla | Inventory Control Analyst | Unknown | Applied | 2025-01-27 |
-| Tesla | Data Analyst, Field Reliability Engineering | Unknown | Applied | 2025-01-27 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-27 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-27 |
 | Oracle | UX Data Science Intern - Fusion-256341 | Unknown | Declined | 2025-01-27 |
@@ -475,12 +450,10 @@
 | Walmart | Data Scientist III | Unknown | Applied | 2025-01-27 |
 | Walmart | Audit, Senior Analyst | Unknown | Applied | 2025-01-27 |
 | Walmart | Summer Grad Intern: Data Science III | Unknown | Applied | 2025-01-27 |
-| Oracle | Contracts Analyst | Unknown | Applied | 2025-01-27 |
 | Oracle | Financial Analyst - July 2025 Start Date - 261333 | Unknown | Applied | 2025-01-27 |
 | Intel | IT Analyst - Manufacturing Integration | Unknown | Applied | 2025-01-27 |
 | Applied Materials | Product Marketing Pricing Analyst | Santa Clara, CA | Applied | 2025-01-27 |
 | Tata Consultancy Services Limited (TCS) | Data Analyst | Unknown | Applied | 2025-01-27 |
-| Microsoft | Business Analyst | Unknown | Applied | 2025-01-27 |
 | Amazon | Sr. Program Manager | United States | Applied | 2025-01-27 |
 | Amazon | Sr. Program Manager Full-Time | United States | Applied | 2025-01-27 |
 | Amazon | User Experience Research Intern Internship – 2025 | US | Applied | 2025-01-27 |
@@ -488,7 +461,6 @@
 | American Express | Engineer III-24023260 | Unknown | Applied | 2025-01-27 |
 | Adobe | Sales Operations Analyst - Compensation Design | Unknown | Applied | 2025-01-27 |
 | Amazon | Business Analyst | Unknown | Applied | 2025-01-25 |
-| Amazon | Unknown | Unknown | Applied | 2025-01-25 |
 | Amazon | Business Analyst | Unknown | Applied | 2025-01-25 |
 | Unknown | Junior Trader | Unknown | Applied | 2025-01-25 |
 | Unknown | Junior Trader | Unknown | Applied | 2025-01-25 |
@@ -502,7 +474,6 @@
 | Unknown | Senior Assistant Dean for Student Affairs | Unknown | Interviewed | 2025-01-22 |
 | Sojern | Campaign Analyst | Unknown | Declined | 2025-01-21 |
 | SAP | SAP iXp Intern - Software Developer | Palo Alto, CA, US, 94304 | Applied | 2025-01-21 |
-| Unknown | Senior Assistant Dean for Student Affairs | Unknown | Interviewed | 2025-01-21 |
 | Jobright.ai | Data Scientist - Remote Internship | Unknown | Applied | 2025-01-21 |
 | Databricks | Data Scientist - New Grad (2025 Start) | Unknown | Applied | 2025-01-18 |
 | Affirm | Quantitative Analyst I | Unknown | Applied | 2025-01-18 |
@@ -514,9 +485,7 @@
 | LeanTaaS | Data Scientist | US Remote | Declined | 2025-01-16 |
 | CVS Health | Data Scientist, Provider Selection | Unknown | Applied | 2025-01-15 |
 | dv01 | Data Analyst, Integrations | Unknown | Declined | 2025-01-15 |
-| SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2025-01-14 |
 | LatentView Analytics Corporation | Consultant (BET) | Unknown | Applied | 2025-01-14 |
-| Oscar | Operations, Data Analyst | Unknown | Applied | 2025-01-14 |
 | Sojern | Unknown | Unknown | Applied | 2025-01-14 |
 | DoraHacks | Growth Operations Specialist | Unknown | Applied | 2025-01-14 |
 | Binance | Marketing Analytics Specialist | Unknown | Applied | 2025-01-14 |
@@ -528,7 +497,6 @@
 | Databricks | Data Science Intern (2025 Start) | Unknown | Declined | 2025-01-13 |
 | Jobright.ai | Data Scientist | Unknown | Applied | 2025-01-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Unknown | Declined | 2025-01-09 |
-| LeanTaaS | Data Scientist | US Remote | Applied | 2025-01-09 |
 | Vectra Networks | Data Science Internship | Boston, MA | Declined | 2025-01-09 |
 | County of Marin | Business Systems Analyst | San Rafael, CA | Applied | 2025-01-07 |
 | ServiceNow | Data Scientist Intern (ServiceNow Security Organization - SSO) | Unknown | Declined | 2025-01-06 |
@@ -538,7 +506,6 @@
 | Smart Rewards Inc | Business Analyst Internship | New York, NY, USA | Applied | 2024-12-28 |
 | City of Tucson | Data Analyst I | Unknown | Declined | 2024-12-27 |
 | Toyota | Data Analyst | Plano, Texas | Applied | 2024-12-26 |
-| SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2024-12-24 |
 | Visa | Data Science Intern - Summer 2025 | Unknown | Declined | 2024-12-23 |
 | Zipline | Business Analytics & Insights Manager, Africa | Unknown | Declined | 2024-12-23 |
 | Airtable | Data Scientist, Business Analytics | Unknown | Applied | 2024-12-21 |
@@ -563,14 +530,11 @@
 | Smart Rewards Inc. | Business Analyst Intern | New York, NY, USA | Interviewed | 2024-12-17 |
 | ZS | Decision Analytics Associate | Unknown | Declined | 2024-12-16 |
 | Alignerr | AI Trainer for Mandarin Writers | Unknown | Applied | 2024-12-16 |
-| ZS | Decision Analytics Associate | Unknown | Applied | 2024-12-15 |
 | FXG Management, Inc. | Data and Financial Analyst | San Francisco, CA | Applied | 2024-12-15 |
 | GoFundMe | Data Analytics Intern | San Francisco, CA | Applied | 2024-12-15 |
 | Clinpharma Consulting Global Group LLC | Data Analyst/Scientist/Engineer | Remote | Applied | 2024-12-15 |
-| Reddit | Senior Data Scientist, Consumer | Unknown | Applied | 2024-12-15 |
 | Roblox | Data Scientist / Senior Data Scientist - User Growth | Unknown | Applied | 2024-12-15 |
 | Roblox | Data Scientist / Senior Data Scientist - Social | Unknown | Applied | 2024-12-15 |
-| ThirdLove | Data Analyst | Unknown | Applied | 2024-12-15 |
 | LeanTaaS | Data Support Manager | US Remote | Applied | 2024-12-15 |
 | Nuro | Unknown | Unknown | Applied | 2024-12-15 |
 | Visa | Unknown | Unknown | Applied | 2024-12-13 |
@@ -603,7 +567,6 @@
 | Unknown | Unknown | Unknown | Applied | 2024-12-04 |
 | Figma | Data Scientist - Intern | Unknown | Applied | 2024-12-04 |
 | Weee! | Unknown | Fremont, CA | Applied | 2024-12-04 |
-| Databricks | Data Science Intern (2025 Start) | Unknown | Applied | 2024-12-04 |
 | Coinbase | Data Scientist | Unknown | Declined | 2024-12-04 |
 | Lucid Software | Data Analyst Internship 2025 | Unknown | Declined | 2024-12-04 |
 | Spreetail | Senior Operations Analyst | Unknown | Declined | 2024-12-04 |
@@ -623,15 +586,11 @@
 | Aratum | Unknown | Unknown | Applied | 2024-12-02 |
 | micro1 | Data Scientist (LInE) | Unknown | Interviewed | 2024-12-02 |
 | Nextdoor | Unknown | Unknown | Applied | 2024-12-02 |
-| Unknown | Data Scientist | Unknown | Applied | 2024-12-02 |
 | WSECU (Washington State Employees Credit Union) | Data Scientist | Unknown | Declined | 2024-12-02 |
-| City of Tucson | Data Analyst I | Unknown | Applied | 2024-12-02 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2024-12-02 |
 | Unknown | Data Analyst (Process and Sales Support) | Unknown | Applied | 2024-12-02 |
 | Cambridge Mobile Telematics | Unknown | Unknown | Applied | 2024-12-02 |
-| SpotOn | Accounting Data Analyst | Unknown | Applied | 2024-12-02 |
 | Lucid Software | Unknown | Unknown | Applied | 2024-12-02 |
-| Lacek | Associate Analyst, Data Intelligence | Unknown | Applied | 2024-12-02 |
 | Zoox | Quantitative Risk Intern | Unknown | Applied | 2024-12-02 |
 | Prodapt | Unknown | Unknown | Applied | 2024-12-02 |
 | Google | Unknown | Unknown | Applied | 2024-12-02 |
@@ -641,21 +600,15 @@
 | Guideline, Inc. | Data Engineer, Platform | Unknown | Applied | 2024-12-02 |
 | Instacart | Machine Learning Engineer II, Economist | Unknown | Applied | 2024-12-02 |
 | Vimeo | Unknown | Unknown | Applied | 2024-12-02 |
-| Spreetail | Senior Operations Analyst | Unknown | Applied | 2024-12-02 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2024-12-02 |
 | Windfall | Data Analyst | Unknown | Applied | 2024-12-02 |
-| Affirm | Analyst II, Credit Risk (International Markets) | Unknown | Applied | 2024-12-02 |
 | Stripe | Data Scientist | Unknown | Applied | 2024-12-02 |
-| Roblox | Data Scientist / Senior Data Scientist - Analytical Data Product | Unknown | Applied | 2024-12-02 |
-| Notion | Data Scientist, Product | Unknown | Applied | 2024-12-02 |
 | Coinbase | Unknown | Unknown | Applied | 2024-12-02 |
-| dv01 | Data Analyst, Integrations | Unknown | Applied | 2024-12-02 |
 | Salesforce | Data Analyst, Data & Analytics (New Grad) | Unknown | Applied | 2024-12-02 |
 | Tomo Credit | Unknown | Unknown | Applied | 2024-12-02 |
 | Firework | Growth Marketing Strategist | Unknown | Applied | 2024-12-02 |
 | Glean | Data Scientist, Growth | Unknown | Applied | 2024-12-02 |
 | Pequity | Junior Data Analyst (APAC) | San Francisco, CA | Applied | 2024-12-02 |
-| C3 AI | Data Scientist/Senior Data Scientist | Unknown | Applied | 2024-12-02 |
 | Weee! Inc | Data Scientist/Sr. Data Scientist | Unknown | Applied | 2024-12-02 |
 | TabaPay | Unknown | Unknown | Applied | 2024-12-02 |
 | C3 AI | Data Science - Intern (Summer 2025) | Unknown | Applied | 2024-12-02 |
@@ -672,13 +625,11 @@
 | Salesforce | Summer 2025 Intern - Business Insights Analyst | Unknown | Declined | 2024-11-21 |
 | AE Studio | Unknown | Unknown | Applied | 2024-11-20 |
 | OpenAI | Unknown | Unknown | Applied | 2024-11-20 |
-| SpotOn | Accounting Data Analyst | Unknown | Applied | 2024-11-20 |
 | Adobe | Sales Operations Analyst | Unknown | Applied | 2024-11-20 |
 | Adobe | Sales Operations Analyst | Unknown | Applied | 2024-11-20 |
 | Intuit | Unknown | Unknown | Applied | 2024-11-20 |
 | Adobe | Data Scientist Intern | Unknown | Applied | 2024-11-20 |
 | Visa | Unknown | Unknown | Applied | 2024-11-20 |
-| Horizon Media | Data Analyst | Unknown | Applied | 2024-11-20 |
 | SAP | Senior Services Account Executive | Palo Alto, CA, US, 94304 | Applied | 2024-11-19 |
 | Hulu | Unknown | Unknown | Applied | 2024-11-19 |
 | Parafin | Data Scientist, Underwriting | Unknown | Declined | 2024-11-18 |
@@ -686,14 +637,11 @@
 | CircleCI | Data Analyst, GTM | Unknown | Declined | 2024-11-16 |
 | LinkedIn | User Experience Research Intern - Summer 2025 | Unknown | Declined | 2024-11-15 |
 | Microsoft | Analytics: Internship Opportunities | Unknown | Declined | 2024-11-15 |
-| Cloudflare | Data Analyst | Unknown | Applied | 2024-11-14 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2024-11-14 |
 | Databricks | Data Engineer II | Unknown | Applied | 2024-11-14 |
 | Lyft | Data Scientist, Algorithms, Integrity & Identity | Unknown | Applied | 2024-11-14 |
 | Finix | Financial Data Analyst | Unknown | Applied | 2024-11-14 |
-| CircleCI | Data Analyst, GTM | Unknown | Applied | 2024-11-14 |
 | Doximity | Unknown | Unknown | Applied | 2024-11-14 |
-| Notion | Data Scientist, Product | Unknown | Applied | 2024-11-14 |
 | BlackRock | Data Scientist, Fundamental Equity Technology Team, Associate | Unknown | Applied | 2024-11-14 |
 | Pilot | Unknown | Unknown | Applied | 2024-11-14 |
 | Analytic Partners | Business Analyst | Unknown | Applied | 2024-11-14 |
@@ -703,7 +651,6 @@
 | Deutsche Bank | Graduate Program - Technology, Data and Innovation | Cary | Applied | 2024-11-14 |
 | Amex | Data Engineer I | Unknown | Declined | 2024-11-12 |
 | Alexander Tutoring | Unknown | Unknown | Applied | 2024-11-12 |
-| SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2024-11-12 |
 | Connexity (Taboola subsidiary) | Digital Marketing Analyst | Unknown | Declined | 2024-11-11 |
 | 10x Genomics | Data Scientist, Marketing Strategy & Insights | Unknown | Declined | 2024-11-11 |
 | Cornerstone Research | Unknown | San Francisco, CA | Interviewed | 2024-11-11 |
@@ -713,19 +660,14 @@
 | Elevo Learning | Instructional Aide / After-School Program Facilitator | Perris, CA | Applied | 2024-11-06 |
 | Niantic | Data Scientist, UA | Unknown | Declined | 2024-11-06 |
 | PepsiCo | Sales Management Associate | Unknown | Applied | 2024-11-06 |
-| SAP | DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2024-11-05 |
 | Amazon | 2025 Amazon Air Program Manager Intern | Bellevue, WA | Applied | 2024-11-05 |
 | Federal Reserve Bank of San Francisco | Business Analyst (People + Culture) | Unknown | Applied | 2024-11-05 |
 | Bureau of Ocean Energy Management | Budget Analyst GS-13 (PAC) | Anchorage, AK +3 | Applied | 2024-11-05 |
-| Cornerstone Research | Unknown | Silicon Valley | Interviewed | 2024-11-04 |
 | Applied Materials | Financial Analysis II - (B2) R2315863 | Unknown | Applied | 2024-11-04 |
 | Sanmiwago | Project Analyst | San Jose, CA | Applied | 2024-11-04 |
 | Affirm | Analyst I, Fraud | Unknown | Declined | 2024-11-02 |
 | PepsiCo | Sales Management Associate | Unknown | Applied | 2024-11-02 |
 | Cornerstone Research | Analyst | Silicon Valley office, San Francisco, CA | Interviewed | 2024-10-31 |
-| Cornerstone Research | Unknown | San Francisco, CA | Interviewed | 2024-10-29 |
-| Cornerstone Research | Unknown | Unknown | Interviewed | 2024-10-29 |
-| Cornerstone Research | Unknown | Unknown | Interviewed | 2024-10-28 |
 | 80Twenty | Unknown | Unknown | Applied | 2024-10-28 |
 | 80Twenty | Unknown | Unknown | Applied | 2024-10-28 |
 | Samaritan House | Salesforce Reporting Analyst | San Mateo, CA | Applied | 2024-10-28 |
@@ -734,9 +676,7 @@
 | Coinbase | Data Analyst | Unknown | Declined | 2024-10-27 |
 | Smart Rewards Inc | Business Analyst (Inferred from the email) | Livingston, NJ 07039, United States | Interviewed | 2024-10-27 |
 | Cisco | Business Analyst I | United States | Declined | 2024-10-26 |
-| LinkedIn | User Experience Research Intern - Summer 2025 | Unknown | Applied | 2024-10-26 |
 | Jobot | JR. Business Analyst | 100% REMOTE | Interviewed | 2024-10-26 |
-| PandaDoc | Product Growth Analyst | Unknown | Applied | 2024-10-26 |
 | 10x Genomics | Unknown | Unknown | Applied | 2024-10-26 |
 | Chewy Inc | Data Scientist I | Unknown | Applied | 2024-10-25 |
 | Cisco | Business Analyst I (Full Time) | United States | Applied | 2024-10-25 |
@@ -747,12 +687,7 @@
 | Oracle | UX Design Intern - Fusion Applications Development | Unknown | Applied | 2024-10-25 |
 | Oracle | Data Engineer Co-Op – Construction & Engineering Global Industry Unit - 263958 | Unknown | Applied | 2024-10-25 |
 | Starbucks | Unknown | Unknown | Applied | 2024-10-25 |
-| Cornerstone Research | Unknown | Unknown | Interviewed | 2024-10-24 |
-| Cornerstone Research | Analyst | Unknown | Interviewed | 2024-10-24 |
-| Cornerstone Research | Unknown | Unknown | Interviewed | 2024-10-24 |
-| Cornerstone Research | Analyst | Unknown | Interviewed | 2024-10-24 |
 | Smart Rewards Inc | Business Analyst Internship | Livingston, New Jersey, United States | Interviewed | 2024-10-24 |
-| Agoda | Marketing Analyst - New Verticals | Bangkok | Applied | 2024-10-23 |
 | ServiceNow | Associate Data Informatics Analyst Intern | Unknown | Declined | 2024-10-23 |
 | Pax8 | Data Engineer I | Unknown | Declined | 2024-10-23 |
 | Amazon | Data Science Internship | United States | Applied | 2024-10-23 |
@@ -770,13 +705,9 @@
 | Salesforce | Summer 2025 Intern- Tableau Research | Unknown | Declined | 2024-10-22 |
 | Molina Healthcare, Inc. | Transition Care Case Manager (RN) | San Diego County, California | Applied | 2024-10-21 |
 | Adobe | Machine Learning Engineer | Unknown | Applied | 2024-10-21 |
-| Samsara | Financial Analyst | Unknown | Applied | 2024-10-21 |
 | Visa | Unknown | Unknown | Applied | 2024-10-21 |
 | TransMarket Group | Junior Quantitative Trader | Unknown | Applied | 2024-10-21 |
 | Perpay | Junior Data Engineer | Unknown | Applied | 2024-10-21 |
-| Aquatic Capital Management | Quantitative Researcher, Early Career (2025) | Unknown | Applied | 2024-10-21 |
-| Pax8 | Data Engineer I | Unknown | Applied | 2024-10-21 |
-| Redhorse Corporation | Junior Data Scientist | Unknown | Applied | 2024-10-21 |
 | Antora Energy | Associate, Analytics | Unknown | Applied | 2024-10-21 |
 | Red Ventures | Associate Data Science Product Manager | Unknown | Applied | 2024-10-21 |
 | Atomica | Data Engineer I/II | Unknown | Applied | 2024-10-21 |
@@ -790,11 +721,9 @@
 | Connexity, a Taboola | Digital Marketing Analyst | Unknown | Applied | 2024-10-21 |
 | Connexity (Taboola company) | Digital Marketing Analyst | San Francisco, California | Applied | 2024-10-21 |
 | Moss Adams | Guide, Pilot, Steer (GPS) Operational Internship | Santa Rosa, CA | Applied | 2024-10-21 |
-| Smart Rewards Inc. | Unknown | Unknown | Interviewed | 2024-10-19 |
 | Cisco | Data Scientist (Intern) | United States | Declined | 2024-10-19 |
 | Ro | Data Analyst - Patient Experience | Unknown | Applied | 2024-10-18 |
 | Ericsson | Data Scientist - Intern | Unknown | Applied | 2024-10-18 |
-| Cisco | Data Scientist (Intern) | United States | Applied | 2024-10-18 |
 | Autodesk | Intern, Data Scientist | Unknown | Applied | 2024-10-18 |
 | Tencent | Unknown | Unknown | Applied | 2024-10-18 |
 | Electronic Arts (EA) | People Analytics Intern – Summer Intern | Redwood City | Declined | 2024-10-17 |
@@ -806,22 +735,18 @@
 | CGI | Business Analyst -- Entry Level | Unknown | Applied | 2024-10-13 |
 | CGI | Data Analyst -- Entry Level | Unknown | Applied | 2024-10-13 |
 | Cohere Health | Data Analyst | Unknown | Declined | 2024-10-13 |
-| Salesforce | Summer 2025 Intern- Tableau Research | Unknown | Applied | 2024-10-11 |
 | Salesforce | Slack Data Science Intern | Unknown | Applied | 2024-10-11 |
-| Cohere Health | Data Analyst | Unknown | Applied | 2024-10-11 |
 | Leidos | Data Scientist Intern | Unknown | Applied | 2024-10-11 |
 | Each Green Corner | Data Analytics & Visualization Internship | Remote | Applied | 2024-10-11 |
 | Clinpharma Consulting Global Group LLC | Data analyst (python sql) | Elyria, OH | Applied | 2024-10-10 |
 | Lucid Motors | Intern, Tooling Analyst, Summer 2025 | Unknown | Applied | 2024-10-10 |
 | Electronic Arts | People Analytics Intern – Summer Intern | Redwood City | Applied | 2024-10-10 |
-| Electronic Arts (EA) | Lifecycle Mktg Analytics Intern | Redwood City | Applied | 2024-10-10 |
 | Synergistic IT | Unknown | Unknown | Applied | 2024-10-10 |
 | Foodsmart | Data Scientist, Health Economics | Unknown | Applied | 2024-10-10 |
 | The New York Times | Senior Analyst, Messaging | Unknown | Declined | 2024-10-10 |
 | P&G (Procter & Gamble) | IT Analytics & Insights Internship | Unknown | Declined | 2024-10-09 |
 | Curinos | Data Analyst | Unknown | Applied | 2024-10-09 |
 | Manpower | Financial Analyst | Unknown | Declined | 2024-10-09 |
-| P&G (Procter & Gamble) | IT Analytics & Insights Internship | Unknown | Applied | 2024-10-09 |
 | Prime Finance | Intern, Data Science, Summer 2025 | Unknown | Applied | 2024-10-09 |
 | New York Technology & Management | Data Scientist | Remote | Applied | 2024-10-09 |
 | Scale AI | AI Strategy Consultant, Frontier Tech | Unknown | Declined | 2024-10-09 |
@@ -830,7 +755,6 @@
 | Amex | Analysts, Data Science | Unknown | Declined | 2024-10-08 |
 | Marvell | Unknown | Unknown | Applied | 2024-10-08 |
 | PlayStation | Technical Operations & Services Intern - Masters | Unknown | Applied | 2024-10-08 |
-| Salesforce | Summer 2025 Intern - Business Insights Analyst | Unknown | Applied | 2024-10-08 |
 | Figma | Data Scientist - Intern | Unknown | Applied | 2024-10-08 |
 | eBay | Data Science - Analyst 4 R0064709 | Unknown | Applied | 2024-10-08 |
 | BILL | Associate Credit Risk Data Scientist | Unknown | Applied | 2024-10-08 |
@@ -838,12 +762,9 @@
 | Marvell | Data Science/ Computer Science Intern - Masters | Unknown | Applied | 2024-10-08 |
 | Cisco | Business Analyst (Intern) | United States | Declined | 2024-10-07 |
 | Cisco | Business Analyst II (Full Time) | United States | Declined | 2024-10-07 |
-| The New York Times | Senior Analyst, Messaging | Unknown | Applied | 2024-10-07 |
 | Global Lending Services | Analytics | Unknown | Applied | 2024-10-07 |
 | Spectrum | Summer Intern: Product Analyst | Unknown | Declined | 2024-10-07 |
 | Cisco | Business Analyst II | United States | Applied | 2024-10-06 |
-| Cisco | Business Analyst (Intern) | United States | Applied | 2024-10-06 |
-| IBM | Entry Level User Experience (UX) Designer: 2025 (Cloud) | Unknown | Applied | 2024-10-06 |
 | Spectrum | 2025 Summer Intern: Product Analyst | Unknown | Applied | 2024-10-06 |
 | American Council of Learned Societies | Unknown | Unknown | Applied | 2024-10-06 |
 | Duolingo | Data Scientist, Intern (Undergraduate) | Unknown | Declined | 2024-10-06 |
@@ -906,7 +827,6 @@
 | AppleOne | Financial Analyst | Unknown | Applied | 2024-09-25 |
 | Blue Shield of California | Data Scientist, Consultant | Unknown | Applied | 2024-09-25 |
 | Blue Shield of California | Medical Informatics Analyst, Senior (ID: 20241193) | Unknown | Applied | 2024-09-25 |
-| Blue Shield of California | Business Analyst, Experienced | Unknown | Applied | 2024-09-25 |
 | LaunchDarkly | Lead Data Scientist / Applied Statistician | Unknown | Applied | 2024-09-25 |
 | RTI International | Finance Manager | Remote | Applied | 2024-09-25 |
 | Federal Reserve Bank of San Francisco | Business Analyst - R-0000024648 | Unknown | Applied | 2024-09-25 |
@@ -916,8 +836,6 @@
 | ServiceNow | Intern - Data Scientist | Unknown | Applied | 2024-09-24 |
 | ServiceNow | Intern - Associate Data Informatics Analyst | Unknown | Applied | 2024-09-24 |
 | Databricks | Data Scientist - New Grad (2025 Start) | Unknown | Applied | 2024-09-24 |
-| Databricks | Data Science Intern (2025 Start) | Unknown | Applied | 2024-09-24 |
-| Sentry | Business Intelligence Intern | Unknown | Applied | 2024-09-24 |
 | Nutanix | UX Design Intern | Unknown | Applied | 2024-09-24 |
 | Intuit | Unknown | Unknown | Applied | 2024-09-24 |
 | Amazon | Data Engineer Co-op Winter Internship – 2025 | US | Applied | 2024-09-24 |
@@ -928,12 +846,7 @@
 | Costco | Data Analyst - Service Desk Reporting | Unknown | Declined | 2024-09-24 |
 | Solano County | Senior IT Business Systems Analyst (Health & Social Services) | Fairfield, CA | Applied | 2024-09-23 |
 | Indeed | Digital Marketing Specialist | Unknown | Applied | 2024-09-23 |
-| Volvo Group | Intern: Data Analyst - Programming (Summer 2025) (12013) | Unknown | Applied | 2024-09-23 |
-| Cisco | Data Analyst I | United States | Applied | 2024-09-23 |
-| Cisco | Data Analyst I | United States | Applied | 2024-09-23 |
 | Costco Wholesale | Data Analyst - Service Desk Reporting | Unknown | Applied | 2024-09-23 |
-| Costco | Data Analyst - Service Desk Reporting | Unknown | Applied | 2024-09-23 |
-| IBM | Associate Data Scientist Intern 2025 | Unknown | Applied | 2024-09-23 |
 | Hewlett Packard Enterprise | Unknown | Unknown | Applied | 2024-09-23 |
 | Kraken | Data Scientist I | Unknown | Declined | 2024-09-23 |
 | Applied Materials | Data Scientist V | Santa Clara, CA | Applied | 2024-09-22 |
@@ -946,7 +859,6 @@
 | Meta Platforms, Inc. | Data Engineer, Analytics | Unknown | Applied | 2024-09-20 |
 | Meta Platforms, Inc. | Quantitative UX Researcher, University Grad | Unknown | Applied | 2024-09-20 |
 | Whoop | Business Analyst II (Growth Product) | Unknown | Applied | 2024-09-20 |
-| Kraken | Data Scientist I | Unknown | Applied | 2024-09-20 |
 | Claritas Rx | Data Science Analyst | Unknown | Applied | 2024-09-20 |
 | CriticalRiver Inc | Data Engineer DBT | Unknown | Applied | 2024-09-20 |
 | Manufacturer for Automotive Relays | Data Analyst | Unknown | Declined | 2024-09-20 |
@@ -986,7 +898,6 @@
 | Unknown | Business Intelligence Intern | Unknown | Applied | 2024-09-18 |
 | Unknown | Market Research Intern | Unknown | Applied | 2024-09-18 |
 | Pivotal Talent Search | Regulatory Analyst | Unknown | Applied | 2024-09-18 |
-| PepsiCo | Supply Chain Finance Assistant Analyst | Unknown | Applied | 2024-09-18 |
 | PepsiCo | Frito-Lay Supply Chain Quality & Food Safety Assoc. Analyst - Undergrad | Unknown | Applied | 2024-09-18 |
 | PepsiCo | 2025 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science | Unknown | Applied | 2024-09-18 |
 | PepsiCo | 2025 Summer Intern: Technology Business Analyst & Project Coordination | Unknown | Applied | 2024-09-18 |
@@ -996,7 +907,6 @@
 | Redfin | Data | Unknown | Applied | 2024-09-18 |
 | InGenesis | IS Analyst I | Fremont, CA | Applied | 2024-09-18 |
 | X | Full Stack Data Scientist | Unknown | Applied | 2024-09-17 |
-| Tesla | Internship, Data Analytics & Test Engineer, Cell Engineering (Winter/Spring 2025) | Unknown | Applied | 2024-09-17 |
 | Walmart | Analyst II, Quality Engineer - Supply Chain | USA | Applied | 2024-09-17 |
 | UBS | 2025 Graduate Talent Program - Global Banking | San Francisco | Applied | 2024-09-17 |
 | RSC Solutions | Data Analyst | Unknown | Applied | 2024-09-17 |
@@ -1008,13 +918,10 @@
 | UBS | 2025 Graduate Talent Program - Global Banking | San Francisco | Applied | 2024-09-17 |
 | Yoh, A Day & Zimmermann Company | Data Analyst | Unknown | Applied | 2024-09-17 |
 | Google | Unknown | Unknown | Applied | 2024-09-16 |
-| Agoda | Marketing Analyst | Bangkok | Applied | 2024-09-16 |
 | Oorwin | Machine Learning/Data Scientist | Unknown | Applied | 2024-09-16 |
 | Dashworks | Founding Growth Lead | Unknown | Applied | 2024-09-16 |
 | LaunchDarkly | Unknown | Unknown | Applied | 2024-09-16 |
-| Discord | Senior Data Scientist, Analytics - Revenue Growth | Unknown | Applied | 2024-09-16 |
 | Boston Consulting Group (BCG) | Data Scientist | United States | Applied | 2024-09-16 |
-| Replo | Operations Associate | Unknown | Applied | 2024-09-16 |
 | Chewy | Category Analyst | Unknown | Declined | 2024-09-16 |
 | Disney | Technical Analyst | Unknown | Applied | 2024-09-16 |
 | DIRECTV | AVP, Marketing Advanced Analytics | San Francisco, CA • Remote | Applied | 2024-09-16 |
@@ -1052,12 +959,10 @@
 | Brigit | Lead Data Scientist | Unknown | Applied | 2024-09-11 |
 | Walmart | Staff, Data Scientist | USA | Applied | 2024-09-11 |
 | Walmart | Senior Data Scientist - Advertising Measurement | Unknown | Applied | 2024-09-11 |
-| RPAC LLC | Data Analyst | Unknown | Applied | 2024-09-11 |
 | Brigit | Lead Data Scientist | Unknown | Applied | 2024-09-11 |
 | PwC | Campus Sourcing Manager | Unknown | Applied | 2024-09-10 |
 | FIRST 5 ALAMEDA | Unknown | Unknown | Applied | 2024-09-10 |
 | Calpine | Business Operations Analyst | Unknown | Declined | 2024-09-10 |
-| Calpine | Business Operations Analyst | Unknown | Applied | 2024-09-10 |
 | Pivotal Talent Search | Clean Energy Services Associate | Unknown | Applied | 2024-09-10 |
 | Shockwave Medical | Field Operations Data Analyst | Unknown | Declined | 2024-09-09 |
 | Unknown | Unknown | Unknown | Applied | 2024-09-09 |
@@ -1067,7 +972,6 @@
 | Raptive | Unknown | Unknown | Applied | 2024-09-08 |
 | ByteDance | Machine Learning Engineer Graduate (Advertisement Team) - 2025 Start (BS/MS) | Unknown | Applied | 2024-09-07 |
 | University of Florida | Data Management Analyst I | Unknown | Applied | 2024-09-07 |
-| Shockwave Medical | Field Operations Data Analyst | Unknown | Applied | 2024-09-06 |
 | Amazon | Unknown | Unknown | Declined | 2024-09-06 |
 | Berkeley Research Group, LLC | Unknown | UC Davis Fall Virtual Career Fair (Virtual) | Applied | 2024-09-04 |
 | Stanford School of Medicine | Data Analyst I, (Hybrid) -Anesthesia | Palo Alto, CA | Applied | 2024-09-01 |
@@ -1076,9 +980,6 @@
 | Uline | eCommerce Data Analyst Internship - Summer 2025 | Unknown | Applied | 2024-08-31 |
 | P&G (Procter & Gamble) | Consumer & Market Knowledge - Analytics & Insights Manager | Unknown | Declined | 2024-08-30 |
 | P&G (Procter & Gamble) | Brand Manager | Unknown | Declined | 2024-08-30 |
-| Agoda | Analyst/ Senior Analyst | Bangkok | Applied | 2024-08-30 |
-| P&G (Procter & Gamble) | Consumer & Market Knowledge - Analytics & Insights Manager | Unknown | Applied | 2024-08-30 |
-| P&G (Procter & Gamble) | Brand Manager | Unknown | Applied | 2024-08-30 |
 | Affirm | Analyst I, Fraud Strategy and Analytics | Unknown | Applied | 2024-08-29 |
 | Uline | Unknown | Unknown | Applied | 2024-08-29 |
 | Mathematica | Unknown | Unknown | Applied | 2024-08-29 |
@@ -1095,11 +996,8 @@
 | Fuge Technologies | Data Analyst | Texas City, TX | Applied | 2024-08-17 |
 | Fuge Technologies | Business Analyst | Texas City, TX | Applied | 2024-08-17 |
 | Clinpharma Consulting Global Group LLC | Business Analyst | Newark, DE | Applied | 2024-08-17 |
-| Unknown | Unknown | San Francisco, 94102 | Offer | 2024-08-15 |
 | Antra Inc. | Azure Data and BI Engineer | Sterling, VA | Applied | 2024-08-14 |
 | Impact Advisors | Healthcare Strategy and Operations Consultant | Chicago, IL | Applied | 2024-08-14 |
 | Fuge Technologies | Business Analyst | Texas City, TX | Applied | 2024-08-14 |
 | Unknown | Graduate Student Analyst (GSA) | Unknown | Applied | 2024-08-12 |
 | Lawrence Berkeley National Laboratory | Graduate Student Research Assistant (GSRA) | Unknown | Applied | 2024-07-02 |
-| Academe at 198 | Unknown | Unknown | Applied | 2024-06-24 |
-| University of California, Davis, College of Engineering, Department of Computer Science | Research Assistant | Davis, CA 95616 | Applied | 2024-04-17 |

@@ -56,20 +56,6 @@
         "Date": "2025-02-24"
     },
     {
-        "Company": "Waters Corporation",
-        "Job Title": "Intern, Data Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
-        "Company": "Waters Corporation",
-        "Job Title": "Intern, Sales Enablement Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
         "Company": "Goldman Sachs",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -406,13 +392,6 @@
         "Date": "2025-02-21"
     },
     {
-        "Company": "AARP",
-        "Job Title": "Data Analytics Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
         "Company": "Red Bull",
         "Job Title": "Shopper Insights Analyst",
         "Location": "Unknown",
@@ -422,13 +401,6 @@
     {
         "Company": "Amazon",
         "Job Title": "Data Scientist, Amazon Music",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
-        "Company": "Laserfiche",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-21"
@@ -451,20 +423,6 @@
         "Company": "Norstella",
         "Job Title": "NLP & LLM Data Scientist - Healthcare & Life Sciences",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
-        "Company": "Unknown",
-        "Job Title": "Data Scientist",
-        "Location": "San Francisco, CA",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
-        "Company": "Unknown",
-        "Job Title": "Data Scientist",
-        "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-02-21"
     },
@@ -499,13 +457,6 @@
     {
         "Company": "Extend",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
-        "Company": "Clover Health",
-        "Job Title": "Senior Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-21"
@@ -875,20 +826,6 @@
         "Date": "2025-02-19"
     },
     {
-        "Company": "Edward Jones",
-        "Job Title": "Data Scientist I - Firm Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-19"
-    },
-    {
-        "Company": "Amplify",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-19"
-    },
-    {
         "Company": "Garner Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -966,22 +903,8 @@
         "Date": "2025-02-19"
     },
     {
-        "Company": "Docusign",
-        "Job Title": "Sales Strategy & Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-19"
-    },
-    {
         "Company": "SilverEdge Government Solutions",
         "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-19"
-    },
-    {
-        "Company": "Jasper AI",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-19"
@@ -1109,13 +1032,6 @@
         "Company": "Unknown",
         "Job Title": "Marketing Data Analyst",
         "Location": "Remote",
-        "status": "Applied",
-        "Date": "2025-02-18"
-    },
-    {
-        "Company": "SAP",
-        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
-        "Location": "Palo Alto, CA, US",
         "status": "Applied",
         "Date": "2025-02-18"
     },
@@ -1346,13 +1262,6 @@
     {
         "Company": "Strategic Data Systems",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
-        "Company": "Galileo",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-13"
@@ -1596,13 +1505,6 @@
         "Date": "2025-02-11"
     },
     {
-        "Company": "DoorDash",
-        "Job Title": "Associate, Strategy & Operations, DoorDash for Business",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-11"
-    },
-    {
         "Company": "Allegiant",
         "Job Title": "Customer Intelligence Analyst",
         "Location": "Unknown",
@@ -1641,13 +1543,6 @@
         "Company": "Tesla",
         "Job Title": "Data Analyst, Supply Chain, 236995",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-11"
-    },
-    {
-        "Company": "SAP",
-        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
-        "Location": "Palo Alto, CA, US",
         "status": "Applied",
         "Date": "2025-02-11"
     },
@@ -1946,13 +1841,6 @@
         "Date": "2025-02-06"
     },
     {
-        "Company": "Lantern Care",
-        "Job Title": "Data Analyst, Research and Strategy",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-06"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Business Analyst, Buyer Abuse",
         "Location": "Unknown",
@@ -2009,13 +1897,6 @@
         "Date": "2025-02-06"
     },
     {
-        "Company": "Inmar",
-        "Job Title": "Contractor, Data Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-06"
-    },
-    {
         "Company": "Wells Fargo",
         "Job Title": "Senior Data Scientist",
         "Location": "Unknown",
@@ -2044,24 +1925,10 @@
         "Date": "2025-02-06"
     },
     {
-        "Company": "Ascension",
-        "Job Title": "Qualtrics Analyst - Technology",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-06"
-    },
-    {
         "Company": "Rippling",
         "Job Title": "Growth Analyst, Core HR",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-02-06"
-    },
-    {
-        "Company": "Danaher",
-        "Job Title": "Legal Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-02-06"
     },
     {
@@ -2135,13 +2002,6 @@
         "Date": "2025-02-05"
     },
     {
-        "Company": "SoFi Technologies",
-        "Job Title": "Business Operation Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-05"
-    },
-    {
         "Company": "Jellyfish",
         "Job Title": "Data Scientist, Product",
         "Location": "Unknown",
@@ -2163,20 +2023,6 @@
         "Date": "2025-02-05"
     },
     {
-        "Company": "Strive Health",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-05"
-    },
-    {
-        "Company": "Oscar",
-        "Job Title": "Operations Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-05"
-    },
-    {
         "Company": "2K",
         "Job Title": "Analyst, Commercial Strategy & Operations",
         "Location": "Unknown",
@@ -2186,13 +2032,6 @@
     {
         "Company": "NAVEX Global A",
         "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-05"
-    },
-    {
-        "Company": "DoiT",
-        "Job Title": "Business Intelligence Analyst - Marketing",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-05"
@@ -2233,13 +2072,6 @@
         "Date": "2025-02-04"
     },
     {
-        "Company": "DoorDash",
-        "Job Title": "Associate, DashMart - Strategy & Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Data Analyst, Investment Proposals - Parametric",
         "Location": "Unknown",
@@ -2247,22 +2079,8 @@
         "Date": "2025-02-04"
     },
     {
-        "Company": "The Wonderful Company",
-        "Job Title": "Junior Data Scientist, Global Sourcing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
         "Company": "Bitwise Asset Management",
         "Job Title": "Junior Salesforce Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
-        "Company": "Gamesight",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-04"
@@ -2285,13 +2103,6 @@
         "Company": "Thumbtack",
         "Job Title": "Data Scientist, Product (Marketplace)",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
-        "Company": "SAP",
-        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
-        "Location": "Palo Alto, CA, US",
         "status": "Applied",
         "Date": "2025-02-04"
     },
@@ -2345,13 +2156,6 @@
         "Date": "2025-02-04"
     },
     {
-        "Company": "DoorDash",
-        "Job Title": "Associate, DashMart - Strategy & Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
         "Company": "Applied Materials",
         "Job Title": "Pricing Analyst Product Marketing Intern- Master's",
         "Location": "Santa Clara, CA",
@@ -2361,13 +2165,6 @@
     {
         "Company": "Xero",
         "Job Title": "Marketing Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
-        "Company": "Rippling",
-        "Job Title": "Growth Analyst, Core HR",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-04"
@@ -2737,13 +2534,6 @@
         "Date": "2025-01-29"
     },
     {
-        "Company": "Notion",
-        "Job Title": "Data Scientist, Product",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-29"
-    },
-    {
         "Company": "The Voleon Group",
         "Job Title": "Data Scientist, Trading Operations",
         "Location": "Unknown",
@@ -2767,20 +2557,6 @@
     {
         "Company": "Lazada Group",
         "Job Title": "Data Analyst - Fleet LM, SSW",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-29"
-    },
-    {
-        "Company": "EssenceMediacom",
-        "Job Title": "Analyst, Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-29"
-    },
-    {
-        "Company": "GroupM Choreograph",
-        "Job Title": "Senior Analyst, Analytics",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-01-29"
@@ -2969,13 +2745,6 @@
     },
     {
         "Company": "IBM",
-        "Job Title": "Customer Success Manager Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-28"
-    },
-    {
-        "Company": "IBM",
         "Job Title": "Data Engineer-Advanced Analytics",
         "Location": "Unknown",
         "status": "Applied",
@@ -3024,30 +2793,9 @@
         "Date": "2025-01-27"
     },
     {
-        "Company": "Deloitte",
-        "Job Title": "People Analytics Consultant",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
         "Company": "Trace3",
         "Job Title": "Data & Analytics",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "Lumenalta",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "Ellucian",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "100% remote",
         "status": "Applied",
         "Date": "2025-01-27"
     },
@@ -3101,22 +2849,8 @@
         "Date": "2025-01-27"
     },
     {
-        "Company": "Salesforce",
-        "Job Title": "Analyst - Private Equity Practice",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
         "Company": "Tesla",
         "Job Title": "Inventory Control Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "Tesla",
-        "Job Title": "Data Analyst, Field Reliability Engineering",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-01-27"
@@ -3172,13 +2906,6 @@
     },
     {
         "Company": "Oracle",
-        "Job Title": "Contracts Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "Oracle",
         "Job Title": "Financial Analyst - July 2025 Start Date - 261333",
         "Location": "Unknown",
         "status": "Applied",
@@ -3201,13 +2928,6 @@
     {
         "Company": "Tata Consultancy Services Limited (TCS)",
         "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "Microsoft",
-        "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-01-27"
@@ -3257,13 +2977,6 @@
     {
         "Company": "Amazon",
         "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-25"
-    },
-    {
-        "Company": "Amazon",
-        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-01-25"
@@ -3360,13 +3073,6 @@
         "Date": "2025-01-21"
     },
     {
-        "Company": "Unknown",
-        "Job Title": "Senior Assistant Dean for Student Affairs",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2025-01-21"
-    },
-    {
         "Company": "Jobright.ai",
         "Job Title": "Data Scientist - Remote Internship",
         "Location": "Unknown",
@@ -3444,22 +3150,8 @@
         "Date": "2025-01-15"
     },
     {
-        "Company": "SAP",
-        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
-        "Location": "Palo Alto, CA, US",
-        "status": "Applied",
-        "Date": "2025-01-14"
-    },
-    {
         "Company": "LatentView Analytics Corporation",
         "Job Title": "Consultant (BET)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-14"
-    },
-    {
-        "Company": "Oscar",
-        "Job Title": "Operations, Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-01-14"
@@ -3542,13 +3234,6 @@
         "Date": "2025-01-09"
     },
     {
-        "Company": "LeanTaaS",
-        "Job Title": "Data Scientist",
-        "Location": "US Remote",
-        "status": "Applied",
-        "Date": "2025-01-09"
-    },
-    {
         "Company": "Vectra Networks",
         "Job Title": "Data Science Internship",
         "Location": "Boston, MA",
@@ -3610,13 +3295,6 @@
         "Location": "Plano, Texas",
         "status": "Applied",
         "Date": "2024-12-26"
-    },
-    {
-        "Company": "SAP",
-        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
-        "Location": "Palo Alto, CA, US",
-        "status": "Applied",
-        "Date": "2024-12-24"
     },
     {
         "Company": "Visa",
@@ -3787,13 +3465,6 @@
         "Date": "2024-12-16"
     },
     {
-        "Company": "ZS",
-        "Job Title": "Decision Analytics Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-15"
-    },
-    {
         "Company": "FXG Management, Inc.",
         "Job Title": "Data and Financial Analyst",
         "Location": "San Francisco, CA",
@@ -3815,13 +3486,6 @@
         "Date": "2024-12-15"
     },
     {
-        "Company": "Reddit",
-        "Job Title": "Senior Data Scientist, Consumer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-15"
-    },
-    {
         "Company": "Roblox",
         "Job Title": "Data Scientist / Senior Data Scientist - User Growth",
         "Location": "Unknown",
@@ -3831,13 +3495,6 @@
     {
         "Company": "Roblox",
         "Job Title": "Data Scientist / Senior Data Scientist - Social",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-15"
-    },
-    {
-        "Company": "ThirdLove",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-12-15"
@@ -4067,13 +3724,6 @@
         "Date": "2024-12-04"
     },
     {
-        "Company": "Databricks",
-        "Job Title": "Data Science Intern (2025 Start)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-04"
-    },
-    {
         "Company": "Coinbase",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -4207,13 +3857,6 @@
         "Date": "2024-12-02"
     },
     {
-        "Company": "Unknown",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
         "Company": "U.S. Bank",
         "Job Title": "Digital Analytics Analyst",
         "Location": "Unknown",
@@ -4291,13 +3934,6 @@
         "Date": "2025-02-24"
     },
     {
-        "Company": "Lantern Care",
-        "Job Title": "Data Analyst, Research and Strategy",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-24"
-    },
-    {
         "Company": "Notion",
         "Job Title": "Data Scientist, Growth",
         "Location": "Unknown",
@@ -4309,13 +3945,6 @@
         "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2024-12-02"
-    },
-    {
-        "Company": "City of Tucson",
-        "Job Title": "Data Analyst I",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2024-12-02"
     },
     {
@@ -4335,13 +3964,6 @@
     {
         "Company": "Cambridge Mobile Telematics",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
-        "Company": "SpotOn",
-        "Job Title": "Accounting Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-12-02"
@@ -4417,13 +4039,6 @@
         "Date": "2024-12-02"
     },
     {
-        "Company": "Lacek",
-        "Job Title": "Associate Analyst, Data Intelligence",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
         "Company": "Zoox",
         "Job Title": "Quantitative Risk Intern",
         "Location": "Unknown",
@@ -4487,13 +4102,6 @@
         "Date": "2024-12-02"
     },
     {
-        "Company": "Spreetail",
-        "Job Title": "Senior Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
         "Company": "Ascend Analytics",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -4508,13 +4116,6 @@
         "Date": "2024-12-02"
     },
     {
-        "Company": "Affirm",
-        "Job Title": "Analyst II, Credit Risk (International Markets)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
         "Company": "Stripe",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -4522,29 +4123,8 @@
         "Date": "2024-12-02"
     },
     {
-        "Company": "Roblox",
-        "Job Title": "Data Scientist / Senior Data Scientist - Analytical Data Product",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
-        "Company": "Notion",
-        "Job Title": "Data Scientist, Product",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
         "Company": "Coinbase",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
-        "Company": "dv01",
-        "Job Title": "Data Analyst, Integrations",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-12-02"
@@ -4581,13 +4161,6 @@
         "Company": "Pequity",
         "Job Title": "Junior Data Analyst (APAC)",
         "Location": "San Francisco, CA",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
-        "Company": "C3 AI",
-        "Job Title": "Data Scientist/Senior Data Scientist",
-        "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-12-02"
     },
@@ -4704,13 +4277,6 @@
         "Date": "2024-11-20"
     },
     {
-        "Company": "SpotOn",
-        "Job Title": "Accounting Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-11-20"
-    },
-    {
         "Company": "Adobe",
         "Job Title": "Sales Operations Analyst",
         "Location": "Unknown",
@@ -4741,13 +4307,6 @@
     {
         "Company": "Visa",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-11-20"
-    },
-    {
-        "Company": "Horizon Media",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-11-20"
@@ -4802,13 +4361,6 @@
         "Date": "2024-11-15"
     },
     {
-        "Company": "Cloudflare",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-11-14"
-    },
-    {
         "Company": "Notion",
         "Job Title": "Data Scientist, Product",
         "Location": "Unknown",
@@ -4837,22 +4389,8 @@
         "Date": "2024-11-14"
     },
     {
-        "Company": "CircleCI",
-        "Job Title": "Data Analyst, GTM",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-11-14"
-    },
-    {
         "Company": "Doximity",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-11-14"
-    },
-    {
-        "Company": "Notion",
-        "Job Title": "Data Scientist, Product",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-11-14"
@@ -4921,13 +4459,6 @@
         "Date": "2024-11-12"
     },
     {
-        "Company": "SAP",
-        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
-        "Location": "Palo Alto, CA, US",
-        "status": "Applied",
-        "Date": "2024-11-12"
-    },
-    {
         "Company": "Connexity (Taboola subsidiary)",
         "Job Title": "Digital Marketing Analyst",
         "Location": "Unknown",
@@ -4991,13 +4522,6 @@
         "Date": "2024-11-06"
     },
     {
-        "Company": "SAP",
-        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
-        "Location": "Palo Alto, CA, US",
-        "status": "Applied",
-        "Date": "2024-11-05"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "2025 Amazon Air Program Manager Intern",
         "Location": "Bellevue, WA",
@@ -5017,13 +4541,6 @@
         "Location": "Anchorage, AK +3",
         "status": "Applied",
         "Date": "2024-11-05"
-    },
-    {
-        "Company": "Cornerstone Research",
-        "Job Title": "Unknown",
-        "Location": "Silicon Valley",
-        "status": "Interviewed",
-        "Date": "2024-11-04"
     },
     {
         "Company": "Applied Materials",
@@ -5059,27 +4576,6 @@
         "Location": "Silicon Valley office, San Francisco, CA",
         "status": "Interviewed",
         "Date": "2024-10-31"
-    },
-    {
-        "Company": "Cornerstone Research",
-        "Job Title": "Unknown",
-        "Location": "San Francisco, CA",
-        "status": "Interviewed",
-        "Date": "2024-10-29"
-    },
-    {
-        "Company": "Cornerstone Research",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2024-10-29"
-    },
-    {
-        "Company": "Cornerstone Research",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2024-10-28"
     },
     {
         "Company": "80Twenty",
@@ -5138,24 +4634,10 @@
         "Date": "2024-10-26"
     },
     {
-        "Company": "LinkedIn",
-        "Job Title": "User Experience Research Intern - Summer 2025",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-26"
-    },
-    {
         "Company": "Jobot",
         "Job Title": "JR. Business Analyst",
         "Location": "100% REMOTE",
         "status": "Interviewed",
-        "Date": "2024-10-26"
-    },
-    {
-        "Company": "PandaDoc",
-        "Job Title": "Product Growth Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2024-10-26"
     },
     {
@@ -5229,46 +4711,11 @@
         "Date": "2024-10-25"
     },
     {
-        "Company": "Cornerstone Research",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2024-10-24"
-    },
-    {
-        "Company": "Cornerstone Research",
-        "Job Title": "Analyst",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2024-10-24"
-    },
-    {
-        "Company": "Cornerstone Research",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2024-10-24"
-    },
-    {
-        "Company": "Cornerstone Research",
-        "Job Title": "Analyst",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2024-10-24"
-    },
-    {
         "Company": "Smart Rewards Inc",
         "Job Title": "Business Analyst Internship",
         "Location": "Livingston, New Jersey, United States",
         "status": "Interviewed",
         "Date": "2024-10-24"
-    },
-    {
-        "Company": "Agoda",
-        "Job Title": "Marketing Analyst - New Verticals",
-        "Location": "Bangkok",
-        "status": "Applied",
-        "Date": "2024-10-23"
     },
     {
         "Company": "ServiceNow",
@@ -5390,13 +4837,6 @@
         "Date": "2024-10-21"
     },
     {
-        "Company": "Samsara",
-        "Job Title": "Financial Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-21"
-    },
-    {
         "Company": "Visa",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -5413,27 +4853,6 @@
     {
         "Company": "Perpay",
         "Job Title": "Junior Data Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-21"
-    },
-    {
-        "Company": "Aquatic Capital Management",
-        "Job Title": "Quantitative Researcher, Early Career (2025)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-21"
-    },
-    {
-        "Company": "Pax8",
-        "Job Title": "Data Engineer I",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-21"
-    },
-    {
-        "Company": "Redhorse Corporation",
-        "Job Title": "Junior Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-10-21"
@@ -5530,13 +4949,6 @@
         "Date": "2024-10-21"
     },
     {
-        "Company": "Smart Rewards Inc.",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Interviewed",
-        "Date": "2024-10-19"
-    },
-    {
         "Company": "Cisco",
         "Job Title": "Data Scientist (Intern)",
         "Location": "United States",
@@ -5554,13 +4966,6 @@
         "Company": "Ericsson",
         "Job Title": "Data Scientist - Intern",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-18"
-    },
-    {
-        "Company": "Cisco",
-        "Job Title": "Data Scientist (Intern)",
-        "Location": "United States",
         "status": "Applied",
         "Date": "2024-10-18"
     },
@@ -5643,21 +5048,7 @@
     },
     {
         "Company": "Salesforce",
-        "Job Title": "Summer 2025 Intern- Tableau Research",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-11"
-    },
-    {
-        "Company": "Salesforce",
         "Job Title": "Slack Data Science Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-11"
-    },
-    {
-        "Company": "Cohere Health",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-10-11"
@@ -5693,13 +5084,6 @@
     {
         "Company": "Electronic Arts",
         "Job Title": "People Analytics Intern \u2013 Summer Intern",
-        "Location": "Redwood City",
-        "status": "Applied",
-        "Date": "2024-10-10"
-    },
-    {
-        "Company": "Electronic Arts (EA)",
-        "Job Title": "Lifecycle Mktg Analytics Intern",
         "Location": "Redwood City",
         "status": "Applied",
         "Date": "2024-10-10"
@@ -5744,13 +5128,6 @@
         "Job Title": "Financial Analyst",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2024-10-09"
-    },
-    {
-        "Company": "P&G (Procter & Gamble)",
-        "Job Title": "IT Analytics & Insights Internship",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2024-10-09"
     },
     {
@@ -5810,13 +5187,6 @@
         "Date": "2024-10-08"
     },
     {
-        "Company": "Salesforce",
-        "Job Title": "Summer 2025 Intern - Business Insights Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-08"
-    },
-    {
         "Company": "Figma",
         "Job Title": "Data Scientist - Intern",
         "Location": "Unknown",
@@ -5866,13 +5236,6 @@
         "Date": "2024-10-07"
     },
     {
-        "Company": "The New York Times",
-        "Job Title": "Senior Analyst, Messaging",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-07"
-    },
-    {
         "Company": "Global Lending Services",
         "Job Title": "Analytics",
         "Location": "Unknown",
@@ -5890,20 +5253,6 @@
         "Company": "Cisco",
         "Job Title": "Business Analyst II",
         "Location": "United States",
-        "status": "Applied",
-        "Date": "2024-10-06"
-    },
-    {
-        "Company": "Cisco",
-        "Job Title": "Business Analyst (Intern)",
-        "Location": "United States",
-        "status": "Applied",
-        "Date": "2024-10-06"
-    },
-    {
-        "Company": "IBM",
-        "Job Title": "Entry Level User Experience (UX) Designer: 2025 (Cloud)",
-        "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-10-06"
     },
@@ -6342,13 +5691,6 @@
         "Date": "2024-09-25"
     },
     {
-        "Company": "Blue Shield of California",
-        "Job Title": "Business Analyst, Experienced",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-25"
-    },
-    {
         "Company": "LaunchDarkly",
         "Job Title": "Lead Data Scientist / Applied Statistician",
         "Location": "Unknown",
@@ -6407,20 +5749,6 @@
     {
         "Company": "Databricks",
         "Job Title": "Data Scientist - New Grad (2025 Start)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-24"
-    },
-    {
-        "Company": "Databricks",
-        "Job Title": "Data Science Intern (2025 Start)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-24"
-    },
-    {
-        "Company": "Sentry",
-        "Job Title": "Business Intelligence Intern",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-09-24"
@@ -6496,43 +5824,8 @@
         "Date": "2024-09-23"
     },
     {
-        "Company": "Volvo Group",
-        "Job Title": "Intern: Data Analyst - Programming (Summer 2025) (12013)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-23"
-    },
-    {
-        "Company": "Cisco",
-        "Job Title": "Data Analyst I",
-        "Location": "United States",
-        "status": "Applied",
-        "Date": "2024-09-23"
-    },
-    {
-        "Company": "Cisco",
-        "Job Title": "Data Analyst I",
-        "Location": "United States",
-        "status": "Applied",
-        "Date": "2024-09-23"
-    },
-    {
         "Company": "Costco Wholesale",
         "Job Title": "Data Analyst - Service Desk Reporting",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-23"
-    },
-    {
-        "Company": "Costco",
-        "Job Title": "Data Analyst - Service Desk Reporting",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-23"
-    },
-    {
-        "Company": "IBM",
-        "Job Title": "Associate Data Scientist Intern 2025",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-09-23"
@@ -6617,13 +5910,6 @@
     {
         "Company": "Whoop",
         "Job Title": "Business Analyst II (Growth Product)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-20"
-    },
-    {
-        "Company": "Kraken",
-        "Job Title": "Data Scientist I",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-09-20"
@@ -6903,13 +6189,6 @@
     },
     {
         "Company": "PepsiCo",
-        "Job Title": "Supply Chain Finance Assistant Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-18"
-    },
-    {
-        "Company": "PepsiCo",
         "Job Title": "Frito-Lay Supply Chain Quality & Food Safety Assoc. Analyst - Undergrad",
         "Location": "Unknown",
         "status": "Applied",
@@ -6967,13 +6246,6 @@
     {
         "Company": "X",
         "Job Title": "Full Stack Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-17"
-    },
-    {
-        "Company": "Tesla",
-        "Job Title": "Internship, Data Analytics & Test Engineer, Cell Engineering (Winter/Spring 2025)",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-09-17"
@@ -7056,13 +6328,6 @@
         "Date": "2024-09-16"
     },
     {
-        "Company": "Agoda",
-        "Job Title": "Marketing Analyst",
-        "Location": "Bangkok",
-        "status": "Applied",
-        "Date": "2024-09-16"
-    },
-    {
         "Company": "Oorwin",
         "Job Title": "Machine Learning/Data Scientist",
         "Location": "Unknown",
@@ -7084,23 +6349,9 @@
         "Date": "2024-09-16"
     },
     {
-        "Company": "Discord",
-        "Job Title": "Senior Data Scientist, Analytics - Revenue Growth",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-16"
-    },
-    {
         "Company": "Boston Consulting Group (BCG)",
         "Job Title": "Data Scientist",
         "Location": "United States",
-        "status": "Applied",
-        "Date": "2024-09-16"
-    },
-    {
-        "Company": "Replo",
-        "Job Title": "Operations Associate",
-        "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-09-16"
     },
@@ -7364,13 +6615,6 @@
         "Date": "2024-09-11"
     },
     {
-        "Company": "RPAC LLC",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-11"
-    },
-    {
         "Company": "Brigit",
         "Job Title": "Lead Data Scientist",
         "Location": "Unknown",
@@ -7396,13 +6640,6 @@
         "Job Title": "Business Operations Analyst",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2024-09-10"
-    },
-    {
-        "Company": "Calpine",
-        "Job Title": "Business Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2024-09-10"
     },
     {
@@ -7469,13 +6706,6 @@
         "Date": "2024-09-07"
     },
     {
-        "Company": "Shockwave Medical",
-        "Job Title": "Field Operations Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-09-06"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -7529,27 +6759,6 @@
         "Job Title": "Brand Manager",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2024-08-30"
-    },
-    {
-        "Company": "Agoda",
-        "Job Title": "Analyst/ Senior Analyst",
-        "Location": "Bangkok",
-        "status": "Applied",
-        "Date": "2024-08-30"
-    },
-    {
-        "Company": "P&G (Procter & Gamble)",
-        "Job Title": "Consumer & Market Knowledge - Analytics & Insights Manager",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-08-30"
-    },
-    {
-        "Company": "P&G (Procter & Gamble)",
-        "Job Title": "Brand Manager",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2024-08-30"
     },
     {
@@ -7787,13 +6996,6 @@
         "Company": "Jump Associates LLC",
         "Job Title": "Unknown",
         "Location": "San Mateo, California",
-        "status": "Applied",
-        "Date": "2025-02-24"
-    },
-    {
-        "Company": "ZS",
-        "Job Title": "Decision Analytics Associate",
-        "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-24"
     },
