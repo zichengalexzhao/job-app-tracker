@@ -162,7 +162,7 @@ def process_all_emails(limit=None, since_hours=None):
 
 if __name__ == '__main__':
     try:
-        process_all_emails(limit=None, since_hours=None)
+        process_all_emails(limit=None, since_hours=1)
     except Exception as e:
         print(f"Unexpected error: {e}")
         save_results()
