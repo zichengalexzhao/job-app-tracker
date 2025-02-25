@@ -7698,5 +7698,110 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-07-02"
+    },
+    {
+        "Company": "Aptive",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "IBM",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "Bloom Energy",
+        "Job Title": "Data Analytics - Service Operations Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "Aquabyte",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "Robert Half",
+        "Job Title": "Unknown",
+        "Location": "San Francisco",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "BayOne Solutions",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "PlayStation (Sony)",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "TransUnion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "Norstella",
+        "Job Title": "NLP & LLM Data Scientist \u2013 Healthcare & Life Sciences",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "Lantern Care",
+        "Job Title": "Data Analyst, Research and Strategy",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "Clover Health",
+        "Job Title": "Senior Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-25"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Facilities Maintenance Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "Jump Associates LLC",
+        "Job Title": "Unknown",
+        "Location": "San Mateo, California",
+        "status": "Applied",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Decision Analytics Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-24"
+    },
+    {
+        "Company": "FundingU",
+        "Job Title": "Data Analyst - Student Lending",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-24"
     }
 ]
