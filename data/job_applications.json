@@ -7229,5 +7229,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-02-26"
+    },
+    {
+        "Company": "Chewy",
+        "Job Title": "AI Innovator Intern",
+        "Location": "Dania Beach, FL",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Lantern Care",
+        "Job Title": "Data Analyst, Research and Strategy",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Unknown",
+        "Location": "Burbank, CA, US, 91505",
+        "status": "Applied",
+        "Date": "2025-02-26"
     }
 ]

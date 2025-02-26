@@ -6,6 +6,10 @@
 | Rakuten | Intern - Data Analytics - Mobile Marketing | Unknown | Declined | 2025-02-26 |
 | ZS | Decision Analytics Associate | South San Francisco | Declined | 2025-02-26 |
 | YipitData | Data Consultant - Corporate | Unknown | Declined | 2025-02-26 |
+| Chewy | AI Innovator Intern | Dania Beach, FL | Declined | 2025-02-26 |
+| Lantern Care | Data Analyst, Research and Strategy | Unknown | Declined | 2025-02-26 |
+| Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-02-26 |
+| Paramount | Unknown | Burbank, CA, US, 91505 | Applied | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
 | IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
