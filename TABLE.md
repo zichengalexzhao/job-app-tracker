@@ -8,19 +8,16 @@
 | BayOne Solutions | Business Intelligence Analyst | San Francisco, CA | Applied | 2025-02-25 |
 | PlayStation (Sony) | Data Scientist | Unknown | Declined | 2025-02-25 |
 | TransUnion | Unknown | Unknown | Applied | 2025-02-25 |
-| Norstella | NLP & LLM Data Scientist – Healthcare & Life Sciences | Unknown | Applied | 2025-02-25 |
+| Norstella | NLP & LLM Data Scientist Healthcare & Life Sciences | Unknown | Applied | 2025-02-25 |
 | Lantern Care | Data Analyst, Research and Strategy | Unknown | Declined | 2025-02-25 |
 | Clover Health | Senior Data Scientist | Unknown | Declined | 2025-02-25 |
 | InComm Payments | Data Analyst I | Unknown | Applied | 2025-02-25 |
-| InComm Payments | Data Analyst I | Unknown | Applied | 2025-02-25 |
-| CVS Health | Unknown | Unknown | Applied | 2025-02-25 |
+| CVS Health | Data Analyst | Unknown | Applied | 2025-02-25 |
 | Viasat, Inc. | Business Operations Analyst, Early Career (2024-3905) | Unknown | Applied | 2025-02-25 |
 | Toll Brothers, Inc. | Unknown | Unknown | Applied | 2025-02-25 |
 | SBM Management | IT Business Analyst I | Unknown | Applied | 2025-02-25 |
 | Unknown | Business Systems Analyst | Unknown | Applied | 2025-02-25 |
 | Amazon | Business Analyst | Unknown | Applied | 2025-02-25 |
-| Amazon | Business Analyst | Unknown | Applied | 2025-02-25 |
-| Unknown | Unknown | Unknown | Applied | 2025-02-25 |
 | CivicPlus, LLC | Strategy Analyst I | Unknown | Applied | 2025-02-25 |
 | INDUS Technology, Inc. | Jr. Data Analyst | San Diego, CA | Applied | 2025-02-25 |
 | TransUnion | Unknown | Unknown | Applied | 2025-02-25 |
