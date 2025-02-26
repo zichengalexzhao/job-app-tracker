@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
 | IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
