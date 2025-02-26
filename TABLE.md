@@ -22,7 +22,6 @@
 | INDUS Technology, Inc. | Jr. Data Analyst | San Diego, CA | Applied | 2025-02-25 |
 | TransUnion | Unknown | Unknown | Applied | 2025-02-25 |
 | Steampunk | Junior Data Analyst | Unknown | Applied | 2025-02-25 |
-| Unknown | Junior Data Analyst | Unknown | Applied | 2025-02-25 |
 | Angi | Insights Analyst | Unknown | Applied | 2025-02-25 |
 | Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-02-25 |
 | GOBankingRates | Digital Yield Analyst | 100% Remote, Anywhere in the USA | Applied | 2025-02-25 |
