@@ -273,13 +273,6 @@
         "Date": "2025-02-22"
     },
     {
-        "Company": "Red Bull",
-        "Job Title": "Shopper Insights Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-22"
-    },
-    {
         "Company": "Garner Health",
         "Job Title": "Data Scientist II",
         "Location": "Unknown",
@@ -387,13 +380,6 @@
     {
         "Company": "Weee! Inc",
         "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
-        "Company": "Red Bull",
-        "Job Title": "Shopper Insights Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-21"
@@ -641,13 +627,6 @@
         "Job Title": "Data Science Consultant",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-02-20"
-    },
-    {
-        "Company": "UnitedHealth Group",
-        "Job Title": "Product Analyst",
-        "Location": "Remote",
-        "status": "Applied",
         "Date": "2025-02-20"
     },
     {
@@ -1633,13 +1612,6 @@
     {
         "Company": "Korn Ferry",
         "Job Title": "Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-08"
-    },
-    {
-        "Company": "Fortra",
-        "Job Title": "Sales Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-08"
@@ -7261,6 +7233,55 @@
     {
         "Company": "American Express",
         "Job Title": "Infrastructure Engineer - Digital Workplace-25003082",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Data Scientist 2",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Fortra",
+        "Job Title": "Sales Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "UnitedHealth Group",
+        "Job Title": "Product Analyst",
+        "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Red Bull",
+        "Job Title": "Shopper Insights Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Hinge Health, Inc.",
+        "Job Title": "Healthcare Data Analyst (2024-1857)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "NextEra Energy",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "AbbVie",
+        "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-26"

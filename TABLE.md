@@ -11,6 +11,13 @@
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-02-26 |
 | Paramount | Unknown | Burbank, CA, US, 91505 | Applied | 2025-02-26 |
 | American Express | Infrastructure Engineer - Digital Workplace-25003082 | Unknown | Applied | 2025-02-26 |
+| Humana | Data Scientist 2 | Unknown | Applied | 2025-02-26 |
+| Fortra | Sales Data Analyst | Unknown | Declined | 2025-02-26 |
+| UnitedHealth Group | Product Analyst | Remote | Declined | 2025-02-26 |
+| Red Bull | Shopper Insights Analyst | Unknown | Declined | 2025-02-26 |
+| Hinge Health, Inc. | Healthcare Data Analyst (2024-1857) | Unknown | Applied | 2025-02-26 |
+| NextEra Energy | Associate Data Scientist | Unknown | Applied | 2025-02-26 |
+| AbbVie | Associate Data Scientist | Unknown | Applied | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
 | IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
@@ -115,7 +122,6 @@
 | Taco Bell | Associate Analyst, Market Analytics | Canada | Applied | 2025-02-22 |
 | Cohesity | Business Analytics Intern | Unknown | Applied | 2025-02-22 |
 | Candid Health | BI (Analytics) Engineer | Unknown | Applied | 2025-02-22 |
-| Red Bull | Shopper Insights Analyst | Unknown | Applied | 2025-02-22 |
 | Garner Health | Data Scientist II | Unknown | Declined | 2025-02-22 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-22 |
 | Lightmatter | Unknown | Unknown | Applied | 2025-02-22 |
@@ -132,7 +138,6 @@
 | Applied Materials | Corporate Strategy Intern – Data Science | Santa Clara, CA | Applied | 2025-02-21 |
 | The Newrez Family of Companies | Business Analyst | Unknown | Applied | 2025-02-21 |
 | Weee! Inc | Data Analyst | Unknown | Applied | 2025-02-21 |
-| Red Bull | Shopper Insights Analyst | Unknown | Applied | 2025-02-21 |
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-21 |
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-21 |
 | Department of Motor Vehicles | DMV Statistical Analyst - 01099 | Unknown | Applied | 2025-02-21 |
@@ -168,7 +173,6 @@
 | Garner Health | Data Scientist II | Unknown | Declined | 2025-02-20 |
 | Docusign | Sales Strategy & Operations Analyst | Unknown | Declined | 2025-02-20 |
 | Inspire11 | Data Science Consultant | Unknown | Declined | 2025-02-20 |
-| UnitedHealth Group | Product Analyst | Remote | Applied | 2025-02-20 |
 | Zayo | Intern - Network Data Analyst | Unknown | Applied | 2025-02-20 |
 | Amplify | Data Scientist | Unknown | Declined | 2025-02-20 |
 | Figma | Data Scientist - Early Career (2025) | Unknown | Applied | 2025-02-20 |
@@ -310,7 +314,6 @@
 | Spotify | Data Scientist I - User Growth Analytics (LatAm) | Unknown | Applied | 2025-02-09 |
 | Sumitomo Mitsui Banking Corporation | Business Analyst (Hybrid) | Unknown | Applied | 2025-02-08 |
 | Korn Ferry | Operations Analyst | Unknown | Applied | 2025-02-08 |
-| Fortra | Sales Data Analyst | Unknown | Applied | 2025-02-08 |
 | Sephora | Unknown | Unknown | Applied | 2025-02-08 |
 | DaVita Kidney Care | Business Analyst | Unknown | Applied | 2025-02-08 |
 | Oracle | Contracts Analyst | Unknown | Declined | 2025-02-08 |
