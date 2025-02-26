@@ -7283,7 +7283,14 @@
         "Company": "AbbVie",
         "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
-        "status": "Applied",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "PrizePicks",
+        "Job Title": "Data Scientist - Simulation/Sports Modeling",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-02-26"
     }
 ]

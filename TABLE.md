@@ -17,7 +17,8 @@
 | Red Bull | Shopper Insights Analyst | Unknown | Declined | 2025-02-26 |
 | Hinge Health, Inc. | Healthcare Data Analyst (2024-1857) | Unknown | Applied | 2025-02-26 |
 | NextEra Energy | Associate Data Scientist | Unknown | Applied | 2025-02-26 |
-| AbbVie | Associate Data Scientist | Unknown | Applied | 2025-02-26 |
+| AbbVie | Associate Data Scientist | Unknown | Declined | 2025-02-26 |
+| PrizePicks | Data Scientist - Simulation/Sports Modeling | Unknown | Declined | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
 | IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
