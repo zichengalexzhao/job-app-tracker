@@ -40,7 +40,6 @@
 | SBM Management | IT Business Analyst I | Unknown | Applied | 2025-02-25 |
 | Unknown | Business Systems Analyst | Unknown | Applied | 2025-02-25 |
 | Amazon | Business Analyst | Unknown | Applied | 2025-02-25 |
-| Amazon | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Accenture Federal Services | Unknown | Unknown | Applied | 2025-02-25 |
 | AARP | Data Analytics Analyst | Unknown | Declined | 2025-02-24 |
 | Waters Corporation | Intern, Data Analytics | Unknown | Declined | 2025-02-24 |
@@ -901,7 +900,6 @@
 | Twilio | Unknown | Unknown | Applied | 2024-09-19 |
 | UBS | 2025 Graduate Talent Program - Global Banking | San Francisco | Applied | 2024-09-19 |
 | Figma | Data Scientist - Intern (2025) | Unknown | Applied | 2024-09-19 |
-| AppleOne | Financial Analyst | Hayward, CA | Applied | 2024-09-19 |
 | DoorDash | Data Scientist / Senior Data Scientist, Analytics | Unknown | Applied | 2024-09-19 |
 | Boston Consulting Group | Unknown | Unknown | Applied | 2024-09-19 |
 | PepsiCo | Supply Chain Finance Assistant Analyst | Unknown | Declined | 2024-09-19 |
