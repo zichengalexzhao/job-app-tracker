@@ -872,7 +872,6 @@
 | Amazon | Data Engineer Co-op Winter Internship – 2025 | US | Applied | 2024-09-24 |
 | Twilio | Marketing Analyst | Unknown | Declined | 2024-09-24 |
 | Amazon | Data Engineer Co-op Winter Internship - 2025 | US | Applied | 2024-09-24 |
-| Boston Consulting Group (BCG) | Unknown | Boston, MA, USA | Interviewed | 2024-09-24 |
 | Cisco | Data Analyst I | United States | Declined | 2024-09-24 |
 | Costco | Data Analyst - Service Desk Reporting | Unknown | Declined | 2024-09-24 |
 | Solano County | Senior IT Business Systems Analyst (Health & Social Services) | Fairfield, CA | Applied | 2024-09-23 |
