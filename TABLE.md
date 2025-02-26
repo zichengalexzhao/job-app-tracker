@@ -11,6 +11,30 @@
 | Norstella | NLP & LLM Data Scientist – Healthcare & Life Sciences | Unknown | Applied | 2025-02-25 |
 | Lantern Care | Data Analyst, Research and Strategy | Unknown | Declined | 2025-02-25 |
 | Clover Health | Senior Data Scientist | Unknown | Declined | 2025-02-25 |
+| InComm Payments | Data Analyst I | Unknown | Applied | 2025-02-25 |
+| InComm Payments | Data Analyst I | Unknown | Applied | 2025-02-25 |
+| CVS Health | Unknown | Unknown | Applied | 2025-02-25 |
+| Viasat, Inc. | Business Operations Analyst, Early Career (2024-3905) | Unknown | Applied | 2025-02-25 |
+| Toll Brothers, Inc. | Unknown | Unknown | Applied | 2025-02-25 |
+| SBM Management | IT Business Analyst I | Unknown | Applied | 2025-02-25 |
+| Unknown | Business Systems Analyst | Unknown | Applied | 2025-02-25 |
+| Amazon | Business Analyst | Unknown | Applied | 2025-02-25 |
+| Amazon | Business Analyst | Unknown | Applied | 2025-02-25 |
+| Unknown | Unknown | Unknown | Applied | 2025-02-25 |
+| CivicPlus, LLC | Strategy Analyst I | Unknown | Applied | 2025-02-25 |
+| INDUS Technology, Inc. | Jr. Data Analyst | San Diego, CA | Applied | 2025-02-25 |
+| TransUnion | Unknown | Unknown | Applied | 2025-02-25 |
+| Steampunk | Junior Data Analyst | Unknown | Applied | 2025-02-25 |
+| Unknown | Junior Data Analyst | Unknown | Applied | 2025-02-25 |
+| Angi | Insights Analyst | Unknown | Applied | 2025-02-25 |
+| Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-02-25 |
+| GOBankingRates | Digital Yield Analyst | 100% Remote, Anywhere in the USA | Applied | 2025-02-25 |
+| Bikky | Data Analyst - Data Operations | Unknown | Applied | 2025-02-25 |
+| Nexon America Inc | Fraud Analyst | El Segundo, CA | Applied | 2025-02-25 |
+| Applecart | Unknown | Unknown | Applied | 2025-02-25 |
+| PitchBook | Data Operations Associate, Sourcing | Unknown | Applied | 2025-02-25 |
+| LegitScript | Analyst I, Certification | Unknown | Applied | 2025-02-25 |
+| Chewy Inc | AI Innovator Intern | Unknown | Applied | 2025-02-25 |
 | AARP | Data Analytics Analyst | Unknown | Declined | 2025-02-24 |
 | Waters Corporation | Intern, Data Analytics | Unknown | Declined | 2025-02-24 |
 | Waters Corporation | Intern, Sales Enablement Analyst | Unknown | Declined | 2025-02-24 |
