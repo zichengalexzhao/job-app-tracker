@@ -1946,13 +1946,6 @@
         "Date": "2025-02-05"
     },
     {
-        "Company": "Agilent",
-        "Job Title": "Global Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-05"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Global Ambassador Mentor Fellow",
         "Location": "Unknown",
@@ -7214,6 +7207,20 @@
         "Job Title": "Data Science Analyst III / Analytics",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Agilent",
+        "Job Title": "Global Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "Rakuten",
+        "Job Title": "Intern - Data Analytics - Mobile Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-02-26"
     }
 ]

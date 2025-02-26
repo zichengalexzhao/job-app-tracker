@@ -2,6 +2,8 @@
 | --- | --- | --- | --- | --- |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
+| Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
+| Rakuten | Intern - Data Analytics - Mobile Marketing | Unknown | Declined | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
 | IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
@@ -345,7 +347,6 @@
 | Rippling | Growth Analyst, Core HR | Unknown | Declined | 2025-02-06 |
 | Hill International | Data Analyst | Unknown | Applied | 2025-02-06 |
 | TD Bank Group | Data Scientist I | US | Applied | 2025-02-05 |
-| Agilent | Global Business Intelligence Analyst | Unknown | Applied | 2025-02-05 |
 | Unknown | Global Ambassador Mentor Fellow | Unknown | Applied | 2025-02-05 |
 | Sephora | Unknown | Unknown | Applied | 2025-02-05 |
 | Rose International at Kaiser Permanente | Unknown | Unknown | Applied | 2025-02-05 |
