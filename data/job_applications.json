@@ -910,13 +910,6 @@
         "Date": "2025-02-19"
     },
     {
-        "Company": "YipitData",
-        "Job Title": "Data Consultant - Corporate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-19"
-    },
-    {
         "Company": "Planes Companies",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -7219,6 +7212,20 @@
     {
         "Company": "Rakuten",
         "Job Title": "Intern - Data Analytics - Mobile Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Decision Analytics Associate",
+        "Location": "South San Francisco",
+        "status": "Declined",
+        "Date": "2025-02-26"
+    },
+    {
+        "Company": "YipitData",
+        "Job Title": "Data Consultant - Corporate",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-02-26"

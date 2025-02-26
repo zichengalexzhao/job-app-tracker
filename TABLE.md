@@ -4,6 +4,8 @@
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
 | Rakuten | Intern - Data Analytics - Mobile Marketing | Unknown | Declined | 2025-02-26 |
+| ZS | Decision Analytics Associate | South San Francisco | Declined | 2025-02-26 |
+| YipitData | Data Consultant - Corporate | Unknown | Declined | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
 | IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
@@ -199,7 +201,6 @@
 | I3 Broadband LLC | Marketing Data Analyst | Unknown | Applied | 2025-02-19 |
 | National Grid | Data Analyst, Management Data Analysis | Unknown | Applied | 2025-02-19 |
 | SilverEdge Government Solutions | Data Scientist | Unknown | Applied | 2025-02-19 |
-| YipitData | Data Consultant - Corporate | Unknown | Applied | 2025-02-19 |
 | Planes Companies | Data Analyst | Unknown | Applied | 2025-02-19 |
 | Gamesight | Data Analyst | Unknown | Declined | 2025-02-19 |
 | Collabera | Data Analyst | Unknown | Applied | 2025-02-19 |
