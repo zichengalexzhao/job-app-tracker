@@ -10,6 +10,7 @@
 | Lantern Care | Data Analyst, Research and Strategy | Unknown | Declined | 2025-02-26 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-02-26 |
 | Paramount | Unknown | Burbank, CA, US, 91505 | Applied | 2025-02-26 |
+| American Express | Infrastructure Engineer - Digital Workplace-25003082 | Unknown | Applied | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
 | IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
