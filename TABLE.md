@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
+| SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
