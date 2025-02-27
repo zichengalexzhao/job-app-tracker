@@ -7320,5 +7320,40 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-02-27"
+    },
+    {
+        "Company": "MCRA",
+        "Job Title": "Associate, Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Campbell Soup",
+        "Job Title": "Data Sync Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Informative Research",
+        "Job Title": "IT Programmer Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Warner Bros. Discovery",
+        "Job Title": "Analyst, Forecasting & Video Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "YouGov",
+        "Job Title": "Survey Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
     }
 ]

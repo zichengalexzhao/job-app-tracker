@@ -10,6 +10,11 @@
 | Legal & General America | Data Scientist - E07 | Unknown | Declined | 2025-02-27 |
 | PitchBook | Data Operations Associate, Sourcing | Unknown | Declined | 2025-02-27 |
 | NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-02-27 |
+| MCRA | Associate, Analytics | Unknown | Applied | 2025-02-27 |
+| Campbell Soup | Data Sync Analyst | Unknown | Applied | 2025-02-27 |
+| Informative Research | IT Programmer Analyst I | Unknown | Applied | 2025-02-27 |
+| Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-02-27 |
+| YouGov | Survey Analytics Analyst | Unknown | Applied | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
