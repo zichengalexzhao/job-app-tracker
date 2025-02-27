@@ -7299,5 +7299,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-02-27"
+    },
+    {
+        "Company": "Aarki",
+        "Job Title": "Analyst",
+        "Location": "San Francisco",
+        "status": "Declined",
+        "Date": "2025-02-27"
     }
 ]
