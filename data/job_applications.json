@@ -140,22 +140,8 @@
         "Date": "2025-02-22"
     },
     {
-        "Company": "Legal & General America",
-        "Job Title": "Data Scientist - E07",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-22"
-    },
-    {
         "Company": "Revvity",
         "Job Title": "Intern - IT Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-22"
-    },
-    {
-        "Company": "Legal & General America",
-        "Job Title": "Data Scientist - E07",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-22"
@@ -7063,13 +7049,6 @@
         "Date": "2025-02-25"
     },
     {
-        "Company": "PitchBook",
-        "Job Title": "Data Operations Associate, Sourcing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-25"
-    },
-    {
         "Company": "LegitScript",
         "Job Title": "Analyst I, Certification",
         "Location": "Unknown",
@@ -7259,13 +7238,6 @@
         "Date": "2025-02-26"
     },
     {
-        "Company": "NextEra Energy",
-        "Job Title": "Associate Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-26"
-    },
-    {
         "Company": "AbbVie",
         "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
@@ -7326,6 +7298,27 @@
         "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Legal & General America",
+        "Job Title": "Data Scientist - E07",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "PitchBook",
+        "Job Title": "Data Operations Associate, Sourcing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "NextEra Energy",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-02-27"
     }
 ]

@@ -7,6 +7,9 @@
 | Humana | Data Scientist 2 | Unknown | Declined | 2025-02-27 |
 | Aimé Leon Dore | Unknown | Unknown | Declined | 2025-02-27 |
 | Amazon | Business Analyst | Unknown | Applied | 2025-02-27 |
+| Legal & General America | Data Scientist - E07 | Unknown | Declined | 2025-02-27 |
+| PitchBook | Data Operations Associate, Sourcing | Unknown | Declined | 2025-02-27 |
+| NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
@@ -22,7 +25,6 @@
 | UnitedHealth Group | Product Analyst | Remote | Declined | 2025-02-26 |
 | Red Bull | Shopper Insights Analyst | Unknown | Declined | 2025-02-26 |
 | Hinge Health, Inc. | Healthcare Data Analyst (2024-1857) | Unknown | Applied | 2025-02-26 |
-| NextEra Energy | Associate Data Scientist | Unknown | Applied | 2025-02-26 |
 | AbbVie | Associate Data Scientist | Unknown | Declined | 2025-02-26 |
 | PrizePicks | Data Scientist - Simulation/Sports Modeling | Unknown | Declined | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
@@ -53,7 +55,6 @@
 | Bikky | Data Analyst - Data Operations | Unknown | Applied | 2025-02-25 |
 | Nexon America Inc | Fraud Analyst | El Segundo, CA | Applied | 2025-02-25 |
 | Applecart | Unknown | Unknown | Applied | 2025-02-25 |
-| PitchBook | Data Operations Associate, Sourcing | Unknown | Applied | 2025-02-25 |
 | LegitScript | Analyst I, Certification | Unknown | Applied | 2025-02-25 |
 | Chewy Inc | AI Innovator Intern | Unknown | Applied | 2025-02-25 |
 | InComm Payments | Data Analyst I | Unknown | Applied | 2025-02-25 |
@@ -110,9 +111,7 @@
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-22 |
 | CONMED | Business Intelligence Analyst | Unknown | Applied | 2025-02-22 |
 | Edward Jones | Data Scientist I - Firm Analytics | Unknown | Declined | 2025-02-22 |
-| Legal & General America | Data Scientist - E07 | Unknown | Applied | 2025-02-22 |
 | Revvity | Intern - IT Data Analyst | Unknown | Applied | 2025-02-22 |
-| Legal & General America | Data Scientist - E07 | Unknown | Applied | 2025-02-22 |
 | National Storage Affiliates | Unknown | Unknown | Applied | 2025-02-22 |
 | Goodwill of South Florida | Junior Business Analyst | Miami, Florida | Applied | 2025-02-22 |
 | ASU | Business Intelligence Analyst | Unknown | Applied | 2025-02-22 |
