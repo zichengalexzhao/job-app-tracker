@@ -7530,5 +7530,12 @@
         "Location": "Tampa, USA",
         "status": "Applied",
         "Date": "2025-02-27"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
     }
 ]
