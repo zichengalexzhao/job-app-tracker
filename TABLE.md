@@ -4,6 +4,7 @@
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
 | U.S. Bank | Qualitative Analyst | Unknown | Declined | 2025-02-27 |
+| Humana | Data Scientist 2 | Unknown | Declined | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
@@ -15,7 +16,6 @@
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-02-26 |
 | Paramount | Unknown | Burbank, CA, US, 91505 | Applied | 2025-02-26 |
 | American Express | Infrastructure Engineer - Digital Workplace-25003082 | Unknown | Applied | 2025-02-26 |
-| Humana | Data Scientist 2 | Unknown | Applied | 2025-02-26 |
 | Fortra | Sales Data Analyst | Unknown | Declined | 2025-02-26 |
 | UnitedHealth Group | Product Analyst | Remote | Declined | 2025-02-26 |
 | Red Bull | Shopper Insights Analyst | Unknown | Declined | 2025-02-26 |

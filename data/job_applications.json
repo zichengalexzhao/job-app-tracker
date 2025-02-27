@@ -7231,13 +7231,6 @@
         "Date": "2025-02-26"
     },
     {
-        "Company": "Humana",
-        "Job Title": "Data Scientist 2",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-26"
-    },
-    {
         "Company": "Fortra",
         "Job Title": "Sales Data Analyst",
         "Location": "Unknown",
@@ -7310,6 +7303,13 @@
     {
         "Company": "U.S. Bank",
         "Job Title": "Qualitative Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Data Scientist 2",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-02-27"
