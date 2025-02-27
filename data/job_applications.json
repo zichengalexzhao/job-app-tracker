@@ -154,13 +154,6 @@
         "Date": "2025-02-22"
     },
     {
-        "Company": "U.S. Bank",
-        "Job Title": "Qualitative Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-22"
-    },
-    {
         "Company": "Legal & General America",
         "Job Title": "Data Scientist - E07",
         "Location": "Unknown",
@@ -7312,6 +7305,13 @@
         "Job Title": "NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302)",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Qualitative Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-02-27"
     }
 ]

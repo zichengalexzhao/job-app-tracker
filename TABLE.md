@@ -3,6 +3,7 @@
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
+| U.S. Bank | Qualitative Analyst | Unknown | Declined | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
@@ -109,7 +110,6 @@
 | Edward Jones | Data Scientist I - Firm Analytics | Unknown | Declined | 2025-02-22 |
 | Legal & General America | Data Scientist - E07 | Unknown | Applied | 2025-02-22 |
 | Revvity | Intern - IT Data Analyst | Unknown | Applied | 2025-02-22 |
-| U.S. Bank | Qualitative Analyst | Unknown | Applied | 2025-02-22 |
 | Legal & General America | Data Scientist - E07 | Unknown | Applied | 2025-02-22 |
 | National Storage Affiliates | Unknown | Unknown | Applied | 2025-02-22 |
 | Goodwill of South Florida | Junior Business Analyst | Miami, Florida | Applied | 2025-02-22 |
