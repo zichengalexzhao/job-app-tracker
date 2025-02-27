@@ -2982,13 +2982,6 @@
         "Date": "2025-01-22"
     },
     {
-        "Company": "SoFi",
-        "Job Title": "Data Scientist, Pricing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-22"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Senior Assistant Dean for Student Affairs",
         "Location": "Unknown",
@@ -7049,13 +7042,6 @@
         "Date": "2025-02-25"
     },
     {
-        "Company": "LegitScript",
-        "Job Title": "Analyst I, Certification",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-25"
-    },
-    {
         "Company": "Chewy Inc",
         "Job Title": "AI Innovator Intern",
         "Location": "Unknown",
@@ -7353,6 +7339,195 @@
         "Company": "YouGov",
         "Job Title": "Survey Analytics Analyst",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Oak Street Health",
+        "Job Title": "Decision Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "RGP",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "IQVIA",
+        "Job Title": "Data Science Intern - Summer 2025",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "HelioCampus, Inc.",
+        "Job Title": "Data Scientist I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Netflix",
+        "Job Title": "Data Scientist (L4) - Growth and Membership",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Scientist, Amazon Music - DISCO",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Scientist, Amazon Music - DISCO",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Workday",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "HubSpot",
+        "Job Title": "Data Scientist, People Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "SoFi",
+        "Job Title": "Data Scientist, Pricing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Intermedia.net, Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Deckers Brands",
+        "Job Title": "Analyst, Consumer Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Delinea",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "LegitScript",
+        "Job Title": "Analyst I, Certification",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "BlueYonder",
+        "Job Title": "Data Scientist (Gen AI)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Travelers",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Peraton",
+        "Job Title": "AI Research Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "USAA",
+        "Job Title": "AI/ML Engineer Entry Level",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Peraton",
+        "Job Title": "AI Research Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Kodiak",
+        "Job Title": "New Grad Applied AI Engineer - Computer Vision",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Starcom (Publicis Groupe)",
+        "Job Title": "Analyst, Paid Social (2025-95407)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Coalition Technologies",
+        "Job Title": "SEO Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Spotter",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Applecart",
+        "Job Title": "Research Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Citi",
+        "Job Title": "Technology, Full Time Analyst",
+        "Location": "Jacksonville, USA",
+        "status": "Applied",
+        "Date": "2025-02-27"
+    },
+    {
+        "Company": "Citi",
+        "Job Title": "Technology, Full Time Analyst",
+        "Location": "Tampa, USA",
         "status": "Applied",
         "Date": "2025-02-27"
     }

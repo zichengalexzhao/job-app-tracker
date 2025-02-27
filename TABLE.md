@@ -15,6 +15,33 @@
 | Informative Research | IT Programmer Analyst I | Unknown | Applied | 2025-02-27 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-02-27 |
 | YouGov | Survey Analytics Analyst | Unknown | Applied | 2025-02-27 |
+| Oak Street Health | Decision Scientist | Unknown | Applied | 2025-02-27 |
+| RGP | Unknown | Unknown | Applied | 2025-02-27 |
+| IQVIA | Data Science Intern - Summer 2025 | Unknown | Applied | 2025-02-27 |
+| HelioCampus, Inc. | Data Scientist I | Unknown | Applied | 2025-02-27 |
+| Netflix | Data Scientist (L4) - Growth and Membership | Unknown | Applied | 2025-02-27 |
+| Amazon | Data Scientist, Amazon Music - DISCO | Unknown | Applied | 2025-02-27 |
+| Amazon | Data Scientist, Amazon Music - DISCO | Unknown | Applied | 2025-02-27 |
+| Workday | Unknown | Unknown | Applied | 2025-02-27 |
+| S&P Global | Data Analyst | Unknown | Applied | 2025-02-27 |
+| HubSpot | Data Scientist, People Analytics | Unknown | Applied | 2025-02-27 |
+| SoFi | Data Scientist, Pricing | Unknown | Declined | 2025-02-27 |
+| Intermedia.net, Inc. | Unknown | Unknown | Applied | 2025-02-27 |
+| Deckers Brands | Analyst, Consumer Data | Unknown | Applied | 2025-02-27 |
+| Delinea | Data Analyst | Unknown | Applied | 2025-02-27 |
+| LegitScript | Analyst I, Certification | Unknown | Declined | 2025-02-27 |
+| BlueYonder | Data Scientist (Gen AI) | Unknown | Applied | 2025-02-27 |
+| Travelers | Unknown | Unknown | Applied | 2025-02-27 |
+| Peraton | AI Research Scientist | Unknown | Applied | 2025-02-27 |
+| USAA | AI/ML Engineer Entry Level | Unknown | Applied | 2025-02-27 |
+| Peraton | AI Research Scientist | Unknown | Applied | 2025-02-27 |
+| Kodiak | New Grad Applied AI Engineer - Computer Vision | Unknown | Applied | 2025-02-27 |
+| Starcom (Publicis Groupe) | Analyst, Paid Social (2025-95407) | Unknown | Applied | 2025-02-27 |
+| Coalition Technologies | SEO Analyst | Unknown | Applied | 2025-02-27 |
+| Spotter | Unknown | Unknown | Applied | 2025-02-27 |
+| Applecart | Research Specialist | Unknown | Declined | 2025-02-27 |
+| Citi | Technology, Full Time Analyst | Jacksonville, USA | Applied | 2025-02-27 |
+| Citi | Technology, Full Time Analyst | Tampa, USA | Applied | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
@@ -60,7 +87,6 @@
 | Bikky | Data Analyst - Data Operations | Unknown | Applied | 2025-02-25 |
 | Nexon America Inc | Fraud Analyst | El Segundo, CA | Applied | 2025-02-25 |
 | Applecart | Unknown | Unknown | Applied | 2025-02-25 |
-| LegitScript | Analyst I, Certification | Unknown | Applied | 2025-02-25 |
 | Chewy Inc | AI Innovator Intern | Unknown | Applied | 2025-02-25 |
 | InComm Payments | Data Analyst I | Unknown | Applied | 2025-02-25 |
 | InComm Payments | Data Analyst I | Unknown | Applied | 2025-02-25 |
@@ -522,7 +548,6 @@
 | Deutsche Bank | Graduate Program - Investment Bank: Origination & Advisory | San Francisco | Applied | 2025-01-24 |
 | Jobright.ai | Data Scientist - Remote Internship | Unknown | Applied | 2025-01-24 |
 | University of California, Davis (Graduate School of Management) | Senior Assistant Dean for Student Affairs | Unknown | Interviewed | 2025-01-22 |
-| SoFi | Data Scientist, Pricing | Unknown | Applied | 2025-01-22 |
 | Unknown | Senior Assistant Dean for Student Affairs | Unknown | Interviewed | 2025-01-22 |
 | Sojern | Campaign Analyst | Unknown | Declined | 2025-01-21 |
 | SAP | SAP iXp Intern - Software Developer | Palo Alto, CA, US, 94304 | Applied | 2025-01-21 |
