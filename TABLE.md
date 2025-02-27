@@ -43,6 +43,7 @@
 | Citi | Technology, Full Time Analyst | Jacksonville, USA | Applied | 2025-02-27 |
 | Citi | Technology, Full Time Analyst | Tampa, USA | Applied | 2025-02-27 |
 | Unknown | Unknown | Unknown | Applied | 2025-02-27 |
+| Wayfair | Data Scientist II, Recommendation Analytics | Unknown | Declined | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |

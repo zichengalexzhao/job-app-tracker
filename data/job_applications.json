@@ -7537,5 +7537,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-27"
+    },
+    {
+        "Company": "Wayfair",
+        "Job Title": "Data Scientist II, Recommendation Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-27"
     }
 ]
