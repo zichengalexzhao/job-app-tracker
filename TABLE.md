@@ -6,6 +6,7 @@
 | U.S. Bank | Qualitative Analyst | Unknown | Declined | 2025-02-27 |
 | Humana | Data Scientist 2 | Unknown | Declined | 2025-02-27 |
 | Aimé Leon Dore | Unknown | Unknown | Declined | 2025-02-27 |
+| Amazon | Business Analyst | Unknown | Applied | 2025-02-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-26 |
 | Children's Hospital Los Angeles | Data Science Analyst III / Analytics | Unknown | Applied | 2025-02-26 |
 | Agilent | Global Business Intelligence Analyst | Unknown | Declined | 2025-02-26 |
