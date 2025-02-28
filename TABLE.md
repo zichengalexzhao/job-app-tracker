@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| VGP Holdings LLC | Data Analytics Internship | Unknown | Applied | 2025-02-28 |
+| ConstructConnect | Data Scientist I | Unknown | Applied | 2025-02-28 |
+| Ascend Analytics | Unknown | Unknown | Applied | 2025-02-28 |
+| CVS Health | Unknown | Unknown | Applied | 2025-02-28 |
+| Elephas | Unknown | Unknown | Applied | 2025-02-28 |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
