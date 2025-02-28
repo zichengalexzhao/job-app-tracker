@@ -7,6 +7,7 @@
 | Elephas | Unknown | Unknown | Applied | 2025-02-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-02-28 |
 | Jump Associates LLC | Strategist | San Mateo, California | Declined | 2025-02-28 |
+| Cboe | Unknown | Unknown | Applied | 2025-02-28 |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |

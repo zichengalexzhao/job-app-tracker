@@ -7593,5 +7593,12 @@
         "Location": "San Mateo, California",
         "status": "Declined",
         "Date": "2025-02-28"
+    },
+    {
+        "Company": "Cboe",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
     }
 ]
