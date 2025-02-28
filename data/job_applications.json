@@ -7579,5 +7579,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-28"
+    },
+    {
+        "Company": "Lowe's",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Jump Associates LLC",
+        "Job Title": "Strategist",
+        "Location": "San Mateo, California",
+        "status": "Declined",
+        "Date": "2025-02-28"
     }
 ]
