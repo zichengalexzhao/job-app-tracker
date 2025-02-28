@@ -11,6 +11,7 @@
 | Allstate Insurance Company | Business Intelligence Analyst III | Unknown | Applied | 2025-02-28 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-02-28 |
 | Equifax | Data Scientist - Intermediate | Unknown | Applied | 2025-02-28 |
+| Delinea | Data Analyst | Unknown | Declined | 2025-02-28 |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
@@ -39,7 +40,6 @@
 | SoFi | Data Scientist, Pricing | Unknown | Declined | 2025-02-27 |
 | Intermedia.net, Inc. | Unknown | Unknown | Applied | 2025-02-27 |
 | Deckers Brands | Analyst, Consumer Data | Unknown | Applied | 2025-02-27 |
-| Delinea | Data Analyst | Unknown | Applied | 2025-02-27 |
 | LegitScript | Analyst I, Certification | Unknown | Declined | 2025-02-27 |
 | BlueYonder | Data Scientist (Gen AI) | Unknown | Applied | 2025-02-27 |
 | Travelers | Unknown | Unknown | Applied | 2025-02-27 |

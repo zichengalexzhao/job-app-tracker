@@ -7434,13 +7434,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "Delinea",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "LegitScript",
         "Job Title": "Analyst I, Certification",
         "Location": "Unknown",
@@ -7620,6 +7613,13 @@
         "Job Title": "Data Scientist - Intermediate",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Delinea",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-02-28"
     }
 ]
