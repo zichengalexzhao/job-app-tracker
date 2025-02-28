@@ -7434,22 +7434,8 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "Peraton",
-        "Job Title": "AI Research Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "USAA",
         "Job Title": "AI/ML Engineer Entry Level",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
-        "Company": "Peraton",
-        "Job Title": "AI Research Scientist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-27"
@@ -7683,6 +7669,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Peraton",
+        "Job Title": "AI Research Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-02-28"
     }
 ]

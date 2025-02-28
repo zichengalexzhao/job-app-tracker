@@ -24,6 +24,7 @@
 | Coalition, Inc. | Unknown | Unknown | Applied | 2025-02-28 |
 | CyberCube | Data Scientist | San Francisco, CA | Applied | 2025-02-28 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-02-28 |
+| Peraton | AI Research Scientist | Unknown | Declined | 2025-02-28 |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
@@ -55,9 +56,7 @@
 | LegitScript | Analyst I, Certification | Unknown | Declined | 2025-02-27 |
 | BlueYonder | Data Scientist (Gen AI) | Unknown | Applied | 2025-02-27 |
 | Travelers | Unknown | Unknown | Applied | 2025-02-27 |
-| Peraton | AI Research Scientist | Unknown | Applied | 2025-02-27 |
 | USAA | AI/ML Engineer Entry Level | Unknown | Applied | 2025-02-27 |
-| Peraton | AI Research Scientist | Unknown | Applied | 2025-02-27 |
 | Kodiak | New Grad Applied AI Engineer - Computer Vision | Unknown | Applied | 2025-02-27 |
 | Starcom (Publicis Groupe) | Analyst, Paid Social (2025-95407) | Unknown | Applied | 2025-02-27 |
 | Coalition Technologies | SEO Analyst | Unknown | Applied | 2025-02-27 |
