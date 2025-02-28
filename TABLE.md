@@ -25,6 +25,7 @@
 | CyberCube | Data Scientist | San Francisco, CA | Applied | 2025-02-28 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-02-28 |
 | Peraton | AI Research Scientist | Unknown | Declined | 2025-02-28 |
+| GOBankingRates | Digital Yield Analyst | 100% Remote, Anywhere in the USA | Declined | 2025-02-28 |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
@@ -107,7 +108,6 @@
 | Steampunk | Junior Data Analyst | Unknown | Applied | 2025-02-25 |
 | Angi | Insights Analyst | Unknown | Applied | 2025-02-25 |
 | Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-02-25 |
-| GOBankingRates | Digital Yield Analyst | 100% Remote, Anywhere in the USA | Applied | 2025-02-25 |
 | Bikky | Data Analyst - Data Operations | Unknown | Applied | 2025-02-25 |
 | Nexon America Inc | Fraud Analyst | El Segundo, CA | Applied | 2025-02-25 |
 | Applecart | Unknown | Unknown | Applied | 2025-02-25 |

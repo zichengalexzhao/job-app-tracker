@@ -6993,13 +6993,6 @@
         "Date": "2025-02-25"
     },
     {
-        "Company": "GOBankingRates",
-        "Job Title": "Digital Yield Analyst",
-        "Location": "100% Remote, Anywhere in the USA",
-        "status": "Applied",
-        "Date": "2025-02-25"
-    },
-    {
         "Company": "Bikky",
         "Job Title": "Data Analyst - Data Operations",
         "Location": "Unknown",
@@ -7675,6 +7668,13 @@
         "Company": "Peraton",
         "Job Title": "AI Research Scientist",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "GOBankingRates",
+        "Job Title": "Digital Yield Analyst",
+        "Location": "100% Remote, Anywhere in the USA",
         "status": "Declined",
         "Date": "2025-02-28"
     }
