@@ -12,6 +12,18 @@
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-02-28 |
 | Equifax | Data Scientist - Intermediate | Unknown | Applied | 2025-02-28 |
 | Delinea | Data Analyst | Unknown | Declined | 2025-02-28 |
+| Nextdoor | Unknown | Unknown | Applied | 2025-02-28 |
+| Adobe | AI/ML Engineer | Unknown | Applied | 2025-02-28 |
+| JT4 LLC | Computer Scientist VI | Unknown | Applied | 2025-02-28 |
+| Adobe | Machine Learning Engineer | Unknown | Applied | 2025-02-28 |
+| KLA-Tencor | Data Science and SW Engineering Intern | Unknown | Declined | 2025-02-28 |
+| DraftKings | Unknown | Unknown | Applied | 2025-02-28 |
+| Stantec Consulting Ltd. | Data Analyst-250000UI | Unknown | Applied | 2025-02-28 |
+| Affirm | Analyst I, Fraud Strategy and Analytics | Unknown | Declined | 2025-02-28 |
+| Nurix | Unknown | Unknown | Applied | 2025-02-28 |
+| Coalition, Inc. | Unknown | Unknown | Applied | 2025-02-28 |
+| CyberCube | Data Scientist | San Francisco, CA | Applied | 2025-02-28 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-02-28 |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
@@ -181,7 +193,6 @@
 | KLA | Workforce Data Analytics Intern | Unknown | Applied | 2025-02-21 |
 | KLA-Tencor | Data Engineer/Power BI Developer | Unknown | Applied | 2025-02-21 |
 | KLA-Tencor | Data Scientist | Unknown | Applied | 2025-02-21 |
-| KLA-Tencor | Data Science and SW Engineering Intern | Unknown | Applied | 2025-02-21 |
 | Applied Materials | Summer Intern - Data Scientist | Unknown | Applied | 2025-02-21 |
 | Applied Materials | Corporate Strategy Intern – Data Science | Unknown | Applied | 2025-02-21 |
 | Applied Materials | Corporate Strategy Intern – Data Science | Santa Clara, CA | Applied | 2025-02-21 |
@@ -337,7 +348,6 @@
 | DoorDash | Machine Learning Intern (Masters/PhD), Summer 2025 | Unknown | Applied | 2025-02-12 |
 | Jerry | Senior Data Scientist (Machine Learning) | Unknown | Applied | 2025-02-12 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-12 |
-| Affirm | Analyst I, Fraud Strategy and Analytics | Unknown | Applied | 2025-02-12 |
 | The Wonderful Company | Junior Data Scientist, Global Sourcing | Unknown | Declined | 2025-02-12 |
 | Montefiore Medical Center | BUSINESS INTELLIGENCE ANALYST | Yonkers, NY | Applied | 2025-02-12 |
 | WEX | Risk Data Scientist - Risk Solutions | Unknown | Declined | 2025-02-12 |
@@ -1068,7 +1078,6 @@
 | Uline | eCommerce Data Analyst Internship - Summer 2025 | Unknown | Applied | 2024-08-31 |
 | P&G (Procter & Gamble) | Consumer & Market Knowledge - Analytics & Insights Manager | Unknown | Declined | 2024-08-30 |
 | P&G (Procter & Gamble) | Brand Manager | Unknown | Declined | 2024-08-30 |
-| Affirm | Analyst I, Fraud Strategy and Analytics | Unknown | Applied | 2024-08-29 |
 | Uline | Unknown | Unknown | Applied | 2024-08-29 |
 | Mathematica | Unknown | Unknown | Applied | 2024-08-29 |
 | OMNIVISION | Sales Operation Analyst | Unknown | Applied | 2024-08-28 |

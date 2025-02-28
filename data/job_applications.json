@@ -322,13 +322,6 @@
         "Date": "2025-02-21"
     },
     {
-        "Company": "KLA-Tencor",
-        "Job Title": "Data Science and SW Engineering Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
         "Company": "Applied Materials",
         "Job Title": "Summer Intern - Data Scientist",
         "Location": "Unknown",
@@ -1409,13 +1402,6 @@
     {
         "Company": "CVS Health",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-12"
-    },
-    {
-        "Company": "Affirm",
-        "Job Title": "Analyst I, Fraud Strategy and Analytics",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-12"
@@ -6678,13 +6664,6 @@
         "Date": "2024-08-30"
     },
     {
-        "Company": "Affirm",
-        "Job Title": "Analyst I, Fraud Strategy and Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-08-29"
-    },
-    {
         "Company": "Uline",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -7620,6 +7599,90 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Nextdoor",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "AI/ML Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "JT4 LLC",
+        "Job Title": "Computer Scientist VI",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Machine Learning Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "KLA-Tencor",
+        "Job Title": "Data Science and SW Engineering Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "DraftKings",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Stantec Consulting Ltd.",
+        "Job Title": "Data Analyst-250000UI",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Affirm",
+        "Job Title": "Analyst I, Fraud Strategy and Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Nurix",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Coalition, Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "CyberCube",
+        "Job Title": "Data Scientist",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-02-28"
     }
 ]
