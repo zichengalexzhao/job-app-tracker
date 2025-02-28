@@ -7600,5 +7600,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-28"
+    },
+    {
+        "Company": "Allstate Insurance Company",
+        "Job Title": "Business Intelligence Analyst III",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Warner Bros. Discovery",
+        "Job Title": "Analyst, Forecasting & Video Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Equifax",
+        "Job Title": "Data Scientist - Intermediate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
     }
 ]
