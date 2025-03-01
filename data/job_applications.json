@@ -7733,5 +7733,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-02-28"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Scientist 2 - 280716",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Scientist 2",
+        "Location": "Redwood City, CA, United States",
+        "status": "Applied",
+        "Date": "2025-03-01"
     }
 ]

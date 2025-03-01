@@ -6,6 +6,8 @@
 | Precisely | Unknown | Unknown | Applied | 2025-03-01 |
 | Vida Health | Data Analyst | Unknown | Applied | 2025-03-01 |
 | University of North Texas System | Data Analyst | Denton | Applied | 2025-03-01 |
+| Oracle | Data Scientist 2 - 280716 | Unknown | Applied | 2025-03-01 |
+| Oracle | Data Scientist 2 | Redwood City, CA, United States | Applied | 2025-03-01 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Applied | 2025-02-28 |
 | ConstructConnect | Data Scientist I | Unknown | Applied | 2025-02-28 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-02-28 |
