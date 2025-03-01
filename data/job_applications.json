@@ -7677,5 +7677,61 @@
         "Location": "100% Remote, Anywhere in the USA",
         "status": "Declined",
         "Date": "2025-02-28"
+    },
+    {
+        "Company": "Anywhere Careers",
+        "Job Title": "Analyst Data Analytics",
+        "Location": "US Based Remote",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Anywhere Careers",
+        "Job Title": "Data Analytics Analyst",
+        "Location": "US Based Remote",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "CharterUP",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Precisely",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Vida Health",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "University of North Texas System",
+        "Job Title": "Data Analyst",
+        "Location": "Denton",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Marrina Decisions",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-02-28"
+    },
+    {
+        "Company": "Docusign",
+        "Job Title": "Growth Strategy & Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-02-28"
     }
 ]

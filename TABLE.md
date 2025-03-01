@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-03-01 |
+| Anywhere Careers | Data Analytics Analyst | US Based Remote | Applied | 2025-03-01 |
+| CharterUP | Data Analyst | Unknown | Applied | 2025-03-01 |
+| Precisely | Unknown | Unknown | Applied | 2025-03-01 |
+| Vida Health | Data Analyst | Unknown | Applied | 2025-03-01 |
+| University of North Texas System | Data Analyst | Denton | Applied | 2025-03-01 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Applied | 2025-02-28 |
 | ConstructConnect | Data Scientist I | Unknown | Applied | 2025-02-28 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-02-28 |
@@ -26,6 +32,8 @@
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-02-28 |
 | Peraton | AI Research Scientist | Unknown | Declined | 2025-02-28 |
 | GOBankingRates | Digital Yield Analyst | 100% Remote, Anywhere in the USA | Declined | 2025-02-28 |
+| Marrina Decisions | Unknown | Unknown | Applied | 2025-02-28 |
+| Docusign | Growth Strategy & Operations Analyst | Unknown | Declined | 2025-02-28 |
 | Applied Medical | Business Analyst (SAP LE/Logistics Execution) | Unknown | Declined | 2025-02-27 |
 | Aarki | Analyst | San Francisco | Declined | 2025-02-27 |
 | SDSU Research Foundation | NIWC - Undergraduate II (Junior/Senior) ESTCP-Cali Least Tern Project (Task No 71-2524302) | Unknown | Applied | 2025-02-27 |
