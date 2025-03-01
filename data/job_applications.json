@@ -7761,5 +7761,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-01"
+    },
+    {
+        "Company": "MultiPlan",
+        "Job Title": "Sr. Data Scientist -AI/ML",
+        "Location": "Boston, MA",
+        "status": "Applied",
+        "Date": "2025-03-01"
     }
 ]
