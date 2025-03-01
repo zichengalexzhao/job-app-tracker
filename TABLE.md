@@ -9,6 +9,7 @@
 | Oracle | Data Scientist 2 - 280716 | Unknown | Applied | 2025-03-01 |
 | Oracle | Data Scientist 2 | Redwood City, CA, United States | Applied | 2025-03-01 |
 | Gartner | Associate Data Analyst | Unknown | Applied | 2025-03-01 |
+| Marsh McLennan Agency | Marketing Analytics Intern | Unknown | Declined | 2025-03-01 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Applied | 2025-02-28 |
 | ConstructConnect | Data Scientist I | Unknown | Applied | 2025-02-28 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-02-28 |
@@ -323,7 +324,6 @@
 | foodpanda | Data Analyst | Unknown | Applied | 2025-02-13 |
 | AMD | Data Analyst Intern/Co-Op | Unknown | Applied | 2025-02-13 |
 | Unknown | Data Engineering Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |
-| Marsh McLennan Agency | Marketing Analytics Intern | Unknown | Applied | 2025-02-13 |
 | Lucid Motors | Intern, Strategy Analyst, Summer 2025 | Unknown | Applied | 2025-02-13 |
 | Harbinger Motors Inc. | Intern, Production Data Analytics | Unknown | Applied | 2025-02-13 |
 | Unknown | Business Analytics Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |
