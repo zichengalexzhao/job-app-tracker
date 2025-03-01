@@ -7686,13 +7686,6 @@
         "Date": "2025-03-01"
     },
     {
-        "Company": "CharterUP",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-01"
-    },
-    {
         "Company": "Precisely",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -7752,6 +7745,13 @@
         "Company": "Marsh McLennan Agency",
         "Job Title": "Marketing Analytics Intern",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "CharterUP",
+        "Job Title": "Data Analyst",
+        "Location": "Multiple states (Arizona, California, Colorado, Florida, Georgia, Hawaii, Missouri, Mississippi, North Carolina, New Hampshire, Nevada, New York, Oklahoma, South Dakota, Tennessee, Texas, Utah, Washington, Wyoming)",
         "status": "Declined",
         "Date": "2025-03-01"
     }
