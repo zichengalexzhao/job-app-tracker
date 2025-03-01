@@ -7747,5 +7747,12 @@
         "Location": "Redwood City, CA, United States",
         "status": "Applied",
         "Date": "2025-03-01"
+    },
+    {
+        "Company": "Gartner",
+        "Job Title": "Associate Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
     }
 ]
