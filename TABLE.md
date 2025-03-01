@@ -10,6 +10,7 @@
 | Gartner | Associate Data Analyst | Unknown | Applied | 2025-03-01 |
 | Marsh McLennan Agency | Marketing Analytics Intern | Unknown | Declined | 2025-03-01 |
 | CharterUP | Data Analyst | Multiple states (Arizona, California, Colorado, Florida, Georgia, Hawaii, Missouri, Mississippi, North Carolina, New Hampshire, Nevada, New York, Oklahoma, South Dakota, Tennessee, Texas, Utah, Washington, Wyoming) | Declined | 2025-03-01 |
+| Circana | Client Insights Analyst SRANA014184 | Unknown | Declined | 2025-03-01 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Applied | 2025-02-28 |
 | ConstructConnect | Data Scientist I | Unknown | Applied | 2025-02-28 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-02-28 |
