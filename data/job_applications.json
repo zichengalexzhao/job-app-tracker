@@ -7768,5 +7768,89 @@
         "Location": "Boston, MA",
         "status": "Applied",
         "Date": "2025-03-01"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Data Scientist III",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Red Canary",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "CarGurus",
+        "Job Title": "Product Data Analyst, Consumer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "CarGurus",
+        "Job Title": "Marketing Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "NewsBreak",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "NewsBreak",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Ascend Analytics",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Martin-Brower of Canada Co",
+        "Job Title": "Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "DAS42",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Alameda Health System",
+        "Job Title": "Value Analysis Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
+    },
+    {
+        "Company": "Braze",
+        "Job Title": "Analytics Consulting Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-01"
     }
 ]

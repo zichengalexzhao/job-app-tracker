@@ -12,6 +12,18 @@
 | CharterUP | Data Analyst | Multiple states (Arizona, California, Colorado, Florida, Georgia, Hawaii, Missouri, Mississippi, North Carolina, New Hampshire, Nevada, New York, Oklahoma, South Dakota, Tennessee, Texas, Utah, Washington, Wyoming) | Declined | 2025-03-01 |
 | Circana | Client Insights Analyst SRANA014184 | Unknown | Declined | 2025-03-01 |
 | MultiPlan | Sr. Data Scientist -AI/ML | Boston, MA | Applied | 2025-03-01 |
+| Walmart | Data Scientist III | Unknown | Applied | 2025-03-01 |
+| Walmart | Data Analyst II | Unknown | Applied | 2025-03-01 |
+| Red Canary | Unknown | Unknown | Applied | 2025-03-01 |
+| CarGurus | Product Data Analyst, Consumer | Unknown | Applied | 2025-03-01 |
+| CarGurus | Marketing Analytics Analyst | Unknown | Applied | 2025-03-01 |
+| NewsBreak | Unknown | Unknown | Applied | 2025-03-01 |
+| NewsBreak | Unknown | Unknown | Applied | 2025-03-01 |
+| Ascend Analytics | Unknown | Unknown | Applied | 2025-03-01 |
+| Martin-Brower of Canada Co | Business Data Analyst | Unknown | Applied | 2025-03-01 |
+| DAS42 | Unknown | Unknown | Applied | 2025-03-01 |
+| Alameda Health System | Value Analysis Business Analyst | Unknown | Applied | 2025-03-01 |
+| Braze | Analytics Consulting Intern | Unknown | Applied | 2025-03-01 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Applied | 2025-02-28 |
 | ConstructConnect | Data Scientist I | Unknown | Applied | 2025-02-28 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-02-28 |
