@@ -11,6 +11,7 @@
 | Children's Hospital of Philadelphia (CHOP) | Unknown | Unknown | Applied | 2025-03-02 |
 | Verizon | Engr I-Data Science | Unknown | Applied | 2025-03-02 |
 | Williams-Sonoma, Inc. | Associate Data Scientist | Unknown | Applied | 2025-03-02 |
+| AIG | Unknown | Unknown | Applied | 2025-03-02 |
 | Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-03-01 |
 | Anywhere Careers | Data Analytics Analyst | US Based Remote | Applied | 2025-03-01 |
 | Precisely | Unknown | Unknown | Applied | 2025-03-01 |
