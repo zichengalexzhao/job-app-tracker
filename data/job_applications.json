@@ -7887,5 +7887,33 @@
         "Location": "Washington, Washington DC",
         "status": "Applied",
         "Date": "2025-03-02"
+    },
+    {
+        "Company": "Credit One Bank",
+        "Job Title": "Enterprise Data Strategy & Governance - Data Scientist I - P1",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-02"
+    },
+    {
+        "Company": "Corning",
+        "Job Title": "Data Analytics Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-02"
+    },
+    {
+        "Company": "Children's Hospital of Philadelphia (CHOP)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-02"
+    },
+    {
+        "Company": "Verizon",
+        "Job Title": "Engr I-Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-02"
     }
 ]

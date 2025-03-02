@@ -6,6 +6,10 @@
 | Sephora | Analyst, Loyalty | San Francisco, CA, United States | Applied | 2025-03-02 |
 | Yochana | Business Analyst | Irvine, CA | Applied | 2025-03-02 |
 | Amtrak | Unknown | Washington, Washington DC | Applied | 2025-03-02 |
+| Credit One Bank | Enterprise Data Strategy & Governance - Data Scientist I - P1 | Unknown | Applied | 2025-03-02 |
+| Corning | Data Analytics Engineer | Unknown | Applied | 2025-03-02 |
+| Children's Hospital of Philadelphia (CHOP) | Unknown | Unknown | Applied | 2025-03-02 |
+| Verizon | Engr I-Data Science | Unknown | Applied | 2025-03-02 |
 | Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-03-01 |
 | Anywhere Careers | Data Analytics Analyst | US Based Remote | Applied | 2025-03-01 |
 | Precisely | Unknown | Unknown | Applied | 2025-03-01 |
