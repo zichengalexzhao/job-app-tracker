@@ -7873,5 +7873,19 @@
         "Location": "San Francisco, CA, United States",
         "status": "Applied",
         "Date": "2025-03-02"
+    },
+    {
+        "Company": "Yochana",
+        "Job Title": "Business Analyst",
+        "Location": "Irvine, CA",
+        "status": "Applied",
+        "Date": "2025-03-02"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Unknown",
+        "Location": "Washington, Washington DC",
+        "status": "Applied",
+        "Date": "2025-03-02"
     }
 ]

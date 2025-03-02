@@ -4,6 +4,8 @@
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |
 | Sephora | Analyst, Loyalty | San Francisco, CA, United States | Applied | 2025-03-02 |
+| Yochana | Business Analyst | Irvine, CA | Applied | 2025-03-02 |
+| Amtrak | Unknown | Washington, Washington DC | Applied | 2025-03-02 |
 | Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-03-01 |
 | Anywhere Careers | Data Analytics Analyst | US Based Remote | Applied | 2025-03-01 |
 | Precisely | Unknown | Unknown | Applied | 2025-03-01 |
