@@ -7490,13 +7490,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "VGP Holdings LLC",
-        "Job Title": "Data Analytics Internship",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-28"
-    },
-    {
         "Company": "ConstructConnect",
         "Job Title": "Data Scientist I",
         "Location": "Unknown",
@@ -7852,5 +7845,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-01"
+    },
+    {
+        "Company": "VGP Holdings LLC",
+        "Job Title": "Data Analytics Internship",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-02"
     }
 ]

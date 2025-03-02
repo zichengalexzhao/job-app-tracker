@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | Anywhere Careers | Analyst Data Analytics | US Based Remote | Applied | 2025-03-01 |
 | Anywhere Careers | Data Analytics Analyst | US Based Remote | Applied | 2025-03-01 |
 | Precisely | Unknown | Unknown | Applied | 2025-03-01 |
@@ -24,7 +25,6 @@
 | DAS42 | Unknown | Unknown | Applied | 2025-03-01 |
 | Alameda Health System | Value Analysis Business Analyst | Unknown | Applied | 2025-03-01 |
 | Braze | Analytics Consulting Intern | Unknown | Applied | 2025-03-01 |
-| VGP Holdings LLC | Data Analytics Internship | Unknown | Applied | 2025-02-28 |
 | ConstructConnect | Data Scientist I | Unknown | Applied | 2025-02-28 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-02-28 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-28 |
