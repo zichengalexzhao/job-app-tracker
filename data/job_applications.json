@@ -7957,5 +7957,12 @@
         "Location": "Basking Ridge, New Jersey",
         "status": "Applied",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Scientist 2-280716",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-03"
     }
 ]

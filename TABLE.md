@@ -5,6 +5,7 @@
 | LiveRamp | Unknown | Unknown | Applied | 2025-03-03 |
 | Children's Hospital of Philadelphia | Data Scientist I - Center for Autism Research | Unknown | Applied | 2025-03-03 |
 | Verizon | Engr I-Data Science R-1065492 | Basking Ridge, New Jersey | Applied | 2025-03-03 |
+| Oracle | Data Scientist 2-280716 | Unknown | Declined | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |
