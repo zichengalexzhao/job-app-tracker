@@ -8160,5 +8160,75 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "McKinsey",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "CarGurus",
+        "Job Title": "Marketing Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Fetch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Boston Consulting Group (BCG)",
+        "Job Title": "Data Scientist",
+        "Location": "China",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Oscar",
+        "Job Title": "Data Scientist I, Medical Cost Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "CHEP/Brambles",
+        "Job Title": "Software Data Analyst",
+        "Location": "Orlando / Alpharetta (Hybrid)",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Boston Consulting Group (BCG)",
+        "Job Title": "Data Scientist",
+        "Location": "United States - BCG X",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Penn Interactive",
+        "Job Title": "Data Analyst, Enterprise",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Analyst - Risk & Resilience",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
     }
 ]

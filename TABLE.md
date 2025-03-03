@@ -35,6 +35,16 @@
 | Hayden AI | Data Analyst | Unknown | Applied | 2025-03-03 |
 | Bumble Inc. | Data Scientist, Trust & Safety | Unknown | Applied | 2025-03-03 |
 | SimpliSafe | Analytics Engineer | Unknown | Applied | 2025-03-03 |
+| McKinsey | Unknown | Unknown | Applied | 2025-03-03 |
+| CarGurus | Marketing Analytics Analyst | Unknown | Applied | 2025-03-03 |
+| Fetch | Unknown | Unknown | Applied | 2025-03-03 |
+| Boston Consulting Group (BCG) | Data Scientist | China | Applied | 2025-03-03 |
+| Oscar | Data Scientist I, Medical Cost Analytics | Unknown | Applied | 2025-03-03 |
+| CHEP/Brambles | Software Data Analyst | Orlando / Alpharetta (Hybrid) | Applied | 2025-03-03 |
+| Boston Consulting Group (BCG) | Data Scientist | United States - BCG X | Applied | 2025-03-03 |
+| Penn Interactive | Data Analyst, Enterprise | Unknown | Applied | 2025-03-03 |
+| McKinsey & Company | Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial) | Unknown | Applied | 2025-03-03 |
+| McKinsey & Company | Analyst - Risk & Resilience | Unknown | Applied | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |
