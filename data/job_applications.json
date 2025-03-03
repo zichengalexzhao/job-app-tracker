@@ -7964,5 +7964,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "Toyota",
+        "Job Title": "Data Analyst",
+        "Location": "Plano, Texas",
+        "status": "Applied",
+        "Date": "2025-03-03"
     }
 ]
