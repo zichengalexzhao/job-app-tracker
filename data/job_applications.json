@@ -3829,13 +3829,6 @@
         "Date": "2025-02-24"
     },
     {
-        "Company": "NBCUniversal",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-24"
-    },
-    {
         "Company": "Notion",
         "Job Title": "Data Scientist, Growth",
         "Location": "Unknown",
@@ -7998,6 +7991,55 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "NBCUniversal",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Ranger Technical Resources",
+        "Job Title": "Application Analyst",
+        "Location": "Newport Beach, CA",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Businessolver",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Partner Management Coordinator, Prime Video Channels",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Partner Management Coordinator, Prime Video Channels",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Toll Brothers, Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Toll Brothers, Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-03"
     }
 ]

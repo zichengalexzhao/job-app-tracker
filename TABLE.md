@@ -11,6 +11,13 @@
 | Bikky | Data Analyst - Data Operations | Unknown | Applied | 2025-03-03 |
 | GenTech Associates | Data Analyst | Unknown | Declined | 2025-03-03 |
 | Kodiak Robotics | Unknown | Unknown | Declined | 2025-03-03 |
+| NBCUniversal | Data Analyst | Unknown | Declined | 2025-03-03 |
+| Ranger Technical Resources | Application Analyst | Newport Beach, CA | Applied | 2025-03-03 |
+| Businessolver | Unknown | Unknown | Applied | 2025-03-03 |
+| Amazon | Partner Management Coordinator, Prime Video Channels | Unknown | Applied | 2025-03-03 |
+| Amazon | Partner Management Coordinator, Prime Video Channels | Unknown | Applied | 2025-03-03 |
+| Toll Brothers, Inc. | Unknown | Unknown | Applied | 2025-03-03 |
+| Toll Brothers, Inc. | Unknown | Unknown | Applied | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |
@@ -189,7 +196,6 @@
 | Tripoint Solutions | Data Analyst | Unknown | Applied | 2025-02-24 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-02-24 |
 | iBusiness Funding | Unknown | Unknown | Applied | 2025-02-24 |
-| NBCUniversal | Data Analyst | Unknown | Applied | 2025-02-24 |
 | Notion | Data Scientist, Growth | Unknown | Applied | 2025-02-24 |
 | Tencent | Unknown | Unknown | Applied | 2025-02-24 |
 | Tencent | Unknown | Unknown | Applied | 2025-02-24 |
