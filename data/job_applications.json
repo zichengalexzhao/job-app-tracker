@@ -8069,5 +8069,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "Rakuten",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Sierra",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Kikoff",
+        "Job Title": "Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Kikoff",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
     }
 ]
