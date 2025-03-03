@@ -26,6 +26,7 @@
 | Sierra | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Kikoff | Operations Analyst | Unknown | Applied | 2025-03-03 |
 | Kikoff | Data Scientist | Unknown | Applied | 2025-03-03 |
+| Reyes Holdings, L.L.C | Business Data Analyst | Unknown | Declined | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |

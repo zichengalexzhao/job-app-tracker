@@ -8097,5 +8097,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "Reyes Holdings, L.L.C",
+        "Job Title": "Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-03"
     }
 ]
