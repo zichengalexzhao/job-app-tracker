@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Lightmatter | Unknown | Unknown | Declined | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |
@@ -221,7 +222,6 @@
 | Candid Health | BI (Analytics) Engineer | Unknown | Applied | 2025-02-22 |
 | Garner Health | Data Scientist II | Unknown | Declined | 2025-02-22 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-22 |
-| Lightmatter | Unknown | Unknown | Applied | 2025-02-22 |
 | Lattice | Unknown | Unknown | Declined | 2025-02-22 |
 | Horizon Media | Data Analyst | Unknown | Declined | 2025-02-21 |
 | Google | Unknown | Unknown | Applied | 2025-02-21 |
