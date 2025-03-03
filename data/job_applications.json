@@ -8041,5 +8041,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "Beek Health",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Parafin",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "PriceLabs",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Kalibri Labs",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
     }
 ]
