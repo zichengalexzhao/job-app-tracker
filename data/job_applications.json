@@ -7929,5 +7929,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "LiveRamp",
+        "Job Title": "Data Science Co-Op",
+        "Location": "San Francisco",
+        "status": "Applied",
+        "Date": "2025-03-03"
     }
 ]
