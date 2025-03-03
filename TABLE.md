@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Lightmatter | Unknown | Unknown | Declined | 2025-03-03 |
 | LiveRamp | Data Science Co-Op | San Francisco | Applied | 2025-03-03 |
+| LiveRamp | Unknown | Unknown | Applied | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |

@@ -7936,5 +7936,12 @@
         "Location": "San Francisco",
         "status": "Applied",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "LiveRamp",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
     }
 ]
