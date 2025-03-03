@@ -27,6 +27,14 @@
 | Kikoff | Operations Analyst | Unknown | Applied | 2025-03-03 |
 | Kikoff | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Reyes Holdings, L.L.C | Business Data Analyst | Unknown | Declined | 2025-03-03 |
+| StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Applied | 2025-03-03 |
+| Disney | Data Scientist | Unknown | Applied | 2025-03-03 |
+| Pixability | Unknown | Unknown | Applied | 2025-03-03 |
+| ByteDance | Enterprise Application System Operation Specialist | Unknown | Applied | 2025-03-03 |
+| ByteDance | Data Scientist | Unknown | Applied | 2025-03-03 |
+| Hayden AI | Data Analyst | Unknown | Applied | 2025-03-03 |
+| Bumble Inc. | Data Scientist, Trust & Safety | Unknown | Applied | 2025-03-03 |
+| SimpliSafe | Analytics Engineer | Unknown | Applied | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |

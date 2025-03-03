@@ -8104,5 +8104,61 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-03"
+    },
+    {
+        "Company": "StackAdapt",
+        "Job Title": "Product Data Analyst, Mobile App User Acquisition",
+        "Location": "USA or Canada",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Pixability",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "ByteDance",
+        "Job Title": "Enterprise Application System Operation Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "ByteDance",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Hayden AI",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "Bumble Inc.",
+        "Job Title": "Data Scientist, Trust & Safety",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
+    },
+    {
+        "Company": "SimpliSafe",
+        "Job Title": "Analytics Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-03"
     }
 ]
