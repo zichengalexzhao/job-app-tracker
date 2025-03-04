@@ -8078,13 +8078,6 @@
         "Date": "2025-03-03"
     },
     {
-        "Company": "Sierra",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
         "Company": "Kikoff",
         "Job Title": "Operations Analyst",
         "Location": "Unknown",
@@ -8243,6 +8236,13 @@
         "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Sierra",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-04"
     }
 ]

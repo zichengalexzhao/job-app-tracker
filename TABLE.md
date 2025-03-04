@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
+| Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
 | Lightmatter | Unknown | Unknown | Declined | 2025-03-03 |
 | LiveRamp | Data Science Co-Op | San Francisco | Applied | 2025-03-03 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-03-03 |
@@ -25,7 +26,6 @@
 | PriceLabs | Unknown | Unknown | Applied | 2025-03-03 |
 | Kalibri Labs | Data Analyst | Unknown | Applied | 2025-03-03 |
 | Rakuten | Unknown | Unknown | Applied | 2025-03-03 |
-| Sierra | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Kikoff | Operations Analyst | Unknown | Applied | 2025-03-03 |
 | Kikoff | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Reyes Holdings, L.L.C | Business Data Analyst | Unknown | Declined | 2025-03-03 |
