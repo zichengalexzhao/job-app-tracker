@@ -7315,13 +7315,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "HelioCampus, Inc.",
-        "Job Title": "Data Scientist I",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "Netflix",
         "Job Title": "Data Scientist (L4) - Growth and Membership",
         "Location": "Unknown",
@@ -8256,6 +8249,69 @@
         "Company": "MasterControl",
         "Job Title": "Unknown",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "HelioCampus, Inc.",
+        "Job Title": "Data Scientist I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Dolby",
+        "Job Title": "Marketing Data Analytics & Insights Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Jerry",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Character.ai",
+        "Job Title": "Data Scientist, Monetization",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Hippocratic AI",
+        "Job Title": "Junior Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "CHEP/Brambles",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Lightcast",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "TextNow",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Yelp, Inc.",
+        "Job Title": "Senior Analyst, Product Analytics",
+        "Location": "Remote - US",
         "status": "Applied",
         "Date": "2025-03-04"
     }

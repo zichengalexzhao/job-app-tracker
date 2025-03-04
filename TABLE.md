@@ -5,6 +5,15 @@
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
 | Energy Solutions | Senior Data Analyst | Oakland, CA | Applied | 2025-03-04 |
 | MasterControl | Unknown | Unknown | Applied | 2025-03-04 |
+| HelioCampus, Inc. | Data Scientist I | Unknown | Declined | 2025-03-04 |
+| Dolby | Marketing Data Analytics & Insights Specialist | Unknown | Applied | 2025-03-04 |
+| Jerry | Data Scientist | Unknown | Applied | 2025-03-04 |
+| Character.ai | Data Scientist, Monetization | Unknown | Applied | 2025-03-04 |
+| Hippocratic AI | Junior Product Analyst | Unknown | Applied | 2025-03-04 |
+| CHEP/Brambles | Data Scientist | Unknown | Applied | 2025-03-04 |
+| Lightcast | Data Scientist | Unknown | Applied | 2025-03-04 |
+| TextNow | Data Scientist | Unknown | Applied | 2025-03-04 |
+| Yelp, Inc. | Senior Analyst, Product Analytics | Remote - US | Applied | 2025-03-04 |
 | Lightmatter | Unknown | Unknown | Declined | 2025-03-03 |
 | LiveRamp | Data Science Co-Op | San Francisco | Applied | 2025-03-03 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-03-03 |
@@ -130,7 +139,6 @@
 | Oak Street Health | Decision Scientist | Unknown | Applied | 2025-02-27 |
 | RGP | Unknown | Unknown | Applied | 2025-02-27 |
 | IQVIA | Data Science Intern - Summer 2025 | Unknown | Applied | 2025-02-27 |
-| HelioCampus, Inc. | Data Scientist I | Unknown | Applied | 2025-02-27 |
 | Netflix | Data Scientist (L4) - Growth and Membership | Unknown | Applied | 2025-02-27 |
 | Amazon | Data Scientist, Amazon Music - DISCO | Unknown | Applied | 2025-02-27 |
 | Amazon | Data Scientist, Amazon Music - DISCO | Unknown | Applied | 2025-02-27 |
