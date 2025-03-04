@@ -8244,5 +8244,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-04"
+    },
+    {
+        "Company": "Energy Solutions",
+        "Job Title": "Senior Data Analyst",
+        "Location": "Oakland, CA",
+        "status": "Applied",
+        "Date": "2025-03-04"
     }
 ]
