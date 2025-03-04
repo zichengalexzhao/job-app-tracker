@@ -8251,5 +8251,12 @@
         "Location": "Oakland, CA",
         "status": "Applied",
         "Date": "2025-03-04"
+    },
+    {
+        "Company": "MasterControl",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
     }
 ]
