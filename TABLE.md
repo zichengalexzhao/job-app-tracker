@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Lightmatter | Unknown | Unknown | Declined | 2025-03-03 |
 | LiveRamp | Data Science Co-Op | San Francisco | Applied | 2025-03-03 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-03-03 |
