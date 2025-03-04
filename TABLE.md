@@ -14,6 +14,21 @@
 | Lightcast | Data Scientist | Unknown | Applied | 2025-03-04 |
 | TextNow | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Yelp, Inc. | Senior Analyst, Product Analytics | Remote - US | Applied | 2025-03-04 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-04 |
+| UCSF (University of California, San Francisco) | Data Scientist | Unknown | Applied | 2025-03-04 |
+| Extend | Unknown | Unknown | Applied | 2025-03-04 |
+| Rippling | Risk Data Scientist | Unknown | Applied | 2025-03-04 |
+| Lucid Software | Unknown | Unknown | Applied | 2025-03-04 |
+| Transfr | Data Analyst | Unknown | Applied | 2025-03-04 |
+| Carilion Clinic | AI and Data Scientist- Health Analytics | Unknown | Applied | 2025-03-04 |
+| Cognizant | Workday - Data Conversion Associate Consultant | Unknown | Applied | 2025-03-04 |
+| Unknown | AI Engineer | Unknown | Applied | 2025-03-04 |
+| Mass General Brigham | Data Analyst I | Unknown | Applied | 2025-03-04 |
+| ID.me | Unknown | Unknown | Applied | 2025-03-04 |
+| Render | Unknown | Unknown | Applied | 2025-03-04 |
+| Sentilink | Unknown | Unknown | Applied | 2025-03-04 |
+| Eightfold | Machine Learning Engineer - AI | Unknown | Applied | 2025-03-04 |
+| CVS Health | Unknown | Unknown | Applied | 2025-03-04 |
 | Lightmatter | Unknown | Unknown | Declined | 2025-03-03 |
 | LiveRamp | Data Science Co-Op | San Francisco | Applied | 2025-03-03 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-03-03 |

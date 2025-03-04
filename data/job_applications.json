@@ -8314,5 +8314,110 @@
         "Location": "Remote - US",
         "status": "Applied",
         "Date": "2025-03-04"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "UCSF (University of California, San Francisco)",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Extend",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Rippling",
+        "Job Title": "Risk Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Lucid Software",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Transfr",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Carilion Clinic",
+        "Job Title": "AI and Data Scientist- Health Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Cognizant",
+        "Job Title": "Workday - Data Conversion Associate Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "AI Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Mass General Brigham",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "ID.me",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Render",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Sentilink",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "Eightfold",
+        "Job Title": "Machine Learning Engineer - AI",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
+    },
+    {
+        "Company": "CVS Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-04"
     }
 ]
