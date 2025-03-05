@@ -8092,13 +8092,6 @@
         "Date": "2025-03-03"
     },
     {
-        "Company": "StackAdapt",
-        "Job Title": "Product Data Analyst, Mobile App User Acquisition",
-        "Location": "USA or Canada",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
         "Company": "Disney",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -8419,5 +8412,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-04"
+    },
+    {
+        "Company": "StackAdapt",
+        "Job Title": "Product Data Analyst, Mobile App User Acquisition",
+        "Location": "USA or Canada",
+        "status": "Declined",
+        "Date": "2025-03-05"
     }
 ]

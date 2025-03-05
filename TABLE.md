@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
@@ -55,7 +56,6 @@
 | Kikoff | Operations Analyst | Unknown | Applied | 2025-03-03 |
 | Kikoff | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Reyes Holdings, L.L.C | Business Data Analyst | Unknown | Declined | 2025-03-03 |
-| StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Applied | 2025-03-03 |
 | Disney | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Pixability | Unknown | Unknown | Applied | 2025-03-03 |
 | ByteDance | Enterprise Application System Operation Specialist | Unknown | Applied | 2025-03-03 |
