@@ -3759,13 +3759,6 @@
         "Date": "2024-12-02"
     },
     {
-        "Company": "U.S. Bank",
-        "Job Title": "Digital Analytics Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-24"
-    },
-    {
         "Company": "Miami Dolphins and Hard Rock Stadium",
         "Job Title": "Marketing Analyst",
         "Location": "Unknown",
@@ -8493,6 +8486,20 @@
     {
         "Company": "Unknown",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Digital Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Cognizant",
+        "Job Title": "Workday - Data Conversion Associate Consultant",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-05"

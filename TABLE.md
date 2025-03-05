@@ -12,6 +12,8 @@
 | Horace Mann | Data Scientist | Unknown | Applied | 2025-03-05 |
 | Steampunk | Data Analyst | Unknown | Applied | 2025-03-05 |
 | Unknown | Data Analyst | Unknown | Applied | 2025-03-05 |
+| U.S. Bank | Digital Analytics Analyst | Unknown | Declined | 2025-03-05 |
+| Cognizant | Workday - Data Conversion Associate Consultant | Unknown | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
@@ -251,7 +253,6 @@
 | Premier, Inc. | Analytics Intern | Unknown | Declined | 2025-02-24 |
 | Commonwealth of VA | Statistical Analyst | Unknown | Applied | 2025-02-24 |
 | Laserfiche | Data Analyst | Unknown | Declined | 2025-02-24 |
-| U.S. Bank | Digital Analytics Analyst | Unknown | Applied | 2025-02-24 |
 | Miami Dolphins and Hard Rock Stadium | Marketing Analyst | Unknown | Applied | 2025-02-24 |
 | UST | Unknown | Unknown | Applied | 2025-02-24 |
 | KENDO HOLDINGS INC | Internship, Ecommerce & Digital | San Francisco, California | Applied | 2025-02-24 |
