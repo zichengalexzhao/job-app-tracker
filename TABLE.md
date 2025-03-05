@@ -27,6 +27,16 @@
 | Gemini | Analytics Engineer | Unknown | Applied | 2025-03-05 |
 | Topline Pro | Data Scientist (AI) | Unknown | Applied | 2025-03-05 |
 | TIFIN | Data Scientist | Unknown | Applied | 2025-03-05 |
+| Capgemini | Business Analytics | Unknown | Applied | 2025-03-05 |
+| The Cadmus Group | Data Analyst | Unknown | Applied | 2025-03-05 |
+| Berkley Oil & Gas | Unknown | Unknown | Applied | 2025-03-05 |
+| Expedia | Sr. Analyst – Vrbo US Markets | Unknown | Applied | 2025-03-05 |
+| Allbirds | Unknown | Unknown | Applied | 2025-03-05 |
+| Walmart | Data Scientist III, ML and Business Intelligence Engineering | Unknown | Applied | 2025-03-05 |
+| Assurant | Unknown | Unknown | Applied | 2025-03-05 |
+| Supermicro | Data Analyst | Unknown | Declined | 2025-03-05 |
+| Twitch | Unknown | Unknown | Applied | 2025-03-05 |
+| Study.com | Data Scientist | Unknown | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |

@@ -8594,5 +8594,75 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-05"
+    },
+    {
+        "Company": "Capgemini",
+        "Job Title": "Business Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "The Cadmus Group",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Berkley Oil & Gas",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Expedia",
+        "Job Title": "Sr. Analyst \u2013 Vrbo US Markets",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Allbirds",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Data Scientist III, ML and Business Intelligence Engineering",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Assurant",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Supermicro",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Study.com",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
     }
 ]
