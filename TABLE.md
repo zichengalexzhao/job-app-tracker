@@ -44,6 +44,7 @@
 | Goldman Sachs | Unknown | Unknown | Applied | 2025-03-05 |
 | Bio-Techne | Unknown | Unknown | Applied | 2025-03-05 |
 | Goldman Sachs | Unknown | Unknown | Applied | 2025-03-05 |
+| HustleWing | Data Analyst | Chicago, IL | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
