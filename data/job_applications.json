@@ -8678,5 +8678,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-05"
+    },
+    {
+        "Company": "Mudflap",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Lennar",
+        "Job Title": "Business Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Bio-Techne",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
     }
 ]
