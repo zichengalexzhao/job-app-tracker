@@ -23,6 +23,10 @@
 | Intermountain Health | Unknown | Unknown | Applied | 2025-03-05 |
 | Parafin | Data Scientist | Unknown | Declined | 2025-03-05 |
 | Aequor | Data Analyst / Tableau Developer | South San Francisco, CA, 94080 | Applied | 2025-03-05 |
+| WHOOP | Data Scientist I (Women's Health) | Unknown | Applied | 2025-03-05 |
+| Gemini | Analytics Engineer | Unknown | Applied | 2025-03-05 |
+| Topline Pro | Data Scientist (AI) | Unknown | Applied | 2025-03-05 |
+| TIFIN | Data Scientist | Unknown | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |

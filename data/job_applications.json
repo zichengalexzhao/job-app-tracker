@@ -8566,5 +8566,33 @@
         "Location": "South San Francisco, CA, 94080",
         "status": "Applied",
         "Date": "2025-03-05"
+    },
+    {
+        "Company": "WHOOP",
+        "Job Title": "Data Scientist I (Women's Health)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Gemini",
+        "Job Title": "Analytics Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Topline Pro",
+        "Job Title": "Data Scientist (AI)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "TIFIN",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
     }
 ]
