@@ -17,6 +17,7 @@
 | FIS | Implementation-Conversion Analyst I | Unknown | Applied | 2025-03-05 |
 | FIS | Implementation-Conversion Analyst I | Unknown | Applied | 2025-03-05 |
 | Unknown | Data Analyst | Fort Lauderdale, FL (Remote) | Applied | 2025-03-05 |
+| Intermountain Health | Marketing Analytics Analyst | Unknown | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
