@@ -20,6 +20,7 @@
 | Intermountain Health | Marketing Analytics Analyst | Unknown | Applied | 2025-03-05 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-03-05 |
 | Paramount | Unknown | Unknown | Applied | 2025-03-05 |
+| Intermountain Health | Unknown | Unknown | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
