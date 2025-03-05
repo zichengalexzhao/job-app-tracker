@@ -37,6 +37,8 @@
 | Supermicro | Data Analyst | Unknown | Declined | 2025-03-05 |
 | Twitch | Unknown | Unknown | Applied | 2025-03-05 |
 | Study.com | Data Scientist | Unknown | Applied | 2025-03-05 |
+| Carter’s | Unknown | Unknown | Applied | 2025-03-05 |
+| DriveTime | Unknown | Unknown | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
