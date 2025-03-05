@@ -8531,5 +8531,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-05"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
     }
 ]
