@@ -8419,5 +8419,82 @@
         "Location": "USA or Canada",
         "status": "Declined",
         "Date": "2025-03-05"
+    },
+    {
+        "Company": "Mudflap",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Datadog",
+        "Job Title": "Data Scientist - Advance Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "MSD (Merck Sharp & Dohme Corp.)",
+        "Job Title": "Specialist \u2013 Data Science, Marketing Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "My Workday",
+        "Job Title": "Marketing Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "T-Mobile",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Data & Analytics Engineer II, Autonomous Mobility and Delivery",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Kandji",
+        "Job Title": "Data Scientist, Product",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Inkitt",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Horace Mann",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Steampunk",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-05"
     }
 ]

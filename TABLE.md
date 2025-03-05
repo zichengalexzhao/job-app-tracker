@@ -1,6 +1,17 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
+| Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
+| Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
+| MSD (Merck Sharp & Dohme Corp.) | Specialist – Data Science, Marketing Analytics | Unknown | Applied | 2025-03-05 |
+| My Workday | Marketing Analytics Analyst | Unknown | Applied | 2025-03-05 |
+| T-Mobile | Unknown | Unknown | Applied | 2025-03-05 |
+| Uber | Data & Analytics Engineer II, Autonomous Mobility and Delivery | Unknown | Applied | 2025-03-05 |
+| Kandji | Data Scientist, Product | Unknown | Applied | 2025-03-05 |
+| Inkitt | Product Analyst | Unknown | Applied | 2025-03-05 |
+| Horace Mann | Data Scientist | Unknown | Applied | 2025-03-05 |
+| Steampunk | Data Analyst | Unknown | Applied | 2025-03-05 |
+| Unknown | Data Analyst | Unknown | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |
