@@ -21,6 +21,8 @@
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-03-05 |
 | Paramount | Unknown | Unknown | Applied | 2025-03-05 |
 | Intermountain Health | Unknown | Unknown | Applied | 2025-03-05 |
+| Parafin | Data Scientist | Unknown | Declined | 2025-03-05 |
+| Aequor | Data Analyst / Tableau Developer | South San Francisco, CA, 94080 | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
 | Sierra | Data Scientist | Unknown | Declined | 2025-03-04 |

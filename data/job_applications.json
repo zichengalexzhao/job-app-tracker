@@ -8552,5 +8552,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-05"
+    },
+    {
+        "Company": "Parafin",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-05"
+    },
+    {
+        "Company": "Aequor",
+        "Job Title": "Data Analyst / Tableau Developer",
+        "Location": "South San Francisco, CA, 94080",
+        "status": "Applied",
+        "Date": "2025-03-05"
     }
 ]
