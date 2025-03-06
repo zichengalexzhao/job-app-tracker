@@ -3,6 +3,7 @@
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
+| KeyBank | Digital Analyst | Unknown | Applied | 2025-03-06 |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
 | Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
