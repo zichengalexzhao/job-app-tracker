@@ -25,6 +25,15 @@
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-06 |
 | Point72 | Unknown | Unknown | Applied | 2025-03-06 |
 | Bespoke Post | Data Analyst, E-Commerce Membership | Unknown | Applied | 2025-03-06 |
+| Department of Motor Vehicles | DMV Statistical Analyst—01099 | Unknown | Declined | 2025-03-06 |
+| Municipal Credit Union | Marketing Data Analyst | Unknown | Applied | 2025-03-06 |
+| Unknown | Data Integration Analyst - Parametric | Unknown | Applied | 2025-03-06 |
+| AXS | Summer Intern, Data Science | Unknown | Applied | 2025-03-06 |
+| Korn Ferry | Operations Analyst | Unknown | Declined | 2025-03-06 |
+| Trimble | Data Analyst | Unknown | Applied | 2025-03-06 |
+| Further | Unknown | Unknown | Applied | 2025-03-06 |
+| Applecart | Unknown | Unknown | Applied | 2025-03-06 |
+| Walmart | Manager, Marketing Planning and Strategy - Walmart Connect | Unknown | Applied | 2025-03-06 |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
 | Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
@@ -544,7 +553,6 @@
 | TransUnion | Unknown | Unknown | Applied | 2025-02-09 |
 | Spotify | Data Scientist I - User Growth Analytics (LatAm) | Unknown | Applied | 2025-02-09 |
 | Sumitomo Mitsui Banking Corporation | Business Analyst (Hybrid) | Unknown | Applied | 2025-02-08 |
-| Korn Ferry | Operations Analyst | Unknown | Applied | 2025-02-08 |
 | Sephora | Unknown | Unknown | Applied | 2025-02-08 |
 | DaVita Kidney Care | Business Analyst | Unknown | Applied | 2025-02-08 |
 | Oracle | Contracts Analyst | Unknown | Declined | 2025-02-08 |

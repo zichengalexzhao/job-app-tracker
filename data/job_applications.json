@@ -1561,13 +1561,6 @@
         "Date": "2025-02-08"
     },
     {
-        "Company": "Korn Ferry",
-        "Job Title": "Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-08"
-    },
-    {
         "Company": "Sephora",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -8885,6 +8878,69 @@
     {
         "Company": "Bespoke Post",
         "Job Title": "Data Analyst, E-Commerce Membership",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Department of Motor Vehicles",
+        "Job Title": "DMV Statistical Analyst\u201401099",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Municipal Credit Union",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Data Integration Analyst - Parametric",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "AXS",
+        "Job Title": "Summer Intern, Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Korn Ferry",
+        "Job Title": "Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Trimble",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Further",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Applecart",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Manager, Marketing Planning and Strategy - Walmart Connect",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-06"
