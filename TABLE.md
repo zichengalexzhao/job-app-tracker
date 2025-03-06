@@ -5,6 +5,7 @@
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
 | KeyBank | Digital Analyst | Unknown | Applied | 2025-03-06 |
 | Cohesity | Business Analytics Intern | Unknown | Applied | 2025-03-06 |
+| Lucid Software | Data Analyst | Unknown | Declined | 2025-03-06 |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
 | Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
