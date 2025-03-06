@@ -13,6 +13,18 @@
 | Martin Retail Group, a Publicis Groupe company | Analyst (2025-96676) | Unknown | Applied | 2025-03-06 |
 | Unknown | Marketing Data Analyst | Newport Beach, CA | Applied | 2025-03-06 |
 | Intelliswift - An LTTS Company | Senior Data Analyst | Menlo Park, CA | Applied | 2025-03-06 |
+| Prosper | Marketing Analyst | Unknown | Applied | 2025-03-06 |
+| Valor Equity Partners | Associate, Data Science | Unknown | Applied | 2025-03-06 |
+| Boston Red Sox and Fenway Sports Management | Baseball Sciences Associate | Unknown | Applied | 2025-03-06 |
+| StackAdapt | Data Scientist | Unknown | Applied | 2025-03-06 |
+| Businessolver | Unknown | Unknown | Applied | 2025-03-06 |
+| Quince | Data Scientist, ML - Storefront | Unknown | Applied | 2025-03-06 |
+| IDB | Data Analyst | Unknown | Applied | 2025-03-06 |
+| Bertram Capital Management | Unknown | Unknown | Applied | 2025-03-06 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-06 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-06 |
+| Point72 | Unknown | Unknown | Applied | 2025-03-06 |
+| Bespoke Post | Data Analyst, E-Commerce Membership | Unknown | Applied | 2025-03-06 |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
 | Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
