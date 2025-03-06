@@ -8720,5 +8720,12 @@
         "Location": "Chicago, IL",
         "status": "Applied",
         "Date": "2025-03-05"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
     }
 ]
