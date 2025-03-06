@@ -35,6 +35,7 @@
 | Applecart | Unknown | Unknown | Applied | 2025-03-06 |
 | Walmart | Manager, Marketing Planning and Strategy - Walmart Connect | Unknown | Applied | 2025-03-06 |
 | Yelp | Senior Analyst, Product Analytics | Remote - US | Declined | 2025-03-06 |
+| Kalibri Labs | Data Analyst | Unknown | Declined | 2025-03-06 |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
 | Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
@@ -130,7 +131,6 @@
 | Beek Health | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Parafin | Unknown | Unknown | Applied | 2025-03-03 |
 | PriceLabs | Unknown | Unknown | Applied | 2025-03-03 |
-| Kalibri Labs | Data Analyst | Unknown | Applied | 2025-03-03 |
 | Rakuten | Unknown | Unknown | Applied | 2025-03-03 |
 | Kikoff | Operations Analyst | Unknown | Applied | 2025-03-03 |
 | Kikoff | Data Scientist | Unknown | Applied | 2025-03-03 |

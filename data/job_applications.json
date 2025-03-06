@@ -8036,13 +8036,6 @@
         "Date": "2025-03-03"
     },
     {
-        "Company": "Kalibri Labs",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
         "Company": "Rakuten",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -8949,6 +8942,13 @@
         "Company": "Yelp",
         "Job Title": "Senior Analyst, Product Analytics",
         "Location": "Remote - US",
+        "status": "Declined",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Kalibri Labs",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-06"
     }
