@@ -6,6 +6,13 @@
 | KeyBank | Digital Analyst | Unknown | Applied | 2025-03-06 |
 | Cohesity | Business Analytics Intern | Unknown | Applied | 2025-03-06 |
 | Lucid Software | Data Analyst | Unknown | Declined | 2025-03-06 |
+| Charlie Health | Unknown | Bozeman, Montana | Applied | 2025-03-06 |
+| The Scion Group | Unknown | Unknown | Applied | 2025-03-06 |
+| Zeno Group | Junior Analyst | Unknown | Applied | 2025-03-06 |
+| CarGurus | Product Data Analyst, Consumer | Unknown | Declined | 2025-03-06 |
+| Martin Retail Group, a Publicis Groupe company | Analyst (2025-96676) | Unknown | Applied | 2025-03-06 |
+| Unknown | Marketing Data Analyst | Newport Beach, CA | Applied | 2025-03-06 |
+| Intelliswift - An LTTS Company | Senior Data Analyst | Menlo Park, CA | Applied | 2025-03-06 |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
 | Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
@@ -150,7 +157,6 @@
 | Walmart | Data Scientist III | Unknown | Applied | 2025-03-01 |
 | Walmart | Data Analyst II | Unknown | Applied | 2025-03-01 |
 | Red Canary | Unknown | Unknown | Applied | 2025-03-01 |
-| CarGurus | Product Data Analyst, Consumer | Unknown | Applied | 2025-03-01 |
 | CarGurus | Marketing Analytics Analyst | Unknown | Applied | 2025-03-01 |
 | NewsBreak | Unknown | Unknown | Applied | 2025-03-01 |
 | NewsBreak | Unknown | Unknown | Applied | 2025-03-01 |

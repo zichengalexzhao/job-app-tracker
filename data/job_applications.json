@@ -7757,13 +7757,6 @@
     },
     {
         "Company": "CarGurus",
-        "Job Title": "Product Data Analyst, Consumer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-01"
-    },
-    {
-        "Company": "CarGurus",
         "Job Title": "Marketing Analytics Analyst",
         "Location": "Unknown",
         "status": "Applied",
@@ -8761,6 +8754,55 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Charlie Health",
+        "Job Title": "Unknown",
+        "Location": "Bozeman, Montana",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "The Scion Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Zeno Group",
+        "Job Title": "Junior Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "CarGurus",
+        "Job Title": "Product Data Analyst, Consumer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Martin Retail Group, a Publicis Groupe company",
+        "Job Title": "Analyst (2025-96676)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Newport Beach, CA",
+        "status": "Applied",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Intelliswift - An LTTS Company",
+        "Job Title": "Senior Data Analyst",
+        "Location": "Menlo Park, CA",
+        "status": "Applied",
         "Date": "2025-03-06"
     }
 ]
