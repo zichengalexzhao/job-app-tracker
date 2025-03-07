@@ -13,6 +13,7 @@
 | Stand | Data Scientist (Builder) | Unknown | Declined | 2025-03-07 |
 | BCG X | Data Scientist | United States | Declined | 2025-03-07 |
 | Checkr | Sr. People Data Analyst | San Francisco, CA | Applied | 2025-03-07 |
+| Uber | Data & Analytics Engineer II, Autonomous Mobility and Delivery | Unknown | Declined | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
@@ -56,7 +57,6 @@
 | MSD (Merck Sharp & Dohme Corp.) | Specialist – Data Science, Marketing Analytics | Unknown | Applied | 2025-03-05 |
 | My Workday | Marketing Analytics Analyst | Unknown | Applied | 2025-03-05 |
 | T-Mobile | Unknown | Unknown | Applied | 2025-03-05 |
-| Uber | Data & Analytics Engineer II, Autonomous Mobility and Delivery | Unknown | Applied | 2025-03-05 |
 | Kandji | Data Scientist, Product | Unknown | Applied | 2025-03-05 |
 | Inkitt | Product Analyst | Unknown | Applied | 2025-03-05 |
 | Horace Mann | Data Scientist | Unknown | Applied | 2025-03-05 |

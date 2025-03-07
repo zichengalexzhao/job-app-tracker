@@ -8421,13 +8421,6 @@
         "Date": "2025-03-05"
     },
     {
-        "Company": "Uber",
-        "Job Title": "Data & Analytics Engineer II, Autonomous Mobility and Delivery",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-05"
-    },
-    {
         "Company": "Kandji",
         "Job Title": "Data Scientist, Product",
         "Location": "Unknown",
@@ -9041,6 +9034,13 @@
         "Job Title": "Sr. People Data Analyst",
         "Location": "San Francisco, CA",
         "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Data & Analytics Engineer II, Autonomous Mobility and Delivery",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-07"
     }
 ]
