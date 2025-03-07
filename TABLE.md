@@ -29,6 +29,27 @@
 | DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Applied | 2025-03-07 |
 | DoorDash | Master Data Management Specialist | Unknown | Applied | 2025-03-07 |
 | ERM (Environmental Resources Management) | Consulting Associate, Environmental Data Manager (Entry Level) | Unknown | Applied | 2025-03-07 |
+| Anteriad | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |
+| Sully.ai | Unknown | Unknown | Applied | 2025-03-07 |
+| Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |
+| Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-03-07 |
+| Turquoise Health | Data Science Engineer | Unknown | Applied | 2025-03-07 |
+| CarGurus | Brand Marketing Associate | Unknown | Applied | 2025-03-07 |
+| PDT Partners | Fund Data Analytics & Operations Associate | Unknown | Applied | 2025-03-07 |
+| Texas Capital Bank | Unknown | Unknown | Applied | 2025-03-07 |
+| Blue River Technology | Unknown | Unknown | Applied | 2025-03-07 |
+| Uline | Unknown | Unknown | Applied | 2025-03-07 |
+| Koalafi | Sales Go-To-Market (GTM) Analyst | Unknown | Applied | 2025-03-07 |
+| Unknown | Business Analyst, Junior | Unknown | Applied | 2025-03-07 |
+| Rocket Money | Unknown | Unknown | Applied | 2025-03-07 |
+| InvoiceCloud | Unknown | Unknown | Applied | 2025-03-07 |
+| City National Bank | Small Business Consumer Processor I | Unknown | Applied | 2025-03-07 |
+| Crum & Forster (United States Fire Insurance Company) | Business Analyst | Unknown | Applied | 2025-03-07 |
+| Sephora | Analyst, Loyalty | CA-FSC SF Off (0174) | Applied | 2025-03-07 |
+| DoorDash | Machine Learning Engineer - Delivery Excellence | Unknown | Applied | 2025-03-07 |
+| AbbVie | Data Scientist I (Lake County Site Operations)-REF36860H | Unknown | Applied | 2025-03-07 |
+| Bayer | Assoc Data Scientist | Unknown | Applied | 2025-03-07 |
+| Visa | Data Scientist | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
