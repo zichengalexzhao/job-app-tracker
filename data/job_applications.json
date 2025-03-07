@@ -9028,5 +9028,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-07"
+    },
+    {
+        "Company": "BCG X",
+        "Job Title": "Data Scientist",
+        "Location": "United States",
+        "status": "Declined",
+        "Date": "2025-03-07"
     }
 ]
