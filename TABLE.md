@@ -14,6 +14,21 @@
 | BCG X | Data Scientist | United States | Declined | 2025-03-07 |
 | Checkr | Sr. People Data Analyst | San Francisco, CA | Applied | 2025-03-07 |
 | Uber | Data & Analytics Engineer II, Autonomous Mobility and Delivery | Unknown | Declined | 2025-03-07 |
+| Dataiku | Data Scientist - Talent Pool | Unknown | Applied | 2025-03-07 |
+| Experian | Data Scientist, Healthcare | Remote | Applied | 2025-03-07 |
+| Capstone Investment Advisors | Data Scientist | Unknown | Applied | 2025-03-07 |
+| Vermont Information Processing (VIP) | Unknown | Unknown | Applied | 2025-03-07 |
+| Horizon Media | Analyst, Performance Media Analytics | Unknown | Applied | 2025-03-07 |
+| LPL Financial | Unknown | Unknown | Applied | 2025-03-07 |
+| EDO | Unknown | Unknown | Applied | 2025-03-07 |
+| The New York Times | Analyst, Subscriber Experiences | Unknown | Applied | 2025-03-07 |
+| U.S. Bank | Data Analytics 2 | Unknown | Applied | 2025-03-07 |
+| Allbirds | Product Planning Analyst | Unknown | Declined | 2025-03-07 |
+| United States Air Force | Airborne Cryptologic Language Analyst | Unknown | Applied | 2025-03-07 |
+| Compunnel Inc | Snowflake Developer | Concord, NH | Applied | 2025-03-07 |
+| DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Applied | 2025-03-07 |
+| DoorDash | Master Data Management Specialist | Unknown | Applied | 2025-03-07 |
+| ERM (Environmental Resources Management) | Consulting Associate, Environmental Data Manager (Entry Level) | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |

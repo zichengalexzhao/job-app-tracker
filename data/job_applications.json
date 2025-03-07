@@ -9042,5 +9042,110 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-07"
+    },
+    {
+        "Company": "Dataiku",
+        "Job Title": "Data Scientist - Talent Pool",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Experian",
+        "Job Title": "Data Scientist, Healthcare",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Capstone Investment Advisors",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Vermont Information Processing (VIP)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Horizon Media",
+        "Job Title": "Analyst, Performance Media Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "LPL Financial",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "EDO",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "The New York Times",
+        "Job Title": "Analyst, Subscriber Experiences",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Data Analytics 2",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Allbirds",
+        "Job Title": "Product Planning Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "United States Air Force",
+        "Job Title": "Airborne Cryptologic Language Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Compunnel Inc",
+        "Job Title": "Snowflake Developer",
+        "Location": "Concord, NH",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "DISH Network L.L.C.",
+        "Job Title": "Data and Business Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Master Data Management Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "ERM (Environmental Resources Management)",
+        "Job Title": "Consulting Associate, Environmental Data Manager (Entry Level)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
     }
 ]
