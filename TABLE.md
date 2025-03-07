@@ -63,6 +63,7 @@
 | Reddit | Machine Learning Engineer, Search (multiple levels) | Unknown | Applied | 2025-03-07 |
 | Ascend Analytics, LLC | Data Scientist | Unknown | Declined | 2025-03-07 |
 | Reddit | Data Scientist, Ads | Unknown | Applied | 2025-03-07 |
+| Texas Capital Bank | Risk Analytics Analyst | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
