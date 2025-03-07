@@ -12,6 +12,7 @@
 | Resource Innovations | Analyst | Unknown | Applied | 2025-03-07 |
 | Stand | Data Scientist (Builder) | Unknown | Declined | 2025-03-07 |
 | BCG X | Data Scientist | United States | Declined | 2025-03-07 |
+| Checkr | Sr. People Data Analyst | San Francisco, CA | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |

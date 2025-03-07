@@ -9035,5 +9035,12 @@
         "Location": "United States",
         "status": "Declined",
         "Date": "2025-03-07"
+    },
+    {
+        "Company": "Checkr",
+        "Job Title": "Sr. People Data Analyst",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-03-07"
     }
 ]
