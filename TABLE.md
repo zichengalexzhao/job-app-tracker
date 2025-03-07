@@ -64,6 +64,19 @@
 | Ascend Analytics, LLC | Data Scientist | Unknown | Declined | 2025-03-07 |
 | Reddit | Data Scientist, Ads | Unknown | Applied | 2025-03-07 |
 | Texas Capital Bank | Risk Analytics Analyst | Unknown | Applied | 2025-03-07 |
+| Johnson & Johnson | Machine Learning Engineer | Unknown | Applied | 2025-03-07 |
+| Baptist Memorial Health Care | Analyst-Data Reporting Associate - HS Enterprise Reporting Analytics | Unknown | Applied | 2025-03-07 |
+| Deloitte | AI/ ML Data Scientist | McLean or Chantilly, VA | Applied | 2025-03-07 |
+| Johnson & Johnson | Data Science CoOp | Unknown | Applied | 2025-03-07 |
+| Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) | Unknown | Applied | 2025-03-07 |
+| Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) | Unknown | Applied | 2025-03-07 |
+| Sony Pictures Entertainment | Data Analyst Intern, New Media – Summer 2025 | Unknown | Applied | 2025-03-07 |
+| TNL Workday | Unknown | Unknown | Applied | 2025-03-07 |
+| Sony Pictures Entertainment | Data Science Intern, Theatrical Marketing – Summer 2025 | Unknown | Applied | 2025-03-07 |
+| AXIS Capital | Business Analyst | Unknown | Applied | 2025-03-07 |
+| Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Applied | 2025-03-07 |
+| CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-07 |
+| U.S. LawShield | Unknown | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
