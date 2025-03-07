@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
@@ -36,6 +37,7 @@
 | Walmart | Manager, Marketing Planning and Strategy - Walmart Connect | Unknown | Applied | 2025-03-06 |
 | Yelp | Senior Analyst, Product Analytics | Remote - US | Declined | 2025-03-06 |
 | Kalibri Labs | Data Analyst | Unknown | Declined | 2025-03-06 |
+| IBM | Business Analyst | Unknown | Declined | 2025-03-06 |
 | StackAdapt | Product Data Analyst, Mobile App User Acquisition | USA or Canada | Declined | 2025-03-05 |
 | Mudflap | Unknown | Unknown | Applied | 2025-03-05 |
 | Datadog | Data Scientist - Advance Analytics | Unknown | Applied | 2025-03-05 |
@@ -272,7 +274,6 @@
 | AbbVie | Associate Data Scientist | Unknown | Declined | 2025-02-26 |
 | PrizePicks | Data Scientist - Simulation/Sports Modeling | Unknown | Declined | 2025-02-26 |
 | Aptive | Business Analyst | Unknown | Applied | 2025-02-25 |
-| IBM | Business Analyst | Unknown | Applied | 2025-02-25 |
 | Bloom Energy | Data Analytics - Service Operations Intern | Unknown | Applied | 2025-02-25 |
 | Aquabyte | Data Scientist | Unknown | Applied | 2025-02-25 |
 | Robert Half | Unknown | San Francisco | Applied | 2025-02-25 |

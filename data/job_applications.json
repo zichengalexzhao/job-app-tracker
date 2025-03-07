@@ -6776,13 +6776,6 @@
         "Date": "2025-02-25"
     },
     {
-        "Company": "IBM",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-25"
-    },
-    {
         "Company": "Bloom Energy",
         "Job Title": "Data Analytics - Service Operations Intern",
         "Location": "Unknown",
@@ -8948,6 +8941,20 @@
     {
         "Company": "Kalibri Labs",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-06"
+    },
+    {
+        "Company": "Persona Identities, Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "IBM",
+        "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-06"
