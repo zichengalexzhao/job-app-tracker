@@ -50,6 +50,13 @@
 | AbbVie | Data Scientist I (Lake County Site Operations)-REF36860H | Unknown | Applied | 2025-03-07 |
 | Bayer | Assoc Data Scientist | Unknown | Applied | 2025-03-07 |
 | Visa | Data Scientist | Unknown | Applied | 2025-03-07 |
+| Equip Health | Associate Product Operations Manager | Unknown | Applied | 2025-03-07 |
+| Applecart | Survey Scientist | Unknown | Declined | 2025-03-07 |
+| Revvity | Intern - IT Data Analyst | Unknown | Declined | 2025-03-07 |
+| Starcom (Publicis Groupe) | Analyst, Analytics (2025-95190) | Unknown | Applied | 2025-03-07 |
+| Johnson & Johnson | Digital Business Analyst - Shockwave | Unknown | Applied | 2025-03-07 |
+| Outreach | Business Intelligence Analyst - Product Marketing | Unknown | Applied | 2025-03-07 |
+| Outreach | Business Intelligence Analyst - Customer Experience (CX) | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
@@ -400,7 +407,6 @@
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-22 |
 | CONMED | Business Intelligence Analyst | Unknown | Applied | 2025-02-22 |
 | Edward Jones | Data Scientist I - Firm Analytics | Unknown | Declined | 2025-02-22 |
-| Revvity | Intern - IT Data Analyst | Unknown | Applied | 2025-02-22 |
 | National Storage Affiliates | Unknown | Unknown | Applied | 2025-02-22 |
 | Goodwill of South Florida | Junior Business Analyst | Miami, Florida | Applied | 2025-02-22 |
 | ASU | Business Intelligence Analyst | Unknown | Applied | 2025-02-22 |

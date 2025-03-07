@@ -140,13 +140,6 @@
         "Date": "2025-02-22"
     },
     {
-        "Company": "Revvity",
-        "Job Title": "Intern - IT Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-22"
-    },
-    {
         "Company": "National Storage Affiliates",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -9291,6 +9284,55 @@
     {
         "Company": "Visa",
         "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Equip Health",
+        "Job Title": "Associate Product Operations Manager",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Applecart",
+        "Job Title": "Survey Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Revvity",
+        "Job Title": "Intern - IT Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Starcom (Publicis Groupe)",
+        "Job Title": "Analyst, Analytics (2025-95190)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Johnson & Johnson",
+        "Job Title": "Digital Business Analyst - Shockwave",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Outreach",
+        "Job Title": "Business Intelligence Analyst - Product Marketing",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Outreach",
+        "Job Title": "Business Intelligence Analyst - Customer Experience (CX)",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-07"
