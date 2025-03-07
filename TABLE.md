@@ -8,6 +8,8 @@
 | Lightcast | Data Scientist | Unknown | Applied | 2025-03-07 |
 | Lucid Software | Unknown | Unknown | Applied | 2025-03-07 |
 | VML MAP | Digital Analyst Intern | Unknown | Applied | 2025-03-07 |
+| CVS Health | Unknown | Unknown | Applied | 2025-03-07 |
+| Resource Innovations | Analyst | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
