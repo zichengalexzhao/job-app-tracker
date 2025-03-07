@@ -9212,13 +9212,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Koalafi",
-        "Job Title": "Sales Go-To-Market (GTM) Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Business Analyst, Junior",
         "Location": "Unknown",
@@ -9333,6 +9326,55 @@
     {
         "Company": "Outreach",
         "Job Title": "Business Intelligence Analyst - Customer Experience (CX)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "AIG",
+        "Job Title": "Innovation and Digital Business Enablement Analyst",
+        "Location": "United States, Atlanta (GA)",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Koalafi",
+        "Job Title": "Sales Go-To-Market (GTM) Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Kwik Trip",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Snowflake",
+        "Job Title": "Data Scientist, GTM Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Reddit",
+        "Job Title": "Machine Learning Engineer, Search (multiple levels)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Ascend Analytics, LLC",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Reddit",
+        "Job Title": "Data Scientist, Ads",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-07"

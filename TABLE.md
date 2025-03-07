@@ -39,7 +39,6 @@
 | Texas Capital Bank | Unknown | Unknown | Applied | 2025-03-07 |
 | Blue River Technology | Unknown | Unknown | Applied | 2025-03-07 |
 | Uline | Unknown | Unknown | Applied | 2025-03-07 |
-| Koalafi | Sales Go-To-Market (GTM) Analyst | Unknown | Applied | 2025-03-07 |
 | Unknown | Business Analyst, Junior | Unknown | Applied | 2025-03-07 |
 | Rocket Money | Unknown | Unknown | Applied | 2025-03-07 |
 | InvoiceCloud | Unknown | Unknown | Applied | 2025-03-07 |
@@ -57,6 +56,13 @@
 | Johnson & Johnson | Digital Business Analyst - Shockwave | Unknown | Applied | 2025-03-07 |
 | Outreach | Business Intelligence Analyst - Product Marketing | Unknown | Applied | 2025-03-07 |
 | Outreach | Business Intelligence Analyst - Customer Experience (CX) | Unknown | Applied | 2025-03-07 |
+| AIG | Innovation and Digital Business Enablement Analyst | United States, Atlanta (GA) | Applied | 2025-03-07 |
+| Koalafi | Sales Go-To-Market (GTM) Analyst | Unknown | Declined | 2025-03-07 |
+| Kwik Trip | Data Analyst | Unknown | Applied | 2025-03-07 |
+| Snowflake | Data Scientist, GTM Data Science | Unknown | Applied | 2025-03-07 |
+| Reddit | Machine Learning Engineer, Search (multiple levels) | Unknown | Applied | 2025-03-07 |
+| Ascend Analytics, LLC | Data Scientist | Unknown | Declined | 2025-03-07 |
+| Reddit | Data Scientist, Ads | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
