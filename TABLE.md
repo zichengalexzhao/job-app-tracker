@@ -6,6 +6,8 @@
 | Vontier Employment Services LLC | Associate Analyst, Total Rewards | Unknown | Applied | 2025-03-08 |
 | Data Analysis Inc. (DAI) | General Application | Unknown | Applied | 2025-03-08 |
 | Qualtrics | Data Analyst, Go-To-Market Analytics | Unknown | Applied | 2025-03-08 |
+| Ness Digital Engineering | Data Analyst | US | Applied | 2025-03-08 |
+| LPL Financial | Unknown | Unknown | Applied | 2025-03-08 |
 | Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | Zoox | ML Validation Data Scientist - Perception | Unknown | Applied | 2025-03-07 |
 | Jencap | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |
