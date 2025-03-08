@@ -11,6 +11,7 @@
 | Siemens Healthineers | Unknown | Unknown | Applied | 2025-03-08 |
 | Concentrix | Unknown | Unknown | Applied | 2025-03-08 |
 | CharterUP | Data Analyst | Unknown | Declined | 2025-03-08 |
+| Anteriad | Marketing Data Analyst | Unknown | Declined | 2025-03-08 |
 | Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | Zoox | ML Validation Data Scientist - Perception | Unknown | Applied | 2025-03-07 |
 | Jencap | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |
@@ -40,7 +41,6 @@
 | DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Applied | 2025-03-07 |
 | DoorDash | Master Data Management Specialist | Unknown | Applied | 2025-03-07 |
 | ERM (Environmental Resources Management) | Consulting Associate, Environmental Data Manager (Entry Level) | Unknown | Applied | 2025-03-07 |
-| Anteriad | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |
 | Sully.ai | Unknown | Unknown | Applied | 2025-03-07 |
 | Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |
 | Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-03-07 |

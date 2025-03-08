@@ -9142,13 +9142,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Anteriad",
-        "Job Title": "Marketing Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Sully.ai",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -9606,6 +9599,13 @@
     {
         "Company": "CharterUP",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "Anteriad",
+        "Job Title": "Marketing Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-08"
