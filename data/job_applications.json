@@ -9658,5 +9658,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-08"
+    },
+    {
+        "Company": "Super.com",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "Hyundai Autoever America",
+        "Job Title": "Business Process Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-08"
     }
 ]
