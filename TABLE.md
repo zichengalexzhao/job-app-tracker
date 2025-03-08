@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
+| Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | Zoox | ML Validation Data Scientist - Perception | Unknown | Applied | 2025-03-07 |
 | Jencap | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |
@@ -77,6 +79,14 @@
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Applied | 2025-03-07 |
 | CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-07 |
 | U.S. LawShield | Unknown | Unknown | Applied | 2025-03-07 |
+| DHL | Sr Business Data Analyst | Unknown | Applied | 2025-03-07 |
+| Jobot | AI Data Scientist | Unknown | Applied | 2025-03-07 |
+| Jobot | Data Engineer | Unknown | Applied | 2025-03-07 |
+| Jobot | Data Engineer | Unknown | Applied | 2025-03-07 |
+| Jobot | Data Engineer | Unknown | Interviewed | 2025-03-07 |
+| AppLovin | Research Engineer | Unknown | Applied | 2025-03-07 |
+| Vagaro | Performance Marketer | Unknown | Applied | 2025-03-07 |
+| Webflow | Unknown | Unknown | Applied | 2025-03-07 |
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |

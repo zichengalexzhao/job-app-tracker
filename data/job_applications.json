@@ -9476,5 +9476,75 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-07"
+    },
+    {
+        "Company": "Electronic Arts",
+        "Job Title": "Machine Learning Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "Invaio Sciences Inc.",
+        "Job Title": "Analytics & Data Visualization Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "DHL",
+        "Job Title": "Sr Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Jobot",
+        "Job Title": "AI Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Jobot",
+        "Job Title": "Data Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Jobot",
+        "Job Title": "Data Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Jobot",
+        "Job Title": "Data Engineer",
+        "Location": "Unknown",
+        "status": "Interviewed",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "AppLovin",
+        "Job Title": "Research Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Vagaro",
+        "Job Title": "Performance Marketer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
+    },
+    {
+        "Company": "Webflow",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-07"
     }
 ]
