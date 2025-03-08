@@ -9630,5 +9630,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-08"
+    },
+    {
+        "Company": "DAS42",
+        "Job Title": "Data Engineer Consultant",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-08"
     }
 ]
