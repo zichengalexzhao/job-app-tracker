@@ -9602,5 +9602,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-08"
+    },
+    {
+        "Company": "CharterUP",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-08"
     }
 ]
