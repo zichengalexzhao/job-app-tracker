@@ -12,6 +12,9 @@
 | Concentrix | Unknown | Unknown | Applied | 2025-03-08 |
 | CharterUP | Data Analyst | Unknown | Declined | 2025-03-08 |
 | Anteriad | Marketing Data Analyst | Unknown | Declined | 2025-03-08 |
+| Charlie Health | Business Operations Analyst | Bozeman, Montana | Declined | 2025-03-08 |
+| Lucid Software | Data Analyst | Unknown | Declined | 2025-03-08 |
+| Lucid Software | Data Analyst | Unknown | Declined | 2025-03-08 |
 | Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | Zoox | ML Validation Data Scientist - Perception | Unknown | Applied | 2025-03-07 |
 | Jencap | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |

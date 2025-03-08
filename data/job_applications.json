@@ -9609,5 +9609,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-08"
+    },
+    {
+        "Company": "Charlie Health",
+        "Job Title": "Business Operations Analyst",
+        "Location": "Bozeman, Montana",
+        "status": "Declined",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "Lucid Software",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "Lucid Software",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-08"
     }
 ]
