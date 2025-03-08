@@ -9637,5 +9637,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-08"
+    },
+    {
+        "Company": "Medpace, Inc.",
+        "Job Title": "Junior Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "Zions Bancorporation",
+        "Job Title": "Business Systems Analyst - Risk",
+        "Location": "SLC",
+        "status": "Applied",
+        "Date": "2025-03-08"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-08"
     }
 ]

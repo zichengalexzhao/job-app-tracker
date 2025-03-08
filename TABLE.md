@@ -16,6 +16,9 @@
 | Lucid Software | Data Analyst | Unknown | Declined | 2025-03-08 |
 | Lucid Software | Data Analyst | Unknown | Declined | 2025-03-08 |
 | DAS42 | Data Engineer Consultant | Unknown | Declined | 2025-03-08 |
+| Medpace, Inc. | Junior Business Intelligence Analyst | Unknown | Applied | 2025-03-08 |
+| Zions Bancorporation | Business Systems Analyst - Risk | SLC | Applied | 2025-03-08 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-08 |
 | Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | Zoox | ML Validation Data Scientist - Perception | Unknown | Applied | 2025-03-07 |
 | Jencap | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |
