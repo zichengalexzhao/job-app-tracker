@@ -21,6 +21,16 @@
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-08 |
 | Super.com | Data Analyst | Unknown | Applied | 2025-03-08 |
 | Hyundai Autoever America | Business Process Analyst I | Unknown | Applied | 2025-03-08 |
+| Amway | Assoc Data Analyst I | Unknown | Applied | 2025-03-08 |
+| Critical Mass | Marketing Science Analyst | Unknown | Applied | 2025-03-08 |
+| Whatnot | Marketing Associate | Unknown | Applied | 2025-03-08 |
+| Uline | Unknown | Unknown | Applied | 2025-03-08 |
+| Uline | Unknown | Unknown | Applied | 2025-03-08 |
+| Uline | Unknown | Unknown | Applied | 2025-03-08 |
+| Uline | Unknown | Unknown | Applied | 2025-03-08 |
+| Uline | Unknown | Unknown | Applied | 2025-03-08 |
+| S&P Global | AI Product Analyst (Data Science) | Unknown | Applied | 2025-03-08 |
+| Uline | Unknown | Unknown | Applied | 2025-03-08 |
 | Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | Zoox | ML Validation Data Scientist - Perception | Unknown | Applied | 2025-03-07 |
 | Jencap | Marketing Data Analyst | Unknown | Applied | 2025-03-07 |
