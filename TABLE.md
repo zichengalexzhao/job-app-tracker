@@ -25,6 +25,7 @@
 | Adobe | AI/ML Engineer | Unknown | Declined | 2025-03-09 |
 | Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) (ID: 2921765) | Unknown | Applied | 2025-03-09 |
 | EDO | Unknown | Unknown | Declined | 2025-03-09 |
+| The Scion Group | Data Scientist | Unknown | Declined | 2025-03-09 |
 | Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
