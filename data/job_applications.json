@@ -9966,5 +9966,89 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-09"
+    },
+    {
+        "Company": "Capstone Investment Advisors",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Kodiak",
+        "Job Title": "Summer 2025 Intern, Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "SpotOn",
+        "Job Title": "Data Analyst (Data Science)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "SpotOn",
+        "Job Title": "Data Analyst (Payments)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Indiana University Health",
+        "Job Title": "Analyst-Data - Riley Blood Bank",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Geosyntec Family of Companies",
+        "Job Title": "Early-Career Data Analyst/Data Manager (2024-2886)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Upgrade",
+        "Job Title": "Data Analyst, Operations Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Sodexo",
+        "Job Title": "Master Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "UWM (United Wholesale Mortgage)",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "United Wholesale Mortgage (UWM)",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Carvana",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "UBS",
+        "Job Title": "Junior Data Management Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
     }
 ]

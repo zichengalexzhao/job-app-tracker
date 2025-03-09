@@ -37,6 +37,18 @@
 | Kforce Inc. | Data Analyst | Pleasanton, CA | Applied | 2025-03-09 |
 | Turquoise Health | Data Science Engineer | Unknown | Declined | 2025-03-09 |
 | Qualtrics | Data Analyst, Go-To-Market Analytics | Unknown | Declined | 2025-03-09 |
+| Capstone Investment Advisors | Data Scientist | Unknown | Applied | 2025-03-09 |
+| Kodiak | Summer 2025 Intern, Data Science | Unknown | Applied | 2025-03-09 |
+| SpotOn | Data Analyst (Data Science) | Unknown | Applied | 2025-03-09 |
+| SpotOn | Data Analyst (Payments) | Unknown | Applied | 2025-03-09 |
+| Indiana University Health | Analyst-Data - Riley Blood Bank | Unknown | Applied | 2025-03-09 |
+| Geosyntec Family of Companies | Early-Career Data Analyst/Data Manager (2024-2886) | Unknown | Applied | 2025-03-09 |
+| Upgrade | Data Analyst, Operations Analytics | Unknown | Applied | 2025-03-09 |
+| Sodexo | Master Data Analyst | Unknown | Applied | 2025-03-09 |
+| UWM (United Wholesale Mortgage) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |
+| United Wholesale Mortgage (UWM) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |
+| Carvana | Unknown | Unknown | Applied | 2025-03-09 |
+| UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-09 |
 | Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
