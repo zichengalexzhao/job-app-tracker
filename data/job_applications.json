@@ -9142,13 +9142,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Turquoise Health",
-        "Job Title": "Data Science Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "CarGurus",
         "Job Title": "Brand Marketing Associate",
         "Location": "Unknown",
@@ -9541,13 +9534,6 @@
         "Date": "2025-03-08"
     },
     {
-        "Company": "Qualtrics",
-        "Job Title": "Data Analyst, Go-To-Market Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-08"
-    },
-    {
         "Company": "Ness Digital Engineering",
         "Job Title": "Data Analyst",
         "Location": "US",
@@ -9909,6 +9895,76 @@
         "Job Title": "Unknown",
         "Location": "Washington, Washington DC US",
         "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Kforce Inc.",
+        "Job Title": "Data Analyst III",
+        "Location": "Mountain View",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Chrome Hearts",
+        "Job Title": "Production Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Westlake Services, LLC",
+        "Job Title": "Financial Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Hankey Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "IQVIA",
+        "Job Title": "Market Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Celerity Consulting Group, LLC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "AppleOne",
+        "Job Title": "Business Intelligence (BI) Analyst",
+        "Location": "Santa Ana, CA",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Kforce Inc.",
+        "Job Title": "Data Analyst",
+        "Location": "Pleasanton, CA",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Turquoise Health",
+        "Job Title": "Data Science Engineer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Qualtrics",
+        "Job Title": "Data Analyst, Go-To-Market Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-09"
     }
 ]

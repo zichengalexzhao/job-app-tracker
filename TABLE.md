@@ -27,12 +27,21 @@
 | EDO | Unknown | Unknown | Declined | 2025-03-09 |
 | The Scion Group | Data Scientist | Unknown | Declined | 2025-03-09 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-03-09 |
+| Kforce Inc. | Data Analyst III | Mountain View | Applied | 2025-03-09 |
+| Chrome Hearts | Production Business Analyst | Unknown | Applied | 2025-03-09 |
+| Westlake Services, LLC | Financial Business Analyst | Unknown | Applied | 2025-03-09 |
+| Hankey Group | Unknown | Unknown | Applied | 2025-03-09 |
+| IQVIA | Market Research Analyst | Unknown | Applied | 2025-03-09 |
+| Celerity Consulting Group, LLC | Unknown | Unknown | Applied | 2025-03-09 |
+| AppleOne | Business Intelligence (BI) Analyst | Santa Ana, CA | Applied | 2025-03-09 |
+| Kforce Inc. | Data Analyst | Pleasanton, CA | Applied | 2025-03-09 |
+| Turquoise Health | Data Science Engineer | Unknown | Declined | 2025-03-09 |
+| Qualtrics | Data Analyst, Go-To-Market Analytics | Unknown | Declined | 2025-03-09 |
 | Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
 | Vontier Employment Services LLC | Associate Analyst, Total Rewards | Unknown | Applied | 2025-03-08 |
 | Data Analysis Inc. (DAI) | General Application | Unknown | Applied | 2025-03-08 |
-| Qualtrics | Data Analyst, Go-To-Market Analytics | Unknown | Applied | 2025-03-08 |
 | Ness Digital Engineering | Data Analyst | US | Applied | 2025-03-08 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-08 |
 | Siemens Healthineers | Unknown | Unknown | Applied | 2025-03-08 |
@@ -88,7 +97,6 @@
 | Sully.ai | Unknown | Unknown | Applied | 2025-03-07 |
 | Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |
 | Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-03-07 |
-| Turquoise Health | Data Science Engineer | Unknown | Applied | 2025-03-07 |
 | CarGurus | Brand Marketing Associate | Unknown | Applied | 2025-03-07 |
 | PDT Partners | Fund Data Analytics & Operations Associate | Unknown | Applied | 2025-03-07 |
 | Texas Capital Bank | Unknown | Unknown | Applied | 2025-03-07 |
