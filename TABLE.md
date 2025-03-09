@@ -1,5 +1,23 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
+| OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
+| Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
+| Baptist Health South Florida | Informatics Data Analyst 1 | Miami, FL | Applied | 2025-03-09 |
+| LoanBoss, Inc | Business Analyst | Charlotte, NC | Applied | 2025-03-09 |
+| Molina Healthcare | Analyst, Finance & Analytics (SQL/Adv. Excel) | REMOTE | Applied | 2025-03-09 |
+| iba America | Data Engineer | Alpharetta, GA | Applied | 2025-03-09 |
+| BitMart | Data Analyst (Native Mandarin speakers preferred) | Jersey City, NJ | Applied | 2025-03-09 |
+| McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Applied | 2025-03-09 |
+| Standard Metrics | Unknown | Unknown | Applied | 2025-03-09 |
+| CareerVest LLC | Machine Learning Engineer | California, MD | Applied | 2025-03-09 |
+| Glint Tech Solutions LLC | Data Analyst (Entry Level) - Bilingual Mandarin | Remote | Applied | 2025-03-09 |
+| ProMazo | AI Machine Vision Data Scientist | Remote | Applied | 2025-03-09 |
+| Swivel Payment Solutions LLC | Jr. Business Data Analyst | Hartford, CT | Applied | 2025-03-09 |
+| Cybertino Lab | Data Scientist (Internship available) | San Francisco Bay Area, CA | Applied | 2025-03-09 |
+| Brown Boots | Data Operations Analyst | Los Angeles, CA | Applied | 2025-03-09 |
+| Glint Tech Solutions LLC | Entry-Level Data Analyst | Seattle, WA | Applied | 2025-03-09 |
+| Best High Technologies LLC (BHT) | Data Analyst | Princeton, NJ | Applied | 2025-03-09 |
 | Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
