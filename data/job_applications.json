@@ -9889,5 +9889,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-09"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Applied Scientist, AWS Product Analytics & Data Science (PANDAS) (ID: 2921765)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
     }
 ]
