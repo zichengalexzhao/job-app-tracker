@@ -7525,13 +7525,6 @@
         "Date": "2025-02-28"
     },
     {
-        "Company": "Adobe",
-        "Job Title": "AI/ML Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-28"
-    },
-    {
         "Company": "JT4 LLC",
         "Job Title": "Computer Scientist VI",
         "Location": "Unknown",
@@ -9888,6 +9881,13 @@
         "Job Title": "Machine Learning Engineer - Content Understanding",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "AI/ML Engineer",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-09"
     }
 ]

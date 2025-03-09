@@ -22,6 +22,7 @@
 | The Scion Group | Unknown | Unknown | Applied | 2025-03-09 |
 | U.S. Bank | Data Analytics 2 | Unknown | Declined | 2025-03-09 |
 | Spotify | Machine Learning Engineer - Content Understanding | Unknown | Applied | 2025-03-09 |
+| Adobe | AI/ML Engineer | Unknown | Declined | 2025-03-09 |
 | Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
@@ -335,7 +336,6 @@
 | Equifax | Data Scientist - Intermediate | Unknown | Applied | 2025-02-28 |
 | Delinea | Data Analyst | Unknown | Declined | 2025-02-28 |
 | Nextdoor | Unknown | Unknown | Applied | 2025-02-28 |
-| Adobe | AI/ML Engineer | Unknown | Applied | 2025-02-28 |
 | JT4 LLC | Computer Scientist VI | Unknown | Applied | 2025-02-28 |
 | Adobe | Machine Learning Engineer | Unknown | Applied | 2025-02-28 |
 | KLA-Tencor | Data Science and SW Engineering Intern | Unknown | Declined | 2025-02-28 |
