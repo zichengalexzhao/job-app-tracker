@@ -18,6 +18,10 @@
 | Brown Boots | Data Operations Analyst | Los Angeles, CA | Applied | 2025-03-09 |
 | Glint Tech Solutions LLC | Entry-Level Data Analyst | Seattle, WA | Applied | 2025-03-09 |
 | Best High Technologies LLC (BHT) | Data Analyst | Princeton, NJ | Applied | 2025-03-09 |
+| Bio-Techne | Unknown | Unknown | Applied | 2025-03-09 |
+| The Scion Group | Unknown | Unknown | Applied | 2025-03-09 |
+| U.S. Bank | Data Analytics 2 | Unknown | Declined | 2025-03-09 |
+| Spotify | Machine Learning Engineer - Content Understanding | Unknown | Applied | 2025-03-09 |
 | Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
@@ -71,7 +75,6 @@
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-07 |
 | EDO | Unknown | Unknown | Applied | 2025-03-07 |
 | The New York Times | Analyst, Subscriber Experiences | Unknown | Applied | 2025-03-07 |
-| U.S. Bank | Data Analytics 2 | Unknown | Applied | 2025-03-07 |
 | Allbirds | Product Planning Analyst | Unknown | Declined | 2025-03-07 |
 | United States Air Force | Airborne Cryptologic Language Analyst | Unknown | Applied | 2025-03-07 |
 | Compunnel Inc | Snowflake Developer | Concord, NH | Applied | 2025-03-07 |

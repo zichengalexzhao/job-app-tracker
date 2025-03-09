@@ -9093,13 +9093,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "U.S. Bank",
-        "Job Title": "Data Analytics 2",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Allbirds",
         "Job Title": "Product Planning Analyst",
         "Location": "Unknown",
@@ -9866,6 +9859,34 @@
         "Company": "Best High Technologies LLC (BHT)",
         "Job Title": "Data Analyst",
         "Location": "Princeton, NJ",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Bio-Techne",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "The Scion Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Data Analytics 2",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Machine Learning Engineer - Content Understanding",
+        "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-09"
     }
