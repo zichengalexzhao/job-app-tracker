@@ -9072,13 +9072,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "EDO",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "The New York Times",
         "Job Title": "Analyst, Subscriber Experiences",
         "Location": "Unknown",
@@ -9895,6 +9888,13 @@
         "Job Title": "Applied Scientist, AWS Product Analytics & Data Science (PANDAS) (ID: 2921765)",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-09"
+    },
+    {
+        "Company": "EDO",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-09"
     }
 ]

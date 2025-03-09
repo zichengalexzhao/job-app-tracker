@@ -24,6 +24,7 @@
 | Spotify | Machine Learning Engineer - Content Understanding | Unknown | Applied | 2025-03-09 |
 | Adobe | AI/ML Engineer | Unknown | Declined | 2025-03-09 |
 | Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) (ID: 2921765) | Unknown | Applied | 2025-03-09 |
+| EDO | Unknown | Unknown | Declined | 2025-03-09 |
 | Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
@@ -75,7 +76,6 @@
 | Vermont Information Processing (VIP) | Unknown | Unknown | Applied | 2025-03-07 |
 | Horizon Media | Analyst, Performance Media Analytics | Unknown | Applied | 2025-03-07 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-07 |
-| EDO | Unknown | Unknown | Applied | 2025-03-07 |
 | The New York Times | Analyst, Subscriber Experiences | Unknown | Applied | 2025-03-07 |
 | Allbirds | Product Planning Analyst | Unknown | Declined | 2025-03-07 |
 | United States Air Force | Airborne Cryptologic Language Analyst | Unknown | Applied | 2025-03-07 |
