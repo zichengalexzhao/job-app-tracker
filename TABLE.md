@@ -5,6 +5,11 @@
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
 | Kandji | Data Scientist, Product | Unknown | Declined | 2025-03-10 |
 | KLA Corporation | Workforce Data Analytics Intern | Unknown | Declined | 2025-03-10 |
+| Fragomen | Unknown | Unknown | Applied | 2025-03-10 |
+| Pathward, N.A. | Unknown | Unknown | Applied | 2025-03-10 |
+| Alto Pharmacy | Early Career Product Analyst | Unknown | Applied | 2025-03-10 |
+| Lockton Companies LLC | Data Analyst- Risk Solutions-25004Z | Unknown | Applied | 2025-03-10 |
+| Stackline | Data Analyst II | Unknown | Applied | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |

@@ -10078,5 +10078,40 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-10"
+    },
+    {
+        "Company": "Fragomen",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Pathward, N.A.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Alto Pharmacy",
+        "Job Title": "Early Career Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Lockton Companies LLC",
+        "Job Title": "Data Analyst- Risk Solutions-25004Z",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Stackline",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
     }
 ]
