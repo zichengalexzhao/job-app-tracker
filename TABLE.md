@@ -3,6 +3,8 @@
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
+| Kandji | Data Scientist, Product | Unknown | Declined | 2025-03-10 |
+| KLA Corporation | Workforce Data Analytics Intern | Unknown | Declined | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
@@ -206,7 +208,6 @@
 | MSD (Merck Sharp & Dohme Corp.) | Specialist – Data Science, Marketing Analytics | Unknown | Applied | 2025-03-05 |
 | My Workday | Marketing Analytics Analyst | Unknown | Applied | 2025-03-05 |
 | T-Mobile | Unknown | Unknown | Applied | 2025-03-05 |
-| Kandji | Data Scientist, Product | Unknown | Applied | 2025-03-05 |
 | Inkitt | Product Analyst | Unknown | Applied | 2025-03-05 |
 | Horace Mann | Data Scientist | Unknown | Applied | 2025-03-05 |
 | Steampunk | Data Analyst | Unknown | Applied | 2025-03-05 |

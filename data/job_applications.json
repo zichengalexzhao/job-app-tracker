@@ -8407,13 +8407,6 @@
         "Date": "2025-03-05"
     },
     {
-        "Company": "Kandji",
-        "Job Title": "Data Scientist, Product",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-05"
-    },
-    {
         "Company": "Inkitt",
         "Job Title": "Product Analyst",
         "Location": "Unknown",
@@ -10070,6 +10063,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Kandji",
+        "Job Title": "Data Scientist, Product",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "KLA Corporation",
+        "Job Title": "Workforce Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-10"
     }
 ]
