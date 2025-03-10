@@ -14,6 +14,10 @@
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-10 |
 | The Waldinger Corporation | Business Intelligence Analyst | Unknown | Applied | 2025-03-10 |
 | The Newrez Family of Companies | Operational Controls SQL Developer | On-site | Applied | 2025-03-10 |
+| Johnson & Johnson | Data Science CoOp | Unknown | Declined | 2025-03-10 |
+| RPA (Rubin Postaer and Associates) | Analyst | Unknown | Declined | 2025-03-10 |
+| Clipboard Health | Sales Data Analyst | Remote | Declined | 2025-03-10 |
+| Kaiser Permanente | Master's Intern, Data Science | Unknown | Declined | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
@@ -155,7 +159,6 @@
 | Johnson & Johnson | Machine Learning Engineer | Unknown | Applied | 2025-03-07 |
 | Baptist Memorial Health Care | Analyst-Data Reporting Associate - HS Enterprise Reporting Analytics | Unknown | Applied | 2025-03-07 |
 | Deloitte | AI/ ML Data Scientist | McLean or Chantilly, VA | Applied | 2025-03-07 |
-| Johnson & Johnson | Data Science CoOp | Unknown | Applied | 2025-03-07 |
 | Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) | Unknown | Applied | 2025-03-07 |
 | Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) | Unknown | Applied | 2025-03-07 |
 | Sony Pictures Entertainment | Data Analyst Intern, New Media – Summer 2025 | Unknown | Applied | 2025-03-07 |

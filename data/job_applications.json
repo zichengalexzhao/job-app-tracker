@@ -9352,13 +9352,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Johnson & Johnson",
-        "Job Title": "Data Science CoOp",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Applied Scientist, AWS Product Analytics & Data Science (PANDAS)",
         "Location": "Unknown",
@@ -10133,6 +10126,34 @@
         "Job Title": "Operational Controls SQL Developer",
         "Location": "On-site",
         "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Johnson & Johnson",
+        "Job Title": "Data Science CoOp",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "RPA (Rubin Postaer and Associates)",
+        "Job Title": "Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Clipboard Health",
+        "Job Title": "Sales Data Analyst",
+        "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Master's Intern, Data Science",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-10"
     }
 ]
