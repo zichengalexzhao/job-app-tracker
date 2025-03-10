@@ -10,6 +10,10 @@
 | Alto Pharmacy | Early Career Product Analyst | Unknown | Applied | 2025-03-10 |
 | Lockton Companies LLC | Data Analyst- Risk Solutions-25004Z | Unknown | Applied | 2025-03-10 |
 | Stackline | Data Analyst II | Unknown | Applied | 2025-03-10 |
+| Johnson & Johnson | Digital Business Analyst - Shockwave | Unknown | Declined | 2025-03-10 |
+| CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-10 |
+| The Waldinger Corporation | Business Intelligence Analyst | Unknown | Applied | 2025-03-10 |
+| The Newrez Family of Companies | Operational Controls SQL Developer | On-site | Applied | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
@@ -138,7 +142,6 @@
 | Applecart | Survey Scientist | Unknown | Declined | 2025-03-07 |
 | Revvity | Intern - IT Data Analyst | Unknown | Declined | 2025-03-07 |
 | Starcom (Publicis Groupe) | Analyst, Analytics (2025-95190) | Unknown | Applied | 2025-03-07 |
-| Johnson & Johnson | Digital Business Analyst - Shockwave | Unknown | Applied | 2025-03-07 |
 | Outreach | Business Intelligence Analyst - Product Marketing | Unknown | Applied | 2025-03-07 |
 | Outreach | Business Intelligence Analyst - Customer Experience (CX) | Unknown | Applied | 2025-03-07 |
 | AIG | Innovation and Digital Business Enablement Analyst | United States, Atlanta (GA) | Applied | 2025-03-07 |

@@ -9261,13 +9261,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Johnson & Johnson",
-        "Job Title": "Digital Business Analyst - Shockwave",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Outreach",
         "Job Title": "Business Intelligence Analyst - Product Marketing",
         "Location": "Unknown",
@@ -10111,6 +10104,34 @@
         "Company": "Stackline",
         "Job Title": "Data Analyst II",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Johnson & Johnson",
+        "Job Title": "Digital Business Analyst - Shockwave",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "CoreLogic",
+        "Job Title": "Product Information Analyst (Master Data Management)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "The Waldinger Corporation",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "The Newrez Family of Companies",
+        "Job Title": "Operational Controls SQL Developer",
+        "Location": "On-site",
         "status": "Applied",
         "Date": "2025-03-10"
     }
