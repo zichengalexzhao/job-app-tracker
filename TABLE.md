@@ -18,6 +18,7 @@
 | RPA (Rubin Postaer and Associates) | Analyst | Unknown | Declined | 2025-03-10 |
 | Clipboard Health | Sales Data Analyst | Remote | Declined | 2025-03-10 |
 | Kaiser Permanente | Master's Intern, Data Science | Unknown | Declined | 2025-03-10 |
+| Amway | Assoc Data Analyst I | Unknown | Declined | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
@@ -88,7 +89,6 @@
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-08 |
 | Super.com | Data Analyst | Unknown | Applied | 2025-03-08 |
 | Hyundai Autoever America | Business Process Analyst I | Unknown | Applied | 2025-03-08 |
-| Amway | Assoc Data Analyst I | Unknown | Applied | 2025-03-08 |
 | Critical Mass | Marketing Science Analyst | Unknown | Applied | 2025-03-08 |
 | Whatnot | Marketing Associate | Unknown | Applied | 2025-03-08 |
 | Uline | Unknown | Unknown | Applied | 2025-03-08 |

@@ -9611,13 +9611,6 @@
         "Date": "2025-03-08"
     },
     {
-        "Company": "Amway",
-        "Job Title": "Assoc Data Analyst I",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-08"
-    },
-    {
         "Company": "Critical Mass",
         "Job Title": "Marketing Science Analyst",
         "Location": "Unknown",
@@ -10152,6 +10145,13 @@
     {
         "Company": "Kaiser Permanente",
         "Job Title": "Master's Intern, Data Science",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Amway",
+        "Job Title": "Assoc Data Analyst I",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-10"
