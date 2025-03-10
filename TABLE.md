@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
+| TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
