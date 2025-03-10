@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
+| Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
@@ -95,7 +96,6 @@
 | BCG X | Data Scientist | United States | Declined | 2025-03-07 |
 | Checkr | Sr. People Data Analyst | San Francisco, CA | Applied | 2025-03-07 |
 | Uber | Data & Analytics Engineer II, Autonomous Mobility and Delivery | Unknown | Declined | 2025-03-07 |
-| Dataiku | Data Scientist - Talent Pool | Unknown | Applied | 2025-03-07 |
 | Experian | Data Scientist, Healthcare | Remote | Applied | 2025-03-07 |
 | Capstone Investment Advisors | Data Scientist | Unknown | Applied | 2025-03-07 |
 | Vermont Information Processing (VIP) | Unknown | Unknown | Applied | 2025-03-07 |

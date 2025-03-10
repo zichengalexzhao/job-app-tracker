@@ -9030,13 +9030,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Dataiku",
-        "Job Title": "Data Scientist - Talent Pool",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Experian",
         "Job Title": "Data Scientist, Healthcare",
         "Location": "Remote",
@@ -10063,6 +10056,13 @@
         "Job Title": "Business Analyst, Business Insurance, R-41749",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Dataiku",
+        "Job Title": "Data Scientist - Talent Pool",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-10"
     }
 ]
