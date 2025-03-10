@@ -19,6 +19,15 @@
 | Clipboard Health | Sales Data Analyst | Remote | Declined | 2025-03-10 |
 | Kaiser Permanente | Master's Intern, Data Science | Unknown | Declined | 2025-03-10 |
 | Amway | Assoc Data Analyst I | Unknown | Declined | 2025-03-10 |
+| AbbVie | Data Scientist I | Lake County Site Operations | Declined | 2025-03-10 |
+| PG&E (Pacific Gas & Electric) | Data Science Intern | Unknown | Declined | 2025-03-10 |
+| Jellyfish | Data Scientist, Product | Unknown | Applied | 2025-03-10 |
+| XPENG | Data Analyst - Contractor | Unknown | Applied | 2025-03-10 |
+| Equip Health | Unknown | Unknown | Declined | 2025-03-10 |
+| Electronic Arts | Machine Learning Scientist | Unknown | Declined | 2025-03-10 |
+| SavvyMoney | Unknown | Unknown | Applied | 2025-03-10 |
+| WCG | Data Analyst | Unknown | Applied | 2025-03-10 |
+| Coinbase | Unknown | Unknown | Applied | 2025-03-10 |
 | International Packaging Corporation | Business Data Analyst | Pawtucket, RI | Applied | 2025-03-09 |
 | OmniTek Consulting | Business Analyst | Remote | Applied | 2025-03-09 |
 | Akiak Holdings LLC | Business Analyst | Alexandria, VA | Applied | 2025-03-09 |
@@ -69,7 +78,6 @@
 | Carvana | Unknown | Unknown | Applied | 2025-03-09 |
 | UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-09 |
 | UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-09 |
-| Electronic Arts | Machine Learning Scientist | Unknown | Applied | 2025-03-08 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
 | Vontier Employment Services LLC | Associate Analyst, Total Rewards | Unknown | Applied | 2025-03-08 |

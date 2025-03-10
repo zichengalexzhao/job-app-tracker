@@ -9415,13 +9415,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Electronic Arts",
-        "Job Title": "Machine Learning Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-08"
-    },
-    {
         "Company": "Invaio Sciences Inc.",
         "Job Title": "Analytics & Data Visualization Engineer",
         "Location": "Unknown",
@@ -10154,6 +10147,69 @@
         "Job Title": "Assoc Data Analyst I",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "AbbVie",
+        "Job Title": "Data Scientist I",
+        "Location": "Lake County Site Operations",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "PG&E (Pacific Gas & Electric)",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Jellyfish",
+        "Job Title": "Data Scientist, Product",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "XPENG",
+        "Job Title": "Data Analyst - Contractor",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Equip Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Electronic Arts",
+        "Job Title": "Machine Learning Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "SavvyMoney",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "WCG",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-10"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-10"
     }
 ]
