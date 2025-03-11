@@ -10372,5 +10372,19 @@
         "Location": "SLC (Salt Lake City)",
         "status": "Applied",
         "Date": "2025-03-11"
+    },
+    {
+        "Company": "Abridge",
+        "Job Title": "Machine Learning Scientist, NLP",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "DAS42",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
     }
 ]

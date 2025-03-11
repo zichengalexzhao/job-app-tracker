@@ -26,6 +26,8 @@
 | Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
 | Shipt | Data Scientist | Unknown | Declined | 2025-03-11 |
 | Zions Bancorporation | Business Systems Analyst - Risk | SLC (Salt Lake City) | Applied | 2025-03-11 |
+| Abridge | Machine Learning Scientist, NLP | Unknown | Applied | 2025-03-11 |
+| DAS42 | Unknown | Unknown | Applied | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
