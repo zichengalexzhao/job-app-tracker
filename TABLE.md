@@ -7,6 +7,12 @@
 | PDT Partners | Fund Data Analytics & Operations Associate | Unknown | Declined | 2025-03-11 |
 | JPMorgan Chase & Co. | Data Scientist Associate | Unknown | Declined | 2025-03-11 |
 | SoFi Technologies | Data Analyst | Unknown | Declined | 2025-03-11 |
+| Upgrade | Data Analyst, Operations Analytics | Unknown | Declined | 2025-03-11 |
+| BlueYonder | Data Scientist | Unknown | Applied | 2025-03-11 |
+| Albertsons Companies | Data Scientist IV | Unknown | Applied | 2025-03-11 |
+| Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Applied | 2025-03-11 |
+| Allan Myers | Data Analytics Analyst | Unknown | Applied | 2025-03-11 |
+| CVS Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
@@ -78,7 +84,6 @@
 | SpotOn | Data Analyst (Payments) | Unknown | Applied | 2025-03-09 |
 | Indiana University Health | Analyst-Data - Riley Blood Bank | Unknown | Applied | 2025-03-09 |
 | Geosyntec Family of Companies | Early-Career Data Analyst/Data Manager (2024-2886) | Unknown | Applied | 2025-03-09 |
-| Upgrade | Data Analyst, Operations Analytics | Unknown | Applied | 2025-03-09 |
 | Sodexo | Master Data Analyst | Unknown | Applied | 2025-03-09 |
 | UWM (United Wholesale Mortgage) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |
 | United Wholesale Mortgage (UWM) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |

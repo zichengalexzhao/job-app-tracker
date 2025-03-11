@@ -9961,13 +9961,6 @@
         "Date": "2025-03-09"
     },
     {
-        "Company": "Upgrade",
-        "Job Title": "Data Analyst, Operations Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-09"
-    },
-    {
         "Company": "Sodexo",
         "Job Title": "Master Data Analyst",
         "Location": "Unknown",
@@ -10252,6 +10245,48 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Upgrade",
+        "Job Title": "Data Analyst, Operations Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "BlueYonder",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Albertsons Companies",
+        "Job Title": "Data Scientist IV",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Mayo Clinic",
+        "Job Title": "Associate Data Science Analyst - AI&I Department 353737",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Allan Myers",
+        "Job Title": "Data Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "CVS Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-11"
     }
 ]
