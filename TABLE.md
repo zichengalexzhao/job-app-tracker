@@ -38,6 +38,8 @@
 | MCRA, LLC | Unknown | Unknown | Declined | 2025-03-11 |
 | Twitch | Unknown | Unknown | Applied | 2025-03-11 |
 | Twitch | Unknown | Unknown | Applied | 2025-03-11 |
+| IQVIA | Market Research Analyst | Unknown | Applied | 2025-03-11 |
+| Outreach | Business Intelligence Analyst - Customer Experience (CX) | Unknown | Declined | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
@@ -191,7 +193,6 @@
 | Revvity | Intern - IT Data Analyst | Unknown | Declined | 2025-03-07 |
 | Starcom (Publicis Groupe) | Analyst, Analytics (2025-95190) | Unknown | Applied | 2025-03-07 |
 | Outreach | Business Intelligence Analyst - Product Marketing | Unknown | Applied | 2025-03-07 |
-| Outreach | Business Intelligence Analyst - Customer Experience (CX) | Unknown | Applied | 2025-03-07 |
 | AIG | Innovation and Digital Business Enablement Analyst | United States, Atlanta (GA) | Applied | 2025-03-07 |
 | Koalafi | Sales Go-To-Market (GTM) Analyst | Unknown | Declined | 2025-03-07 |
 | Kwik Trip | Data Analyst | Unknown | Applied | 2025-03-07 |

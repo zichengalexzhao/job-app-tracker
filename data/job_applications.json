@@ -9247,13 +9247,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Outreach",
-        "Job Title": "Business Intelligence Analyst - Customer Experience (CX)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "AIG",
         "Job Title": "Innovation and Digital Business Enablement Analyst",
         "Location": "United States, Atlanta (GA)",
@@ -10448,6 +10441,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "IQVIA",
+        "Job Title": "Market Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Outreach",
+        "Job Title": "Business Intelligence Analyst - Customer Experience (CX)",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-11"
     }
 ]
