@@ -35,6 +35,9 @@
 | ServiceUp | Business Data Analyst | Unknown | Applied | 2025-03-11 |
 | Penn Foster Group | Customer Data Analyst | Unknown | Applied | 2025-03-11 |
 | Notion | Data Scientist, Finance | Unknown | Declined | 2025-03-11 |
+| MCRA, LLC | Unknown | Unknown | Declined | 2025-03-11 |
+| Twitch | Unknown | Unknown | Applied | 2025-03-11 |
+| Twitch | Unknown | Unknown | Applied | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |

@@ -10428,5 +10428,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-11"
+    },
+    {
+        "Company": "MCRA, LLC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
     }
 ]
