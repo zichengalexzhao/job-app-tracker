@@ -10239,5 +10239,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-11"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Data Scientist Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "SoFi Technologies",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
     }
 ]

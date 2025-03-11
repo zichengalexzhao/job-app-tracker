@@ -5,6 +5,8 @@
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
 | Cargill | Pricing Analyst- Retail & Pet | Unknown | Declined | 2025-03-11 |
 | PDT Partners | Fund Data Analytics & Operations Associate | Unknown | Declined | 2025-03-11 |
+| JPMorgan Chase & Co. | Data Scientist Associate | Unknown | Declined | 2025-03-11 |
+| SoFi Technologies | Data Analyst | Unknown | Declined | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
