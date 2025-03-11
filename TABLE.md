@@ -13,6 +13,17 @@
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Applied | 2025-03-11 |
 | Allan Myers | Data Analytics Analyst | Unknown | Applied | 2025-03-11 |
 | CVS Health | Unknown | Unknown | Applied | 2025-03-11 |
+| Critical Mass | Marketing Science Analyst | Unknown | Applied | 2025-03-11 |
+| MassMutual | Data Analytics Engineer - Marketing | Unknown | Applied | 2025-03-11 |
+| OptiSigns Inc. | Business Analyst | Unknown | Applied | 2025-03-11 |
+| IPG Mediabrands | Analyst, Business Intelligence | Unknown | Applied | 2025-03-11 |
+| CarGurus | Marketing Analytics Analyst | Unknown | Applied | 2025-03-11 |
+| OPPO US Research Center | Data Scientist Intern | Unknown | Applied | 2025-03-11 |
+| Extend | Unknown | Unknown | Applied | 2025-03-11 |
+| ByteDance | Data Scientist - Infrastructure Platform | Unknown | Applied | 2025-03-11 |
+| Advarra, Inc. | Data Analyst (Remote) | Unknown | Applied | 2025-03-11 |
+| Hometap | Analytics Engineer | Unknown | Applied | 2025-03-11 |
+| Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
