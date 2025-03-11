@@ -4,6 +4,7 @@
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
 | Cargill | Pricing Analyst- Retail & Pet | Unknown | Declined | 2025-03-11 |
+| PDT Partners | Fund Data Analytics & Operations Associate | Unknown | Declined | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
@@ -140,7 +141,6 @@
 | Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |
 | Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-03-07 |
 | CarGurus | Brand Marketing Associate | Unknown | Applied | 2025-03-07 |
-| PDT Partners | Fund Data Analytics & Operations Associate | Unknown | Applied | 2025-03-07 |
 | Texas Capital Bank | Unknown | Unknown | Applied | 2025-03-07 |
 | Blue River Technology | Unknown | Unknown | Applied | 2025-03-07 |
 | Uline | Unknown | Unknown | Applied | 2025-03-07 |

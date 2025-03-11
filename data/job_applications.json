@@ -9135,13 +9135,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "PDT Partners",
-        "Job Title": "Fund Data Analytics & Operations Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Texas Capital Bank",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -10236,6 +10229,13 @@
     {
         "Company": "Cargill",
         "Job Title": "Pricing Analyst- Retail & Pet",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "PDT Partners",
+        "Job Title": "Fund Data Analytics & Operations Associate",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-11"
