@@ -28,6 +28,13 @@
 | Zions Bancorporation | Business Systems Analyst - Risk | SLC (Salt Lake City) | Applied | 2025-03-11 |
 | Abridge | Machine Learning Scientist, NLP | Unknown | Applied | 2025-03-11 |
 | DAS42 | Unknown | Unknown | Applied | 2025-03-11 |
+| Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-11 |
+| SLB (Schlumberger Limited) | Data Scientist | Unknown | Applied | 2025-03-11 |
+| Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
+| Pandora | E-Commerce Analytics Intern | New York City Office | Applied | 2025-03-11 |
+| ServiceUp | Business Data Analyst | Unknown | Applied | 2025-03-11 |
+| Penn Foster Group | Customer Data Analyst | Unknown | Applied | 2025-03-11 |
+| Notion | Data Scientist, Finance | Unknown | Declined | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
@@ -953,7 +960,6 @@
 | Unknown | Junior Trader | Unknown | Applied | 2025-01-25 |
 | Affirm | Quantitative Analyst I | Unknown | Applied | 2025-01-25 |
 | ThirdLove | Senior Data Analyst | Unknown | Applied | 2025-01-25 |
-| Notion | Data Scientist, Finance | Unknown | Applied | 2025-01-25 |
 | Deutsche Bank | Graduate Program - Investment Bank: Origination & Advisory | San Francisco | Applied | 2025-01-24 |
 | Jobright.ai | Data Scientist - Remote Internship | Unknown | Applied | 2025-01-24 |
 | University of California, Davis (Graduate School of Management) | Senior Assistant Dean for Student Affairs | Unknown | Interviewed | 2025-01-22 |

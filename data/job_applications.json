@@ -2905,13 +2905,6 @@
         "Date": "2025-01-25"
     },
     {
-        "Company": "Notion",
-        "Job Title": "Data Scientist, Finance",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-25"
-    },
-    {
         "Company": "Deutsche Bank",
         "Job Title": "Graduate Program - Investment Bank: Origination & Advisory",
         "Location": "San Francisco",
@@ -10385,6 +10378,55 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Splunk",
+        "Job Title": "Machine Learning Engineer - Early in Career",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "SLB (Schlumberger Limited)",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Strava",
+        "Job Title": "Product Analyst, Explore",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Pandora",
+        "Job Title": "E-Commerce Analytics Intern",
+        "Location": "New York City Office",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "ServiceUp",
+        "Job Title": "Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Penn Foster Group",
+        "Job Title": "Customer Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Notion",
+        "Job Title": "Data Scientist, Finance",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-11"
     }
 ]
