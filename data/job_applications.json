@@ -10232,5 +10232,12 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-03-11"
+    },
+    {
+        "Company": "Cargill",
+        "Job Title": "Pricing Analyst- Retail & Pet",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
     }
 ]
