@@ -1498,13 +1498,6 @@
         "Date": "2025-02-10"
     },
     {
-        "Company": "Shipt",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-10"
-    },
-    {
         "Company": "Booz Allen D",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -10363,6 +10356,20 @@
         "Company": "Strava",
         "Job Title": "Product Analyst, Explore",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Shipt",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Zions Bancorporation",
+        "Job Title": "Business Systems Analyst - Risk",
+        "Location": "SLC (Salt Lake City)",
         "status": "Applied",
         "Date": "2025-03-11"
     }

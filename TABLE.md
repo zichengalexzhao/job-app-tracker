@@ -24,6 +24,8 @@
 | Advarra, Inc. | Data Analyst (Remote) | Unknown | Applied | 2025-03-11 |
 | Hometap | Analytics Engineer | Unknown | Applied | 2025-03-11 |
 | Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
+| Shipt | Data Scientist | Unknown | Declined | 2025-03-11 |
+| Zions Bancorporation | Business Systems Analyst - Risk | SLC (Salt Lake City) | Applied | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
@@ -748,7 +750,6 @@
 | Robert Bosch Automotive Technologies (Thailand) Co., Ltd. | Data Analyst | 500/92 Moo 3 Tasith, Pluak daeng District, Rayong, Thailand, Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand | Declined | 2025-02-11 |
 | Robert Half | Data Analyst | Unknown | Applied | 2025-02-10 |
 | Walmart | Data Scientist III | USA | Applied | 2025-02-10 |
-| Shipt | Data Scientist | Unknown | Applied | 2025-02-10 |
 | Booz Allen D | Data Analyst | Unknown | Applied | 2025-02-10 |
 | Internet Brands NY | Data Analyst | NY | Applied | 2025-02-10 |
 | Walgreens | Data Scientist | Unknown | Declined | 2025-02-10 |
