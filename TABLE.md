@@ -40,6 +40,14 @@
 | Twitch | Unknown | Unknown | Applied | 2025-03-11 |
 | IQVIA | Market Research Analyst | Unknown | Applied | 2025-03-11 |
 | Outreach | Business Intelligence Analyst - Customer Experience (CX) | Unknown | Declined | 2025-03-11 |
+| Unknown | Student Intern | UC Davis | Applied | 2025-03-11 |
+| Ford Motor Company | Analyst, Digital Product Marketing | Unknown | Applied | 2025-03-11 |
+| Jazz | Analyst, Analytics & Insights (Remote) | Unknown | Applied | 2025-03-11 |
+| DoorDash | Master Data Management Specialist | Unknown | Declined | 2025-03-11 |
+| Ford | Unknown | Unknown | Applied | 2025-03-11 |
+| Stripe | Data Analyst | Unknown | Applied | 2025-03-11 |
+| Chewy Inc | Business Intelligence Engineer I | Unknown | Applied | 2025-03-11 |
+| Numerator | Research Analyst | Unknown | Applied | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
@@ -169,7 +177,6 @@
 | United States Air Force | Airborne Cryptologic Language Analyst | Unknown | Applied | 2025-03-07 |
 | Compunnel Inc | Snowflake Developer | Concord, NH | Applied | 2025-03-07 |
 | DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Applied | 2025-03-07 |
-| DoorDash | Master Data Management Specialist | Unknown | Applied | 2025-03-07 |
 | ERM (Environmental Resources Management) | Consulting Associate, Environmental Data Manager (Entry Level) | Unknown | Applied | 2025-03-07 |
 | Sully.ai | Unknown | Unknown | Applied | 2025-03-07 |
 | Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |

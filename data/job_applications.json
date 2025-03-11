@@ -9079,13 +9079,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "DoorDash",
-        "Job Title": "Master Data Management Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "ERM (Environmental Resources Management)",
         "Job Title": "Consulting Associate, Environmental Data Manager (Entry Level)",
         "Location": "Unknown",
@@ -10455,6 +10448,62 @@
         "Job Title": "Business Intelligence Analyst - Customer Experience (CX)",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Student Intern",
+        "Location": "UC Davis",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Ford Motor Company",
+        "Job Title": "Analyst, Digital Product Marketing",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Jazz",
+        "Job Title": "Analyst, Analytics & Insights (Remote)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Master Data Management Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Ford",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Stripe",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Chewy Inc",
+        "Job Title": "Business Intelligence Engineer I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-11"
+    },
+    {
+        "Company": "Numerator",
+        "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-11"
     }
 ]
