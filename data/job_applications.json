@@ -10575,5 +10575,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-12"
+    },
+    {
+        "Company": "Uline",
+        "Job Title": "Sales Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
     }
 ]
