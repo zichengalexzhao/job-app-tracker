@@ -30,6 +30,16 @@
 | Datadog | GTM Strategy and Operations Associate - Sales Engineering | Unknown | Applied | 2025-03-12 |
 | Intermountain Health | Unknown | Unknown | Applied | 2025-03-12 |
 | Carilion Clinic | AI and Data Scientist- Health Analytics (151205) | Unknown | Declined | 2025-03-12 |
+| Sia | Unknown | Unknown | Applied | 2025-03-12 |
+| Plaid | Business Intelligence - GTM | Unknown | Applied | 2025-03-12 |
+| Adobe | Sales Operations Analyst | Unknown | Applied | 2025-03-12 |
+| Zoox | Business Intelligence Engineer | Unknown | Applied | 2025-03-12 |
+| Colibri Group | Marketing Data Analyst | Unknown | Applied | 2025-03-12 |
+| Critical Mass | Marketing Science Analyst | Unknown | Declined | 2025-03-12 |
+| Supermicro | Business Analyst | Unknown | Applied | 2025-03-12 |
+| BetterHelp | Data Scientist, Marketing Inference | Unknown | Applied | 2025-03-12 |
+| KLA-Tencor | Marketing Analyst Intern | Unknown | Applied | 2025-03-12 |
+| Scribd | Product Analyst II (UGC) | Unknown | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
@@ -43,7 +53,6 @@
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Applied | 2025-03-11 |
 | Allan Myers | Data Analytics Analyst | Unknown | Applied | 2025-03-11 |
 | CVS Health | Unknown | Unknown | Applied | 2025-03-11 |
-| Critical Mass | Marketing Science Analyst | Unknown | Applied | 2025-03-11 |
 | MassMutual | Data Analytics Engineer - Marketing | Unknown | Applied | 2025-03-11 |
 | OptiSigns Inc. | Business Analyst | Unknown | Applied | 2025-03-11 |
 | IPG Mediabrands | Analyst, Business Intelligence | Unknown | Applied | 2025-03-11 |
@@ -183,7 +192,6 @@
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-08 |
 | Super.com | Data Analyst | Unknown | Applied | 2025-03-08 |
 | Hyundai Autoever America | Business Process Analyst I | Unknown | Applied | 2025-03-08 |
-| Critical Mass | Marketing Science Analyst | Unknown | Applied | 2025-03-08 |
 | Whatnot | Marketing Associate | Unknown | Applied | 2025-03-08 |
 | Uline | Unknown | Unknown | Applied | 2025-03-08 |
 | Uline | Unknown | Unknown | Applied | 2025-03-08 |
