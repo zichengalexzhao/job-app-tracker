@@ -8,6 +8,8 @@
 | Uline | Sales Analyst | Unknown | Applied | 2025-03-12 |
 | Disney | Data Science Grad Intern | Unknown | Applied | 2025-03-12 |
 | Vontier Employment Services LLC | Associate Analyst, Total Rewards | Unknown | Applied | 2025-03-12 |
+| Whatnot | Marketing Associate | Unknown | Applied | 2025-03-12 |
+| Coinbase | Data Scientist II | Unknown | Declined | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |

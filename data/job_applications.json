@@ -10596,5 +10596,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-12"
+    },
+    {
+        "Company": "Whatnot",
+        "Job Title": "Marketing Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
     }
 ]
