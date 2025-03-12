@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
@@ -48,6 +49,16 @@
 | Stripe | Data Analyst | Unknown | Applied | 2025-03-11 |
 | Chewy Inc | Business Intelligence Engineer I | Unknown | Applied | 2025-03-11 |
 | Numerator | Research Analyst | Unknown | Applied | 2025-03-11 |
+| CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-11 |
+| S&P Global | Data Analyst | Unknown | Applied | 2025-03-11 |
+| Disney | Unknown | Unknown | Applied | 2025-03-11 |
+| Blue Cross NC | Unknown | Unknown | Applied | 2025-03-11 |
+| Disney | Unknown | Unknown | Applied | 2025-03-11 |
+| Coalition, Inc. | Unknown | Unknown | Applied | 2025-03-11 |
+| Coalition, Inc. | Unknown | Unknown | Applied | 2025-03-11 |
+| Resilinc | Data Scientist | Unknown | Applied | 2025-03-11 |
+| Coinbase | Unknown | Unknown | Applied | 2025-03-11 |
+| Grand Canyon Education | Marketing Data Science | Unknown | Applied | 2025-03-11 |
 | Travelers | Business Analyst, Business Insurance, R-41749 | Unknown | Applied | 2025-03-10 |
 | Dataiku | Data Scientist - Talent Pool | Unknown | Declined | 2025-03-10 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-10 |
