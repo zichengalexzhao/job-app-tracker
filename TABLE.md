@@ -1,6 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
+| Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
+| Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
