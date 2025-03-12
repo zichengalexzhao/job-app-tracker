@@ -9198,13 +9198,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Outreach",
-        "Job Title": "Business Intelligence Analyst - Product Marketing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "AIG",
         "Job Title": "Innovation and Digital Business Enablement Analyst",
         "Location": "United States, Atlanta (GA)",
@@ -10318,13 +10311,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "Abridge",
-        "Job Title": "Machine Learning Scientist, NLP",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
         "Company": "DAS42",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -10608,6 +10594,62 @@
         "Company": "Coinbase",
         "Job Title": "Data Scientist II",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Outreach",
+        "Job Title": "Business Intelligence Analyst - Product Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Pattern Data",
+        "Job Title": "Analytics Developer I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Veo",
+        "Job Title": "Technical Operations Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "T-Mobile",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Abridge",
+        "Job Title": "Machine Learning Scientist, NLP",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Kargo",
+        "Job Title": "Analyst, Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "KMR Group INC (Inferred from the email content)",
+        "Job Title": "Data Analyst",
+        "Location": "US",
         "status": "Declined",
         "Date": "2025-03-12"
     }

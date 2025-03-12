@@ -10,6 +10,14 @@
 | Vontier Employment Services LLC | Associate Analyst, Total Rewards | Unknown | Applied | 2025-03-12 |
 | Whatnot | Marketing Associate | Unknown | Applied | 2025-03-12 |
 | Coinbase | Data Scientist II | Unknown | Declined | 2025-03-12 |
+| Outreach | Business Intelligence Analyst - Product Marketing | Unknown | Declined | 2025-03-12 |
+| Pattern Data | Analytics Developer I | Unknown | Applied | 2025-03-12 |
+| Veo | Technical Operations Associate | Unknown | Applied | 2025-03-12 |
+| Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-03-12 |
+| T-Mobile | Unknown | Unknown | Applied | 2025-03-12 |
+| Abridge | Machine Learning Scientist, NLP | Unknown | Declined | 2025-03-12 |
+| Kargo | Analyst, Analytics | Unknown | Declined | 2025-03-12 |
+| KMR Group INC (Inferred from the email content) | Data Analyst | US | Declined | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
@@ -36,7 +44,6 @@
 | Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
 | Shipt | Data Scientist | Unknown | Declined | 2025-03-11 |
 | Zions Bancorporation | Business Systems Analyst - Risk | SLC (Salt Lake City) | Applied | 2025-03-11 |
-| Abridge | Machine Learning Scientist, NLP | Unknown | Applied | 2025-03-11 |
 | DAS42 | Unknown | Unknown | Applied | 2025-03-11 |
 | Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-11 |
 | SLB (Schlumberger Limited) | Data Scientist | Unknown | Applied | 2025-03-11 |
@@ -218,7 +225,6 @@
 | Applecart | Survey Scientist | Unknown | Declined | 2025-03-07 |
 | Revvity | Intern - IT Data Analyst | Unknown | Declined | 2025-03-07 |
 | Starcom (Publicis Groupe) | Analyst, Analytics (2025-95190) | Unknown | Applied | 2025-03-07 |
-| Outreach | Business Intelligence Analyst - Product Marketing | Unknown | Applied | 2025-03-07 |
 | AIG | Innovation and Digital Business Enablement Analyst | United States, Atlanta (GA) | Applied | 2025-03-07 |
 | Koalafi | Sales Go-To-Market (GTM) Analyst | Unknown | Declined | 2025-03-07 |
 | Kwik Trip | Data Analyst | Unknown | Applied | 2025-03-07 |
