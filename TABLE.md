@@ -47,6 +47,9 @@
 | Visa | Data Scientist for Risk and Identity Solutions | Unknown | Applied | 2025-03-12 |
 | Visa | Product Analyst | Unknown | Applied | 2025-03-12 |
 | UST | Unknown | Unknown | Declined | 2025-03-12 |
+| Notion | Data Scientist, Growth | Unknown | Declined | 2025-03-12 |
+| Kiavi | Product Analyst | Unknown | Applied | 2025-03-12 |
+| W3global | Data Scientist With Marcom & Experimentation | Sunnyvale | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
@@ -599,7 +602,6 @@
 | Tripoint Solutions | Data Analyst | Unknown | Applied | 2025-02-24 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-02-24 |
 | iBusiness Funding | Unknown | Unknown | Applied | 2025-02-24 |
-| Notion | Data Scientist, Growth | Unknown | Applied | 2025-02-24 |
 | Tencent | Unknown | Unknown | Applied | 2025-02-24 |
 | Tencent | Unknown | Unknown | Applied | 2025-02-24 |
 | Sony | Product Analyst | Unknown | Declined | 2025-02-24 |

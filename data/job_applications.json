@@ -3766,13 +3766,6 @@
         "Date": "2025-02-24"
     },
     {
-        "Company": "Notion",
-        "Job Title": "Data Scientist, Growth",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-24"
-    },
-    {
         "Company": "WSECU (Washington State Employees Credit Union)",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -10812,6 +10805,27 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Notion",
+        "Job Title": "Data Scientist, Growth",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Kiavi",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "W3global",
+        "Job Title": "Data Scientist With Marcom & Experimentation",
+        "Location": "Sunnyvale",
+        "status": "Applied",
         "Date": "2025-03-12"
     }
 ]
