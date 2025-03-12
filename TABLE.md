@@ -3,6 +3,8 @@
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
+| Walmart | Data Scientist III | Unknown | Declined | 2025-03-12 |
+| Horizon Media | Analyst, Performance Media Analytics | Unknown | Declined | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
@@ -183,7 +185,6 @@
 | Experian | Data Scientist, Healthcare | Remote | Applied | 2025-03-07 |
 | Capstone Investment Advisors | Data Scientist | Unknown | Applied | 2025-03-07 |
 | Vermont Information Processing (VIP) | Unknown | Unknown | Applied | 2025-03-07 |
-| Horizon Media | Analyst, Performance Media Analytics | Unknown | Applied | 2025-03-07 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-07 |
 | The New York Times | Analyst, Subscriber Experiences | Unknown | Applied | 2025-03-07 |
 | Allbirds | Product Planning Analyst | Unknown | Declined | 2025-03-07 |
@@ -416,7 +417,6 @@
 | CharterUP | Data Analyst | Multiple states (Arizona, California, Colorado, Florida, Georgia, Hawaii, Missouri, Mississippi, North Carolina, New Hampshire, Nevada, New York, Oklahoma, South Dakota, Tennessee, Texas, Utah, Washington, Wyoming) | Declined | 2025-03-01 |
 | Circana | Client Insights Analyst SRANA014184 | Unknown | Declined | 2025-03-01 |
 | MultiPlan | Sr. Data Scientist -AI/ML | Boston, MA | Applied | 2025-03-01 |
-| Walmart | Data Scientist III | Unknown | Applied | 2025-03-01 |
 | Walmart | Data Analyst II | Unknown | Applied | 2025-03-01 |
 | Red Canary | Unknown | Unknown | Applied | 2025-03-01 |
 | CarGurus | Marketing Analytics Analyst | Unknown | Applied | 2025-03-01 |
@@ -782,7 +782,6 @@
 | Oscar | Operations, Data Analyst | Unknown | Declined | 2025-02-11 |
 | Robert Bosch Automotive Technologies (Thailand) Co., Ltd. | Data Analyst | 500/92 Moo 3 Tasith, Pluak daeng District, Rayong, Thailand, Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand | Declined | 2025-02-11 |
 | Robert Half | Data Analyst | Unknown | Applied | 2025-02-10 |
-| Walmart | Data Scientist III | USA | Applied | 2025-02-10 |
 | Booz Allen D | Data Analyst | Unknown | Applied | 2025-02-10 |
 | Internet Brands NY | Data Analyst | NY | Applied | 2025-02-10 |
 | Walgreens | Data Scientist | Unknown | Declined | 2025-02-10 |
@@ -964,8 +963,6 @@
 | IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-27 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-27 |
 | Oracle | UX Data Science Intern - Fusion-256341 | Unknown | Declined | 2025-01-27 |
-| Walmart | Data Scientist III | Unknown | Applied | 2025-01-27 |
-| Walmart | Data Scientist III | Unknown | Applied | 2025-01-27 |
 | Walmart | Audit, Senior Analyst | Unknown | Applied | 2025-01-27 |
 | Walmart | Summer Grad Intern: Data Science III | Unknown | Applied | 2025-01-27 |
 | Oracle | Financial Analyst - July 2025 Start Date - 261333 | Unknown | Applied | 2025-01-27 |

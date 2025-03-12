@@ -1491,13 +1491,6 @@
         "Date": "2025-02-10"
     },
     {
-        "Company": "Walmart",
-        "Job Title": "Data Scientist III",
-        "Location": "USA",
-        "status": "Applied",
-        "Date": "2025-02-10"
-    },
-    {
         "Company": "Booz Allen D",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -2762,20 +2755,6 @@
         "Job Title": "UX Data Science Intern - Fusion-256341",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "Walmart",
-        "Job Title": "Data Scientist III",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "Walmart",
-        "Job Title": "Data Scientist III",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-01-27"
     },
     {
@@ -7694,13 +7673,6 @@
     },
     {
         "Company": "Walmart",
-        "Job Title": "Data Scientist III",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-01"
-    },
-    {
-        "Company": "Walmart",
         "Job Title": "Data Analyst II",
         "Location": "Unknown",
         "status": "Applied",
@@ -9025,13 +8997,6 @@
     {
         "Company": "Vermont Information Processing (VIP)",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
-        "Company": "Horizon Media",
-        "Job Title": "Analyst, Performance Media Analytics",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-07"
@@ -10595,6 +10560,20 @@
         "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Data Scientist III",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Horizon Media",
+        "Job Title": "Analyst, Performance Media Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-12"
     }
 ]
