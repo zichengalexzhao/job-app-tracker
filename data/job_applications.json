@@ -10731,13 +10731,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "Supermicro",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "BetterHelp",
         "Job Title": "Data Scientist, Marketing Inference",
         "Location": "Unknown",
@@ -10825,6 +10818,27 @@
         "Company": "W3global",
         "Job Title": "Data Scientist With Marcom & Experimentation",
         "Location": "Sunnyvale",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Supermicro",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Data Science Intern (MA/PhD)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "UBS",
+        "Job Title": "Junior Data Management Analyst",
+        "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-12"
     }

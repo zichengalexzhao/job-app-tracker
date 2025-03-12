@@ -36,7 +36,6 @@
 | Zoox | Business Intelligence Engineer | Unknown | Applied | 2025-03-12 |
 | Colibri Group | Marketing Data Analyst | Unknown | Applied | 2025-03-12 |
 | Critical Mass | Marketing Science Analyst | Unknown | Declined | 2025-03-12 |
-| Supermicro | Business Analyst | Unknown | Applied | 2025-03-12 |
 | BetterHelp | Data Scientist, Marketing Inference | Unknown | Applied | 2025-03-12 |
 | KLA-Tencor | Marketing Analyst Intern | Unknown | Applied | 2025-03-12 |
 | Scribd | Product Analyst II (UGC) | Unknown | Applied | 2025-03-12 |
@@ -50,6 +49,9 @@
 | Notion | Data Scientist, Growth | Unknown | Declined | 2025-03-12 |
 | Kiavi | Product Analyst | Unknown | Applied | 2025-03-12 |
 | W3global | Data Scientist With Marcom & Experimentation | Sunnyvale | Applied | 2025-03-12 |
+| Supermicro | Business Analyst | Unknown | Declined | 2025-03-12 |
+| Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-12 |
+| UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
