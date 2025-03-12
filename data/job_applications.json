@@ -10652,5 +10652,89 @@
         "Location": "US",
         "status": "Declined",
         "Date": "2025-03-12"
+    },
+    {
+        "Company": "Applied Materials",
+        "Job Title": "Market Analyst - New College Graduate (Bachelors)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Shepherd",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Accenture",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "HMH (Houghton Mifflin Harcourt)",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "RunPod",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "NielsenIQ",
+        "Job Title": "Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "AbbVie",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "ByteDance",
+        "Job Title": "Network Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Encord",
+        "Job Title": "Growth Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Datadog",
+        "Job Title": "GTM Strategy and Operations Associate - Sales Engineering",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Intermountain Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Carilion Clinic",
+        "Job Title": "AI and Data Scientist- Health Analytics (151205)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
     }
 ]

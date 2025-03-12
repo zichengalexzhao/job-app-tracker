@@ -18,6 +18,18 @@
 | Abridge | Machine Learning Scientist, NLP | Unknown | Declined | 2025-03-12 |
 | Kargo | Analyst, Analytics | Unknown | Declined | 2025-03-12 |
 | KMR Group INC (Inferred from the email content) | Data Analyst | US | Declined | 2025-03-12 |
+| Applied Materials | Market Analyst - New College Graduate (Bachelors) | Unknown | Applied | 2025-03-12 |
+| Shepherd | Unknown | Unknown | Applied | 2025-03-12 |
+| Accenture | Unknown | Unknown | Applied | 2025-03-12 |
+| HMH (Houghton Mifflin Harcourt) | Data Analyst | Unknown | Applied | 2025-03-12 |
+| RunPod | Data Analyst | Unknown | Applied | 2025-03-12 |
+| NielsenIQ | Insights Analyst | Unknown | Applied | 2025-03-12 |
+| AbbVie | Associate Data Scientist | Unknown | Declined | 2025-03-12 |
+| ByteDance | Network Data Analyst | Unknown | Applied | 2025-03-12 |
+| Encord | Growth Associate | Unknown | Applied | 2025-03-12 |
+| Datadog | GTM Strategy and Operations Associate - Sales Engineering | Unknown | Applied | 2025-03-12 |
+| Intermountain Health | Unknown | Unknown | Applied | 2025-03-12 |
+| Carilion Clinic | AI and Data Scientist- Health Analytics (151205) | Unknown | Declined | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
