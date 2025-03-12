@@ -3717,13 +3717,6 @@
         "Date": "2025-02-24"
     },
     {
-        "Company": "UST",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-24"
-    },
-    {
         "Company": "KENDO HOLDINGS INC",
         "Job Title": "Internship, Ecommerce & Digital",
         "Location": "San Francisco, California",
@@ -7280,13 +7273,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "S&P Global",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "HubSpot",
         "Job Title": "Data Scientist, People Analytics",
         "Location": "Unknown",
@@ -7542,13 +7528,6 @@
         "Company": "Coalition, Inc.",
         "Job Title": "Unknown",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-28"
-    },
-    {
-        "Company": "CyberCube",
-        "Job Title": "Data Scientist",
-        "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-02-28"
     },
@@ -10458,13 +10437,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "S&P Global",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
         "Company": "Disney",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -10791,6 +10763,55 @@
         "Job Title": "Product Analyst II (UGC)",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Jerry",
+        "Job Title": "Associate, Business Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "CyberCube",
+        "Job Title": "Data Scientist",
+        "Location": "San Francisco, CA",
+        "status": "Declined",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Data Scientist for Risk and Identity Solutions",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-12"
+    },
+    {
+        "Company": "UST",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-12"
     }
 ]

@@ -40,6 +40,13 @@
 | BetterHelp | Data Scientist, Marketing Inference | Unknown | Applied | 2025-03-12 |
 | KLA-Tencor | Marketing Analyst Intern | Unknown | Applied | 2025-03-12 |
 | Scribd | Product Analyst II (UGC) | Unknown | Applied | 2025-03-12 |
+| S&P Global | Data Analyst | Unknown | Declined | 2025-03-12 |
+| Unknown | Junior Data Analyst | Unknown | Applied | 2025-03-12 |
+| Jerry | Associate, Business Operations | Unknown | Applied | 2025-03-12 |
+| CyberCube | Data Scientist | San Francisco, CA | Declined | 2025-03-12 |
+| Visa | Data Scientist for Risk and Identity Solutions | Unknown | Applied | 2025-03-12 |
+| Visa | Product Analyst | Unknown | Applied | 2025-03-12 |
+| UST | Unknown | Unknown | Declined | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
@@ -87,7 +94,6 @@
 | Chewy Inc | Business Intelligence Engineer I | Unknown | Applied | 2025-03-11 |
 | Numerator | Research Analyst | Unknown | Applied | 2025-03-11 |
 | CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-11 |
-| S&P Global | Data Analyst | Unknown | Applied | 2025-03-11 |
 | Disney | Unknown | Unknown | Applied | 2025-03-11 |
 | Blue Cross NC | Unknown | Unknown | Applied | 2025-03-11 |
 | Disney | Unknown | Unknown | Applied | 2025-03-11 |
@@ -478,7 +484,6 @@
 | Affirm | Analyst I, Fraud Strategy and Analytics | Unknown | Declined | 2025-02-28 |
 | Nurix | Unknown | Unknown | Applied | 2025-02-28 |
 | Coalition, Inc. | Unknown | Unknown | Applied | 2025-02-28 |
-| CyberCube | Data Scientist | San Francisco, CA | Applied | 2025-02-28 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-02-28 |
 | Peraton | AI Research Scientist | Unknown | Declined | 2025-02-28 |
 | GOBankingRates | Digital Yield Analyst | 100% Remote, Anywhere in the USA | Declined | 2025-02-28 |
@@ -506,7 +511,6 @@
 | Amazon | Data Scientist, Amazon Music - DISCO | Unknown | Applied | 2025-02-27 |
 | Amazon | Data Scientist, Amazon Music - DISCO | Unknown | Applied | 2025-02-27 |
 | Workday | Unknown | Unknown | Applied | 2025-02-27 |
-| S&P Global | Data Analyst | Unknown | Applied | 2025-02-27 |
 | HubSpot | Data Scientist, People Analytics | Unknown | Applied | 2025-02-27 |
 | SoFi | Data Scientist, Pricing | Unknown | Declined | 2025-02-27 |
 | Intermedia.net, Inc. | Unknown | Unknown | Applied | 2025-02-27 |
@@ -588,7 +592,6 @@
 | Commonwealth of VA | Statistical Analyst | Unknown | Applied | 2025-02-24 |
 | Laserfiche | Data Analyst | Unknown | Declined | 2025-02-24 |
 | Miami Dolphins and Hard Rock Stadium | Marketing Analyst | Unknown | Applied | 2025-02-24 |
-| UST | Unknown | Unknown | Applied | 2025-02-24 |
 | KENDO HOLDINGS INC | Internship, Ecommerce & Digital | San Francisco, California | Applied | 2025-02-24 |
 | Code.org | Data Analyst | Unknown | Applied | 2025-02-24 |
 | Zimmer Biomet | Business Insights Analyst | Unknown | Applied | 2025-02-24 |
