@@ -52,6 +52,7 @@
 | Supermicro | Business Analyst | Unknown | Declined | 2025-03-12 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-12 |
 | UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-12 |
+| Reddit | ML Search Generalist (pooled req) | Unknown | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
