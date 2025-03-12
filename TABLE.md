@@ -6,6 +6,7 @@
 | Walmart | Data Scientist III | Unknown | Declined | 2025-03-12 |
 | Horizon Media | Analyst, Performance Media Analytics | Unknown | Declined | 2025-03-12 |
 | Uline | Sales Analyst | Unknown | Applied | 2025-03-12 |
+| Disney | Data Science Grad Intern | Unknown | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
