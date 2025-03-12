@@ -53,6 +53,10 @@
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-12 |
 | UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-12 |
 | Reddit | ML Search Generalist (pooled req) | Unknown | Applied | 2025-03-12 |
+| Angi | Temporary Insights Analyst, 1 Year Contract | Unknown | Applied | 2025-03-12 |
+| Quest Global | Data Analyst (P-106559) | Unknown | Applied | 2025-03-12 |
+| Quest Global | Data Analyst | Unknown | Applied | 2025-03-12 |
+| Instacart | Associate Product Manager | Unknown | Applied | 2025-03-12 |
 | IU Health | Unknown | Unknown | Applied | 2025-03-11 |
 | Red Dog Media | Unknown | Unknown | Applied | 2025-03-11 |
 | Experian | Analytics Engineer, Health | Remote | Applied | 2025-03-11 |
