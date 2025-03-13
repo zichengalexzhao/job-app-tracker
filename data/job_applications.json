@@ -11016,5 +11016,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-13"
+    },
+    {
+        "Company": "Google",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Marketing Data Science Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-13"
     }
 ]
