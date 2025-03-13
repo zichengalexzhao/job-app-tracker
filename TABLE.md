@@ -23,6 +23,7 @@
 | Mass General Brigham | Data Analyst I | Unknown | Applied | 2025-03-13 |
 | SLB (Schlumberger Limited) | Data Scientist | Unknown | Declined | 2025-03-13 |
 | Independence Pet Holdings | Unknown | Unknown | Applied | 2025-03-13 |
+| The Scion Group | Data Scientist | Unknown | Declined | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |

@@ -11009,5 +11009,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-13"
+    },
+    {
+        "Company": "The Scion Group",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-13"
     }
 ]
