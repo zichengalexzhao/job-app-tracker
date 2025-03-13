@@ -10262,13 +10262,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "SLB (Schlumberger Limited)",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
         "Company": "Strava",
         "Job Title": "Product Analyst, Explore",
         "Location": "Unknown",
@@ -10994,6 +10987,27 @@
         "Job Title": "Data Scientist-Advanced Analytics",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Mass General Brigham",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "SLB (Schlumberger Limited)",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Independence Pet Holdings",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-13"
     }
 ]

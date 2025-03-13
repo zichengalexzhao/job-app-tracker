@@ -20,6 +20,9 @@
 | Walmart | Data Scientist III | USA | Declined | 2025-03-13 |
 | MassMutual | Data Analytics Engineer - Marketing | Unknown | Applied | 2025-03-13 |
 | IBM | Data Scientist-Advanced Analytics | Unknown | Declined | 2025-03-13 |
+| Mass General Brigham | Data Analyst I | Unknown | Applied | 2025-03-13 |
+| SLB (Schlumberger Limited) | Data Scientist | Unknown | Declined | 2025-03-13 |
+| Independence Pet Holdings | Unknown | Unknown | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
@@ -104,7 +107,6 @@
 | Zions Bancorporation | Business Systems Analyst - Risk | SLC (Salt Lake City) | Applied | 2025-03-11 |
 | DAS42 | Unknown | Unknown | Applied | 2025-03-11 |
 | Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-11 |
-| SLB (Schlumberger Limited) | Data Scientist | Unknown | Applied | 2025-03-11 |
 | Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
 | Pandora | E-Commerce Analytics Intern | New York City Office | Applied | 2025-03-11 |
 | ServiceUp | Business Data Analyst | Unknown | Applied | 2025-03-11 |
