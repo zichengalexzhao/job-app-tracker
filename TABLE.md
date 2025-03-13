@@ -35,6 +35,7 @@
 | IQVIA | Business Systems Analyst 1 | Unknown | Applied | 2025-03-13 |
 | Angi | Insights Analyst | Unknown | Applied | 2025-03-13 |
 | Fetch | MarTech & Data Specialist | Unknown | Declined | 2025-03-13 |
+| SLB Careers | Full Stack Software Engineer | Houston, United States | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |

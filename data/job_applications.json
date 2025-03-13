@@ -11093,5 +11093,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-13"
+    },
+    {
+        "Company": "SLB Careers",
+        "Job Title": "Full Stack Software Engineer",
+        "Location": "Houston, United States",
+        "status": "Applied",
+        "Date": "2025-03-13"
     }
 ]
