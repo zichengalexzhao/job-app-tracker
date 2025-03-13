@@ -11072,5 +11072,26 @@
         "Location": "US Based Remote",
         "status": "Applied",
         "Date": "2025-03-13"
+    },
+    {
+        "Company": "IQVIA",
+        "Job Title": "Business Systems Analyst 1",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Angi",
+        "Job Title": "Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Fetch",
+        "Job Title": "MarTech & Data Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-13"
     }
 ]
