@@ -10876,5 +10876,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-12"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Data Engineer II - Music",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Senior Analyst, Sales Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Ford Motor Company",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
     }
 ]
