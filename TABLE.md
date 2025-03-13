@@ -39,6 +39,8 @@
 | Stackline | Data Analyst II | Unknown | Declined | 2025-03-13 |
 | Grayce | Graduate Business Analyst | San Francisco, CA | Applied | 2025-03-13 |
 | Grayce | Graduate Business Analyst | Unknown | Applied | 2025-03-13 |
+| DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Declined | 2025-03-13 |
+| Shepherd | Business Analytics | Unknown | Declined | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
@@ -275,7 +277,6 @@
 | Allbirds | Product Planning Analyst | Unknown | Declined | 2025-03-07 |
 | United States Air Force | Airborne Cryptologic Language Analyst | Unknown | Applied | 2025-03-07 |
 | Compunnel Inc | Snowflake Developer | Concord, NH | Applied | 2025-03-07 |
-| DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Applied | 2025-03-07 |
 | ERM (Environmental Resources Management) | Consulting Associate, Environmental Data Manager (Entry Level) | Unknown | Applied | 2025-03-07 |
 | Sully.ai | Unknown | Unknown | Applied | 2025-03-07 |
 | Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |

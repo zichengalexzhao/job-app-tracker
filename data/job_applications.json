@@ -8988,13 +8988,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "DISH Network L.L.C.",
-        "Job Title": "Data and Business Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "ERM (Environmental Resources Management)",
         "Job Title": "Consulting Associate, Environmental Data Manager (Entry Level)",
         "Location": "Unknown",
@@ -11113,6 +11106,20 @@
         "Job Title": "Graduate Business Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "DISH Network L.L.C.",
+        "Job Title": "Data and Business Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Shepherd",
+        "Job Title": "Business Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-13"
     }
 ]
