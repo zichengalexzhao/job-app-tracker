@@ -38,6 +38,7 @@
 | SLB Careers | Full Stack Software Engineer | Houston, United States | Applied | 2025-03-13 |
 | Stackline | Data Analyst II | Unknown | Declined | 2025-03-13 |
 | Grayce | Graduate Business Analyst | San Francisco, CA | Applied | 2025-03-13 |
+| Grayce | Graduate Business Analyst | Unknown | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
