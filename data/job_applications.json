@@ -9940,13 +9940,6 @@
         "Date": "2025-03-10"
     },
     {
-        "Company": "Stackline",
-        "Job Title": "Data Analyst II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-10"
-    },
-    {
         "Company": "Johnson & Johnson",
         "Job Title": "Digital Business Analyst - Shockwave",
         "Location": "Unknown",
@@ -11098,6 +11091,20 @@
         "Company": "SLB Careers",
         "Job Title": "Full Stack Software Engineer",
         "Location": "Houston, United States",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Stackline",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Grayce",
+        "Job Title": "Graduate Business Analyst",
+        "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-03-13"
     }

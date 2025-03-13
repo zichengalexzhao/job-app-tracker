@@ -36,6 +36,8 @@
 | Angi | Insights Analyst | Unknown | Applied | 2025-03-13 |
 | Fetch | MarTech & Data Specialist | Unknown | Declined | 2025-03-13 |
 | SLB Careers | Full Stack Software Engineer | Houston, United States | Applied | 2025-03-13 |
+| Stackline | Data Analyst II | Unknown | Declined | 2025-03-13 |
+| Grayce | Graduate Business Analyst | San Francisco, CA | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
@@ -156,7 +158,6 @@
 | Pathward, N.A. | Unknown | Unknown | Applied | 2025-03-10 |
 | Alto Pharmacy | Early Career Product Analyst | Unknown | Applied | 2025-03-10 |
 | Lockton Companies LLC | Data Analyst- Risk Solutions-25004Z | Unknown | Applied | 2025-03-10 |
-| Stackline | Data Analyst II | Unknown | Applied | 2025-03-10 |
 | Johnson & Johnson | Digital Business Analyst - Shockwave | Unknown | Declined | 2025-03-10 |
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-10 |
 | The Waldinger Corporation | Business Intelligence Analyst | Unknown | Applied | 2025-03-10 |
