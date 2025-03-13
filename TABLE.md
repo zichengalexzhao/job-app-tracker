@@ -26,6 +26,12 @@
 | The Scion Group | Data Scientist | Unknown | Declined | 2025-03-13 |
 | Google | Unknown | Unknown | Applied | 2025-03-13 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-03-13 |
+| The Walt Disney Company | Data Analyst | Northridge, CA | Applied | 2025-03-13 |
+| Capital One | Manager, Ontology and Data Modeling | Richmond, VA | Applied | 2025-03-13 |
+| Salesforce | Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics) | Unknown | Applied | 2025-03-13 |
+| Poshmark | Unknown | Unknown | Applied | 2025-03-13 |
+| Anywhere | Data Analytics Analyst | US Based Remote | Applied | 2025-03-13 |
+| Anywhere | Analyst Data Analytics | US Based Remote | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |

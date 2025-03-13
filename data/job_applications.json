@@ -11030,5 +11030,47 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-13"
+    },
+    {
+        "Company": "The Walt Disney Company",
+        "Job Title": "Data Analyst",
+        "Location": "Northridge, CA",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Capital One",
+        "Job Title": "Manager, Ontology and Data Modeling",
+        "Location": "Richmond, VA",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Salesforce",
+        "Job Title": "Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Poshmark",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Anywhere",
+        "Job Title": "Data Analytics Analyst",
+        "Location": "US Based Remote",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Anywhere",
+        "Job Title": "Analyst Data Analytics",
+        "Location": "US Based Remote",
+        "status": "Applied",
+        "Date": "2025-03-13"
     }
 ]
