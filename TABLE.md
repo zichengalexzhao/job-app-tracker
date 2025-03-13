@@ -8,6 +8,15 @@
 | Sense | Data Scientist - Deep Learning Focus | San Francisco, United States | Applied | 2025-03-13 |
 | Stride | Unknown | Unknown | Applied | 2025-03-13 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Applied | 2025-03-13 |
+| GroupM Nexus | Analyst, Data Science | Unknown | Declined | 2025-03-13 |
+| Marcone Appliance Parts | Power BI Specialist | St. Louis, MO | Applied | 2025-03-13 |
+| Fleetio | Unknown | Unknown | Applied | 2025-03-13 |
+| Independence Pet Group | Unknown | Unknown | Applied | 2025-03-13 |
+| Independence Pet Group | Unknown | Unknown | Applied | 2025-03-13 |
+| Netflix | Data Scientist (L5) - Content | Unknown | Applied | 2025-03-13 |
+| Independence Pet Group | Unknown | Unknown | Applied | 2025-03-13 |
+| AgroFresh Inc. | Science & Business Data Analyst | Unknown | Applied | 2025-03-13 |
+| Tubi | Data Scientist | Unknown | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
@@ -710,7 +719,6 @@
 | Aimé Leon Dore | Data Analyst | Unknown | Applied | 2025-02-20 |
 | SWBC | Data Analyst | Unknown | Applied | 2025-02-20 |
 | Inspire11 | Data Science Consultant | Unknown | Declined | 2025-02-20 |
-| GroupM Nexus | Analyst, Data Science | Unknown | Applied | 2025-02-20 |
 | CONMED | Unknown | Unknown | Applied | 2025-02-20 |
 | Whalar Group | Data Analyst | Unknown | Applied | 2025-02-20 |
 | PlayStation | Senior Analyst - Content Insights | Unknown | Applied | 2025-02-20 |

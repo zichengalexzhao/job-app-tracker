@@ -630,13 +630,6 @@
         "Date": "2025-02-20"
     },
     {
-        "Company": "GroupM Nexus",
-        "Job Title": "Analyst, Data Science",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-20"
-    },
-    {
         "Company": "CONMED",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -10929,6 +10922,69 @@
     {
         "Company": "Hard Rock Digital",
         "Job Title": "Loyalty Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "GroupM Nexus",
+        "Job Title": "Analyst, Data Science",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Marcone Appliance Parts",
+        "Job Title": "Power BI Specialist",
+        "Location": "St. Louis, MO",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Fleetio",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Independence Pet Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Independence Pet Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Netflix",
+        "Job Title": "Data Scientist (L5) - Content",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Independence Pet Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "AgroFresh Inc.",
+        "Job Title": "Science & Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Tubi",
+        "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-13"
