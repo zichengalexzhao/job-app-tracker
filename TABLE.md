@@ -3,6 +3,11 @@
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
+| Coterie Applications Inc. | Data Analyst | Unknown | Applied | 2025-03-13 |
+| AgroFresh Inc. | Unknown | Unknown | Applied | 2025-03-13 |
+| Sense | Data Scientist - Deep Learning Focus | San Francisco, United States | Applied | 2025-03-13 |
+| Stride | Unknown | Unknown | Applied | 2025-03-13 |
+| Hard Rock Digital | Loyalty Analyst | Unknown | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |

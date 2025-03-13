@@ -10897,5 +10897,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-13"
+    },
+    {
+        "Company": "Coterie Applications Inc.",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "AgroFresh Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Sense",
+        "Job Title": "Data Scientist - Deep Learning Focus",
+        "Location": "San Francisco, United States",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Stride",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "Hard Rock Digital",
+        "Job Title": "Loyalty Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-13"
     }
 ]
