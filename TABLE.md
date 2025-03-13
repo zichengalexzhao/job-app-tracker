@@ -17,6 +17,8 @@
 | Independence Pet Group | Unknown | Unknown | Applied | 2025-03-13 |
 | AgroFresh Inc. | Science & Business Data Analyst | Unknown | Applied | 2025-03-13 |
 | Tubi | Data Scientist | Unknown | Applied | 2025-03-13 |
+| Walmart | Data Scientist III | USA | Declined | 2025-03-13 |
+| MassMutual | Data Analytics Engineer - Marketing | Unknown | Applied | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
