@@ -19,6 +19,7 @@
 | Tubi | Data Scientist | Unknown | Applied | 2025-03-13 |
 | Walmart | Data Scientist III | USA | Declined | 2025-03-13 |
 | MassMutual | Data Analytics Engineer - Marketing | Unknown | Applied | 2025-03-13 |
+| IBM | Data Scientist-Advanced Analytics | Unknown | Declined | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
 | Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
@@ -865,8 +866,6 @@
 | Unknown | Business Analyst | Unknown | Applied | 2025-02-07 |
 | NAVEX Global A | Data Analyst | Unknown | Applied | 2025-02-07 |
 | Axiamatic | Business Operations | Palo Alto, CA | Applied | 2025-02-07 |
-| IBM | Data Scientist-Advanced Analytics | Unknown | Applied | 2025-02-07 |
-| IBM | Data Scientist-Advanced Analytics | Unknown | Applied | 2025-02-07 |
 | Garner Health | Unknown | Unknown | Applied | 2025-02-07 |
 | Fitch Group | Data Analyst | Unknown | Applied | 2025-02-07 |
 | Strive Health | Data Analyst | Unknown | Declined | 2025-02-07 |

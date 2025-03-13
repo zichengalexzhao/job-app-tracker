@@ -1638,20 +1638,6 @@
         "Date": "2025-02-07"
     },
     {
-        "Company": "IBM",
-        "Job Title": "Data Scientist-Advanced Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-07"
-    },
-    {
-        "Company": "IBM",
-        "Job Title": "Data Scientist-Advanced Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-07"
-    },
-    {
         "Company": "Garner Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11001,6 +10987,13 @@
         "Job Title": "Data Analytics Engineer - Marketing",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-13"
+    },
+    {
+        "Company": "IBM",
+        "Job Title": "Data Scientist-Advanced Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-13"
     }
 ]
