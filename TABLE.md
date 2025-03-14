@@ -16,6 +16,7 @@
 | ByteDance | Network Data Analyst | Unknown | Applied | 2025-03-14 |
 | McKinsey & Company | Business Analyst | Unknown | Declined | 2025-03-14 |
 | NielsenIQ | Insights Analyst | Unknown | Declined | 2025-03-14 |
+| Truist | Data Scientist 1-2 Card Fraud Analytics | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
