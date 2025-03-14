@@ -1610,20 +1610,6 @@
         "Date": "2025-02-07"
     },
     {
-        "Company": "Unknown",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-07"
-    },
-    {
-        "Company": "Unknown",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-07"
-    },
-    {
         "Company": "NAVEX Global A",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -11121,5 +11107,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-13"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-14"
     }
 ]

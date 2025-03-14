@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Unknown | Business Analyst | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -880,8 +881,6 @@
 | Sephora | Unknown | Unknown | Applied | 2025-02-07 |
 | Sephora | Real Estate & Estimating Analyst | CA-FSC SF Off (0174) | Applied | 2025-02-07 |
 | Sephora | Real Estate & Estimating Analyst | San Francisco, CA, United States | Applied | 2025-02-07 |
-| Unknown | Business Analyst | Unknown | Applied | 2025-02-07 |
-| Unknown | Business Analyst | Unknown | Applied | 2025-02-07 |
 | NAVEX Global A | Data Analyst | Unknown | Applied | 2025-02-07 |
 | Axiamatic | Business Operations | Palo Alto, CA | Applied | 2025-02-07 |
 | Garner Health | Unknown | Unknown | Applied | 2025-02-07 |
