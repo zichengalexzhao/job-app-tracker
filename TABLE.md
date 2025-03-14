@@ -15,6 +15,7 @@
 | MeridianLink | Data Analyst 1713 | Unknown | Applied | 2025-03-14 |
 | ByteDance | Network Data Analyst | Unknown | Applied | 2025-03-14 |
 | McKinsey & Company | Business Analyst | Unknown | Declined | 2025-03-14 |
+| NielsenIQ | Insights Analyst | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -79,7 +80,6 @@
 | Accenture | Unknown | Unknown | Applied | 2025-03-12 |
 | HMH (Houghton Mifflin Harcourt) | Data Analyst | Unknown | Applied | 2025-03-12 |
 | RunPod | Data Analyst | Unknown | Applied | 2025-03-12 |
-| NielsenIQ | Insights Analyst | Unknown | Applied | 2025-03-12 |
 | AbbVie | Associate Data Scientist | Unknown | Declined | 2025-03-12 |
 | ByteDance | Network Data Analyst | Unknown | Applied | 2025-03-12 |
 | Encord | Growth Associate | Unknown | Applied | 2025-03-12 |

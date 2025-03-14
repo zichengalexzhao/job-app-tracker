@@ -10556,13 +10556,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "NielsenIQ",
-        "Job Title": "Insights Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "AbbVie",
         "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
@@ -11181,6 +11174,13 @@
     {
         "Company": "McKinsey & Company",
         "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "NielsenIQ",
+        "Job Title": "Insights Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-14"
