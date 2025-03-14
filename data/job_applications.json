@@ -9569,13 +9569,6 @@
         "Date": "2025-03-09"
     },
     {
-        "Company": "McKinsey & Company",
-        "Job Title": "Business Analyst - McKinsey Digital",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-09"
-    },
-    {
         "Company": "Standard Metrics",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11111,6 +11104,13 @@
     {
         "Company": "Unknown",
         "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Business Analyst - McKinsey Digital",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-14"

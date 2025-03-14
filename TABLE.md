@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Unknown | Business Analyst | Unknown | Declined | 2025-03-14 |
+| McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -188,7 +189,6 @@
 | Molina Healthcare | Analyst, Finance & Analytics (SQL/Adv. Excel) | REMOTE | Applied | 2025-03-09 |
 | iba America | Data Engineer | Alpharetta, GA | Applied | 2025-03-09 |
 | BitMart | Data Analyst (Native Mandarin speakers preferred) | Jersey City, NJ | Applied | 2025-03-09 |
-| McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Applied | 2025-03-09 |
 | Standard Metrics | Unknown | Unknown | Applied | 2025-03-09 |
 | CareerVest LLC | Machine Learning Engineer | California, MD | Applied | 2025-03-09 |
 | Glint Tech Solutions LLC | Data Analyst (Entry Level) - Bilingual Mandarin | Remote | Applied | 2025-03-09 |
