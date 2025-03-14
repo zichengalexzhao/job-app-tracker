@@ -17,6 +17,8 @@
 | McKinsey & Company | Business Analyst | Unknown | Declined | 2025-03-14 |
 | NielsenIQ | Insights Analyst | Unknown | Declined | 2025-03-14 |
 | Truist | Data Scientist 1-2 Card Fraud Analytics | Unknown | Declined | 2025-03-14 |
+| Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-14 |
+| The New York Times | Analyst, Subscriber Experiences | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -287,7 +289,6 @@
 | Capstone Investment Advisors | Data Scientist | Unknown | Applied | 2025-03-07 |
 | Vermont Information Processing (VIP) | Unknown | Unknown | Applied | 2025-03-07 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-07 |
-| The New York Times | Analyst, Subscriber Experiences | Unknown | Applied | 2025-03-07 |
 | Allbirds | Product Planning Analyst | Unknown | Declined | 2025-03-07 |
 | United States Air Force | Airborne Cryptologic Language Analyst | Unknown | Applied | 2025-03-07 |
 | Compunnel Inc | Snowflake Developer | Concord, NH | Applied | 2025-03-07 |

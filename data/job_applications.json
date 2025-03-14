@@ -8925,13 +8925,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "The New York Times",
-        "Job Title": "Analyst, Subscriber Experiences",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Allbirds",
         "Job Title": "Product Planning Analyst",
         "Location": "Unknown",
@@ -11188,6 +11181,20 @@
     {
         "Company": "Truist",
         "Job Title": "Data Scientist 1-2 Card Fraud Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Data Science Intern (MA/PhD)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "The New York Times",
+        "Job Title": "Analyst, Subscriber Experiences",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-14"
