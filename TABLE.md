@@ -4,6 +4,16 @@
 | McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Declined | 2025-03-14 |
 | Large Energy Company | Financial Analyst | Unknown | Applied | 2025-03-14 |
 | Thumbtack | Senior Data Scientist, Business Analytics | Unknown | Declined | 2025-03-14 |
+| Comcast | Analyst 2, Enterprise Data Analytics-4136 | Unknown | Applied | 2025-03-14 |
+| Kalderos | Unknown | Unknown | Applied | 2025-03-14 |
+| VML MAP | Digital Analyst Intern | Unknown | Declined | 2025-03-14 |
+| Empower Finance Inc. | Growth Analytics | Unknown | Applied | 2025-03-14 |
+| Progressive Leasing | Data Scientist | Remote | Applied | 2025-03-14 |
+| AvalonBay Communities | Data Scientist | Unknown | Applied | 2025-03-14 |
+| Nolan Transportation Group | Analyst, Business Intelligence and Data Insights | Unknown | Applied | 2025-03-14 |
+| Albertsons Companies | Business Intelligence Analyst, eCommerce | Unknown | Applied | 2025-03-14 |
+| MeridianLink | Data Analyst 1713 | Unknown | Applied | 2025-03-14 |
+| ByteDance | Network Data Analyst | Unknown | Applied | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -265,7 +275,6 @@
 | Tempus | Unknown | Unknown | Applied | 2025-03-07 |
 | Lightcast | Data Scientist | Unknown | Applied | 2025-03-07 |
 | Lucid Software | Unknown | Unknown | Applied | 2025-03-07 |
-| VML MAP | Digital Analyst Intern | Unknown | Applied | 2025-03-07 |
 | CVS Health | Unknown | Unknown | Applied | 2025-03-07 |
 | Resource Innovations | Analyst | Unknown | Applied | 2025-03-07 |
 | Stand | Data Scientist (Builder) | Unknown | Declined | 2025-03-07 |

@@ -8862,13 +8862,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "VML MAP",
-        "Job Title": "Digital Analyst Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "CVS Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11120,6 +11113,76 @@
         "Job Title": "Senior Data Scientist, Business Analytics",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Comcast",
+        "Job Title": "Analyst 2, Enterprise Data Analytics-4136",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Kalderos",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "VML MAP",
+        "Job Title": "Digital Analyst Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Empower Finance Inc.",
+        "Job Title": "Growth Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Progressive Leasing",
+        "Job Title": "Data Scientist",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "AvalonBay Communities",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Nolan Transportation Group",
+        "Job Title": "Analyst, Business Intelligence and Data Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Albertsons Companies",
+        "Job Title": "Business Intelligence Analyst, eCommerce",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "MeridianLink",
+        "Job Title": "Data Analyst 1713",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "ByteDance",
+        "Job Title": "Network Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-14"
     }
 ]
