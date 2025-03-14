@@ -3,6 +3,7 @@
 | Unknown | Business Analyst | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Declined | 2025-03-14 |
 | Large Energy Company | Financial Analyst | Unknown | Applied | 2025-03-14 |
+| Thumbtack | Senior Data Scientist, Business Analytics | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -712,7 +713,6 @@
 | Extend | Unknown | Unknown | Applied | 2025-02-21 |
 | Databricks | Data Scientist - New Grad | Unknown | Declined | 2025-02-21 |
 | Derex Technologies Inc | Research Data Scientist | Unknown | Applied | 2025-02-21 |
-| Thumbtack | Senior Data Scientist, Business Analytics | Unknown | Applied | 2025-02-21 |
 | Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-02-21 |
 | Windfall | Data Analyst | Unknown | Applied | 2025-02-21 |
 | Garner Health | Unknown | Unknown | Applied | 2025-02-21 |

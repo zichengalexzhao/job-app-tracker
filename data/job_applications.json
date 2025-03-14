@@ -420,13 +420,6 @@
         "Date": "2025-02-21"
     },
     {
-        "Company": "Thumbtack",
-        "Job Title": "Senior Data Scientist, Business Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
         "Company": "Stitch Fix",
         "Job Title": "Data Scientist | Logistics Algorithms",
         "Location": "Unknown",
@@ -11120,6 +11113,13 @@
         "Job Title": "Financial Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "Thumbtack",
+        "Job Title": "Senior Data Scientist, Business Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-14"
     }
 ]
