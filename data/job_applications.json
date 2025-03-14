@@ -8036,13 +8036,6 @@
         "Date": "2025-03-03"
     },
     {
-        "Company": "McKinsey & Company",
-        "Job Title": "Analyst - Risk & Resilience",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11195,6 +11188,13 @@
     {
         "Company": "The New York Times",
         "Job Title": "Analyst, Subscriber Experiences",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Analyst - Risk & Resilience",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-14"

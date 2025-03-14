@@ -19,6 +19,7 @@
 | Truist | Data Scientist 1-2 Card Fraud Analytics | Unknown | Declined | 2025-03-14 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-14 |
 | The New York Times | Analyst, Subscriber Experiences | Unknown | Declined | 2025-03-14 |
+| McKinsey & Company | Analyst - Risk & Resilience | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -492,7 +493,6 @@
 | Boston Consulting Group (BCG) | Data Scientist | United States - BCG X | Applied | 2025-03-03 |
 | Penn Interactive | Data Analyst, Enterprise | Unknown | Applied | 2025-03-03 |
 | McKinsey & Company | Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial) | Unknown | Applied | 2025-03-03 |
-| McKinsey & Company | Analyst - Risk & Resilience | Unknown | Applied | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |
