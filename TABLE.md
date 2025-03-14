@@ -14,6 +14,7 @@
 | Albertsons Companies | Business Intelligence Analyst, eCommerce | Unknown | Applied | 2025-03-14 |
 | MeridianLink | Data Analyst 1713 | Unknown | Applied | 2025-03-14 |
 | ByteDance | Network Data Analyst | Unknown | Applied | 2025-03-14 |
+| McKinsey & Company | Business Analyst | Unknown | Declined | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -1212,7 +1213,6 @@
 | Weee! Inc | Data Scientist/Sr. Data Scientist | Unknown | Applied | 2024-12-02 |
 | TabaPay | Unknown | Unknown | Applied | 2024-12-02 |
 | C3 AI | Data Science - Intern (Summer 2025) | Unknown | Applied | 2024-12-02 |
-| McKinsey & Company | Business Analyst | Unknown | Applied | 2024-12-02 |
 | Charles River Associates (CRA) | Unknown | Unknown | Applied | 2024-12-02 |
 | Cornerstone Research | Analyst | Unknown | Applied | 2024-12-02 |
 | Aurora Energy Research | Graduate Analyst | Austin, TX | Applied | 2024-11-28 |

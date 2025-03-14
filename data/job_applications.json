@@ -3969,13 +3969,6 @@
         "Date": "2024-12-02"
     },
     {
-        "Company": "McKinsey & Company",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-02"
-    },
-    {
         "Company": "Charles River Associates (CRA)",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11183,6 +11176,13 @@
         "Job Title": "Network Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-14"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-14"
     }
 ]
