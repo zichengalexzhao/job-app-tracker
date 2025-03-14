@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Unknown | Business Analyst | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Declined | 2025-03-14 |
+| Large Energy Company | Financial Analyst | Unknown | Applied | 2025-03-14 |
 | Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |

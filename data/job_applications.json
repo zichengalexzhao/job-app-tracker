@@ -11114,5 +11114,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-14"
+    },
+    {
+        "Company": "Large Energy Company",
+        "Job Title": "Financial Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-14"
     }
 ]
