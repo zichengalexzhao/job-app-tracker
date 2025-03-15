@@ -2,6 +2,8 @@
 | --- | --- | --- | --- | --- |
 | Walmart | Data Scientist III | Unknown | Declined | 2025-03-15 |
 | Stride | Unknown | Unknown | Applied | 2025-03-15 |
+| CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-15 |
+| Independence Pet Holdings | Unknown | Unknown | Declined | 2025-03-15 |
 | Unknown | Business Analyst | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Declined | 2025-03-14 |
 | Large Energy Company | Financial Analyst | Unknown | Applied | 2025-03-14 |
@@ -44,7 +46,6 @@
 | IBM | Data Scientist-Advanced Analytics | Unknown | Declined | 2025-03-13 |
 | Mass General Brigham | Data Analyst I | Unknown | Applied | 2025-03-13 |
 | SLB (Schlumberger Limited) | Data Scientist | Unknown | Declined | 2025-03-13 |
-| Independence Pet Holdings | Unknown | Unknown | Applied | 2025-03-13 |
 | The Scion Group | Data Scientist | Unknown | Declined | 2025-03-13 |
 | Google | Unknown | Unknown | Applied | 2025-03-13 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-03-13 |

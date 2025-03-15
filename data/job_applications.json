@@ -10927,13 +10927,6 @@
         "Date": "2025-03-13"
     },
     {
-        "Company": "Independence Pet Holdings",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
         "Company": "The Scion Group",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -11211,6 +11204,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-15"
+    },
+    {
+        "Company": "CoreLogic",
+        "Job Title": "Product Information Analyst (Master Data Management)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-15"
+    },
+    {
+        "Company": "Independence Pet Holdings",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-15"
     }
 ]
