@@ -11198,5 +11198,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-14"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Data Scientist III",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-15"
+    },
+    {
+        "Company": "Stride",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-15"
     }
 ]

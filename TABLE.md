@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Walmart | Data Scientist III | Unknown | Declined | 2025-03-15 |
+| Stride | Unknown | Unknown | Applied | 2025-03-15 |
 | Unknown | Business Analyst | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Declined | 2025-03-14 |
 | Large Energy Company | Financial Analyst | Unknown | Applied | 2025-03-14 |
