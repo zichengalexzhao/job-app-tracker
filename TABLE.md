@@ -4,6 +4,7 @@
 | Stride | Unknown | Unknown | Applied | 2025-03-15 |
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-15 |
 | Independence Pet Holdings | Unknown | Unknown | Declined | 2025-03-15 |
+| OptiSigns Inc. | Business Analyst | Unknown | Applied | 2025-03-15 |
 | Unknown | Business Analyst | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Business Analyst - McKinsey Digital | Unknown | Declined | 2025-03-14 |
 | Large Energy Company | Financial Analyst | Unknown | Applied | 2025-03-14 |
