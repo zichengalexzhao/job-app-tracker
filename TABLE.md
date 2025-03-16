@@ -2,6 +2,19 @@
 | --- | --- | --- | --- | --- |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
+| Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
+| Uniphore | AI Scientist | Unknown | Applied | 2025-03-16 |
+| Salsify | Associate Market Strategy Analyst | Unknown | Applied | 2025-03-16 |
+| Sunbit | Credit Card Business Analyst | Unknown | Applied | 2025-03-16 |
+| Ascension | Data Scientist (Machine Learning) | Unknown | Applied | 2025-03-16 |
+| Amazon | Business Analyst I, Profit Intelligence | Unknown | Applied | 2025-03-16 |
+| Thumbtack | Data Scientist, Product (Monetization) | Unknown | Applied | 2025-03-16 |
+| Amazon | Business Analyst I, Profit Intelligence | Unknown | Applied | 2025-03-16 |
+| Housecall Pro | Associate, Strategy and Operations | Unknown | Applied | 2025-03-16 |
+| DoorDash | Associate, New Verticals - Retail Strategy & Operations | Unknown | Applied | 2025-03-16 |
+| Urgently | Unknown | Unknown | Applied | 2025-03-16 |
+| Urgently | Unknown | Unknown | Applied | 2025-03-16 |
+| Asurion | Data Scientist - Generative AI | Unknown | Applied | 2025-03-16 |
 | Walmart | Data Scientist III | Unknown | Declined | 2025-03-15 |
 | Stride | Unknown | Unknown | Applied | 2025-03-15 |
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-15 |
