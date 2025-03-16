@@ -15,6 +15,7 @@
 | Urgently | Unknown | Unknown | Applied | 2025-03-16 |
 | Urgently | Unknown | Unknown | Applied | 2025-03-16 |
 | Asurion | Data Scientist - Generative AI | Unknown | Applied | 2025-03-16 |
+| Palo Alto Networks | Business Systems Analyst, Sales Planning | Unknown | Applied | 2025-03-16 |
 | Walmart | Data Scientist III | Unknown | Declined | 2025-03-15 |
 | Stride | Unknown | Unknown | Applied | 2025-03-15 |
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-15 |
