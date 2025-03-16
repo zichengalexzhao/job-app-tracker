@@ -10955,13 +10955,6 @@
         "Date": "2025-03-13"
     },
     {
-        "Company": "Salesforce",
-        "Job Title": "Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
         "Company": "Poshmark",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11330,6 +11323,13 @@
         "Job Title": "Business Systems Analyst, Sales Planning",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-16"
+    },
+    {
+        "Company": "Salesforce",
+        "Job Title": "Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics)",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-16"
     }
 ]

@@ -16,6 +16,7 @@
 | Urgently | Unknown | Unknown | Applied | 2025-03-16 |
 | Asurion | Data Scientist - Generative AI | Unknown | Applied | 2025-03-16 |
 | Palo Alto Networks | Business Systems Analyst, Sales Planning | Unknown | Applied | 2025-03-16 |
+| Salesforce | Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics) | Unknown | Declined | 2025-03-16 |
 | Walmart | Data Scientist III | Unknown | Declined | 2025-03-15 |
 | Stride | Unknown | Unknown | Applied | 2025-03-15 |
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-15 |
@@ -68,7 +69,6 @@
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-03-13 |
 | The Walt Disney Company | Data Analyst | Northridge, CA | Applied | 2025-03-13 |
 | Capital One | Manager, Ontology and Data Modeling | Richmond, VA | Applied | 2025-03-13 |
-| Salesforce | Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics) | Unknown | Applied | 2025-03-13 |
 | Poshmark | Unknown | Unknown | Applied | 2025-03-13 |
 | Anywhere | Data Analytics Analyst | US Based Remote | Applied | 2025-03-13 |
 | Anywhere | Analyst Data Analytics | US Based Remote | Applied | 2025-03-13 |
