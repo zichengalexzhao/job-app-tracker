@@ -11331,5 +11331,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-16"
+    },
+    {
+        "Company": "Encord",
+        "Job Title": "Data Operations Analyst / Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-16"
+    },
+    {
+        "Company": "Home Depot",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-16"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-16"
+    },
+    {
+        "Company": "Waabi",
+        "Job Title": "Research Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-16"
     }
 ]
