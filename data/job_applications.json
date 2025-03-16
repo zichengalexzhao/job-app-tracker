@@ -8561,13 +8561,6 @@
         "Date": "2025-03-06"
     },
     {
-        "Company": "KeyBank",
-        "Job Title": "Digital Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-06"
-    },
-    {
         "Company": "Cohesity",
         "Job Title": "Business Analytics Intern",
         "Location": "Unknown",
@@ -11232,6 +11225,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-16"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Digital Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-16"
     }
 ]

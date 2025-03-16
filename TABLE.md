@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
+| KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Walmart | Data Scientist III | Unknown | Declined | 2025-03-15 |
 | Stride | Unknown | Unknown | Applied | 2025-03-15 |
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-15 |
@@ -351,7 +352,6 @@
 | KeyBank | Unknown | Unknown | Applied | 2025-03-06 |
 | Scale AI | Unknown | Unknown | Applied | 2025-03-06 |
 | OpenAI | Unknown | Unknown | Applied | 2025-03-06 |
-| KeyBank | Digital Analyst | Unknown | Applied | 2025-03-06 |
 | Cohesity | Business Analytics Intern | Unknown | Applied | 2025-03-06 |
 | Lucid Software | Data Analyst | Unknown | Declined | 2025-03-06 |
 | Charlie Health | Unknown | Bozeman, Montana | Applied | 2025-03-06 |
