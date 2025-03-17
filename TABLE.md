@@ -13,6 +13,7 @@
 | Muck Rack | Data Scientist | Unknown | Applied | 2025-03-17 |
 | Daylight | Unknown | Unknown | Applied | 2025-03-17 |
 | Taco Bell | Junior Business Analyst, Market Insights | Unknown | Applied | 2025-03-17 |
+| The Home Depot | Unknown | Unknown | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
