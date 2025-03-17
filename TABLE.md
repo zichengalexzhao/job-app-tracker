@@ -41,6 +41,22 @@
 | Capital One | Sr Business Analyst, Business Planning Analyst - Capital One Shopping | Unknown | Applied | 2025-03-17 |
 | Sodexo | Master Data Analyst | Unknown | Declined | 2025-03-17 |
 | Quad | Supply Chain Business Analyst | Unknown | Declined | 2025-03-17 |
+| Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
+| Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
+| Oxford Economics | Business Intelligence Engineer - Tourism Economics | Unknown | Applied | 2025-03-17 |
+| Amazon | Business Analyst, Profit Intelligence | Unknown | Applied | 2025-03-17 |
+| Horizon Media | Analyst, Search Engine Marketing | Unknown | Applied | 2025-03-17 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-17 |
+| OMD (Omnicom Media Group) | Associate, Marketing Science | Unknown | Applied | 2025-03-17 |
+| Emerald | Strategy Associate | Unknown | Applied | 2025-03-17 |
+| TransUnion | Unknown | Unknown | Applied | 2025-03-17 |
+| ABS and Affiliated Companies | Analyst II, Market and Business Intelligence | Houston, TX Area | Applied | 2025-03-17 |
+| Datadog | GTM Strategy and Operations Analyst | New York | Applied | 2025-03-17 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-17 |
+| Claritas Rx | Business Analyst | Unknown | Applied | 2025-03-17 |
+| Celonis | Unknown | Unknown | Applied | 2025-03-17 |
+| Claritas Rx | Business Analyst | Unknown | Applied | 2025-03-17 |
+| Claritas Rx | Business Analyst | San Francisco, CA | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
