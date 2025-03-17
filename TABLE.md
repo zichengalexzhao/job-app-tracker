@@ -31,6 +31,10 @@
 | Oregon Health & Science University | Business Intelligence Analyst (Systems/Applications Analyst) | Unknown | Applied | 2025-03-17 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-17 |
 | Internet Brands | Data Analyst | Unknown | Applied | 2025-03-17 |
+| Quad | Supply Chain Business Analyst | Unknown | Applied | 2025-03-17 |
+| SS&C Technologies Inc. | Associate Business Analyst - Market Data Management | Unknown | Applied | 2025-03-17 |
+| The Energy Authority Inc | Data Scientist | Unknown | Applied | 2025-03-17 |
+| Kalderos | Unknown | Unknown | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |

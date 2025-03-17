@@ -11681,5 +11681,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-17"
+    },
+    {
+        "Company": "Quad",
+        "Job Title": "Supply Chain Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "SS&C Technologies Inc.",
+        "Job Title": "Associate Business Analyst - Market Data Management",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "The Energy Authority Inc",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Kalderos",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-17"
     }
 ]
