@@ -11655,13 +11655,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Quad",
-        "Job Title": "Supply Chain Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "SS&C Technologies Inc.",
         "Job Title": "Associate Business Analyst - Market Data Management",
         "Location": "Unknown",
@@ -11727,6 +11720,13 @@
     {
         "Company": "Sodexo",
         "Job Title": "Master Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Quad",
+        "Job Title": "Supply Chain Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-17"
