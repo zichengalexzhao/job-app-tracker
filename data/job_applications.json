@@ -11473,13 +11473,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Morningstar",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "TaylorMade",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11712,6 +11705,20 @@
     },
     {
         "Company": "Tubi",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Fetch",
+        "Job Title": "Research & Insights Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Morningstar",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Declined",

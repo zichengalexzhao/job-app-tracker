@@ -3,7 +3,6 @@
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
-| Morningstar | Data Scientist | Unknown | Applied | 2025-03-17 |
 | TaylorMade | Unknown | Unknown | Applied | 2025-03-17 |
 | JetBlue | Analyst Airline Optimization Operability | Unknown | Applied | 2025-03-17 |
 | Rush Street Interactive | Unknown | Unknown | Applied | 2025-03-17 |
@@ -38,6 +37,8 @@
 | Datadog | GTM Strategy and Operations Associate - Sales Engineering | Unknown | Declined | 2025-03-17 |
 | Root | Analyst II, Business Intelligence | Unknown | Applied | 2025-03-17 |
 | Tubi | Data Scientist | Unknown | Declined | 2025-03-17 |
+| Fetch | Research & Insights Analyst | Unknown | Declined | 2025-03-17 |
+| Morningstar | Data Scientist | Unknown | Declined | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
