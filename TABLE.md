@@ -57,6 +57,12 @@
 | Celonis | Unknown | Unknown | Applied | 2025-03-17 |
 | Claritas Rx | Business Analyst | Unknown | Applied | 2025-03-17 |
 | Claritas Rx | Business Analyst | San Francisco, CA | Applied | 2025-03-17 |
+| FedEx | Unknown | Unknown | Applied | 2025-03-17 |
+| City National Bank | Small Business Consumer Processor I | Unknown | Declined | 2025-03-17 |
+| Turner & Townsend | Junior Data Analyst | Unknown | Applied | 2025-03-17 |
+| Babylist | Data Analyst, Warehouse Operations | Unknown | Applied | 2025-03-17 |
+| Adobe | Sr AI Engineer | Unknown | Applied | 2025-03-17 |
+| Berkeley Research Group, LLC | Fall Associate- Economics and Data Analytics | Unknown | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
@@ -397,7 +403,6 @@
 | Unknown | Business Analyst, Junior | Unknown | Applied | 2025-03-07 |
 | Rocket Money | Unknown | Unknown | Applied | 2025-03-07 |
 | InvoiceCloud | Unknown | Unknown | Applied | 2025-03-07 |
-| City National Bank | Small Business Consumer Processor I | Unknown | Applied | 2025-03-07 |
 | Crum & Forster (United States Fire Insurance Company) | Business Analyst | Unknown | Applied | 2025-03-07 |
 | Sephora | Analyst, Loyalty | CA-FSC SF Off (0174) | Applied | 2025-03-07 |
 | DoorDash | Machine Learning Engineer - Delivery Excellence | Unknown | Applied | 2025-03-07 |
