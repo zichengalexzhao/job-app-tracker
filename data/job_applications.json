@@ -10871,13 +10871,6 @@
         "Date": "2025-03-13"
     },
     {
-        "Company": "Tubi",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
         "Company": "Walmart",
         "Job Title": "Data Scientist III",
         "Location": "USA",
@@ -11706,6 +11699,20 @@
     {
         "Company": "Datadog",
         "Job Title": "GTM Strategy and Operations Associate - Sales Engineering",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Root",
+        "Job Title": "Analyst II, Business Intelligence",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Tubi",
+        "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-17"

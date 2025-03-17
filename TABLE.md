@@ -36,6 +36,8 @@
 | The Energy Authority Inc | Data Scientist | Unknown | Applied | 2025-03-17 |
 | Kalderos | Unknown | Unknown | Applied | 2025-03-17 |
 | Datadog | GTM Strategy and Operations Associate - Sales Engineering | Unknown | Declined | 2025-03-17 |
+| Root | Analyst II, Business Intelligence | Unknown | Applied | 2025-03-17 |
+| Tubi | Data Scientist | Unknown | Declined | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
@@ -113,7 +115,6 @@
 | Netflix | Data Scientist (L5) - Content | Unknown | Applied | 2025-03-13 |
 | Independence Pet Group | Unknown | Unknown | Applied | 2025-03-13 |
 | AgroFresh Inc. | Science & Business Data Analyst | Unknown | Applied | 2025-03-13 |
-| Tubi | Data Scientist | Unknown | Applied | 2025-03-13 |
 | Walmart | Data Scientist III | USA | Declined | 2025-03-13 |
 | MassMutual | Data Analytics Engineer - Marketing | Unknown | Applied | 2025-03-13 |
 | IBM | Data Scientist-Advanced Analytics | Unknown | Declined | 2025-03-13 |
