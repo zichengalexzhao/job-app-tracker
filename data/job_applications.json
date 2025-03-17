@@ -10556,13 +10556,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "Datadog",
-        "Job Title": "GTM Strategy and Operations Associate - Sales Engineering",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "Intermountain Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -11708,6 +11701,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Datadog",
+        "Job Title": "GTM Strategy and Operations Associate - Sales Engineering",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-17"
     }
 ]
