@@ -64,6 +64,19 @@
 | Adobe | Sr AI Engineer | Unknown | Applied | 2025-03-17 |
 | Berkeley Research Group, LLC | Fall Associate- Economics and Data Analytics | Unknown | Applied | 2025-03-17 |
 | Walgreens | Data Scientist - Healthcare & Clinical Data | Remote | Declined | 2025-03-17 |
+| Randstad Life Sciences | Clinical Data Scientist I | Waltham, Massachusetts | Applied | 2025-03-17 |
+| Limson Trading, Inc. (GFS) | Data and Insights Analyst | Wyoming, MI | Applied | 2025-03-17 |
+| Addepar | Unknown | Unknown | Applied | 2025-03-17 |
+| Randstad USA | Data Scientist I (#50413) | Waltham, Massachusetts | Applied | 2025-03-17 |
+| Amy's Kitchen | Unknown | Petaluma, CA | Applied | 2025-03-17 |
+| Reli. | Marketing Analyst | Unknown | Applied | 2025-03-17 |
+| Andersen Tax LLC | Business Analyst (Rating, Data) - Andersen Consulting | San Francisco, CA | Applied | 2025-03-17 |
+| Checkr | Unknown | Unknown | Applied | 2025-03-17 |
+| Unknown | Data Analytics Specialist - Employee Benefits | Unknown | Applied | 2025-03-17 |
+| One Inc | Data Analyst II, Vendor | Unknown | Applied | 2025-03-17 |
+| Spectrum | Business Analyst | Unknown | Applied | 2025-03-17 |
+| The Newrez Family of Companies | Associate Enterprise Analytics Analyst | Unknown | Applied | 2025-03-17 |
+| Roku | Ad Operations Associate, Sponsorships | Unknown | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
