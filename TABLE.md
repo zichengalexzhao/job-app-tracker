@@ -77,6 +77,7 @@
 | Spectrum | Business Analyst | Unknown | Applied | 2025-03-17 |
 | The Newrez Family of Companies | Associate Enterprise Analytics Analyst | Unknown | Applied | 2025-03-17 |
 | Roku | Ad Operations Associate, Sponsorships | Unknown | Applied | 2025-03-17 |
+| Horizon Media | Unknown | Unknown | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
