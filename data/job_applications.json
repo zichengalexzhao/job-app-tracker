@@ -9765,13 +9765,6 @@
         "Date": "2025-03-09"
     },
     {
-        "Company": "Sodexo",
-        "Job Title": "Master Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-09"
-    },
-    {
         "Company": "UWM (United Wholesale Mortgage)",
         "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
@@ -11720,6 +11713,20 @@
     {
         "Company": "Morningstar",
         "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Capital One",
+        "Job Title": "Sr Business Analyst, Business Planning Analyst - Capital One Shopping",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-17"
+    },
+    {
+        "Company": "Sodexo",
+        "Job Title": "Master Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-17"

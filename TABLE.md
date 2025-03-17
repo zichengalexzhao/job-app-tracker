@@ -39,6 +39,8 @@
 | Tubi | Data Scientist | Unknown | Declined | 2025-03-17 |
 | Fetch | Research & Insights Analyst | Unknown | Declined | 2025-03-17 |
 | Morningstar | Data Scientist | Unknown | Declined | 2025-03-17 |
+| Capital One | Sr Business Analyst, Business Planning Analyst - Capital One Shopping | Unknown | Applied | 2025-03-17 |
+| Sodexo | Master Data Analyst | Unknown | Declined | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
@@ -316,7 +318,6 @@
 | SpotOn | Data Analyst (Payments) | Unknown | Applied | 2025-03-09 |
 | Indiana University Health | Analyst-Data - Riley Blood Bank | Unknown | Applied | 2025-03-09 |
 | Geosyntec Family of Companies | Early-Career Data Analyst/Data Manager (2024-2886) | Unknown | Applied | 2025-03-09 |
-| Sodexo | Master Data Analyst | Unknown | Applied | 2025-03-09 |
 | UWM (United Wholesale Mortgage) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |
 | United Wholesale Mortgage (UWM) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |
 | Carvana | Unknown | Unknown | Applied | 2025-03-09 |
