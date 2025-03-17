@@ -11877,5 +11877,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-17"
+    },
+    {
+        "Company": "Walgreens",
+        "Job Title": "Data Scientist - Healthcare & Clinical Data",
+        "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-03-17"
     }
 ]

@@ -63,6 +63,7 @@
 | Babylist | Data Analyst, Warehouse Operations | Unknown | Applied | 2025-03-17 |
 | Adobe | Sr AI Engineer | Unknown | Applied | 2025-03-17 |
 | Berkeley Research Group, LLC | Fall Associate- Economics and Data Analytics | Unknown | Applied | 2025-03-17 |
+| Walgreens | Data Scientist - Healthcare & Clinical Data | Remote | Declined | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
