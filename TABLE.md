@@ -14,6 +14,23 @@
 | Daylight | Unknown | Unknown | Applied | 2025-03-17 |
 | Taco Bell | Junior Business Analyst, Market Insights | Unknown | Applied | 2025-03-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-03-17 |
+| Uline | Unknown | Unknown | Applied | 2025-03-17 |
+| DaVita Kidney Care | Associate Analyst, Business | Unknown | Applied | 2025-03-17 |
+| Thumbtack | Data Scientist, Product (Monetization) | Unknown | Applied | 2025-03-17 |
+| LPL Financial | Unknown | Unknown | Applied | 2025-03-17 |
+| DaVita Kidney Care | Business Analyst - Risk Management | Unknown | Applied | 2025-03-17 |
+| Sunbit | Credit Card Business Analyst | Unknown | Applied | 2025-03-17 |
+| Capstone Investment Advisors | Data Scientist | Unknown | Applied | 2025-03-17 |
+| Cooper | Commercial Data Analyst | Unknown | Applied | 2025-03-17 |
+| Independence Family of Companies | Business Analyst AHA | Unknown | Applied | 2025-03-17 |
+| Fanatics | Data Analyst II | Unknown | Applied | 2025-03-17 |
+| Unknown | Unknown | Unknown | Applied | 2025-03-17 |
+| Artefact | Unknown | Unknown | Applied | 2025-03-17 |
+| Aflac | PLADS Business Analyst - Configuration (7534) | Unknown | Applied | 2025-03-17 |
+| The Newrez Family of Companies | Business Analyst - Default Systems and Support | On-Site | Applied | 2025-03-17 |
+| Oregon Health & Science University | Business Intelligence Analyst (Systems/Applications Analyst) | Unknown | Applied | 2025-03-17 |
+| Unknown | Unknown | Unknown | Applied | 2025-03-17 |
+| Internet Brands | Data Analyst | Unknown | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
