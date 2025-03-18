@@ -12367,5 +12367,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-18"
+    },
+    {
+        "Company": "Stateside Brands",
+        "Job Title": "Sales Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Ekimetrics",
+        "Job Title": "Junior Consultant in Strategy & Data Science",
+        "Location": "New York",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Focus Financial Partners",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Uber Freight",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
     }
 ]

@@ -57,6 +57,10 @@
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-18 |
 | The Friedkin Group | Business Intelligence Developer II | Unknown | Applied | 2025-03-18 |
 | The Friedkin Group | Analyst II, Supply Chain | Unknown | Applied | 2025-03-18 |
+| Stateside Brands | Sales Operations Analyst | Unknown | Applied | 2025-03-18 |
+| Ekimetrics | Junior Consultant in Strategy & Data Science | New York | Applied | 2025-03-18 |
+| Focus Financial Partners | Data Analyst | Unknown | Applied | 2025-03-18 |
+| Uber Freight | Unknown | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
