@@ -32,6 +32,17 @@
 | Jerry | Data Scientist | Unknown | Applied | 2025-03-18 |
 | Potomac Electric Power Co | Business Analyst (2025-24599) | Unknown | Applied | 2025-03-18 |
 | Methodist | Unknown | Unknown | Applied | 2025-03-18 |
+| OMnet (Omnicom Media Group) | Assistant Analyst | Unknown | Applied | 2025-03-18 |
+| SWBC | Marketing Data Analyst I | Onsite | Applied | 2025-03-18 |
+| City of New York | Data Analytics Specialist | Unknown | Applied | 2025-03-18 |
+| Amazon | Data Science Internship | United States | Applied | 2025-03-18 |
+| Celonis | Associate Value Engineer (Data Scientist & Management Consultant) - Orbit Program | Unknown | Declined | 2025-03-18 |
+| TransUnion | Unknown | Unknown | Applied | 2025-03-18 |
+| SAIC | Business Analyst | ARLINGTON, VA, United States | Applied | 2025-03-18 |
+| Torch Dental | Business Strategy & Operations Associate (Supplier) | Unknown | Applied | 2025-03-18 |
+| rockITdata | Unknown | Unknown | Applied | 2025-03-18 |
+| rockITdata | Unknown | Unknown | Applied | 2025-03-18 |
+| Adswerve, Inc | Unknown | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
