@@ -12339,5 +12339,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-18"
+    },
+    {
+        "Company": "Capital Area Food Bank",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Data Science Intern (MA/PhD)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "The Friedkin Group",
+        "Job Title": "Business Intelligence Developer II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "The Friedkin Group",
+        "Job Title": "Analyst II, Supply Chain",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
     }
 ]

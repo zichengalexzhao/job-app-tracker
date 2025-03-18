@@ -53,6 +53,10 @@
 | LA Clippers | Junior Product Analyst | Unknown | Declined | 2025-03-18 |
 | Unknown | Associate IT Business Analyst | Unknown | Applied | 2025-03-18 |
 | Luxoft | Unknown | Unknown | Declined | 2025-03-18 |
+| Capital Area Food Bank | Unknown | Unknown | Applied | 2025-03-18 |
+| Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-18 |
+| The Friedkin Group | Business Intelligence Developer II | Unknown | Applied | 2025-03-18 |
+| The Friedkin Group | Analyst II, Supply Chain | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
