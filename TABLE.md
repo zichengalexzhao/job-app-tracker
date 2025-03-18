@@ -23,6 +23,8 @@
 | CarGurus | Brand Marketing Associate | Unknown | Declined | 2025-03-18 |
 | JPMorgan Chase & Co. | AI Research Associate-Synthetic Data | Unknown | Declined | 2025-03-18 |
 | Coinbase | Data Scientist II | Unknown | Declined | 2025-03-18 |
+| Spectrum | Assoc Data Insights Analyst - AI Analysis-2025-49622 | Unknown | Applied | 2025-03-18 |
+| Trinity Health | Donor Data Analyst | Remote Opportunity | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
