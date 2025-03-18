@@ -12122,5 +12122,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-18"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "AI Research Associate-Synthetic Data",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-18"
     }
 ]

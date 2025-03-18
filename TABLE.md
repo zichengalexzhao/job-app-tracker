@@ -21,6 +21,8 @@
 | Vermont Information Processing (VIP) | Data Quality Analyst | Colchester, VT | Declined | 2025-03-18 |
 | Urgently | Data Scientist | Unknown | Declined | 2025-03-18 |
 | CarGurus | Brand Marketing Associate | Unknown | Declined | 2025-03-18 |
+| JPMorgan Chase & Co. | AI Research Associate-Synthetic Data | Unknown | Declined | 2025-03-18 |
+| Coinbase | Data Scientist II | Unknown | Declined | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
