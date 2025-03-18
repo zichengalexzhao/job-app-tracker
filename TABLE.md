@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
+| NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
+| Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
+| Trinity Health | Donor Data Analyst | Remote | Applied | 2025-03-18 |
+| ECU Health | Unknown | Unknown | Applied | 2025-03-18 |
+| Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-03-18 |
+| Macy's | Site Analytics Analyst - Apparel | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
