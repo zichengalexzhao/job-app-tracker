@@ -19,6 +19,8 @@
 | Adobe | Machine Learning Engineer | Unknown | Applied | 2025-03-18 |
 | Oracle | Software Engineer Intern - Fusion Applications Development | Unknown | Applied | 2025-03-18 |
 | Vermont Information Processing (VIP) | Data Quality Analyst | Colchester, VT | Declined | 2025-03-18 |
+| Urgently | Data Scientist | Unknown | Declined | 2025-03-18 |
+| CarGurus | Brand Marketing Associate | Unknown | Declined | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
@@ -430,7 +432,6 @@
 | Sully.ai | Unknown | Unknown | Applied | 2025-03-07 |
 | Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |
 | Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-03-07 |
-| CarGurus | Brand Marketing Associate | Unknown | Applied | 2025-03-07 |
 | Texas Capital Bank | Unknown | Unknown | Applied | 2025-03-07 |
 | Blue River Technology | Unknown | Unknown | Applied | 2025-03-07 |
 | Uline | Unknown | Unknown | Applied | 2025-03-07 |

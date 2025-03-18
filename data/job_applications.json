@@ -8960,13 +8960,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "CarGurus",
-        "Job Title": "Brand Marketing Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Texas Capital Bank",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -12113,6 +12106,20 @@
         "Company": "Vermont Information Processing (VIP)",
         "Job Title": "Data Quality Analyst",
         "Location": "Colchester, VT",
+        "status": "Declined",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Urgently",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "CarGurus",
+        "Job Title": "Brand Marketing Associate",
+        "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-18"
     }
