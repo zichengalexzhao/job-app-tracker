@@ -13,6 +13,9 @@
 | Halo Sports and Entertainment | Unknown | Unknown | Applied | 2025-03-18 |
 | Ocean Spray | Customer Operations Analyst | Unknown | Applied | 2025-03-18 |
 | National Grid | Data Scientist | Unknown | Applied | 2025-03-18 |
+| Gainwell Technologies LLC | Early Career Business Analyst | Unknown | Applied | 2025-03-18 |
+| Circana | Client Insights Analyst | Unknown | Applied | 2025-03-18 |
+| Faire | AI Platform Engineer | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
