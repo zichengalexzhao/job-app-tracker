@@ -7,6 +7,12 @@
 | ECU Health | Unknown | Unknown | Applied | 2025-03-18 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-03-18 |
 | Macy's | Site Analytics Analyst - Apparel | Unknown | Applied | 2025-03-18 |
+| Yum Brands (KFC_Pizza Hut_ Taco Bell_Habit Burger Grill) | Analyst, CRM | Unknown | Applied | 2025-03-18 |
+| Ramp | Fraud Risk Analyst | Unknown | Applied | 2025-03-18 |
+| Bank of America | Data Scientist | Unknown | Applied | 2025-03-18 |
+| Halo Sports and Entertainment | Unknown | Unknown | Applied | 2025-03-18 |
+| Ocean Spray | Customer Operations Analyst | Unknown | Applied | 2025-03-18 |
+| National Grid | Data Scientist | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
