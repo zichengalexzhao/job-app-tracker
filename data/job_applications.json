@@ -12108,5 +12108,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-18"
+    },
+    {
+        "Company": "Vermont Information Processing (VIP)",
+        "Job Title": "Data Quality Analyst",
+        "Location": "Colchester, VT",
+        "status": "Declined",
+        "Date": "2025-03-18"
     }
 ]
