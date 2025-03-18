@@ -25,6 +25,13 @@
 | Coinbase | Data Scientist II | Unknown | Declined | 2025-03-18 |
 | Spectrum | Assoc Data Insights Analyst - AI Analysis-2025-49622 | Unknown | Applied | 2025-03-18 |
 | Trinity Health | Donor Data Analyst | Remote Opportunity | Applied | 2025-03-18 |
+| Unknown | Business Development Analyst | Phoenix, AZ | Applied | 2025-03-18 |
+| Amazon Development Center U.S., Inc | Senior Software Engineer, Redshift Data Management | Redmond, WA | Applied | 2025-03-18 |
+| OMD (Omnicom Media Group) | Associate, Data Operations | Unknown | Applied | 2025-03-18 |
+| Blueprint | Jr. Business Intelligence Engineer | Unknown | Applied | 2025-03-18 |
+| Jerry | Data Scientist | Unknown | Applied | 2025-03-18 |
+| Potomac Electric Power Co | Business Analyst (2025-24599) | Unknown | Applied | 2025-03-18 |
+| Methodist | Unknown | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |

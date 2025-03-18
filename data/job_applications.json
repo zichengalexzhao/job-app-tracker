@@ -12150,5 +12150,54 @@
         "Location": "Remote Opportunity",
         "status": "Applied",
         "Date": "2025-03-18"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Development Analyst",
+        "Location": "Phoenix, AZ",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Amazon Development Center U.S., Inc",
+        "Job Title": "Senior Software Engineer, Redshift Data Management",
+        "Location": "Redmond, WA",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "OMD (Omnicom Media Group)",
+        "Job Title": "Associate, Data Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Blueprint",
+        "Job Title": "Jr. Business Intelligence Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Jerry",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Potomac Electric Power Co",
+        "Job Title": "Business Analyst (2025-24599)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Methodist",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
     }
 ]
