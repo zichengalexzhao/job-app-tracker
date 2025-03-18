@@ -11732,13 +11732,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Oxford Economics",
-        "Job Title": "Business Intelligence Engineer - Tourism Economics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Business Analyst, Profit Intelligence",
         "Location": "Unknown",
@@ -12317,6 +12310,34 @@
         "Job Title": "Analyst, SEM",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Oxford Economics",
+        "Job Title": "Business Intelligence Engineer - Tourism Economics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "LA Clippers",
+        "Job Title": "Junior Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Associate IT Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-18"
+    },
+    {
+        "Company": "Luxoft",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-18"
     }
 ]

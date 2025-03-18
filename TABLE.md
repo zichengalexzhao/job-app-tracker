@@ -49,6 +49,10 @@
 | O'Reilly Automotive Stores | Unknown | Unknown | Applied | 2025-03-18 |
 | O'Reilly Auto Parts | Unknown | Unknown | Applied | 2025-03-18 |
 | CMI Media Group | Analyst, SEM | Unknown | Applied | 2025-03-18 |
+| Oxford Economics | Business Intelligence Engineer - Tourism Economics | Unknown | Declined | 2025-03-18 |
+| LA Clippers | Junior Product Analyst | Unknown | Declined | 2025-03-18 |
+| Unknown | Associate IT Business Analyst | Unknown | Applied | 2025-03-18 |
+| Luxoft | Unknown | Unknown | Declined | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
@@ -92,7 +96,6 @@
 | Quad | Supply Chain Business Analyst | Unknown | Declined | 2025-03-17 |
 | Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
 | Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
-| Oxford Economics | Business Intelligence Engineer - Tourism Economics | Unknown | Applied | 2025-03-17 |
 | Amazon | Business Analyst, Profit Intelligence | Unknown | Applied | 2025-03-17 |
 | Horizon Media | Analyst, Search Engine Marketing | Unknown | Applied | 2025-03-17 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-17 |
