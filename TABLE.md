@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
@@ -61,6 +62,8 @@
 | Ekimetrics | Junior Consultant in Strategy & Data Science | New York | Applied | 2025-03-18 |
 | Focus Financial Partners | Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber Freight | Unknown | Unknown | Applied | 2025-03-18 |
+| Experis | Data Analytics Analyst | Unknown | Applied | 2025-03-18 |
+| National Indemnity Company | Accounting Data Reporting Analyst | Unknown | Applied | 2025-03-18 |
 | Boehringer Ingelheim | AD, Business Analytics | Remote | Applied | 2025-03-17 |
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
