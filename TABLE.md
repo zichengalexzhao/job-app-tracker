@@ -47,6 +47,9 @@
 | Staples Inc. | Data Analyst II | Unknown | Applied | 2025-03-19 |
 | Formlabs | Marketing Technologist | Unknown | Declined | 2025-03-19 |
 | KLA-Tencor | Marketing Analyst Intern | Unknown | Declined | 2025-03-19 |
+| Circana | Client Insights Analyst | Unknown | Declined | 2025-03-19 |
+| Spotify | Data Engineer II - Music | Unknown | Declined | 2025-03-19 |
+| Pro Job Hunter | Unknown | Unknown | Applied | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
@@ -61,7 +64,6 @@
 | Ocean Spray | Customer Operations Analyst | Unknown | Applied | 2025-03-18 |
 | National Grid | Data Scientist | Unknown | Applied | 2025-03-18 |
 | Gainwell Technologies LLC | Early Career Business Analyst | Unknown | Applied | 2025-03-18 |
-| Circana | Client Insights Analyst | Unknown | Applied | 2025-03-18 |
 | Faire | AI Platform Engineer | Unknown | Applied | 2025-03-18 |
 | Adobe | Machine Learning Engineer | Unknown | Applied | 2025-03-18 |
 | Oracle | Software Engineer Intern - Fusion Applications Development | Unknown | Applied | 2025-03-18 |
@@ -248,7 +250,6 @@
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-14 |
 | The New York Times | Analyst, Subscriber Experiences | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Analyst - Risk & Resilience | Unknown | Declined | 2025-03-14 |
-| Spotify | Data Engineer II - Music | Unknown | Applied | 2025-03-13 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
 | Coterie Applications Inc. | Data Analyst | Unknown | Applied | 2025-03-13 |
@@ -1131,7 +1132,6 @@
 | American Express | Java Engineer - Enterprise Identity | Unknown | Applied | 2025-02-06 |
 | CBRE | Research Analyst (hybrid) | Unknown | Declined | 2025-02-06 |
 | Wells Fargo | Senior Data Scientist | Unknown | Applied | 2025-02-06 |
-| Circana | Client Insights Analyst | Unknown | Applied | 2025-02-06 |
 | DaVita Kidney Care | Business Analyst | Unknown | Applied | 2025-02-06 |
 | Wounded Warrior Project | Data Analyst Specialist - Programs Impact & Evaluation | Unknown | Applied | 2025-02-06 |
 | Rippling | Growth Analyst, Core HR | Unknown | Declined | 2025-02-06 |

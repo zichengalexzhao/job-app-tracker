@@ -1736,13 +1736,6 @@
         "Date": "2025-02-06"
     },
     {
-        "Company": "Circana",
-        "Job Title": "Client Insights Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-06"
-    },
-    {
         "Company": "DaVita Kidney Care",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -10711,13 +10704,6 @@
     },
     {
         "Company": "Spotify",
-        "Job Title": "Data Engineer II - Music",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
-        "Company": "Spotify",
         "Job Title": "Senior Analyst, Sales Operations",
         "Location": "Unknown",
         "status": "Applied",
@@ -12040,13 +12026,6 @@
         "Date": "2025-03-18"
     },
     {
-        "Company": "Circana",
-        "Job Title": "Client Insights Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-18"
-    },
-    {
         "Company": "Faire",
         "Job Title": "AI Platform Engineer",
         "Location": "Unknown",
@@ -12709,6 +12688,27 @@
         "Job Title": "Marketing Analyst Intern",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Circana",
+        "Job Title": "Client Insights Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Data Engineer II - Music",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Pro Job Hunter",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-19"
     }
 ]
