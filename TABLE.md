@@ -31,6 +31,20 @@
 | Ekimetrics | Unknown | Unknown | Declined | 2025-03-19 |
 | Rush Street Interactive | Poker Analyst | Unknown | Declined | 2025-03-19 |
 | Sia | Unknown | Unknown | Declined | 2025-03-19 |
+| Montefiore Medical Center | Unknown | Unknown | Applied | 2025-03-19 |
+| Unknown | Unknown | Unknown | Applied | 2025-03-19 |
+| YipitData | Insights Associate | Unknown | Applied | 2025-03-19 |
+| Banner Bank | Quantitative Analyst | Unknown | Declined | 2025-03-19 |
+| Kyndryl | Data Scientist for AI | Unknown | Applied | 2025-03-19 |
+| Inspire Brands | Unknown | Unknown | Applied | 2025-03-19 |
+| Urgently | Data Scientist | Unknown | Declined | 2025-03-19 |
+| Kelly | Data Analyst – Global Operations | Unknown | Applied | 2025-03-19 |
+| World Kinect | Unknown | Unknown | Applied | 2025-03-19 |
+| EssilorLuxottica | Corporate Processor - Data-880641 | Unknown | Applied | 2025-03-19 |
+| Exiger | Unknown | Unknown | Applied | 2025-03-19 |
+| iSpot.tv | Data Analyst | Unknown | Applied | 2025-03-19 |
+| good2grow | Associate Analyst - Consumer & Product Insights | Atlanta | Applied | 2025-03-19 |
+| Staples Inc. | Data Analyst II | Unknown | Applied | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |

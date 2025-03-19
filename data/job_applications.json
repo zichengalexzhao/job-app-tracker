@@ -12605,5 +12605,103 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-19"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "YipitData",
+        "Job Title": "Insights Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Banner Bank",
+        "Job Title": "Quantitative Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Kyndryl",
+        "Job Title": "Data Scientist for AI",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Inspire Brands",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Urgently",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Kelly",
+        "Job Title": "Data Analyst \u2013 Global Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "World Kinect",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "EssilorLuxottica",
+        "Job Title": "Corporate Processor - Data-880641",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Exiger",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "iSpot.tv",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "good2grow",
+        "Job Title": "Associate Analyst - Consumer & Product Insights",
+        "Location": "Atlanta",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Staples Inc.",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
     }
 ]
