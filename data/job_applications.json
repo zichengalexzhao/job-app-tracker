@@ -10577,13 +10577,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "KLA-Tencor",
-        "Job Title": "Marketing Analyst Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "Scribd",
         "Job Title": "Product Analyst II (UGC)",
         "Location": "Unknown",
@@ -12707,6 +12700,13 @@
     {
         "Company": "Formlabs",
         "Job Title": "Marketing Technologist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "KLA-Tencor",
+        "Job Title": "Marketing Analyst Intern",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-19"
