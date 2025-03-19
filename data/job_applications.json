@@ -1211,13 +1211,6 @@
         "Date": "2025-02-13"
     },
     {
-        "Company": "Sia",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
         "Company": "Hyundai Motor America",
         "Job Title": "Assistant Manager, Quality Data Analytics",
         "Location": "Unknown",
@@ -1248,13 +1241,6 @@
     {
         "Company": "Lyft",
         "Job Title": "Data Scientist, Algorithms - Pricing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
-        "Company": "Sia",
-        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-13"
@@ -10549,13 +10535,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "Sia",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "Plaid",
         "Job Title": "Business Intelligence - GTM",
         "Location": "Unknown",
@@ -12616,6 +12595,13 @@
     {
         "Company": "Rush Street Interactive",
         "Job Title": "Poker Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Sia",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-19"

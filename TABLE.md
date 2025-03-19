@@ -30,6 +30,7 @@
 | Wells Fargo | Business Intelligence Analyst | Unknown | Declined | 2025-03-19 |
 | Ekimetrics | Unknown | Unknown | Declined | 2025-03-19 |
 | Rush Street Interactive | Poker Analyst | Unknown | Declined | 2025-03-19 |
+| Sia | Unknown | Unknown | Declined | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
@@ -297,7 +298,6 @@
 | Encord | Growth Associate | Unknown | Applied | 2025-03-12 |
 | Intermountain Health | Unknown | Unknown | Applied | 2025-03-12 |
 | Carilion Clinic | AI and Data Scientist- Health Analytics (151205) | Unknown | Declined | 2025-03-12 |
-| Sia | Unknown | Unknown | Applied | 2025-03-12 |
 | Plaid | Business Intelligence - GTM | Unknown | Applied | 2025-03-12 |
 | Adobe | Sales Operations Analyst | Unknown | Applied | 2025-03-12 |
 | Zoox | Business Intelligence Engineer | Unknown | Applied | 2025-03-12 |
@@ -1041,13 +1041,11 @@
 | BDG | Data Engineer | Unknown | Applied | 2025-02-13 |
 | Slash | Data Engineer | Unknown | Applied | 2025-02-13 |
 | Intel | IT Analyst - Manufacturing | Unknown | Applied | 2025-02-13 |
-| Sia | Unknown | Unknown | Applied | 2025-02-13 |
 | Hyundai Motor America | Assistant Manager, Quality Data Analytics | Unknown | Declined | 2025-02-13 |
 | Rocket Money | Growth Marketing Associate - Product & Data | Unknown | Declined | 2025-02-13 |
 | Aerotek | Unknown | San Francisco, CA | Applied | 2025-02-13 |
 | Rocket Money | Unknown | Unknown | Applied | 2025-02-13 |
 | Lyft | Data Scientist, Algorithms - Pricing | Unknown | Applied | 2025-02-13 |
-| Sia | Unknown | Unknown | Applied | 2025-02-13 |
 | Atlassian | People Data Scientist | Unknown | Applied | 2025-02-13 |
 | Gemini | Analyst, Social Media | Unknown | Applied | 2025-02-13 |
 | Gemini | Analyst, Growth Marketing | Unknown | Applied | 2025-02-13 |
