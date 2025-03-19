@@ -18,6 +18,10 @@
 | Drive Social Media LLC | Digital Media Analyst | Unknown | Applied | 2025-03-19 |
 | Manulife/John Hancock | Unknown | Unknown | Applied | 2025-03-19 |
 | Spectrum | Business Analyst | Unknown | Applied | 2025-03-19 |
+| Resilinc Corporation | Data Scientist | Unknown | Declined | 2025-03-19 |
+| Twitch | Data Scientist - Analytics (Community Product) | Unknown | Declined | 2025-03-19 |
+| Bio-Techne | Marketing Analyst | Unknown | Declined | 2025-03-19 |
+| Uline | Associate Business Systems Analyst | Unknown | Applied | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
