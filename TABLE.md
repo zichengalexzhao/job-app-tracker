@@ -53,6 +53,7 @@
 | Boston Red Sox | Baseball Sciences Associate | Unknown | Declined | 2025-03-19 |
 | Adobe | Unknown | Unknown | Applied | 2025-03-19 |
 | Under Armour | Sr. Planner, Wholesale - Dick's Sporting Goods | Remote, US | Applied | 2025-03-19 |
+| Muck Rack | Data Scientist | Unknown | Declined | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
@@ -124,7 +125,6 @@
 | Cardinal Health | Unknown | Unknown | Applied | 2025-03-17 |
 | Root, Inc. | Analyst II, Business Intelligence | Unknown | Applied | 2025-03-17 |
 | SelectQuote Insurance Services | Operations Analyst I | Unknown | Applied | 2025-03-17 |
-| Muck Rack | Data Scientist | Unknown | Applied | 2025-03-17 |
 | Daylight | Unknown | Unknown | Applied | 2025-03-17 |
 | Taco Bell | Junior Business Analyst, Market Insights | Unknown | Applied | 2025-03-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-03-17 |

@@ -11452,13 +11452,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Muck Rack",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "Daylight",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -12730,6 +12723,13 @@
         "Job Title": "Sr. Planner, Wholesale - Dick's Sporting Goods",
         "Location": "Remote, US",
         "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Muck Rack",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-19"
     }
 ]
