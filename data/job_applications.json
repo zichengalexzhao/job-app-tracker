@@ -12584,5 +12584,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-19"
+    },
+    {
+        "Company": "AXIS Capital",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Omnicom Media Group US OMD",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Wells Fargo",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Ekimetrics",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Rush Street Interactive",
+        "Job Title": "Poker Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
     }
 ]

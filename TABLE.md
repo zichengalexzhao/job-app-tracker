@@ -25,6 +25,11 @@
 | PayPal | Unknown | Unknown | Applied | 2025-03-19 |
 | CACI International Inc | Data Analyst | Unknown | Applied | 2025-03-19 |
 | Gulf States Toyota, Inc. | Business Intelligence Developer II | Unknown | Applied | 2025-03-19 |
+| AXIS Capital | Business Analyst | Unknown | Applied | 2025-03-19 |
+| Omnicom Media Group US OMD | Unknown | Unknown | Declined | 2025-03-19 |
+| Wells Fargo | Business Intelligence Analyst | Unknown | Declined | 2025-03-19 |
+| Ekimetrics | Unknown | Unknown | Declined | 2025-03-19 |
+| Rush Street Interactive | Poker Analyst | Unknown | Declined | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
