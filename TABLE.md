@@ -45,6 +45,7 @@
 | iSpot.tv | Data Analyst | Unknown | Applied | 2025-03-19 |
 | good2grow | Associate Analyst - Consumer & Product Insights | Atlanta | Applied | 2025-03-19 |
 | Staples Inc. | Data Analyst II | Unknown | Applied | 2025-03-19 |
+| Formlabs | Marketing Technologist | Unknown | Declined | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |

@@ -12703,5 +12703,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-19"
+    },
+    {
+        "Company": "Formlabs",
+        "Job Title": "Marketing Technologist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
     }
 ]
