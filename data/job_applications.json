@@ -12710,5 +12710,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-19"
+    },
+    {
+        "Company": "Boston Red Sox",
+        "Job Title": "Baseball Sciences Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-19"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-19"
     }
 ]

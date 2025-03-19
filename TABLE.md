@@ -50,6 +50,8 @@
 | Circana | Client Insights Analyst | Unknown | Declined | 2025-03-19 |
 | Spotify | Data Engineer II - Music | Unknown | Declined | 2025-03-19 |
 | Pro Job Hunter | Unknown | Unknown | Applied | 2025-03-19 |
+| Boston Red Sox | Baseball Sciences Associate | Unknown | Declined | 2025-03-19 |
+| Adobe | Unknown | Unknown | Applied | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
