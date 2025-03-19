@@ -2,6 +2,22 @@
 | --- | --- | --- | --- | --- |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
+| Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
+| Brand Blitz Verse | Marketing Assistant | Unknown | Applied | 2025-03-19 |
+| BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Applied | 2025-03-19 |
+| Snowflake | Associate Analyst, GTM Analytics | Unknown | Applied | 2025-03-19 |
+| Independence Pet Group | Unknown | Unknown | Applied | 2025-03-19 |
+| EBSCO Industries | Unknown | Unknown | Applied | 2025-03-19 |
+| Unknown | Unknown | Unknown | Applied | 2025-03-19 |
+| Snowflake | Account Based Marketing Specialist | Unknown | Applied | 2025-03-19 |
+| Lightcast | Linguistics Data Analyst | Unknown | Applied | 2025-03-19 |
+| Flatiron Health | Real World Evidence Data Analyst | Unknown | Applied | 2025-03-19 |
+| Wells Fargo | Quantitative Research Associate | Unknown | Applied | 2025-03-19 |
+| Wells Fargo | Business Analyst - Real Time Payments | Unknown | Applied | 2025-03-19 |
+| ZS | Strategy Insights & Planning Associate | Unknown | Applied | 2025-03-19 |
+| Drive Social Media LLC | Digital Media Analyst | Unknown | Applied | 2025-03-19 |
+| Manulife/John Hancock | Unknown | Unknown | Applied | 2025-03-19 |
+| Spectrum | Business Analyst | Unknown | Applied | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
