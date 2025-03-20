@@ -11564,13 +11564,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Internet Brands",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "SS&C Technologies Inc.",
         "Job Title": "Associate Business Analyst - Market Data Management",
         "Location": "Unknown",
@@ -12740,13 +12733,6 @@
         "Date": "2025-03-20"
     },
     {
-        "Company": "Vixxo",
-        "Job Title": "Business Analysis - Accounts",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-20"
-    },
-    {
         "Company": "Roku",
         "Job Title": "Analyst, Business Automation",
         "Location": "Unknown",
@@ -12989,6 +12975,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Internet Brands",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Vixxo",
+        "Job Title": "Business Analysis - Accounts",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-20"
     }
 ]

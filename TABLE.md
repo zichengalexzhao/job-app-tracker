@@ -7,7 +7,6 @@
 | Downtown Music | Unknown | Unknown | Applied | 2025-03-20 |
 | NeuraFlash | AWS Business Consultant, Path to Solution Architect | Unknown | Applied | 2025-03-20 |
 | Peloton Consulting Group | Technical Implementation Consultant – Analyst | Unknown | Applied | 2025-03-20 |
-| Vixxo | Business Analysis - Accounts | Unknown | Applied | 2025-03-20 |
 | Roku | Analyst, Business Automation | Unknown | Applied | 2025-03-20 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-20 |
 | Amplitude | Business Intelligence Analyst, Strategic Finance | Unknown | Applied | 2025-03-20 |
@@ -43,6 +42,8 @@
 | FedEx | Unknown | Unknown | Applied | 2025-03-20 |
 | The Waldinger Corporation | Business Intelligence Analyst | Unknown | Declined | 2025-03-20 |
 | CAPITAL AREA FOOD BANK | Unknown | Unknown | Applied | 2025-03-20 |
+| Internet Brands | Data Analyst | Unknown | Declined | 2025-03-20 |
+| Vixxo | Business Analysis - Accounts | Unknown | Declined | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
@@ -184,7 +185,6 @@
 | The Newrez Family of Companies | Business Analyst - Default Systems and Support | On-Site | Applied | 2025-03-17 |
 | Oregon Health & Science University | Business Intelligence Analyst (Systems/Applications Analyst) | Unknown | Applied | 2025-03-17 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-17 |
-| Internet Brands | Data Analyst | Unknown | Applied | 2025-03-17 |
 | SS&C Technologies Inc. | Associate Business Analyst - Market Data Management | Unknown | Applied | 2025-03-17 |
 | The Energy Authority Inc | Data Scientist | Unknown | Applied | 2025-03-17 |
 | Kalderos | Unknown | Unknown | Applied | 2025-03-17 |
