@@ -10934,20 +10934,6 @@
         "Date": "2025-03-13"
     },
     {
-        "Company": "Grayce",
-        "Job Title": "Graduate Business Analyst",
-        "Location": "San Francisco, CA",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
-        "Company": "Grayce",
-        "Job Title": "Graduate Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
         "Company": "DISH Network L.L.C.",
         "Job Title": "Data and Business Operations Analyst",
         "Location": "Unknown",
@@ -12912,6 +12898,13 @@
         "Job Title": "Materials Business Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Grayce",
+        "Job Title": "Graduate Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-20"
     }
 ]

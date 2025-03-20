@@ -26,6 +26,7 @@
 | Rooms To Go Corporate | Business Data Analyst | Unknown | Applied | 2025-03-20 |
 | First American | Associate Business Analyst | Cincinnati, Ohio | Applied | 2025-03-20 |
 | Deckers Brands | Materials Business Analyst | Unknown | Applied | 2025-03-20 |
+| Grayce | Graduate Business Analyst | Unknown | Declined | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
@@ -312,8 +313,6 @@
 | Fetch | MarTech & Data Specialist | Unknown | Declined | 2025-03-13 |
 | SLB Careers | Full Stack Software Engineer | Houston, United States | Applied | 2025-03-13 |
 | Stackline | Data Analyst II | Unknown | Declined | 2025-03-13 |
-| Grayce | Graduate Business Analyst | San Francisco, CA | Applied | 2025-03-13 |
-| Grayce | Graduate Business Analyst | Unknown | Applied | 2025-03-13 |
 | DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Declined | 2025-03-13 |
 | Shepherd | Business Analytics | Unknown | Declined | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
