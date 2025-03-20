@@ -12913,5 +12913,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-20"
+    },
+    {
+        "Company": "CLEAResult",
+        "Job Title": "Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
     }
 ]
