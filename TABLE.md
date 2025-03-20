@@ -27,6 +27,7 @@
 | First American | Associate Business Analyst | Cincinnati, Ohio | Applied | 2025-03-20 |
 | Deckers Brands | Materials Business Analyst | Unknown | Applied | 2025-03-20 |
 | Grayce | Graduate Business Analyst | Unknown | Declined | 2025-03-20 |
+| Blueprint Technologies | Jr. Business Intelligence Engineer | Unknown | Declined | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
