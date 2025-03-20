@@ -42,6 +42,7 @@
 | Checkr | Finance Systems Analyst | Unknown | Declined | 2025-03-20 |
 | FedEx | Unknown | Unknown | Applied | 2025-03-20 |
 | The Waldinger Corporation | Business Intelligence Analyst | Unknown | Declined | 2025-03-20 |
+| CAPITAL AREA FOOD BANK | Unknown | Unknown | Applied | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
