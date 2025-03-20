@@ -35,6 +35,9 @@
 | Fragomen | Unknown | Unknown | Applied | 2025-03-20 |
 | Banner Bank | Quantitative Analyst | Unknown | Declined | 2025-03-20 |
 | World Kinect | Data Analyst | Unknown | Applied | 2025-03-20 |
+| TransUnion | Unknown | Unknown | Applied | 2025-03-20 |
+| Inspire Brands (Assuming from the email address) | Analyst - Brand Analytics - Buffalo Wild Wings | Unknown | Applied | 2025-03-20 |
+| ZS | Strategy Insights & Planning Associate | Unknown | Declined | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
@@ -49,7 +52,6 @@
 | Flatiron Health | Real World Evidence Data Analyst | Unknown | Applied | 2025-03-19 |
 | Wells Fargo | Quantitative Research Associate | Unknown | Applied | 2025-03-19 |
 | Wells Fargo | Business Analyst - Real Time Payments | Unknown | Applied | 2025-03-19 |
-| ZS | Strategy Insights & Planning Associate | Unknown | Applied | 2025-03-19 |
 | Drive Social Media LLC | Digital Media Analyst | Unknown | Applied | 2025-03-19 |
 | Manulife/John Hancock | Unknown | Unknown | Applied | 2025-03-19 |
 | Spectrum | Business Analyst | Unknown | Applied | 2025-03-19 |

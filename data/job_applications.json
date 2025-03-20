@@ -12439,13 +12439,6 @@
         "Date": "2025-03-19"
     },
     {
-        "Company": "ZS",
-        "Job Title": "Strategy Insights & Planning Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-19"
-    },
-    {
         "Company": "Drive Social Media LLC",
         "Job Title": "Digital Media Analyst",
         "Location": "Unknown",
@@ -12947,6 +12940,27 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "TransUnion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Inspire Brands (Assuming from the email address)",
+        "Job Title": "Analyst - Brand Analytics - Buffalo Wild Wings",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Strategy Insights & Planning Associate",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-20"
     }
 ]
