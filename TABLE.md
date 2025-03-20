@@ -24,6 +24,8 @@
 | GM Financial | Data Analyst I | Unknown | Applied | 2025-03-20 |
 | Copeland | Unknown | Unknown | Applied | 2025-03-20 |
 | Rooms To Go Corporate | Business Data Analyst | Unknown | Applied | 2025-03-20 |
+| First American | Associate Business Analyst | Cincinnati, Ohio | Applied | 2025-03-20 |
+| Deckers Brands | Materials Business Analyst | Unknown | Applied | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
