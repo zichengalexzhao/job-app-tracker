@@ -12509,13 +12509,6 @@
         "Date": "2025-03-19"
     },
     {
-        "Company": "Gulf States Toyota, Inc.",
-        "Job Title": "Business Intelligence Developer II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-19"
-    },
-    {
         "Company": "AXIS Capital",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -12583,13 +12576,6 @@
         "Job Title": "Quantitative Analyst",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-03-19"
-    },
-    {
-        "Company": "Kyndryl",
-        "Job Title": "Data Scientist for AI",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-03-19"
     },
     {
@@ -12919,6 +12905,27 @@
         "Job Title": "Operations Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Gulf States Toyota, Inc.",
+        "Job Title": "Business Intelligence Developer II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "CLEAResult",
+        "Job Title": "Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Kyndryl",
+        "Job Title": "Data Scientist for AI",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-20"
     }
 ]

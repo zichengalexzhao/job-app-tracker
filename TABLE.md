@@ -29,6 +29,9 @@
 | Grayce | Graduate Business Analyst | Unknown | Declined | 2025-03-20 |
 | Blueprint Technologies | Jr. Business Intelligence Engineer | Unknown | Declined | 2025-03-20 |
 | CLEAResult | Operations Analyst | Unknown | Applied | 2025-03-20 |
+| Gulf States Toyota, Inc. | Business Intelligence Developer II | Unknown | Declined | 2025-03-20 |
+| CLEAResult | Operations Analyst | Unknown | Applied | 2025-03-20 |
+| Kyndryl | Data Scientist for AI | Unknown | Declined | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
@@ -53,7 +56,6 @@
 | Uline | Associate Business Systems Analyst | Unknown | Applied | 2025-03-19 |
 | PayPal | Unknown | Unknown | Applied | 2025-03-19 |
 | CACI International Inc | Data Analyst | Unknown | Applied | 2025-03-19 |
-| Gulf States Toyota, Inc. | Business Intelligence Developer II | Unknown | Applied | 2025-03-19 |
 | AXIS Capital | Business Analyst | Unknown | Applied | 2025-03-19 |
 | Omnicom Media Group US OMD | Unknown | Unknown | Declined | 2025-03-19 |
 | Wells Fargo | Business Intelligence Analyst | Unknown | Declined | 2025-03-19 |
@@ -64,7 +66,6 @@
 | Unknown | Unknown | Unknown | Applied | 2025-03-19 |
 | YipitData | Insights Associate | Unknown | Applied | 2025-03-19 |
 | Banner Bank | Quantitative Analyst | Unknown | Declined | 2025-03-19 |
-| Kyndryl | Data Scientist for AI | Unknown | Applied | 2025-03-19 |
 | Inspire Brands | Unknown | Unknown | Applied | 2025-03-19 |
 | Urgently | Data Scientist | Unknown | Declined | 2025-03-19 |
 | Kelly | Data Analyst – Global Operations | Unknown | Applied | 2025-03-19 |
