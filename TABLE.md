@@ -1,6 +1,18 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
+| Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
+| Airship | Unknown | Unknown | Applied | 2025-03-20 |
+| Brooklinen | Unknown | Unknown | Applied | 2025-03-20 |
+| Downtown Music | Unknown | Unknown | Applied | 2025-03-20 |
+| NeuraFlash | AWS Business Consultant, Path to Solution Architect | Unknown | Applied | 2025-03-20 |
+| Peloton Consulting Group | Technical Implementation Consultant – Analyst | Unknown | Applied | 2025-03-20 |
+| Vixxo | Business Analysis - Accounts | Unknown | Applied | 2025-03-20 |
+| Roku | Analyst, Business Automation | Unknown | Applied | 2025-03-20 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-20 |
+| Amplitude | Business Intelligence Analyst, Strategic Finance | Unknown | Applied | 2025-03-20 |
+| Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-20 |
+| Beyond Finance | Unknown | Unknown | Applied | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
