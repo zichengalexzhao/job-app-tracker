@@ -32,6 +32,9 @@
 | Gulf States Toyota, Inc. | Business Intelligence Developer II | Unknown | Declined | 2025-03-20 |
 | CLEAResult | Operations Analyst | Unknown | Applied | 2025-03-20 |
 | Kyndryl | Data Scientist for AI | Unknown | Declined | 2025-03-20 |
+| Fragomen | Unknown | Unknown | Applied | 2025-03-20 |
+| Banner Bank | Quantitative Analyst | Unknown | Declined | 2025-03-20 |
+| World Kinect | Data Analyst | Unknown | Applied | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |

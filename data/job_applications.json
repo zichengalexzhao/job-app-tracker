@@ -12927,5 +12927,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-20"
+    },
+    {
+        "Company": "Fragomen",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Banner Bank",
+        "Job Title": "Quantitative Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "World Kinect",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
     }
 ]
