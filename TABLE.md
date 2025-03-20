@@ -38,6 +38,8 @@
 | TransUnion | Unknown | Unknown | Applied | 2025-03-20 |
 | Inspire Brands (Assuming from the email address) | Analyst - Brand Analytics - Buffalo Wild Wings | Unknown | Applied | 2025-03-20 |
 | ZS | Strategy Insights & Planning Associate | Unknown | Declined | 2025-03-20 |
+| Toyota | Data Analyst | Plano, Texas | Applied | 2025-03-20 |
+| Checkr | Finance Systems Analyst | Unknown | Declined | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
