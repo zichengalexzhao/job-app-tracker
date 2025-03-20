@@ -40,6 +40,8 @@
 | ZS | Strategy Insights & Planning Associate | Unknown | Declined | 2025-03-20 |
 | Toyota | Data Analyst | Plano, Texas | Applied | 2025-03-20 |
 | Checkr | Finance Systems Analyst | Unknown | Declined | 2025-03-20 |
+| FedEx | Unknown | Unknown | Applied | 2025-03-20 |
+| The Waldinger Corporation | Business Intelligence Analyst | Unknown | Declined | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
@@ -443,7 +445,6 @@
 | Lockton Companies LLC | Data Analyst- Risk Solutions-25004Z | Unknown | Applied | 2025-03-10 |
 | Johnson & Johnson | Digital Business Analyst - Shockwave | Unknown | Declined | 2025-03-10 |
 | CoreLogic | Product Information Analyst (Master Data Management) | Unknown | Applied | 2025-03-10 |
-| The Waldinger Corporation | Business Intelligence Analyst | Unknown | Applied | 2025-03-10 |
 | The Newrez Family of Companies | Operational Controls SQL Developer | On-site | Applied | 2025-03-10 |
 | Johnson & Johnson | Data Science CoOp | Unknown | Declined | 2025-03-10 |
 | RPA (Rubin Postaer and Associates) | Analyst | Unknown | Declined | 2025-03-10 |

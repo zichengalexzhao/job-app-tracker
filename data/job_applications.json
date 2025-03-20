@@ -9842,13 +9842,6 @@
         "Date": "2025-03-10"
     },
     {
-        "Company": "The Waldinger Corporation",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-10"
-    },
-    {
         "Company": "The Newrez Family of Companies",
         "Job Title": "Operational Controls SQL Developer",
         "Location": "On-site",
@@ -12973,6 +12966,20 @@
     {
         "Company": "Checkr",
         "Job Title": "Finance Systems Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "FedEx",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "The Waldinger Corporation",
+        "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-20"
