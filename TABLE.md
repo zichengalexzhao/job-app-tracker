@@ -13,6 +13,17 @@
 | Amplitude | Business Intelligence Analyst, Strategic Finance | Unknown | Applied | 2025-03-20 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-20 |
 | Beyond Finance | Unknown | Unknown | Applied | 2025-03-20 |
+| Amazon | Data Engineer, Stores Finance Analytics & Insights | Unknown | Applied | 2025-03-20 |
+| Unknown | IT Programmer Analyst I | Unknown | Declined | 2025-03-20 |
+| ZEO Energy | Business Intelligence Analyst | Unknown | Applied | 2025-03-20 |
+| Agilent | Business Process Analyst - Field Repair Center | Unknown | Applied | 2025-03-20 |
+| Micron | Data Scientist | Unknown | Applied | 2025-03-20 |
+| New York City Housing Development Corporation | Business & Data Analyst | Unknown | Applied | 2025-03-20 |
+| GM Financial | Data Analyst I | Unknown | Applied | 2025-03-20 |
+| DiscovermyHR | Unknown | Unknown | Applied | 2025-03-20 |
+| GM Financial | Data Analyst I | Unknown | Applied | 2025-03-20 |
+| Copeland | Unknown | Unknown | Applied | 2025-03-20 |
+| Rooms To Go Corporate | Business Data Analyst | Unknown | Applied | 2025-03-20 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |

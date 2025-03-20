@@ -12822,5 +12822,82 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-20"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Engineer, Stores Finance Analytics & Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "IT Programmer Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "ZEO Energy",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Agilent",
+        "Job Title": "Business Process Analyst - Field Repair Center",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Micron",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "New York City Housing Development Corporation",
+        "Job Title": "Business & Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "GM Financial",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "DiscovermyHR",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "GM Financial",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Copeland",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
+    },
+    {
+        "Company": "Rooms To Go Corporate",
+        "Job Title": "Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-20"
     }
 ]
