@@ -28,6 +28,8 @@
 | Covetrus | Item Master Analyst | Unknown | Declined | 2025-03-21 |
 | Healthcare Analytics \| Payment Integrity | Data Analyst | Unknown | Declined | 2025-03-21 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Declined | 2025-03-21 |
+| EssilorLuxottica | Corporate -Processor - Data | Unknown | Declined | 2025-03-21 |
+| Airship | Data Analyst | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
