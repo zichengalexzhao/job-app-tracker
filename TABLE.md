@@ -25,6 +25,7 @@
 | Andersen | Business Analyst (Rating, Data) | San Francisco | Declined | 2025-03-21 |
 | Hewlett Packard Enterprise (HPE) | Data Science Graduate | Unknown | Declined | 2025-03-21 |
 | Vagaro | Unknown | Unknown | Applied | 2025-03-21 |
+| Covetrus | Item Master Analyst | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
