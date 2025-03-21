@@ -12341,13 +12341,6 @@
         "Date": "2025-03-19"
     },
     {
-        "Company": "Brand Blitz Verse",
-        "Job Title": "Marketing Assistant",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-19"
-    },
-    {
         "Company": "BlackRock",
         "Job Title": "Financial Markets Advisory Analytics, Analyst",
         "Location": "Unknown",
@@ -13071,6 +13064,13 @@
     {
         "Company": "Daylight",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Brand Blitz Verse",
+        "Job Title": "Marketing Assistant",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-21"

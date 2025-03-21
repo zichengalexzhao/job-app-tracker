@@ -13,6 +13,7 @@
 | Navitus Health Solutions, LLC | Business Intelligence Developer (2025-4249) | Unknown | Applied | 2025-03-21 |
 | Kelly Services | Data Analyst | On-Site-Spring House, PA | Applied | 2025-03-21 |
 | Daylight | Unknown | Unknown | Declined | 2025-03-21 |
+| Brand Blitz Verse | Marketing Assistant | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
@@ -60,7 +61,6 @@
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
-| Brand Blitz Verse | Marketing Assistant | Unknown | Applied | 2025-03-19 |
 | BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Applied | 2025-03-19 |
 | Snowflake | Associate Analyst, GTM Analytics | Unknown | Applied | 2025-03-19 |
 | Independence Pet Group | Unknown | Unknown | Applied | 2025-03-19 |
