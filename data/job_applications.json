@@ -13123,5 +13123,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-21"
+    },
+    {
+        "Company": "Andersen",
+        "Job Title": "Business Analyst (Rating, Data)",
+        "Location": "San Francisco",
+        "status": "Declined",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Hewlett Packard Enterprise (HPE)",
+        "Job Title": "Data Science Graduate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-21"
     }
 ]
