@@ -13137,5 +13137,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-21"
+    },
+    {
+        "Company": "Vagaro",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
     }
 ]
