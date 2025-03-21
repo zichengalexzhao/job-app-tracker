@@ -11900,13 +11900,6 @@
         "Date": "2025-03-18"
     },
     {
-        "Company": "Uber",
-        "Job Title": "Measurement & Insights Analyst, Uber Advertising",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-18"
-    },
-    {
         "Company": "Trinity Health",
         "Job Title": "Donor Data Analyst",
         "Location": "Remote",
@@ -13148,6 +13141,20 @@
     {
         "Company": "Covetrus",
         "Job Title": "Item Master Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Healthcare Analytics | Payment Integrity",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Measurement & Insights Analyst, Uber Advertising",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-21"

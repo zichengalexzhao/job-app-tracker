@@ -26,6 +26,8 @@
 | Hewlett Packard Enterprise (HPE) | Data Science Graduate | Unknown | Declined | 2025-03-21 |
 | Vagaro | Unknown | Unknown | Applied | 2025-03-21 |
 | Covetrus | Item Master Analyst | Unknown | Declined | 2025-03-21 |
+| Healthcare Analytics \| Payment Integrity | Data Analyst | Unknown | Declined | 2025-03-21 |
+| Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
@@ -121,7 +123,6 @@
 | Muck Rack | Data Scientist | Unknown | Declined | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
 | NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
-| Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Applied | 2025-03-18 |
 | Trinity Health | Donor Data Analyst | Remote | Applied | 2025-03-18 |
 | ECU Health | Unknown | Unknown | Applied | 2025-03-18 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-03-18 |
