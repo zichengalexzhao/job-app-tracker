@@ -19,6 +19,9 @@
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-03-21 |
 | NeuraFlash | AWS Business Consultant, Path to Solution Architect | Unknown | Declined | 2025-03-21 |
 | Truist | Decision Scientist I | Unknown | Declined | 2025-03-21 |
+| JPMorgan Chase | Business Data Solutions Analyst II | Unknown | Declined | 2025-03-21 |
+| Applied Materials | Pricing Analyst Product Marketing Intern- Master's | Santa Clara, CA | Applied | 2025-03-21 |
+| NICO National Indemnity Company | Accounting Data Reporting Analyst | Unknown | Applied | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |

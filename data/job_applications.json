@@ -13102,5 +13102,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-21"
+    },
+    {
+        "Company": "JPMorgan Chase",
+        "Job Title": "Business Data Solutions Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Applied Materials",
+        "Job Title": "Pricing Analyst Product Marketing Intern- Master's",
+        "Location": "Santa Clara, CA",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "NICO National Indemnity Company",
+        "Job Title": "Accounting Data Reporting Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
     }
 ]
