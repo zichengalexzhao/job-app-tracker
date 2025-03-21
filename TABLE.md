@@ -18,6 +18,7 @@
 | Discover | Data Science Analyst | Unknown | Applied | 2025-03-21 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-03-21 |
 | NeuraFlash | AWS Business Consultant, Path to Solution Architect | Unknown | Declined | 2025-03-21 |
+| Truist | Decision Scientist I | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
