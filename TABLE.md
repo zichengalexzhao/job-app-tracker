@@ -12,6 +12,7 @@
 | Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-21 |
 | Navitus Health Solutions, LLC | Business Intelligence Developer (2025-4249) | Unknown | Applied | 2025-03-21 |
 | Kelly Services | Data Analyst | On-Site-Spring House, PA | Applied | 2025-03-21 |
+| Daylight | Unknown | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
@@ -178,7 +179,6 @@
 | Cardinal Health | Unknown | Unknown | Applied | 2025-03-17 |
 | Root, Inc. | Analyst II, Business Intelligence | Unknown | Applied | 2025-03-17 |
 | SelectQuote Insurance Services | Operations Analyst I | Unknown | Applied | 2025-03-17 |
-| Daylight | Unknown | Unknown | Applied | 2025-03-17 |
 | Taco Bell | Junior Business Analyst, Market Insights | Unknown | Applied | 2025-03-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-03-17 |
 | Uline | Unknown | Unknown | Applied | 2025-03-17 |

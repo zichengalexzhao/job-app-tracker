@@ -11431,13 +11431,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Daylight",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "Taco Bell",
         "Job Title": "Junior Business Analyst, Market Insights",
         "Location": "Unknown",
@@ -13073,6 +13066,13 @@
         "Job Title": "Data Analyst",
         "Location": "On-Site-Spring House, PA",
         "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Daylight",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-21"
     }
 ]
