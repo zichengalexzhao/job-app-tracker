@@ -16,6 +16,7 @@
 | Brand Blitz Verse | Marketing Assistant | Unknown | Declined | 2025-03-21 |
 | Methodist Health System | Unknown | Unknown | Applied | 2025-03-21 |
 | Discover | Data Science Analyst | Unknown | Applied | 2025-03-21 |
+| Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
