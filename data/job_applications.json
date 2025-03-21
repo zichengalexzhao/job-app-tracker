@@ -12990,5 +12990,89 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-20"
+    },
+    {
+        "Company": "ZwillGen",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Cerberus",
+        "Job Title": "Associate/Sr. Associate \u2013 Business Intelligence and Data Analytics, Credit Risk",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Allredi",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Bayer",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Kemper",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Schneider Electric",
+        "Job Title": "Business Intelligence Analyst Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Northwestern Mutual",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Enterprise Data Governance Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Kohl's",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Splunk",
+        "Job Title": "Machine Learning Engineer - Early in Career",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Navitus Health Solutions, LLC",
+        "Job Title": "Business Intelligence Developer (2025-4249)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Kelly Services",
+        "Job Title": "Data Analyst",
+        "Location": "On-Site-Spring House, PA",
+        "status": "Applied",
+        "Date": "2025-03-21"
     }
 ]

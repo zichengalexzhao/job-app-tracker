@@ -1,5 +1,17 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| ZwillGen | Data Scientist | Unknown | Applied | 2025-03-21 |
+| Cerberus | Associate/Sr. Associate – Business Intelligence and Data Analytics, Credit Risk | Unknown | Applied | 2025-03-21 |
+| Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
+| Bayer | Business Intelligence Analyst | Unknown | Applied | 2025-03-21 |
+| Kemper | Data Scientist | Unknown | Applied | 2025-03-21 |
+| Schneider Electric | Business Intelligence Analyst Intern | Unknown | Applied | 2025-03-21 |
+| Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-21 |
+| U.S. Bank | Enterprise Data Governance Specialist | Unknown | Applied | 2025-03-21 |
+| Kohl's | Unknown | Unknown | Applied | 2025-03-21 |
+| Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-21 |
+| Navitus Health Solutions, LLC | Business Intelligence Developer (2025-4249) | Unknown | Applied | 2025-03-21 |
+| Kelly Services | Data Analyst | On-Site-Spring House, PA | Applied | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
