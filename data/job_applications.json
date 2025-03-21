@@ -12705,13 +12705,6 @@
         "Date": "2025-03-20"
     },
     {
-        "Company": "NeuraFlash",
-        "Job Title": "AWS Business Consultant, Path to Solution Architect",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-20"
-    },
-    {
         "Company": "Peloton Consulting Group",
         "Job Title": "Technical Implementation Consultant \u2013 Analyst",
         "Location": "Unknown",
@@ -13094,6 +13087,13 @@
         "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "NeuraFlash",
+        "Job Title": "AWS Business Consultant, Path to Solution Architect",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-21"
     }
 ]

@@ -17,12 +17,12 @@
 | Methodist Health System | Unknown | Unknown | Applied | 2025-03-21 |
 | Discover | Data Science Analyst | Unknown | Applied | 2025-03-21 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-03-21 |
+| NeuraFlash | AWS Business Consultant, Path to Solution Architect | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
 | Brooklinen | Unknown | Unknown | Applied | 2025-03-20 |
 | Downtown Music | Unknown | Unknown | Applied | 2025-03-20 |
-| NeuraFlash | AWS Business Consultant, Path to Solution Architect | Unknown | Applied | 2025-03-20 |
 | Peloton Consulting Group | Technical Implementation Consultant – Analyst | Unknown | Applied | 2025-03-20 |
 | Roku | Analyst, Business Automation | Unknown | Applied | 2025-03-20 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-20 |
