@@ -1134,13 +1134,6 @@
         "Date": "2025-02-13"
     },
     {
-        "Company": "Lucid Motors",
-        "Job Title": "Intern, Strategy Analyst, Summer 2025",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
         "Company": "Harbinger Motors Inc.",
         "Job Title": "Intern, Production Data Analytics",
         "Location": "Unknown",
@@ -13169,6 +13162,13 @@
     {
         "Company": "Airship",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-21"
+    },
+    {
+        "Company": "Lucid Motors",
+        "Job Title": "Intern, Strategy Analyst, Summer 2025",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-21"

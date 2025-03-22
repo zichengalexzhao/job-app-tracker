@@ -30,6 +30,7 @@
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Declined | 2025-03-21 |
 | EssilorLuxottica | Corporate -Processor - Data | Unknown | Declined | 2025-03-21 |
 | Airship | Data Analyst | Unknown | Declined | 2025-03-21 |
+| Lucid Motors | Intern, Strategy Analyst, Summer 2025 | Unknown | Declined | 2025-03-21 |
 | Inspire Brands (Buffalo Wild Wings) | Analyst - Brand Analytics | Unknown | Applied | 2025-03-20 |
 | Baselayer | Unknown | Unknown | Applied | 2025-03-20 |
 | Airship | Unknown | Unknown | Applied | 2025-03-20 |
@@ -1112,7 +1113,6 @@
 | foodpanda | Data Analyst | Unknown | Applied | 2025-02-13 |
 | AMD | Data Analyst Intern/Co-Op | Unknown | Applied | 2025-02-13 |
 | Unknown | Data Engineering Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |
-| Lucid Motors | Intern, Strategy Analyst, Summer 2025 | Unknown | Applied | 2025-02-13 |
 | Harbinger Motors Inc. | Intern, Production Data Analytics | Unknown | Applied | 2025-02-13 |
 | Unknown | Business Analytics Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |
 | Volvo Cars | CRM Analytics Intern | Mahwah | Applied | 2025-02-13 |
