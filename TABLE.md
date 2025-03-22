@@ -5,6 +5,14 @@
 | Medline | Analyst Data Management | Unknown | Applied | 2025-03-22 |
 | Unknown | Research - LatAm Strategy Analyst / Associate | Unknown | Applied | 2025-03-22 |
 | ABM | Business Analyst | Unknown | Applied | 2025-03-22 |
+| Copeland | Unknown | Unknown | Applied | 2025-03-22 |
+| Experis | Data Science | Unknown | Applied | 2025-03-22 |
+| Clarivate Analytics | Unknown | Unknown | Applied | 2025-03-22 |
+| Verisk | Research Analyst, Insurance & Emerging Risks - 472 | Unknown | Applied | 2025-03-22 |
+| Verisk | Research Analyst, Insurance & Emerging Risks - 472 | Unknown | Applied | 2025-03-22 |
+| Definitive Healthcare, US | Unknown | Unknown | Applied | 2025-03-22 |
+| Sumitomo Mitsui Banking Corporation | New Business Analyst | Unknown | Applied | 2025-03-22 |
+| AlixPartners | Unknown | Unknown | Applied | 2025-03-22 |
 | ZwillGen | Data Scientist | Unknown | Applied | 2025-03-21 |
 | Cerberus | Associate/Sr. Associate – Business Intelligence and Data Analytics, Credit Risk | Unknown | Applied | 2025-03-21 |
 | Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
