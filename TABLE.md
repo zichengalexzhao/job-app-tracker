@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-22 |
 | ZwillGen | Data Scientist | Unknown | Applied | 2025-03-21 |
 | Cerberus | Associate/Sr. Associate – Business Intelligence and Data Analytics, Credit Risk | Unknown | Applied | 2025-03-21 |
 | Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
