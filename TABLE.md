@@ -15,6 +15,7 @@
 | AlixPartners | Unknown | Unknown | Applied | 2025-03-22 |
 | Allstate Insurance Company | Product Data Analyst | Unknown | Applied | 2025-03-22 |
 | Gravity IT Resources | Data Engineer | Nashville, TN | Applied | 2025-03-22 |
+| CAPITAL AREA FOOD BANK | Unknown | Unknown | Applied | 2025-03-22 |
 | ZwillGen | Data Scientist | Unknown | Applied | 2025-03-21 |
 | Cerberus | Associate/Sr. Associate – Business Intelligence and Data Analytics, Credit Risk | Unknown | Applied | 2025-03-21 |
 | Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
