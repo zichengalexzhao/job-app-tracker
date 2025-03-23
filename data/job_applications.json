@@ -13319,5 +13319,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-23"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Development Analyst",
+        "Location": "Phoenix, AZ",
+        "status": "Applied",
+        "Date": "2025-03-23"
+    },
+    {
+        "Company": "Handshake",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-23"
     }
 ]

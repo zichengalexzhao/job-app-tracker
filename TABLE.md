@@ -5,6 +5,8 @@
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-23 |
 | FanDuel | Commercial Analyst- Generosity | Unknown | Applied | 2025-03-23 |
+| Unknown | Business Development Analyst | Phoenix, AZ | Applied | 2025-03-23 |
+| Handshake | Unknown | Unknown | Applied | 2025-03-23 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-22 |
 | Snowflake | Associate Analyst, GTM Analytics | Unknown | Applied | 2025-03-22 |
 | Medline | Analyst Data Management | Unknown | Applied | 2025-03-22 |
