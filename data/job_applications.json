@@ -13347,5 +13347,19 @@
         "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-03-23"
+    },
+    {
+        "Company": "CMI Media Group",
+        "Job Title": "Analyst, SEM",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-23"
+    },
+    {
+        "Company": "CVS Health",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-23"
     }
 ]

@@ -9,6 +9,8 @@
 | Handshake | Unknown | Unknown | Applied | 2025-03-23 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-03-23 |
 | META | Data Analyst, Payments | San Francisco, CA | Applied | 2025-03-23 |
+| CMI Media Group | Analyst, SEM | Unknown | Applied | 2025-03-23 |
+| CVS Health | Data Scientist | Unknown | Applied | 2025-03-23 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-22 |
 | Snowflake | Associate Analyst, GTM Analytics | Unknown | Applied | 2025-03-22 |
 | Medline | Analyst Data Management | Unknown | Applied | 2025-03-22 |
