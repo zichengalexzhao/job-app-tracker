@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-22 |
 | Snowflake | Associate Analyst, GTM Analytics | Unknown | Applied | 2025-03-22 |
 | Medline | Analyst Data Management | Unknown | Applied | 2025-03-22 |
