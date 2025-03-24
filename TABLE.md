@@ -3,6 +3,10 @@
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
+| Keelson Strategic | Intelligence Analyst | Unknown | Applied | 2025-03-24 |
+| Gulf States Toyota, Inc. | DVMSM - Analyst II, Supply Chain | Unknown | Applied | 2025-03-24 |
+| Engine Job Title: Partner Operations Analyst Location: Unknown Status: Declined |  |  |  | 2025-03-24 |
+| Schneider Electric | Business Intelligence Analyst Intern | Unknown | Declined | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
@@ -35,7 +39,6 @@
 | Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
 | Bayer | Business Intelligence Analyst | Unknown | Applied | 2025-03-21 |
 | Kemper | Data Scientist | Unknown | Applied | 2025-03-21 |
-| Schneider Electric | Business Intelligence Analyst Intern | Unknown | Applied | 2025-03-21 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-21 |
 | U.S. Bank | Enterprise Data Governance Specialist | Unknown | Applied | 2025-03-21 |
 | Kohl's | Unknown | Unknown | Applied | 2025-03-21 |
