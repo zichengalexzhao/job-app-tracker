@@ -1247,13 +1247,6 @@
     },
     {
         "Company": "Gemini",
-        "Job Title": "Analyst, Social Media",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
-        "Company": "Gemini",
         "Job Title": "Analyst, Growth Marketing",
         "Location": "Unknown",
         "status": "Applied",
@@ -9100,13 +9093,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Johnson & Johnson",
-        "Job Title": "Machine Learning Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Baptist Memorial Health Care",
         "Job Title": "Analyst-Data Reporting Associate - HS Enterprise Reporting Analytics",
         "Location": "Unknown",
@@ -13402,6 +13388,55 @@
         "Job Title": "Mid-Level Business Process Analyst",
         "Location": "Seattle, WA",
         "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "AbbVie",
+        "Job Title": "Data Scientist I (Lake County Site Operations)",
+        "Location": "Lake County",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "pep",
+        "Job Title": "Consumer Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Block",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Point72",
+        "Job Title": "L/S Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Orion Innovation",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Johnson & Johnson",
+        "Job Title": "Machine Learning Engineer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Gemini",
+        "Job Title": "Analyst, Social Media",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-24"
     }
 ]

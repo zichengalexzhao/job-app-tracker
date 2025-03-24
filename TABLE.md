@@ -9,6 +9,13 @@
 | Schneider Electric | Business Intelligence Analyst Intern | Unknown | Declined | 2025-03-24 |
 | SAP | Analyst 421220 | Unknown | Declined | 2025-03-24 |
 | Boeing | Mid-Level Business Process Analyst | Seattle, WA | Applied | 2025-03-24 |
+| AbbVie | Data Scientist I (Lake County Site Operations) | Lake County | Applied | 2025-03-24 |
+| pep | Consumer Insights Analyst | Unknown | Applied | 2025-03-24 |
+| Block | Data Analyst | Unknown | Applied | 2025-03-24 |
+| Point72 | L/S Data Analyst | Unknown | Applied | 2025-03-24 |
+| Orion Innovation | Unknown | Unknown | Applied | 2025-03-24 |
+| Johnson & Johnson | Machine Learning Engineer | Unknown | Declined | 2025-03-24 |
+| Gemini | Analyst, Social Media | Unknown | Declined | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
@@ -643,7 +650,6 @@
 | Ascend Analytics, LLC | Data Scientist | Unknown | Declined | 2025-03-07 |
 | Reddit | Data Scientist, Ads | Unknown | Applied | 2025-03-07 |
 | Texas Capital Bank | Risk Analytics Analyst | Unknown | Applied | 2025-03-07 |
-| Johnson & Johnson | Machine Learning Engineer | Unknown | Applied | 2025-03-07 |
 | Baptist Memorial Health Care | Analyst-Data Reporting Associate - HS Enterprise Reporting Analytics | Unknown | Applied | 2025-03-07 |
 | Deloitte | AI/ ML Data Scientist | McLean or Chantilly, VA | Applied | 2025-03-07 |
 | Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) | Unknown | Applied | 2025-03-07 |
@@ -1162,7 +1168,6 @@
 | Rocket Money | Unknown | Unknown | Applied | 2025-02-13 |
 | Lyft | Data Scientist, Algorithms - Pricing | Unknown | Applied | 2025-02-13 |
 | Atlassian | People Data Scientist | Unknown | Applied | 2025-02-13 |
-| Gemini | Analyst, Social Media | Unknown | Applied | 2025-02-13 |
 | Gemini | Analyst, Growth Marketing | Unknown | Applied | 2025-02-13 |
 | Ascension | Qualtrics Analyst - Technology | Unknown | Declined | 2025-02-13 |
 | Unknown | Int Business Intelligence Dev/Analyst | Unknown | Declined | 2025-02-13 |
