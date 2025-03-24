@@ -13396,5 +13396,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-24"
+    },
+    {
+        "Company": "Boeing",
+        "Job Title": "Mid-Level Business Process Analyst",
+        "Location": "Seattle, WA",
+        "status": "Applied",
+        "Date": "2025-03-24"
     }
 ]
