@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
@@ -353,7 +354,6 @@
 | AgroFresh Inc. | Unknown | Unknown | Applied | 2025-03-13 |
 | Sense | Data Scientist - Deep Learning Focus | San Francisco, United States | Applied | 2025-03-13 |
 | Stride | Unknown | Unknown | Applied | 2025-03-13 |
-| Hard Rock Digital | Loyalty Analyst | Unknown | Applied | 2025-03-13 |
 | GroupM Nexus | Analyst, Data Science | Unknown | Declined | 2025-03-13 |
 | Marcone Appliance Parts | Power BI Specialist | St. Louis, MO | Applied | 2025-03-13 |
 | Fleetio | Unknown | Unknown | Applied | 2025-03-13 |

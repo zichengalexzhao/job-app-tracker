@@ -10731,13 +10731,6 @@
         "Date": "2025-03-13"
     },
     {
-        "Company": "Hard Rock Digital",
-        "Job Title": "Loyalty Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
         "Company": "GroupM Nexus",
         "Job Title": "Analyst, Data Science",
         "Location": "Unknown",
@@ -13361,5 +13354,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-23"
+    },
+    {
+        "Company": "Hard Rock Digital",
+        "Job Title": "Loyalty Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-24"
     }
 ]
