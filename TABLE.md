@@ -7,6 +7,7 @@
 | Gulf States Toyota, Inc. | DVMSM - Analyst II, Supply Chain | Unknown | Applied | 2025-03-24 |
 | Engine Job Title: Partner Operations Analyst Location: Unknown Status: Declined |  |  |  | 2025-03-24 |
 | Schneider Electric | Business Intelligence Analyst Intern | Unknown | Declined | 2025-03-24 |
+| SAP | Analyst 421220 | Unknown | Declined | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
