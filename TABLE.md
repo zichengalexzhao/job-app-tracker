@@ -19,6 +19,11 @@
 | Unknown | Business Analyst, Junior | Unknown | Applied | 2025-03-24 |
 | Unknown | Business Analyst, Junior | Unknown | Applied | 2025-03-24 |
 | Credit One Bank | Operations Data Analyst I | Unknown | Applied | 2025-03-24 |
+| CrossCountry Mortgage, LLC | Data Analyst | Unknown | Applied | 2025-03-24 |
+| Flowcode | Unknown | Unknown | Applied | 2025-03-24 |
+| BMC Software | Business Analyst | Unknown | Applied | 2025-03-24 |
+| TransUnion | Unknown | Unknown | Applied | 2025-03-24 |
+| Macquarie Group | Business Analyst - Identity Access Management Team | Unknown | Declined | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |

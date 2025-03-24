@@ -13459,5 +13459,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-24"
+    },
+    {
+        "Company": "CrossCountry Mortgage, LLC",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Flowcode",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "BMC Software",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "TransUnion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Macquarie Group",
+        "Job Title": "Business Analyst - Identity Access Management Team",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-24"
     }
 ]
