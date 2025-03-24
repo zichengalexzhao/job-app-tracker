@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
+| Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
@@ -260,7 +261,6 @@
 | Emerald | Strategy Associate | Unknown | Applied | 2025-03-17 |
 | TransUnion | Unknown | Unknown | Applied | 2025-03-17 |
 | ABS and Affiliated Companies | Analyst II, Market and Business Intelligence | Houston, TX Area | Applied | 2025-03-17 |
-| Datadog | GTM Strategy and Operations Analyst | New York | Applied | 2025-03-17 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-17 |
 | Claritas Rx | Business Analyst | Unknown | Applied | 2025-03-17 |
 | Celonis | Unknown | Unknown | Applied | 2025-03-17 |

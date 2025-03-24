@@ -11683,13 +11683,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Datadog",
-        "Job Title": "GTM Strategy and Operations Analyst",
-        "Location": "New York",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "JPMorgan Chase & Co.",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -13359,6 +13352,13 @@
         "Company": "Hard Rock Digital",
         "Job Title": "Loyalty Analyst",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Datadog",
+        "Job Title": "GTM Strategy and Operations Analyst",
+        "Location": "New York",
         "status": "Declined",
         "Date": "2025-03-24"
     }
