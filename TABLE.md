@@ -24,6 +24,9 @@
 | BMC Software | Business Analyst | Unknown | Applied | 2025-03-24 |
 | TransUnion | Unknown | Unknown | Applied | 2025-03-24 |
 | Macquarie Group | Business Analyst - Identity Access Management Team | Unknown | Declined | 2025-03-24 |
+| FactSet | Power Markets Analyst | Unknown | Applied | 2025-03-24 |
+| Westrock Coffee | Reporting Analyst | Concord, North Carolina | Applied | 2025-03-24 |
+| Imprivata | Data Scientist | Unknown | Applied | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
