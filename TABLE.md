@@ -16,6 +16,9 @@
 | Orion Innovation | Unknown | Unknown | Applied | 2025-03-24 |
 | Johnson & Johnson | Machine Learning Engineer | Unknown | Declined | 2025-03-24 |
 | Gemini | Analyst, Social Media | Unknown | Declined | 2025-03-24 |
+| Unknown | Business Analyst, Junior | Unknown | Applied | 2025-03-24 |
+| Unknown | Business Analyst, Junior | Unknown | Applied | 2025-03-24 |
+| Credit One Bank | Operations Data Analyst I | Unknown | Applied | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |

@@ -13438,5 +13438,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-24"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Analyst, Junior",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Analyst, Junior",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
+    },
+    {
+        "Company": "Credit One Bank",
+        "Job Title": "Operations Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-24"
     }
 ]
