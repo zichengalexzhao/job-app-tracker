@@ -13606,5 +13606,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"
+    },
+    {
+        "Company": "ICW Group",
+        "Job Title": "Product Analyst (Insurance)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Loram Maintenance of Way",
+        "Job Title": "Planning and Performance Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
     }
 ]
