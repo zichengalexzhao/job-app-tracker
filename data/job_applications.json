@@ -13578,5 +13578,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-25"
+    },
+    {
+        "Company": "Cambia Health Solutions",
+        "Job Title": "Healthcare Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Rogue Fitness",
+        "Job Title": "Data Analyst",
+        "Location": "Columbus, OH",
+        "status": "Applied",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Yolo Federal Credit Union",
+        "Job Title": "Marketing Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
     }
 ]
