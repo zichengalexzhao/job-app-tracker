@@ -3,6 +3,7 @@
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
+| Spotify | Machine Learning Engineer - Content Understanding | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
@@ -561,7 +562,6 @@
 | Bio-Techne | Unknown | Unknown | Applied | 2025-03-09 |
 | The Scion Group | Unknown | Unknown | Applied | 2025-03-09 |
 | U.S. Bank | Data Analytics 2 | Unknown | Declined | 2025-03-09 |
-| Spotify | Machine Learning Engineer - Content Understanding | Unknown | Applied | 2025-03-09 |
 | Adobe | AI/ML Engineer | Unknown | Declined | 2025-03-09 |
 | Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) (ID: 2921765) | Unknown | Applied | 2025-03-09 |
 | EDO | Unknown | Unknown | Declined | 2025-03-09 |
