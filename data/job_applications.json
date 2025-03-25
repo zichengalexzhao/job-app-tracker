@@ -819,13 +819,6 @@
         "Date": "2025-02-19"
     },
     {
-        "Company": "National Grid",
-        "Job Title": "Data Analyst, Management Data Analysis",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-19"
-    },
-    {
         "Company": "SilverEdge Government Solutions",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -13533,6 +13526,13 @@
     {
         "Company": "Visa",
         "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "National Grid",
+        "Job Title": "Data Analyst, Management Data Analysis",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"

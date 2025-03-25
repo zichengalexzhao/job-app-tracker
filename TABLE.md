@@ -6,6 +6,7 @@
 | Spotify | Machine Learning Engineer - Content Understanding | Unknown | Declined | 2025-03-25 |
 | ABM Industries | Business Analyst | Unknown | Declined | 2025-03-25 |
 | Visa | Data Scientist | Unknown | Declined | 2025-03-25 |
+| National Grid | Data Analyst, Management Data Analysis | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
@@ -1121,7 +1122,6 @@
 | Planes Companies | Data Analyst | Unknown | Applied | 2025-02-19 |
 | VS America, Inc. | CRM and Data Analyst | Unknown | Applied | 2025-02-19 |
 | I3 Broadband LLC | Marketing Data Analyst | Unknown | Applied | 2025-02-19 |
-| National Grid | Data Analyst, Management Data Analysis | Unknown | Applied | 2025-02-19 |
 | SilverEdge Government Solutions | Data Scientist | Unknown | Applied | 2025-02-19 |
 | Planes Companies | Data Analyst | Unknown | Applied | 2025-02-19 |
 | Gamesight | Data Analyst | Unknown | Declined | 2025-02-19 |
