@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
+| Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
@@ -41,7 +42,6 @@
 | CVS Health | Data Scientist | Unknown | Applied | 2025-03-23 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-22 |
 | Snowflake | Associate Analyst, GTM Analytics | Unknown | Applied | 2025-03-22 |
-| Medline | Analyst Data Management | Unknown | Applied | 2025-03-22 |
 | Unknown | Research - LatAm Strategy Analyst / Associate | Unknown | Applied | 2025-03-22 |
 | ABM | Business Analyst | Unknown | Applied | 2025-03-22 |
 | Copeland | Unknown | Unknown | Applied | 2025-03-22 |

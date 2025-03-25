@@ -13153,13 +13153,6 @@
         "Date": "2025-03-22"
     },
     {
-        "Company": "Medline",
-        "Job Title": "Analyst Data Management",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-22"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Research - LatAm Strategy Analyst / Associate",
         "Location": "Unknown",
@@ -13519,6 +13512,13 @@
     {
         "Company": "FactSet Research Systems Inc",
         "Job Title": "Power Markets Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Medline",
+        "Job Title": "Analyst Data Management",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"
