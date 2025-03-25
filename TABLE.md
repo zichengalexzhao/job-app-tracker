@@ -18,6 +18,7 @@
 | Rogue Fitness | Data Analyst | Columbus, OH | Applied | 2025-03-25 |
 | Yolo Federal Credit Union | Marketing Analyst | Unknown | Declined | 2025-03-25 |
 | Capital Electric Construction, Inc | Data Analytics Specialist | Unknown | Declined | 2025-03-25 |
+| Lynden Door | Reporting Analyst | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
