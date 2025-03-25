@@ -11,13 +11,13 @@
 | Aon | US Data Analytics - Specialist | Unknown | Applied | 2025-03-25 |
 | Stripe | Data Analyst | Unknown | Applied | 2025-03-25 |
 | Unknown | Data Analyst; Quality, Compliance & Informatics | Unknown | Applied | 2025-03-25 |
-| Capital Electric Construction, Inc | Data Analytics Specialist | Unknown | Applied | 2025-03-25 |
 | IQVIA | Business Analytics Associate- EBP Analytics | Unknown | Applied | 2025-03-25 |
 | Turner & Townsend | Junior Data Analyst | Los Angeles, CA, USA | Declined | 2025-03-25 |
 | Oak Street Health (now a CVS Company) | Decision Scientist | Unknown | Applied | 2025-03-25 |
 | Cambia Health Solutions | Healthcare Data Analyst | Unknown | Applied | 2025-03-25 |
 | Rogue Fitness | Data Analyst | Columbus, OH | Applied | 2025-03-25 |
 | Yolo Federal Credit Union | Marketing Analyst | Unknown | Declined | 2025-03-25 |
+| Capital Electric Construction, Inc | Data Analytics Specialist | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |

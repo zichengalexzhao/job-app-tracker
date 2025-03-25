@@ -13552,13 +13552,6 @@
         "Date": "2025-03-25"
     },
     {
-        "Company": "Capital Electric Construction, Inc",
-        "Job Title": "Data Analytics Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-25"
-    },
-    {
         "Company": "IQVIA",
         "Job Title": "Business Analytics Associate- EBP Analytics",
         "Location": "Unknown",
@@ -13596,6 +13589,13 @@
     {
         "Company": "Yolo Federal Credit Union",
         "Job Title": "Marketing Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Capital Electric Construction, Inc",
+        "Job Title": "Data Analytics Specialist",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"
