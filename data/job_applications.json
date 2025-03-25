@@ -9002,13 +9002,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Visa",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Equip Health",
         "Job Title": "Associate Product Operations Manager",
         "Location": "Unknown",
@@ -13526,6 +13519,20 @@
     {
         "Company": "Spotify",
         "Job Title": "Machine Learning Engineer - Content Understanding",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "ABM Industries",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"

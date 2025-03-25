@@ -4,6 +4,8 @@
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
 | Spotify | Machine Learning Engineer - Content Understanding | Unknown | Declined | 2025-03-25 |
+| ABM Industries | Business Analyst | Unknown | Declined | 2025-03-25 |
+| Visa | Data Scientist | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
@@ -650,7 +652,6 @@
 | DoorDash | Machine Learning Engineer - Delivery Excellence | Unknown | Applied | 2025-03-07 |
 | AbbVie | Data Scientist I (Lake County Site Operations)-REF36860H | Unknown | Applied | 2025-03-07 |
 | Bayer | Assoc Data Scientist | Unknown | Applied | 2025-03-07 |
-| Visa | Data Scientist | Unknown | Applied | 2025-03-07 |
 | Equip Health | Associate Product Operations Manager | Unknown | Applied | 2025-03-07 |
 | Applecart | Survey Scientist | Unknown | Declined | 2025-03-07 |
 | Revvity | Intern - IT Data Analyst | Unknown | Declined | 2025-03-07 |
