@@ -8,6 +8,11 @@
 | Visa | Data Scientist | Unknown | Declined | 2025-03-25 |
 | National Grid | Data Analyst, Management Data Analysis | Unknown | Declined | 2025-03-25 |
 | FanDuel | Commercial Analyst- Generosity | Unknown | Declined | 2025-03-25 |
+| Aon | US Data Analytics - Specialist | Unknown | Applied | 2025-03-25 |
+| Stripe | Data Analyst | Unknown | Applied | 2025-03-25 |
+| Unknown | Data Analyst; Quality, Compliance & Informatics | Unknown | Applied | 2025-03-25 |
+| Capital Electric Construction, Inc | Data Analytics Specialist | Unknown | Applied | 2025-03-25 |
+| IQVIA | Business Analytics Associate- EBP Analytics | Unknown | Applied | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
