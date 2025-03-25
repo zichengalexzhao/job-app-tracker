@@ -11697,13 +11697,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Turner & Townsend",
-        "Job Title": "Junior Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "Babylist",
         "Job Title": "Data Analyst, Warehouse Operations",
         "Location": "Unknown",
@@ -13568,6 +13561,20 @@
     {
         "Company": "IQVIA",
         "Job Title": "Business Analytics Associate- EBP Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Turner & Townsend",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Los Angeles, CA, USA",
+        "status": "Declined",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "Oak Street Health (now a CVS Company)",
+        "Job Title": "Decision Scientist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-25"

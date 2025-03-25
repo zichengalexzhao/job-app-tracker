@@ -13,6 +13,8 @@
 | Unknown | Data Analyst; Quality, Compliance & Informatics | Unknown | Applied | 2025-03-25 |
 | Capital Electric Construction, Inc | Data Analytics Specialist | Unknown | Applied | 2025-03-25 |
 | IQVIA | Business Analytics Associate- EBP Analytics | Unknown | Applied | 2025-03-25 |
+| Turner & Townsend | Junior Data Analyst | Los Angeles, CA, USA | Declined | 2025-03-25 |
+| Oak Street Health (now a CVS Company) | Decision Scientist | Unknown | Applied | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
@@ -303,7 +305,6 @@
 | Claritas Rx | Business Analyst | San Francisco, CA | Applied | 2025-03-17 |
 | FedEx | Unknown | Unknown | Applied | 2025-03-17 |
 | City National Bank | Small Business Consumer Processor I | Unknown | Declined | 2025-03-17 |
-| Turner & Townsend | Junior Data Analyst | Unknown | Applied | 2025-03-17 |
 | Babylist | Data Analyst, Warehouse Operations | Unknown | Applied | 2025-03-17 |
 | Adobe | Sr AI Engineer | Unknown | Applied | 2025-03-17 |
 | Berkeley Research Group, LLC | Fall Associate- Economics and Data Analytics | Unknown | Applied | 2025-03-17 |
