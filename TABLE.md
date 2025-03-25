@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
