@@ -7,6 +7,7 @@
 | ABM Industries | Business Analyst | Unknown | Declined | 2025-03-25 |
 | Visa | Data Scientist | Unknown | Declined | 2025-03-25 |
 | National Grid | Data Analyst, Management Data Analysis | Unknown | Declined | 2025-03-25 |
+| FanDuel | Commercial Analyst- Generosity | Unknown | Declined | 2025-03-25 |
 | Hard Rock Digital | Loyalty Analyst | Unknown | Declined | 2025-03-24 |
 | Datadog | GTM Strategy and Operations Analyst | New York | Declined | 2025-03-24 |
 | MAPFRE Insurance | Business Intelligence Analyst II | Unknown | Declined | 2025-03-24 |
@@ -38,7 +39,6 @@
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-23 |
-| FanDuel | Commercial Analyst- Generosity | Unknown | Applied | 2025-03-23 |
 | Unknown | Business Development Analyst | Phoenix, AZ | Applied | 2025-03-23 |
 | Handshake | Unknown | Unknown | Applied | 2025-03-23 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-03-23 |

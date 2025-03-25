@@ -13251,13 +13251,6 @@
         "Date": "2025-03-23"
     },
     {
-        "Company": "FanDuel",
-        "Job Title": "Commercial Analyst- Generosity",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-23"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Business Development Analyst",
         "Location": "Phoenix, AZ",
@@ -13533,6 +13526,13 @@
     {
         "Company": "National Grid",
         "Job Title": "Data Analyst, Management Data Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
+    },
+    {
+        "Company": "FanDuel",
+        "Job Title": "Commercial Analyst- Generosity",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"
