@@ -7,6 +7,7 @@
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-26 |
 | Kemper | Data Scientist | Unknown | Declined | 2025-03-26 |
 | Adobe | Machine Learning Engineer | Unknown | Declined | 2025-03-26 |
+| DaVita Kidney Care | Business Analyst - Risk Management | Unknown | Applied | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
