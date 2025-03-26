@@ -9975,13 +9975,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "Mayo Clinic",
-        "Job Title": "Associate Data Science Analyst - AI&I Department 353737",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
         "Company": "Allan Myers",
         "Job Title": "Data Analytics Analyst",
         "Location": "Unknown",
@@ -13634,5 +13627,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"
+    },
+    {
+        "Company": "Mayo Clinic",
+        "Job Title": "Associate Data Science Analyst - AI&I Department 353737",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-26"
     }
 ]

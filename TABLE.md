@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
+| Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
@@ -489,7 +490,6 @@
 | Upgrade | Data Analyst, Operations Analytics | Unknown | Declined | 2025-03-11 |
 | BlueYonder | Data Scientist | Unknown | Applied | 2025-03-11 |
 | Albertsons Companies | Data Scientist IV | Unknown | Applied | 2025-03-11 |
-| Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Applied | 2025-03-11 |
 | Allan Myers | Data Analytics Analyst | Unknown | Applied | 2025-03-11 |
 | CVS Health | Unknown | Unknown | Applied | 2025-03-11 |
 | MassMutual | Data Analytics Engineer - Marketing | Unknown | Applied | 2025-03-11 |
