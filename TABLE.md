@@ -6,6 +6,7 @@
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-26 |
 | Kemper | Data Scientist | Unknown | Declined | 2025-03-26 |
+| Adobe | Machine Learning Engineer | Unknown | Declined | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
@@ -216,7 +217,6 @@
 | National Grid | Data Scientist | Unknown | Applied | 2025-03-18 |
 | Gainwell Technologies LLC | Early Career Business Analyst | Unknown | Applied | 2025-03-18 |
 | Faire | AI Platform Engineer | Unknown | Applied | 2025-03-18 |
-| Adobe | Machine Learning Engineer | Unknown | Applied | 2025-03-18 |
 | Oracle | Software Engineer Intern - Fusion Applications Development | Unknown | Applied | 2025-03-18 |
 | Vermont Information Processing (VIP) | Data Quality Analyst | Colchester, VT | Declined | 2025-03-18 |
 | Urgently | Data Scientist | Unknown | Declined | 2025-03-18 |
@@ -897,7 +897,6 @@
 | Delinea | Data Analyst | Unknown | Declined | 2025-02-28 |
 | Nextdoor | Unknown | Unknown | Applied | 2025-02-28 |
 | JT4 LLC | Computer Scientist VI | Unknown | Applied | 2025-02-28 |
-| Adobe | Machine Learning Engineer | Unknown | Applied | 2025-02-28 |
 | KLA-Tencor | Data Science and SW Engineering Intern | Unknown | Declined | 2025-02-28 |
 | DraftKings | Unknown | Unknown | Applied | 2025-02-28 |
 | Stantec Consulting Ltd. | Data Analyst-250000UI | Unknown | Applied | 2025-02-28 |
@@ -1654,7 +1653,6 @@
 | Samsara | Financial Analyst | Unknown | Declined | 2024-10-22 |
 | Salesforce | Summer 2025 Intern- Tableau Research | Unknown | Declined | 2024-10-22 |
 | Molina Healthcare, Inc. | Transition Care Case Manager (RN) | San Diego County, California | Applied | 2024-10-21 |
-| Adobe | Machine Learning Engineer | Unknown | Applied | 2024-10-21 |
 | Visa | Unknown | Unknown | Applied | 2024-10-21 |
 | TransMarket Group | Junior Quantitative Trader | Unknown | Applied | 2024-10-21 |
 | Perpay | Junior Data Engineer | Unknown | Applied | 2024-10-21 |

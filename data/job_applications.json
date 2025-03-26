@@ -4543,13 +4543,6 @@
         "Date": "2024-10-21"
     },
     {
-        "Company": "Adobe",
-        "Job Title": "Machine Learning Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-21"
-    },
-    {
         "Company": "Visa",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -7359,13 +7352,6 @@
     {
         "Company": "JT4 LLC",
         "Job Title": "Computer Scientist VI",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-28"
-    },
-    {
-        "Company": "Adobe",
-        "Job Title": "Machine Learning Engineer",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-28"
@@ -11893,13 +11879,6 @@
         "Date": "2025-03-18"
     },
     {
-        "Company": "Adobe",
-        "Job Title": "Machine Learning Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-18"
-    },
-    {
         "Company": "Oracle",
         "Job Title": "Software Engineer Intern - Fusion Applications Development",
         "Location": "Unknown",
@@ -13631,6 +13610,13 @@
     {
         "Company": "Kemper",
         "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Machine Learning Engineer",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-26"
