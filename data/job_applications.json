@@ -12901,13 +12901,6 @@
         "Date": "2025-03-21"
     },
     {
-        "Company": "Kemper",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-21"
-    },
-    {
         "Company": "Northwestern Mutual",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -13624,6 +13617,20 @@
     {
         "Company": "IBM",
         "Job Title": "Data Engineer-Advanced Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Northwestern Mutual",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Kemper",
+        "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-26"

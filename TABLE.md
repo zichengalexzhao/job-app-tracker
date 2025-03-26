@@ -4,6 +4,8 @@
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | Rogue Fitness | Data Analyst | Unknown | Applied | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
+| Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-26 |
+| Kemper | Data Scientist | Unknown | Declined | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
@@ -82,7 +84,6 @@
 | Cerberus | Associate/Sr. Associate – Business Intelligence and Data Analytics, Credit Risk | Unknown | Applied | 2025-03-21 |
 | Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
 | Bayer | Business Intelligence Analyst | Unknown | Applied | 2025-03-21 |
-| Kemper | Data Scientist | Unknown | Applied | 2025-03-21 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-21 |
 | U.S. Bank | Enterprise Data Governance Specialist | Unknown | Applied | 2025-03-21 |
 | Kohl's | Unknown | Unknown | Applied | 2025-03-21 |
