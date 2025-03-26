@@ -12411,13 +12411,6 @@
         "Date": "2025-03-19"
     },
     {
-        "Company": "YipitData",
-        "Job Title": "Insights Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-19"
-    },
-    {
         "Company": "Banner Bank",
         "Job Title": "Quantitative Analyst",
         "Location": "Unknown",
@@ -13626,6 +13619,13 @@
         "Job Title": "Business Analyst - Risk Management",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "YipitData",
+        "Job Title": "Insights Associate",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-26"
     }
 ]
