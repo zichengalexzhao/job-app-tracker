@@ -13655,5 +13655,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-26"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Marketing and Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Frontier Energy",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Stout",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Newrez Family of Companies",
+        "Job Title": "Business Analyst - Onsite",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-26"
     }
 ]

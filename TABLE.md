@@ -14,6 +14,10 @@
 | AbbVie | Data Scientist I | Lake County Site Operations | Declined | 2025-03-26 |
 | Vast | Junior Business Intelligence Analyst | Unknown | Declined | 2025-03-26 |
 | Hometap | Business Intelligence Analyst | Unknown | Declined | 2025-03-26 |
+| Unknown | Marketing and Data Analyst | Unknown | Applied | 2025-03-26 |
+| Frontier Energy | Data Analyst | Unknown | Applied | 2025-03-26 |
+| Stout | Unknown | Unknown | Applied | 2025-03-26 |
+| Newrez Family of Companies | Business Analyst - Onsite | Unknown | Applied | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
