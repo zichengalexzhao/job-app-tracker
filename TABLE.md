@@ -10,6 +10,7 @@
 | DaVita Kidney Care | Business Analyst - Risk Management | Unknown | Applied | 2025-03-26 |
 | YipitData | Insights Associate | Unknown | Declined | 2025-03-26 |
 | Flatiron Health | Unknown | Unknown | Declined | 2025-03-26 |
+| S&P Global | AI Product Analyst (Data Science) | Unknown | Declined | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
@@ -635,7 +636,6 @@
 | Uline | Unknown | Unknown | Applied | 2025-03-08 |
 | Uline | Unknown | Unknown | Applied | 2025-03-08 |
 | Uline | Unknown | Unknown | Applied | 2025-03-08 |
-| S&P Global | AI Product Analyst (Data Science) | Unknown | Applied | 2025-03-08 |
 | Uline | Unknown | Unknown | Applied | 2025-03-08 |
 | Persona Identities, Inc. | Unknown | Unknown | Declined | 2025-03-07 |
 | Zoox | ML Validation Data Scientist - Perception | Unknown | Applied | 2025-03-07 |

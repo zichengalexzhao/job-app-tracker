@@ -9352,13 +9352,6 @@
         "Date": "2025-03-08"
     },
     {
-        "Company": "S&P Global",
-        "Job Title": "AI Product Analyst (Data Science)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-08"
-    },
-    {
         "Company": "Uline",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -13631,6 +13624,13 @@
     {
         "Company": "Flatiron Health",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "AI Product Analyst (Data Science)",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-26"
