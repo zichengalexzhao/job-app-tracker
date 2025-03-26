@@ -2,6 +2,8 @@
 | --- | --- | --- | --- | --- |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
+| Rogue Fitness | Data Analyst | Unknown | Applied | 2025-03-26 |
+| IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
@@ -1382,7 +1384,6 @@
 | Live Nation Entertainment | Data Analyst | Unknown | Applied | 2025-01-28 |
 | Citadel \| Citadel Securities | Research Data Analyst | Unknown | Applied | 2025-01-28 |
 | GSA Management/InSite Property Group | Data Analyst | Unknown | Declined | 2025-01-28 |
-| IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-28 |
 | Unknown | Global Ambassador Mentor Fellows | Unknown | Applied | 2025-01-28 |
 | Microsoft | Business Analytics: MBA Internship | Unknown | Declined | 2025-01-28 |
 | Microsoft | Business Analyst | Unknown | Declined | 2025-01-28 |
@@ -1398,8 +1399,6 @@
 | Russell Tobin | Unknown | Unknown | Applied | 2025-01-27 |
 | Petco | Treasury Analyst | Unknown | Applied | 2025-01-27 |
 | Tesla | Inventory Control Analyst | Unknown | Applied | 2025-01-27 |
-| IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-27 |
-| IBM | Data Engineer-Advanced Analytics | Unknown | Applied | 2025-01-27 |
 | Oracle | UX Data Science Intern - Fusion-256341 | Unknown | Declined | 2025-01-27 |
 | Walmart | Audit, Senior Analyst | Unknown | Applied | 2025-01-27 |
 | Walmart | Summer Grad Intern: Data Science III | Unknown | Applied | 2025-01-27 |

@@ -2541,13 +2541,6 @@
         "Date": "2025-01-28"
     },
     {
-        "Company": "IBM",
-        "Job Title": "Data Engineer-Advanced Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-28"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Global Ambassador Mentor Fellows",
         "Location": "Unknown",
@@ -2648,20 +2641,6 @@
     {
         "Company": "Tesla",
         "Job Title": "Inventory Control Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "IBM",
-        "Job Title": "Data Engineer-Advanced Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-01-27"
-    },
-    {
-        "Company": "IBM",
-        "Job Title": "Data Engineer-Advanced Analytics",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-01-27"
@@ -13631,6 +13610,20 @@
     {
         "Company": "Mayo Clinic",
         "Job Title": "Associate Data Science Analyst - AI&I Department 353737",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Rogue Fitness",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "IBM",
+        "Job Title": "Data Engineer-Advanced Analytics",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-26"
