@@ -13634,5 +13634,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-26"
+    },
+    {
+        "Company": "AbbVie",
+        "Job Title": "Data Scientist I",
+        "Location": "Lake County Site Operations",
+        "status": "Declined",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Vast",
+        "Job Title": "Junior Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-26"
     }
 ]
