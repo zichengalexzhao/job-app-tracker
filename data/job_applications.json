@@ -13620,5 +13620,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-25"
+    },
+    {
+        "Company": "Gainwell Technologies LLC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-26"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-25"
     }
 ]
