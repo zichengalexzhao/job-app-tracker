@@ -13286,13 +13286,6 @@
         "Date": "2025-03-24"
     },
     {
-        "Company": "pep",
-        "Job Title": "Consumer Insights Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-24"
-    },
-    {
         "Company": "Block",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -13883,6 +13876,13 @@
     {
         "Company": "Lemonade",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "pep",
+        "Job Title": "Consumer Insights Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-27"
