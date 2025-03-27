@@ -13,6 +13,7 @@
 | A+E Networks | Analyst, Content Research | Unknown | Applied | 2025-03-27 |
 | BlackRock | Securities Lending and Cash Management Data Strategist, Analyst | Unknown | Applied | 2025-03-27 |
 | LVT | Data Analyst | Unknown | Applied | 2025-03-27 |
+| CVS Health | Unknown | Unknown | Applied | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | Rogue Fitness | Data Analyst | Unknown | Applied | 2025-03-26 |
