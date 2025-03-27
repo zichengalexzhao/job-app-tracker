@@ -6,6 +6,13 @@
 | Lantern | Data Scientist | Unknown | Applied | 2025-03-27 |
 | Equilar | Research Analyst | Unknown | Applied | 2025-03-27 |
 | Housecall Pro | Unknown | Unknown | Declined | 2025-03-27 |
+| Radian | Data Scientist I, MIRS | Unknown | Applied | 2025-03-27 |
+| Pison Technology | Data Scientist | Unknown | Applied | 2025-03-27 |
+| Walden University | Data Analyst | Unknown | Applied | 2025-03-27 |
+| Walden University | Data Analyst | Unknown | Applied | 2025-03-27 |
+| A+E Networks | Analyst, Content Research | Unknown | Applied | 2025-03-27 |
+| BlackRock | Securities Lending and Cash Management Data Strategist, Analyst | Unknown | Applied | 2025-03-27 |
+| LVT | Data Analyst | Unknown | Applied | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | Rogue Fitness | Data Analyst | Unknown | Applied | 2025-03-26 |
