@@ -29,6 +29,12 @@
 | Goldman Sachs | New Analyst | Dallas, Texas, United States | Declined | 2025-03-27 |
 | Stripe | Data Analyst | Unknown | Declined | 2025-03-27 |
 | ASM | Data Analyst | Unknown | Applied | 2025-03-27 |
+| Sephora | Analyst, Media Insights | FSC REMOTE SF/NY/DC | Applied | 2025-03-27 |
+| Penn Interactive | Data Analyst, Product | Unknown | Applied | 2025-03-27 |
+| OMD (Omnicom Media Group) | Associate, Data Operations | Unknown | Applied | 2025-03-27 |
+| Experis | Data Analyst | Unknown | Applied | 2025-03-27 |
+| SitusAMC | Business Intelligence Analyst - Tableau | Remote US | Applied | 2025-03-27 |
+| Goldman Sachs | Unknown | Salt Lake City, Utah, United States | Declined | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
@@ -820,9 +826,7 @@
 | DriveTime | Unknown | Unknown | Applied | 2025-03-05 |
 | Mudflap | Data Analyst | Unknown | Declined | 2025-03-05 |
 | Lennar | Business Insights Analyst | Unknown | Applied | 2025-03-05 |
-| Goldman Sachs | Unknown | Unknown | Applied | 2025-03-05 |
 | Bio-Techne | Unknown | Unknown | Applied | 2025-03-05 |
-| Goldman Sachs | Unknown | Unknown | Applied | 2025-03-05 |
 | HustleWing | Data Analyst | Chicago, IL | Applied | 2025-03-05 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-04 |
 | Sun Life | Data Scientist | Unknown | Applied | 2025-03-04 |
@@ -1074,13 +1078,8 @@
 | Oracle | Facilities Maintenance Intern | Unknown | Applied | 2025-02-24 |
 | Jump Associates LLC | Unknown | San Mateo, California | Applied | 2025-02-24 |
 | FundingU | Data Analyst - Student Lending | Unknown | Applied | 2025-02-24 |
-| Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
-| Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
 | Amtrak | Summer 2025 Big Data Engineering Intern (90351722) | Washington | Applied | 2025-02-23 |
 | Amtrak | Unknown | Washington, DC | Applied | 2025-02-23 |
-| Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
-| Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
-| Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-22 |
 | CONMED | Business Intelligence Analyst | Unknown | Applied | 2025-02-22 |
 | Edward Jones | Data Scientist I - Firm Analytics | Unknown | Declined | 2025-02-22 |

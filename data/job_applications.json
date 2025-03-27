@@ -56,20 +56,6 @@
         "Date": "2025-02-24"
     },
     {
-        "Company": "Goldman Sachs",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
-        "Company": "Goldman Sachs",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
         "Company": "Amtrak",
         "Job Title": "Summer 2025 Big Data Engineering Intern (90351722)",
         "Location": "Washington",
@@ -87,27 +73,6 @@
         "Company": "Amtrak",
         "Job Title": "Unknown",
         "Location": "Washington, DC",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
-        "Company": "Goldman Sachs",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
-        "Company": "Goldman Sachs",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
-        "Company": "Goldman Sachs",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-02-23"
     },
@@ -8428,21 +8393,7 @@
         "Date": "2025-03-05"
     },
     {
-        "Company": "Goldman Sachs",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-05"
-    },
-    {
         "Company": "Bio-Techne",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-05"
-    },
-    {
-        "Company": "Goldman Sachs",
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
@@ -13920,6 +13871,48 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Sephora",
+        "Job Title": "Analyst, Media Insights",
+        "Location": "FSC REMOTE SF/NY/DC",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Penn Interactive",
+        "Job Title": "Data Analyst, Product",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "OMD (Omnicom Media Group)",
+        "Job Title": "Associate, Data Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Experis",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "SitusAMC",
+        "Job Title": "Business Intelligence Analyst - Tableau",
+        "Location": "Remote US",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "Unknown",
+        "Location": "Salt Lake City, Utah, United States",
+        "status": "Declined",
         "Date": "2025-03-27"
     }
 ]
