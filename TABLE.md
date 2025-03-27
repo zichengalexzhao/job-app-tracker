@@ -14,9 +14,9 @@
 | BlackRock | Securities Lending and Cash Management Data Strategist, Analyst | Unknown | Applied | 2025-03-27 |
 | LVT | Data Analyst | Unknown | Applied | 2025-03-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-03-27 |
+| Rogue Fitness | Data Analyst | Unknown | Declined | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
-| Rogue Fitness | Data Analyst | Unknown | Applied | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-26 |
 | Kemper | Data Scientist | Unknown | Declined | 2025-03-26 |
@@ -58,7 +58,6 @@
 | Turner & Townsend | Junior Data Analyst | Los Angeles, CA, USA | Declined | 2025-03-25 |
 | Oak Street Health (now a CVS Company) | Decision Scientist | Unknown | Applied | 2025-03-25 |
 | Cambia Health Solutions | Healthcare Data Analyst | Unknown | Applied | 2025-03-25 |
-| Rogue Fitness | Data Analyst | Columbus, OH | Applied | 2025-03-25 |
 | Yolo Federal Credit Union | Marketing Analyst | Unknown | Declined | 2025-03-25 |
 | Capital Electric Construction, Inc | Data Analytics Specialist | Unknown | Declined | 2025-03-25 |
 | Lynden Door | Reporting Analyst | Unknown | Declined | 2025-03-25 |

@@ -13510,13 +13510,6 @@
         "Date": "2025-03-25"
     },
     {
-        "Company": "Rogue Fitness",
-        "Job Title": "Data Analyst",
-        "Location": "Columbus, OH",
-        "status": "Applied",
-        "Date": "2025-03-25"
-    },
-    {
         "Company": "Yolo Federal Credit Union",
         "Job Title": "Marketing Analyst",
         "Location": "Unknown",
@@ -13570,13 +13563,6 @@
         "Job Title": "Associate Data Science Analyst - AI&I Department 353737",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-03-26"
-    },
-    {
-        "Company": "Rogue Fitness",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-03-26"
     },
     {
@@ -13857,6 +13843,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Rogue Fitness",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-27"
     }
 ]
