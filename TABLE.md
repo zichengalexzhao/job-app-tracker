@@ -27,6 +27,8 @@
 | Macy's | Analyst, Business Insights | Unknown | Applied | 2025-03-27 |
 | Garner Health | Unknown | Unknown | Applied | 2025-03-27 |
 | Goldman Sachs | New Analyst | Dallas, Texas, United States | Declined | 2025-03-27 |
+| Stripe | Data Analyst | Unknown | Declined | 2025-03-27 |
+| ASM | Data Analyst | Unknown | Applied | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
@@ -64,7 +66,6 @@
 | National Grid | Data Analyst, Management Data Analysis | Unknown | Declined | 2025-03-25 |
 | FanDuel | Commercial Analyst- Generosity | Unknown | Declined | 2025-03-25 |
 | Aon | US Data Analytics - Specialist | Unknown | Applied | 2025-03-25 |
-| Stripe | Data Analyst | Unknown | Applied | 2025-03-25 |
 | Unknown | Data Analyst; Quality, Compliance & Informatics | Unknown | Applied | 2025-03-25 |
 | IQVIA | Business Analytics Associate- EBP Analytics | Unknown | Applied | 2025-03-25 |
 | Turner & Townsend | Junior Data Analyst | Los Angeles, CA, USA | Declined | 2025-03-25 |
@@ -569,7 +570,6 @@
 | Jazz | Analyst, Analytics & Insights (Remote) | Unknown | Applied | 2025-03-11 |
 | DoorDash | Master Data Management Specialist | Unknown | Declined | 2025-03-11 |
 | Ford | Unknown | Unknown | Applied | 2025-03-11 |
-| Stripe | Data Analyst | Unknown | Applied | 2025-03-11 |
 | Chewy Inc | Business Intelligence Engineer I | Unknown | Applied | 2025-03-11 |
 | Numerator | Research Analyst | Unknown | Applied | 2025-03-11 |
 | CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-11 |

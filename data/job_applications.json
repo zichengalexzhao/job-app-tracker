@@ -10143,13 +10143,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "Stripe",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
         "Company": "Chewy Inc",
         "Job Title": "Business Intelligence Engineer I",
         "Location": "Unknown",
@@ -13454,13 +13447,6 @@
         "Date": "2025-03-25"
     },
     {
-        "Company": "Stripe",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-25"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Data Analyst; Quality, Compliance & Informatics",
         "Location": "Unknown",
@@ -13920,6 +13906,20 @@
         "Job Title": "New Analyst",
         "Location": "Dallas, Texas, United States",
         "status": "Declined",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Stripe",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "ASM",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-27"
     }
 ]
