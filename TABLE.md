@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
+| University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
+| Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
+| Lantern | Data Scientist | Unknown | Applied | 2025-03-27 |
+| Equilar | Research Analyst | Unknown | Applied | 2025-03-27 |
+| Housecall Pro | Unknown | Unknown | Declined | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | Rogue Fitness | Data Analyst | Unknown | Applied | 2025-03-26 |
@@ -18,6 +24,17 @@
 | Frontier Energy | Data Analyst | Unknown | Applied | 2025-03-26 |
 | Stout | Unknown | Unknown | Applied | 2025-03-26 |
 | Newrez Family of Companies | Business Analyst - Onsite | Unknown | Applied | 2025-03-26 |
+| Diversified Energy Company | Production Data Analyst | Unknown | Applied | 2025-03-26 |
+| KeyBank | Unknown | Unknown | Applied | 2025-03-26 |
+| SitusAMC | Unknown | Unknown | Applied | 2025-03-26 |
+| Cavaliers Holdings, LLC | Data Scientist | Unknown | Applied | 2025-03-26 |
+| Medpace, Inc. | Junior Data Analyst- Commercial Operations | Unknown | Applied | 2025-03-26 |
+| Almo/ExertisAlmo | Data Analyst | Unknown | Applied | 2025-03-26 |
+| National Grid | Analyst, Business Compliance | Unknown | Declined | 2025-03-26 |
+| Corewell Health | Business Intelligence Analyst | Unknown | Applied | 2025-03-26 |
+| SmartFinancial | Marketing Data Analyst | Unknown | Applied | 2025-03-26 |
+| SmartFinancial | Marketing Data Analyst | San Francisco, United States | Applied | 2025-03-26 |
+| Carvana | Unknown | Unknown | Applied | 2025-03-26 |
 | FactSet Research Systems Inc | Power Markets Analyst | Unknown | Declined | 2025-03-25 |
 | Medline | Analyst Data Management | Unknown | Declined | 2025-03-25 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-03-25 |
