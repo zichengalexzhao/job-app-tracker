@@ -35,6 +35,12 @@
 | Experis | Data Analyst | Unknown | Applied | 2025-03-27 |
 | SitusAMC | Business Intelligence Analyst - Tableau | Remote US | Applied | 2025-03-27 |
 | Goldman Sachs | Unknown | Salt Lake City, Utah, United States | Declined | 2025-03-27 |
+| GSR | Unknown | Unknown | Applied | 2025-03-27 |
+| Claritev | Business Analyst - AI | Remote | Applied | 2025-03-27 |
+| Hubbell | Associate Business Analyst | Shelton, CT | Applied | 2025-03-27 |
+| PHS Bio-Medical Services | Business Analyst I | Unknown | Applied | 2025-03-27 |
+| Rue Gilt Groupe | Data Analyst - Member Services | Unknown | Applied | 2025-03-27 |
+| Sysco | Data Analyst, Revenue Management | Unknown | Applied | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |

@@ -13914,5 +13914,47 @@
         "Location": "Salt Lake City, Utah, United States",
         "status": "Declined",
         "Date": "2025-03-27"
+    },
+    {
+        "Company": "GSR",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Claritev",
+        "Job Title": "Business Analyst - AI",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Hubbell",
+        "Job Title": "Associate Business Analyst",
+        "Location": "Shelton, CT",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "PHS Bio-Medical Services",
+        "Job Title": "Business Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Rue Gilt Groupe",
+        "Job Title": "Data Analyst - Member Services",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Sysco",
+        "Job Title": "Data Analyst, Revenue Management",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
     }
 ]
