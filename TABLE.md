@@ -21,6 +21,12 @@
 | TaylorMade | Digital Marketing Data Analyst | Unknown | Declined | 2025-03-27 |
 | Lemonade | Unknown | Unknown | Declined | 2025-03-27 |
 | pep | Consumer Insights Analyst | Unknown | Declined | 2025-03-27 |
+| Salesforce | Data Scientist, MTS | Unknown | Applied | 2025-03-27 |
+| Broadridge | Business Analyst - Data | Unknown | Applied | 2025-03-27 |
+| Weichai America Corp. | Data Scientist | Unknown | Applied | 2025-03-27 |
+| Macy's | Analyst, Business Insights | Unknown | Applied | 2025-03-27 |
+| Garner Health | Unknown | Unknown | Applied | 2025-03-27 |
+| Goldman Sachs | New Analyst | Dallas, Texas, United States | Declined | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
@@ -1075,7 +1081,6 @@
 | Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
 | Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
 | Goldman Sachs | Unknown | Unknown | Applied | 2025-02-23 |
-| Goldman Sachs | New Analyst | Dallas Metro Area | Applied | 2025-02-23 |
 | Amazon | Data Scientist, Amazon Music | Unknown | Applied | 2025-02-22 |
 | CONMED | Business Intelligence Analyst | Unknown | Applied | 2025-02-22 |
 | Edward Jones | Data Scientist I - Firm Analytics | Unknown | Declined | 2025-02-22 |

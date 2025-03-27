@@ -112,13 +112,6 @@
         "Date": "2025-02-23"
     },
     {
-        "Company": "Goldman Sachs",
-        "Job Title": "New Analyst",
-        "Location": "Dallas Metro Area",
-        "status": "Applied",
-        "Date": "2025-02-23"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Data Scientist, Amazon Music",
         "Location": "Unknown",
@@ -13884,6 +13877,48 @@
         "Company": "pep",
         "Job Title": "Consumer Insights Analyst",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Salesforce",
+        "Job Title": "Data Scientist, MTS",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Broadridge",
+        "Job Title": "Business Analyst - Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Weichai America Corp.",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Macy's",
+        "Job Title": "Analyst, Business Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Garner Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "New Analyst",
+        "Location": "Dallas, Texas, United States",
         "status": "Declined",
         "Date": "2025-03-27"
     }
