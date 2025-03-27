@@ -18,6 +18,7 @@
 | Partnership HealthPlan of California | Health Services Analyst I | Unknown | Applied | 2025-03-27 |
 | Willis Towers Watson (WTW) | Data Services - File Analyst | Unknown | Applied | 2025-03-27 |
 | Robinhood | Unknown | Unknown | Applied | 2025-03-27 |
+| TaylorMade | Digital Marketing Data Analyst | Unknown | Declined | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
