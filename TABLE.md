@@ -48,6 +48,7 @@
 | Sun Coast Resources, LLC | Performance Analyst -25000007 | Unknown | Applied | 2025-03-27 |
 | Collabera | Data Analyst | Unknown | Applied | 2025-03-27 |
 | Sun Coast Resources, Inc. | Performance Analyst | Unknown | Applied | 2025-03-27 |
+| United Wholesale Mortgage (UWM) | Unknown | Unknown | Declined | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
