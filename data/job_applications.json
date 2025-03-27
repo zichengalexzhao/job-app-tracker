@@ -13851,5 +13851,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-27"
+    },
+    {
+        "Company": "Partnership HealthPlan of California",
+        "Job Title": "Health Services Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Willis Towers Watson (WTW)",
+        "Job Title": "Data Services - File Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Robinhood",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
     }
 ]
