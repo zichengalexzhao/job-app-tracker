@@ -14341,5 +14341,26 @@
         "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-03-28"
+    },
+    {
+        "Company": "Rue Gilt Groupe (RGG)",
+        "Job Title": "Data Analyst - Member Services",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Definitive Healthcare",
+        "Job Title": "Analytics Engagement Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "CACI",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
     }
 ]
