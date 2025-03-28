@@ -22,6 +22,8 @@
 | Nordstrom | Unknown | Unknown | Applied | 2025-03-28 |
 | TaylorMade | Unknown | Unknown | Applied | 2025-03-28 |
 | Volvo Cars | CRM Analytics Intern | Mahwah | Declined | 2025-03-28 |
+| Alliant Insurance Services, Inc. | Data Analytics Specialist - Employee Benefits | Unknown | Applied | 2025-03-28 |
+| Root | Analyst II, Partnerships | Unknown | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
