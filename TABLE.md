@@ -18,6 +18,10 @@
 | Sephora | Analyst, Loyalty 261961 | Unknown | Declined | 2025-03-28 |
 | WEX | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Declined | 2025-03-28 |
 | GSR | Business Development Analyst | Unknown | Declined | 2025-03-28 |
+| Empyrean | Carrier Business Systems Analyst | Unknown | Applied | 2025-03-28 |
+| Nordstrom | Unknown | Unknown | Applied | 2025-03-28 |
+| TaylorMade | Unknown | Unknown | Applied | 2025-03-28 |
+| Volvo Cars | CRM Analytics Intern | Mahwah | Declined | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
@@ -1263,7 +1267,6 @@
 | Unknown | Data Engineering Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |
 | Harbinger Motors Inc. | Intern, Production Data Analytics | Unknown | Applied | 2025-02-13 |
 | Unknown | Business Analytics Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |
-| Volvo Cars | CRM Analytics Intern | Mahwah | Applied | 2025-02-13 |
 | ETS | Business Analyst Intern | Unknown | Applied | 2025-02-13 |
 | Strategic Data Systems | Unknown | Unknown | Applied | 2025-02-13 |
 | OneImaging | Data Engineer | Unknown | Applied | 2025-02-13 |

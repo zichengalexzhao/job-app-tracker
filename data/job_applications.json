@@ -1099,13 +1099,6 @@
         "Date": "2025-02-13"
     },
     {
-        "Company": "Volvo Cars",
-        "Job Title": "CRM Analytics Intern",
-        "Location": "Mahwah",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
         "Company": "ETS",
         "Job Title": "Business Analyst Intern",
         "Location": "Unknown",
@@ -14171,6 +14164,34 @@
         "Company": "GSR",
         "Job Title": "Business Development Analyst",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Empyrean",
+        "Job Title": "Carrier Business Systems Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Nordstrom",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "TaylorMade",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Volvo Cars",
+        "Job Title": "CRM Analytics Intern",
+        "Location": "Mahwah",
         "status": "Declined",
         "Date": "2025-03-28"
     }
