@@ -1,6 +1,5 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
-| Humana | Business Intelligence Analyst | Unknown | Applied | 2025-03-28 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
@@ -24,6 +23,18 @@
 | Volvo Cars | CRM Analytics Intern | Mahwah | Declined | 2025-03-28 |
 | Alliant Insurance Services, Inc. | Data Analytics Specialist - Employee Benefits | Unknown | Applied | 2025-03-28 |
 | Root | Analyst II, Partnerships | Unknown | Applied | 2025-03-28 |
+| Headway | Data Analyst | Unknown | Applied | 2025-03-28 |
+| Jerry | Associate, Business Operations | Unknown | Applied | 2025-03-28 |
+| UC Davis Graduate School of Management | Student Commencement Speaker | U-Center, UC Davis | Applied | 2025-03-28 |
+| Marsh McLennan Agency | Informatics Consultant | Unknown | Applied | 2025-03-28 |
+| Double Good | Unknown | Unknown | Applied | 2025-03-28 |
+| McKinsey & Company | Capabilities & Insights Analyst - Paper & Packaging | Unknown | Applied | 2025-03-28 |
+| Bernhard LLC | Data Analyst I | AR - Little Rock - Office | Applied | 2025-03-28 |
+| Garner Health | Data Scientist I | Unknown | Declined | 2025-03-28 |
+| Disney | Data Analyst | Unknown | Applied | 2025-03-28 |
+| Ipsos | Market Research Analyst, Creative Excellence | Unknown | Applied | 2025-03-28 |
+| Ipsos | Market Research Analyst, Creative Excellence | Unknown | Applied | 2025-03-28 |
+| Humana | Business Intelligence Analyst | Unknown | Declined | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
@@ -1323,7 +1334,6 @@
 | Oracle | Contracts Analyst | Unknown | Declined | 2025-02-08 |
 | NAVEX Global A | Data Analyst | Unknown | Applied | 2025-02-08 |
 | Affirm | Unknown | Unknown | Applied | 2025-02-08 |
-| Garner Health | Data Scientist I | NYC | Applied | 2025-02-08 |
 | Amazon | Business Analyst, Buyer Abuse | Unknown | Applied | 2025-02-08 |
 | Adobe | Intern - Data Scientist | Unknown | Applied | 2025-02-08 |
 | Sephora | Unknown | Unknown | Applied | 2025-02-07 |

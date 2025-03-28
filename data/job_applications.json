@@ -1477,13 +1477,6 @@
         "Date": "2025-02-08"
     },
     {
-        "Company": "Garner Health",
-        "Job Title": "Data Scientist I",
-        "Location": "NYC",
-        "status": "Applied",
-        "Date": "2025-02-08"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Business Analyst, Buyer Abuse",
         "Location": "Unknown",
@@ -14007,13 +14000,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "Humana",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships",
         "Location": "Unknown",
@@ -14207,6 +14193,90 @@
         "Job Title": "Analyst II, Partnerships",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Headway",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Jerry",
+        "Job Title": "Associate, Business Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "UC Davis Graduate School of Management",
+        "Job Title": "Student Commencement Speaker",
+        "Location": "U-Center, UC Davis",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Marsh McLennan Agency",
+        "Job Title": "Informatics Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Double Good",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Capabilities & Insights Analyst - Paper & Packaging",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Bernhard LLC",
+        "Job Title": "Data Analyst I",
+        "Location": "AR - Little Rock - Office",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Garner Health",
+        "Job Title": "Data Scientist I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Ipsos",
+        "Job Title": "Market Research Analyst, Creative Excellence",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Ipsos",
+        "Job Title": "Market Research Analyst, Creative Excellence",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-28"
     }
 ]
