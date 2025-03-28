@@ -14012,5 +14012,68 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-27"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "CHS (Community Health Systems)",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "GMR Marketing",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Zenlayer, Inc",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "CHS (Consumer Health Services)",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Patterson-UTI",
+        "Job Title": "Drilling Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "Rapid7",
+        "Job Title": "CS Ops Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
+    },
+    {
+        "Company": "DaVita Kidney Care",
+        "Job Title": "Analyst, Change Management & Deployment",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-27"
     }
 ]

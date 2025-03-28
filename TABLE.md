@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Humana | Business Intelligence Analyst | Unknown | Applied | 2025-03-28 |
+| Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
+| CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
+| GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
@@ -49,6 +53,11 @@
 | Collabera | Data Analyst | Unknown | Applied | 2025-03-27 |
 | Sun Coast Resources, Inc. | Performance Analyst | Unknown | Applied | 2025-03-27 |
 | United Wholesale Mortgage (UWM) | Unknown | Unknown | Declined | 2025-03-27 |
+| Zenlayer, Inc | Unknown | Unknown | Applied | 2025-03-27 |
+| CHS (Consumer Health Services) | Data Analyst | Unknown | Applied | 2025-03-27 |
+| Patterson-UTI | Drilling Analyst | Unknown | Applied | 2025-03-27 |
+| Rapid7 | CS Ops Analyst | Unknown | Applied | 2025-03-27 |
+| DaVita Kidney Care | Analyst, Change Management & Deployment | Unknown | Applied | 2025-03-27 |
 | Gainwell Technologies LLC | Unknown | Unknown | Applied | 2025-03-26 |
 | Mayo Clinic | Associate Data Science Analyst - AI&I Department 353737 | Unknown | Declined | 2025-03-26 |
 | IBM | Data Engineer-Advanced Analytics | Unknown | Declined | 2025-03-26 |
