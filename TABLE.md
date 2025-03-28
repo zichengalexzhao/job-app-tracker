@@ -42,6 +42,9 @@
 | Air Apps | Unknown | Unknown | Applied | 2025-03-28 |
 | Bass Pro | Customer Insights Analyst | Unknown | Applied | 2025-03-28 |
 | HGV Careers | Call Center Operations Analyst - 3055 | Unknown | Applied | 2025-03-28 |
+| HealthPartners | Analyst, Data | Unknown | Applied | 2025-03-28 |
+| PHD | Associate, Programmatic | Unknown | Applied | 2025-03-28 |
+| Tbwa Chiat/Day | Lead Data Analyst | San Francisco, CA | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |

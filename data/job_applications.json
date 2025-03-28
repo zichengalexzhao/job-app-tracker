@@ -14320,5 +14320,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-28"
+    },
+    {
+        "Company": "HealthPartners",
+        "Job Title": "Analyst, Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "PHD",
+        "Job Title": "Associate, Programmatic",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Tbwa Chiat/Day",
+        "Job Title": "Lead Data Analyst",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-03-28"
     }
 ]
