@@ -12,6 +12,9 @@
 | Randstad USA | BI Analyst | Pittsburgh, Pennsylvania | Applied | 2025-03-28 |
 | Southern Company | Forecasting Analyst | Unknown | Applied | 2025-03-28 |
 | Kelly | Data Analyst | Unknown | Applied | 2025-03-28 |
+| Macy's | Site Analytics Analyst - Apparel | Unknown | Applied | 2025-03-28 |
+| Outschool | Data Analyst, Marketing | Unknown | Applied | 2025-03-28 |
+| MLK Community Healthcare | Business Intelligence Analyst | Los Angeles, California | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |

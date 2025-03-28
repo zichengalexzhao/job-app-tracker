@@ -14131,5 +14131,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-28"
+    },
+    {
+        "Company": "Macy's",
+        "Job Title": "Site Analytics Analyst - Apparel",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Outschool",
+        "Job Title": "Data Analyst, Marketing",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "MLK Community Healthcare",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Los Angeles, California",
+        "status": "Applied",
+        "Date": "2025-03-28"
     }
 ]
