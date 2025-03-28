@@ -14103,5 +14103,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-28"
+    },
+    {
+        "Company": "BlueCross BlueShield of South Carolina",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Randstad USA",
+        "Job Title": "BI Analyst",
+        "Location": "Pittsburgh, Pennsylvania",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Southern Company",
+        "Job Title": "Forecasting Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Kelly",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
     }
 ]

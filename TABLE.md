@@ -8,6 +8,10 @@
 | Boyd Gaming | Analyst II Data Strategies | Unknown | Applied | 2025-03-28 |
 | Ulta Beauty | Guest Data Analyst | OF02 Corporate Office Operations | Applied | 2025-03-28 |
 | Home Depot | Unknown | Unknown | Applied | 2025-03-28 |
+| BlueCross BlueShield of South Carolina | Data Analyst I | Unknown | Applied | 2025-03-28 |
+| Randstad USA | BI Analyst | Pittsburgh, Pennsylvania | Applied | 2025-03-28 |
+| Southern Company | Forecasting Analyst | Unknown | Applied | 2025-03-28 |
+| Kelly | Data Analyst | Unknown | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
