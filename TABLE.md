@@ -48,6 +48,7 @@
 | Rue Gilt Groupe (RGG) | Data Analyst - Member Services | Unknown | Declined | 2025-03-28 |
 | Definitive Healthcare | Analytics Engagement Associate | Unknown | Declined | 2025-03-28 |
 | CACI | Unknown | Unknown | Applied | 2025-03-28 |
+| Businessolver | Business Intelligence Engineer | Unknown | Declined | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
