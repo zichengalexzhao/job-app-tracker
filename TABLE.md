@@ -17,6 +17,7 @@
 | MLK Community Healthcare | Business Intelligence Analyst | Los Angeles, California | Applied | 2025-03-28 |
 | Sephora | Analyst, Loyalty 261961 | Unknown | Declined | 2025-03-28 |
 | WEX | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Declined | 2025-03-28 |
+| GSR | Business Development Analyst | Unknown | Declined | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
