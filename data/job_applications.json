@@ -14369,5 +14369,47 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-28"
+    },
+    {
+        "Company": "GM Financial",
+        "Job Title": "Analyst II - Pricing Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "GM Financial",
+        "Job Title": "Analyst II - Pricing Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Liberty University",
+        "Job Title": "Business Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Oscar Health",
+        "Job Title": "Data Scientist I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Delta Utilities",
+        "Job Title": "Analyst, Real Time (Customer Contact Center)",
+        "Location": "New Orleans, LA",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Jerry",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
     }
 ]

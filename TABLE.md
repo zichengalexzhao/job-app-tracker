@@ -49,6 +49,12 @@
 | Definitive Healthcare | Analytics Engagement Associate | Unknown | Declined | 2025-03-28 |
 | CACI | Unknown | Unknown | Applied | 2025-03-28 |
 | Businessolver | Business Intelligence Engineer | Unknown | Declined | 2025-03-28 |
+| GM Financial | Analyst II - Pricing Analytics | Unknown | Applied | 2025-03-28 |
+| GM Financial | Analyst II - Pricing Analytics | Unknown | Applied | 2025-03-28 |
+| Liberty University | Business Data Analyst I | Unknown | Applied | 2025-03-28 |
+| Oscar Health | Data Scientist I | Unknown | Declined | 2025-03-28 |
+| Delta Utilities | Analyst, Real Time (Customer Contact Center) | New Orleans, LA | Applied | 2025-03-28 |
+| Jerry | Data Scientist | Unknown | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
