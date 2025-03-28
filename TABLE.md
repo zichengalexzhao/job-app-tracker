@@ -35,6 +35,13 @@
 | Ipsos | Market Research Analyst, Creative Excellence | Unknown | Applied | 2025-03-28 |
 | Ipsos | Market Research Analyst, Creative Excellence | Unknown | Applied | 2025-03-28 |
 | Humana | Business Intelligence Analyst | Unknown | Declined | 2025-03-28 |
+| Mitsubishi Electric US, Inc. | Data Analyst | Unknown | Applied | 2025-03-28 |
+| Gemini | Analyst, Growth Marketing | Unknown | Declined | 2025-03-28 |
+| Unitek Learning | Marketing Analyst - Hybrid | Unknown | Applied | 2025-03-28 |
+| Instawork | Revenue Operations & Analytics Associate | Unknown | Declined | 2025-03-28 |
+| Air Apps | Unknown | Unknown | Applied | 2025-03-28 |
+| Bass Pro | Customer Insights Analyst | Unknown | Applied | 2025-03-28 |
+| HGV Careers | Call Center Operations Analyst - 3055 | Unknown | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
@@ -1293,7 +1300,6 @@
 | Rocket Money | Unknown | Unknown | Applied | 2025-02-13 |
 | Lyft | Data Scientist, Algorithms - Pricing | Unknown | Applied | 2025-02-13 |
 | Atlassian | People Data Scientist | Unknown | Applied | 2025-02-13 |
-| Gemini | Analyst, Growth Marketing | Unknown | Applied | 2025-02-13 |
 | Ascension | Qualtrics Analyst - Technology | Unknown | Declined | 2025-02-13 |
 | Unknown | Int Business Intelligence Dev/Analyst | Unknown | Declined | 2025-02-13 |
 | Scale AI | Data Scientist | San Francisco, CA | Applied | 2025-02-13 |

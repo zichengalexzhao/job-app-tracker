@@ -1190,13 +1190,6 @@
         "Date": "2025-02-13"
     },
     {
-        "Company": "Gemini",
-        "Job Title": "Analyst, Growth Marketing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
         "Company": "Ascension",
         "Job Title": "Qualtrics Analyst - Technology",
         "Location": "Unknown",
@@ -14277,6 +14270,55 @@
         "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Mitsubishi Electric US, Inc.",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Gemini",
+        "Job Title": "Analyst, Growth Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Unitek Learning",
+        "Job Title": "Marketing Analyst - Hybrid",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Instawork",
+        "Job Title": "Revenue Operations & Analytics Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Air Apps",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "Bass Pro",
+        "Job Title": "Customer Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "HGV Careers",
+        "Job Title": "Call Center Operations Analyst - 3055",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-03-28"
     }
 ]
