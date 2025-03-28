@@ -14152,5 +14152,19 @@
         "Location": "Los Angeles, California",
         "status": "Applied",
         "Date": "2025-03-28"
+    },
+    {
+        "Company": "Sephora",
+        "Job Title": "Analyst, Loyalty 261961",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
+    },
+    {
+        "Company": "WEX",
+        "Job Title": "Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-28"
     }
 ]
