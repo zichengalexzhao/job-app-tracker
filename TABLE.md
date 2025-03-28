@@ -4,6 +4,10 @@
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
+| Distyl AI | Applied AI Researcher | San Francisco (SF) and New York City (NYC) | Applied | 2025-03-28 |
+| Boyd Gaming | Analyst II Data Strategies | Unknown | Applied | 2025-03-28 |
+| Ulta Beauty | Guest Data Analyst | OF02 Corporate Office Operations | Applied | 2025-03-28 |
+| Home Depot | Unknown | Unknown | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
 | Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
