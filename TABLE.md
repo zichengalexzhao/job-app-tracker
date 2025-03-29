@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Cambrex | Salesforce Business Analyst | Unknown | Applied | 2025-03-29 |
+| OneDigital | Unknown | Unknown | Applied | 2025-03-29 |
+| Pace® Analytical Services | Quality Analyst 1 | Indiana, PA | Applied | 2025-03-29 |
+| Lowe's | Unknown | Unknown | Applied | 2025-03-29 |
+| Momentum Worldwide | Analyst, Analytics | Unknown | Applied | 2025-03-29 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
