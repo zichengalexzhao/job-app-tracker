@@ -7063,20 +7063,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "Amazon",
-        "Job Title": "Data Scientist, Amazon Music - DISCO",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
-        "Company": "Amazon",
-        "Job Title": "Data Scientist, Amazon Music - DISCO",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "Workday",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -13699,13 +13685,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "LVT",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "CVS Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -14527,6 +14506,27 @@
     {
         "Company": "BMC Software",
         "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "LVT",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Roblox",
+        "Job Title": "Data Scientist / Senior Data Scientist - Growth Measurement",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Scientist, Amazon Music - DISCO",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-29"
