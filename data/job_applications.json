@@ -14509,5 +14509,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-29"
+    },
+    {
+        "Company": "Royal Caribbean Group",
+        "Job Title": "Analyst, People Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Coterie Applications Inc.",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
     }
 ]
