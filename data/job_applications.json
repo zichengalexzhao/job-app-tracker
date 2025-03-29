@@ -13706,20 +13706,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "Walden University",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
-        "Company": "Walden University",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "A+E Networks",
         "Job Title": "Analyst, Content Research",
         "Location": "Unknown",
@@ -14443,6 +14429,76 @@
     {
         "Company": "Momentum Worldwide",
         "Job Title": "Analyst, Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Walden University",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "PRA Group",
+        "Job Title": "Strategy Analyst - Legal Recovery",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "City National Bank",
+        "Job Title": "Business Strategy Associate Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "HealthEquity Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "WebMD",
+        "Job Title": "Business Finance Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "YPrime",
+        "Job Title": "Data Management Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Edelman",
+        "Job Title": "Analyst, Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "FactSet",
+        "Job Title": "Power Markets Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Lansing Building Products",
+        "Job Title": "Operations Analysts",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Cambrex",
+        "Job Title": "Salesforce Business Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-29"
