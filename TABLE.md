@@ -21,6 +21,7 @@
 | U.S. Bank | Enterprise Data Governance Specialist | Unknown | Declined | 2025-03-29 |
 | Royal Caribbean Group | Analyst, People Analytics | Unknown | Applied | 2025-03-29 |
 | Coterie Applications Inc. | Associate Data Scientist | Unknown | Applied | 2025-03-29 |
+| Headway | Data Analyst | Unknown | Declined | 2025-03-29 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
@@ -44,7 +45,6 @@
 | Volvo Cars | CRM Analytics Intern | Mahwah | Declined | 2025-03-28 |
 | Alliant Insurance Services, Inc. | Data Analytics Specialist - Employee Benefits | Unknown | Applied | 2025-03-28 |
 | Root | Analyst II, Partnerships | Unknown | Applied | 2025-03-28 |
-| Headway | Data Analyst | Unknown | Applied | 2025-03-28 |
 | Jerry | Associate, Business Operations | Unknown | Applied | 2025-03-28 |
 | UC Davis Graduate School of Management | Student Commencement Speaker | U-Center, UC Davis | Applied | 2025-03-28 |
 | Marsh McLennan Agency | Informatics Consultant | Unknown | Applied | 2025-03-28 |

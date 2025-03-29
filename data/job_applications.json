@@ -14154,13 +14154,6 @@
         "Date": "2025-03-28"
     },
     {
-        "Company": "Headway",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
         "Company": "Jerry",
         "Job Title": "Associate, Business Operations",
         "Location": "Unknown",
@@ -14522,6 +14515,13 @@
         "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Headway",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-29"
     }
 ]
