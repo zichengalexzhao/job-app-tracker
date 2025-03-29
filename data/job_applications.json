@@ -12782,13 +12782,6 @@
         "Date": "2025-03-21"
     },
     {
-        "Company": "U.S. Bank",
-        "Job Title": "Enterprise Data Governance Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-21"
-    },
-    {
         "Company": "Kohl's",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -13909,13 +13902,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "Sysco",
-        "Job Title": "Data Analyst, Revenue Management",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "Stericycle",
         "Job Title": "IT Risk & Compliance Analytics Analyst",
         "Location": "Unknown",
@@ -14508,6 +14494,20 @@
         "Job Title": "Culinary Insights Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Sysco",
+        "Job Title": "Data Analyst, Revenue Management",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Enterprise Data Governance Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-29"
     }
 ]

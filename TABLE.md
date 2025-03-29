@@ -17,6 +17,8 @@
 | Cambrex | Salesforce Business Analyst | Unknown | Applied | 2025-03-29 |
 | Horizon Media | Analyst, Search Engine Marketing | Unknown | Declined | 2025-03-29 |
 | Shake Shack | Culinary Insights Analyst | Unknown | Applied | 2025-03-29 |
+| Sysco | Data Analyst, Revenue Management | Unknown | Declined | 2025-03-29 |
+| U.S. Bank | Enterprise Data Governance Specialist | Unknown | Declined | 2025-03-29 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
@@ -110,7 +112,6 @@
 | Hubbell | Associate Business Analyst | Shelton, CT | Applied | 2025-03-27 |
 | PHS Bio-Medical Services | Business Analyst I | Unknown | Applied | 2025-03-27 |
 | Rue Gilt Groupe | Data Analyst - Member Services | Unknown | Applied | 2025-03-27 |
-| Sysco | Data Analyst, Revenue Management | Unknown | Applied | 2025-03-27 |
 | Stericycle | IT Risk & Compliance Analytics Analyst | Unknown | Applied | 2025-03-27 |
 | Bloomerang | Associate Conversion Data Analyst | Unknown | Applied | 2025-03-27 |
 | Charles Schwab Corporation | Data Governance Analyst | Unknown | Applied | 2025-03-27 |
@@ -228,7 +229,6 @@
 | Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
 | Bayer | Business Intelligence Analyst | Unknown | Applied | 2025-03-21 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-21 |
-| U.S. Bank | Enterprise Data Governance Specialist | Unknown | Applied | 2025-03-21 |
 | Kohl's | Unknown | Unknown | Applied | 2025-03-21 |
 | Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-21 |
 | Navitus Health Solutions, LLC | Business Intelligence Developer (2025-4249) | Unknown | Applied | 2025-03-21 |
