@@ -13258,13 +13258,6 @@
         "Date": "2025-03-24"
     },
     {
-        "Company": "BMC Software",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-24"
-    },
-    {
         "Company": "TransUnion",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -14527,6 +14520,13 @@
     {
         "Company": "Bloomerang",
         "Job Title": "Associate Conversion Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "BMC Software",
+        "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-29"

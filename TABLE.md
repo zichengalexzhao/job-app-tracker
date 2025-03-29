@@ -24,6 +24,7 @@
 | Headway | Data Analyst | Unknown | Declined | 2025-03-29 |
 | Radian Group Inc. | Data Scientist I, MIRS | Unknown | Applied | 2025-03-29 |
 | Bloomerang | Associate Conversion Data Analyst | Unknown | Declined | 2025-03-29 |
+| BMC Software | Business Analyst | Unknown | Declined | 2025-03-29 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
@@ -196,7 +197,6 @@
 | Credit One Bank | Operations Data Analyst I | Unknown | Applied | 2025-03-24 |
 | CrossCountry Mortgage, LLC | Data Analyst | Unknown | Applied | 2025-03-24 |
 | Flowcode | Unknown | Unknown | Applied | 2025-03-24 |
-| BMC Software | Business Analyst | Unknown | Applied | 2025-03-24 |
 | TransUnion | Unknown | Unknown | Applied | 2025-03-24 |
 | Macquarie Group | Business Analyst - Identity Access Management Team | Unknown | Declined | 2025-03-24 |
 | FactSet | Power Markets Analyst | Unknown | Applied | 2025-03-24 |
