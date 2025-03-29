@@ -15,6 +15,8 @@
 | FactSet | Power Markets Analyst | Unknown | Applied | 2025-03-29 |
 | Lansing Building Products | Operations Analysts | Unknown | Applied | 2025-03-29 |
 | Cambrex | Salesforce Business Analyst | Unknown | Applied | 2025-03-29 |
+| Horizon Media | Analyst, Search Engine Marketing | Unknown | Declined | 2025-03-29 |
+| Shake Shack | Culinary Insights Analyst | Unknown | Applied | 2025-03-29 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
@@ -443,7 +445,6 @@
 | Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
 | Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
 | Amazon | Business Analyst, Profit Intelligence | Unknown | Applied | 2025-03-17 |
-| Horizon Media | Analyst, Search Engine Marketing | Unknown | Applied | 2025-03-17 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-17 |
 | OMD (Omnicom Media Group) | Associate, Marketing Science | Unknown | Applied | 2025-03-17 |
 | Emerald | Strategy Associate | Unknown | Applied | 2025-03-17 |

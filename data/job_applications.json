@@ -11473,13 +11473,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Horizon Media",
-        "Job Title": "Analyst, Search Engine Marketing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "JPMorgan Chase & Co.",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -14499,6 +14492,20 @@
     {
         "Company": "Cambrex",
         "Job Title": "Salesforce Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Horizon Media",
+        "Job Title": "Analyst, Search Engine Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Shake Shack",
+        "Job Title": "Culinary Insights Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-29"
