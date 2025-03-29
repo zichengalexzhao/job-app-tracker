@@ -28,6 +28,7 @@
 | LVT | Data Analyst | Unknown | Declined | 2025-03-29 |
 | Roblox | Data Scientist / Senior Data Scientist - Growth Measurement | Unknown | Declined | 2025-03-29 |
 | Amazon | Data Scientist, Amazon Music - DISCO | Unknown | Declined | 2025-03-29 |
+| Pacific Gas and Electric Company | Data Governance Analyst, Associate | Unknown | Applied | 2025-03-29 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
