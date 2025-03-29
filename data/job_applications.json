@@ -13909,13 +13909,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "Bloomerang",
-        "Job Title": "Associate Conversion Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "Charles Schwab Corporation",
         "Job Title": "Data Governance Analyst",
         "Location": "Unknown",
@@ -14529,6 +14522,13 @@
         "Job Title": "Data Scientist I, MIRS",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-29"
+    },
+    {
+        "Company": "Bloomerang",
+        "Job Title": "Associate Conversion Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-29"
     }
 ]
