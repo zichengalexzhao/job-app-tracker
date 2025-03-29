@@ -14544,5 +14544,12 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-03-29"
+    },
+    {
+        "Company": "SavvyMoney",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-29"
     }
 ]
