@@ -14,6 +14,8 @@
 | Lennox International | Data Scientist II | US-TX-Richardson | Applied | 2025-03-30 |
 | Medline | Analyst Business Intelligence | Unknown | Applied | 2025-03-30 |
 | Carvana | Unknown | Unknown | Applied | 2025-03-30 |
+| Unknown | Unknown | Unknown | Applied | 2025-03-30 |
+| HelloGov AI | Junior Analyst | San Francisco, United States | Applied | 2025-03-30 |
 | Cambrex | Salesforce Business Analyst | Unknown | Applied | 2025-03-29 |
 | OneDigital | Unknown | Unknown | Applied | 2025-03-29 |
 | Pace® Analytical Services | Quality Analyst 1 | Indiana, PA | Applied | 2025-03-29 |

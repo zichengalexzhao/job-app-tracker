@@ -14642,5 +14642,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-30"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "HelloGov AI",
+        "Job Title": "Junior Analyst",
+        "Location": "San Francisco, United States",
+        "status": "Applied",
+        "Date": "2025-03-30"
     }
 ]
