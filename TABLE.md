@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
+| Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Cambrex | Salesforce Business Analyst | Unknown | Applied | 2025-03-29 |
 | OneDigital | Unknown | Unknown | Applied | 2025-03-29 |
 | Pace® Analytical Services | Quality Analyst 1 | Indiana, PA | Applied | 2025-03-29 |
