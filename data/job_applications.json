@@ -14558,5 +14558,89 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-03-30"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Unknown",
+        "Location": "Washington, Washington DC, US",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Comcast",
+        "Job Title": "Analyst, Market Drivers",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Mochi Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "MobilityWare",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "ID.me",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Artefact",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Qloo",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "GovCIO LLC",
+        "Job Title": "Data Analyst 1 (Provisioning Team)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Lennox International",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Lennox International",
+        "Job Title": "Data Scientist II",
+        "Location": "US-TX-Richardson",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Medline",
+        "Job Title": "Analyst Business Intelligence",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
+    },
+    {
+        "Company": "Carvana",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-30"
     }
 ]
