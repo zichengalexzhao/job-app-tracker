@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Cambrex | Salesforce Business Analyst | Unknown | Applied | 2025-03-29 |
 | OneDigital | Unknown | Unknown | Applied | 2025-03-29 |
 | Pace® Analytical Services | Quality Analyst 1 | Indiana, PA | Applied | 2025-03-29 |
@@ -836,7 +837,6 @@
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-07 |
 | Sony Pictures Entertainment | Data Science Intern, Theatrical Marketing – Summer 2025 | Unknown | Applied | 2025-03-07 |
 | AXIS Capital | Business Analyst | Unknown | Applied | 2025-03-07 |
-| Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Applied | 2025-03-07 |
 | CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-07 |
 | U.S. LawShield | Unknown | Unknown | Applied | 2025-03-07 |
 | DHL | Sr Business Data Analyst | Unknown | Applied | 2025-03-07 |
