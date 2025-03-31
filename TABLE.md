@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
