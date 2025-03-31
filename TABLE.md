@@ -31,6 +31,7 @@
 | Ipsos | Market Research Analyst, Creative Excellence | Unknown | Declined | 2025-03-31 |
 | A+E Networks | Analyst, Content Research | Unknown | Declined | 2025-03-31 |
 | Imprivata | Data Scientist | Unknown | Declined | 2025-03-31 |
+| YPrime | Data Management Analyst | Unknown | Declined | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
@@ -57,7 +58,6 @@
 | City National Bank | Business Strategy Associate Analyst | Unknown | Applied | 2025-03-29 |
 | HealthEquity Inc. | Unknown | Unknown | Applied | 2025-03-29 |
 | WebMD | Business Finance Analyst | Unknown | Applied | 2025-03-29 |
-| YPrime | Data Management Analyst | Unknown | Applied | 2025-03-29 |
 | Edelman | Analyst, Data Science | Unknown | Applied | 2025-03-29 |
 | FactSet | Power Markets Analyst | Unknown | Applied | 2025-03-29 |
 | Lansing Building Products | Operations Analysts | Unknown | Applied | 2025-03-29 |

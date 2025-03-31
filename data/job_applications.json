@@ -14350,13 +14350,6 @@
         "Date": "2025-03-29"
     },
     {
-        "Company": "YPrime",
-        "Job Title": "Data Management Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-29"
-    },
-    {
         "Company": "Edelman",
         "Job Title": "Analyst, Data Science",
         "Location": "Unknown",
@@ -14814,6 +14807,13 @@
     {
         "Company": "Imprivata",
         "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "YPrime",
+        "Job Title": "Data Management Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-31"
