@@ -12,6 +12,8 @@
 | Coterie Applications Inc. | Associate Data Scientist | Unknown | Declined | 2025-03-31 |
 | Candid Health | Unknown | Unknown | Declined | 2025-03-31 |
 | Empyrean Benefit Solutions | Carrier Business Systems Analyst | Unknown | Declined | 2025-03-31 |
+| Distyl AI | Applied AI Researcher | Unknown | Declined | 2025-03-31 |
+| OpenPhone Technologies, Inc. | Data Analyst | Unknown | Applied | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
@@ -61,7 +63,6 @@
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
-| Distyl AI | Applied AI Researcher | San Francisco (SF) and New York City (NYC) | Applied | 2025-03-28 |
 | Boyd Gaming | Analyst II Data Strategies | Unknown | Applied | 2025-03-28 |
 | Ulta Beauty | Guest Data Analyst | OF02 Corporate Office Operations | Applied | 2025-03-28 |
 | Home Depot | Unknown | Unknown | Applied | 2025-03-28 |
