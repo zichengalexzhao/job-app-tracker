@@ -32,6 +32,10 @@
 | A+E Networks | Analyst, Content Research | Unknown | Declined | 2025-03-31 |
 | Imprivata | Data Scientist | Unknown | Declined | 2025-03-31 |
 | YPrime | Data Management Analyst | Unknown | Declined | 2025-03-31 |
+| TransUnion | Unknown | Unknown | Applied | 2025-03-31 |
+| TransUnion | Unknown | Unknown | Applied | 2025-03-31 |
+| Arbol | Quantitative Researcher | Unknown | Applied | 2025-03-31 |
+| Dealerware | Data Analyst | Unknown | Applied | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
