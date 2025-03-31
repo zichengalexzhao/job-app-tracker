@@ -9,6 +9,7 @@
 | Peaksware | Data Analyst - TrainingPeaks | San Francisco, California, United States | Applied | 2025-03-31 |
 | West | Associate Scientist | Unknown | Declined | 2025-03-31 |
 | Visa | Data Scientist for Risk and Identity Solutions | Unknown | Declined | 2025-03-31 |
+| Coterie Applications Inc. | Associate Data Scientist | Unknown | Declined | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
@@ -45,7 +46,6 @@
 | Sysco | Data Analyst, Revenue Management | Unknown | Declined | 2025-03-29 |
 | U.S. Bank | Enterprise Data Governance Specialist | Unknown | Declined | 2025-03-29 |
 | Royal Caribbean Group | Analyst, People Analytics | Unknown | Applied | 2025-03-29 |
-| Coterie Applications Inc. | Associate Data Scientist | Unknown | Applied | 2025-03-29 |
 | Headway | Data Analyst | Unknown | Declined | 2025-03-29 |
 | Radian Group Inc. | Data Scientist I, MIRS | Unknown | Applied | 2025-03-29 |
 | Bloomerang | Associate Conversion Data Analyst | Unknown | Declined | 2025-03-29 |

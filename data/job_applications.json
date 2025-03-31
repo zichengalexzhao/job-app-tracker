@@ -14462,13 +14462,6 @@
         "Date": "2025-03-29"
     },
     {
-        "Company": "Coterie Applications Inc.",
-        "Job Title": "Associate Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-29"
-    },
-    {
         "Company": "Headway",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -14709,6 +14702,13 @@
     {
         "Company": "Visa",
         "Job Title": "Data Scientist for Risk and Identity Solutions",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Coterie Applications Inc.",
+        "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-31"
