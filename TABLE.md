@@ -26,6 +26,11 @@
 | Mochi Health | Unknown | Unknown | Applied | 2025-03-31 |
 | Hinge Health, Inc. | Supply Chain Analyst | Unknown | Applied | 2025-03-31 |
 | Lineage Logistics | Insurance & Risk Analyst | Unknown | Applied | 2025-03-31 |
+| MSD (Merck Sharp & Dohme) | Global Supplier Management Innovation and Data Analyst | Unknown | Applied | 2025-03-31 |
+| Kemper | Associate Data Scientist | Unknown | Applied | 2025-03-31 |
+| Ipsos | Market Research Analyst, Creative Excellence | Unknown | Declined | 2025-03-31 |
+| A+E Networks | Analyst, Content Research | Unknown | Declined | 2025-03-31 |
+| Imprivata | Data Scientist | Unknown | Declined | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
@@ -101,8 +106,6 @@
 | Bernhard LLC | Data Analyst I | AR - Little Rock - Office | Applied | 2025-03-28 |
 | Garner Health | Data Scientist I | Unknown | Declined | 2025-03-28 |
 | Disney | Data Analyst | Unknown | Applied | 2025-03-28 |
-| Ipsos | Market Research Analyst, Creative Excellence | Unknown | Applied | 2025-03-28 |
-| Ipsos | Market Research Analyst, Creative Excellence | Unknown | Applied | 2025-03-28 |
 | Humana | Business Intelligence Analyst | Unknown | Declined | 2025-03-28 |
 | Mitsubishi Electric US, Inc. | Data Analyst | Unknown | Applied | 2025-03-28 |
 | Gemini | Analyst, Growth Marketing | Unknown | Declined | 2025-03-28 |
@@ -132,7 +135,6 @@
 | Housecall Pro | Unknown | Unknown | Declined | 2025-03-27 |
 | Radian | Data Scientist I, MIRS | Unknown | Applied | 2025-03-27 |
 | Pison Technology | Data Scientist | Unknown | Applied | 2025-03-27 |
-| A+E Networks | Analyst, Content Research | Unknown | Applied | 2025-03-27 |
 | BlackRock | Securities Lending and Cash Management Data Strategist, Analyst | Unknown | Applied | 2025-03-27 |
 | CVS Health | Unknown | Unknown | Applied | 2025-03-27 |
 | Rogue Fitness | Data Analyst | Unknown | Declined | 2025-03-27 |
@@ -245,7 +247,6 @@
 | Macquarie Group | Business Analyst - Identity Access Management Team | Unknown | Declined | 2025-03-24 |
 | FactSet | Power Markets Analyst | Unknown | Applied | 2025-03-24 |
 | Westrock Coffee | Reporting Analyst | Concord, North Carolina | Applied | 2025-03-24 |
-| Imprivata | Data Scientist | Unknown | Applied | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |

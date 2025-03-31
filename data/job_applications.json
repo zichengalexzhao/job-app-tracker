@@ -13258,13 +13258,6 @@
         "Date": "2025-03-24"
     },
     {
-        "Company": "Imprivata",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-24"
-    },
-    {
         "Company": "FactSet Research Systems Inc",
         "Job Title": "Power Markets Analyst",
         "Location": "Unknown",
@@ -13652,13 +13645,6 @@
     {
         "Company": "Pison Technology",
         "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
-        "Company": "A+E Networks",
-        "Job Title": "Analyst, Content Research",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-27"
@@ -14142,20 +14128,6 @@
     {
         "Company": "Disney",
         "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
-        "Company": "Ipsos",
-        "Job Title": "Market Research Analyst, Creative Excellence",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
-        "Company": "Ipsos",
-        "Job Title": "Market Research Analyst, Creative Excellence",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-28"
@@ -14809,6 +14781,41 @@
         "Job Title": "Insurance & Risk Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "MSD (Merck Sharp & Dohme)",
+        "Job Title": "Global Supplier Management Innovation and Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Kemper",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Ipsos",
+        "Job Title": "Market Research Analyst, Creative Excellence",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "A+E Networks",
+        "Job Title": "Analyst, Content Research",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Imprivata",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-31"
     }
 ]
