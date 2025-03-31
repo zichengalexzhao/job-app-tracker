@@ -14747,5 +14747,68 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-31"
+    },
+    {
+        "Company": "TriTechne",
+        "Job Title": "Business Intelligence (BI) Specialist I-Sr.",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Bamboo Digital Inc",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Centerfield",
+        "Job Title": "Business Analyst, Media Ping Post",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Finance Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "AssuredPartners",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Scientist II, Matching",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Mochi Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Hinge Health, Inc.",
+        "Job Title": "Supply Chain Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Lineage Logistics",
+        "Job Title": "Insurance & Risk Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
     }
 ]

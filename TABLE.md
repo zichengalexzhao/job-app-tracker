@@ -17,6 +17,15 @@
 | Ulta Beauty | Guest Data Analyst | Bolingbrook, IL | Declined | 2025-03-31 |
 | Charles Schwab | Data Governance Analyst | Unknown | Declined | 2025-03-31 |
 | Genesis Products | Unknown | Unknown | Declined | 2025-03-31 |
+| TriTechne | Business Intelligence (BI) Specialist I-Sr. | Unknown | Applied | 2025-03-31 |
+| Bamboo Digital Inc | Business Intelligence Analyst | Unknown | Applied | 2025-03-31 |
+| Centerfield | Business Analyst, Media Ping Post | Unknown | Applied | 2025-03-31 |
+| Unknown | Finance Analyst I | Unknown | Applied | 2025-03-31 |
+| AssuredPartners | Unknown | Unknown | Applied | 2025-03-31 |
+| Uber | Scientist II, Matching | Unknown | Applied | 2025-03-31 |
+| Mochi Health | Unknown | Unknown | Applied | 2025-03-31 |
+| Hinge Health, Inc. | Supply Chain Analyst | Unknown | Applied | 2025-03-31 |
+| Lineage Logistics | Insurance & Risk Analyst | Unknown | Applied | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
