@@ -8,6 +8,7 @@
 | Acer Group | Unknown | Unknown | Applied | 2025-03-31 |
 | Peaksware | Data Analyst - TrainingPeaks | San Francisco, California, United States | Applied | 2025-03-31 |
 | West | Associate Scientist | Unknown | Declined | 2025-03-31 |
+| Visa | Data Scientist for Risk and Identity Solutions | Unknown | Declined | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
@@ -641,7 +642,6 @@
 | Unknown | Junior Data Analyst | Unknown | Applied | 2025-03-12 |
 | Jerry | Associate, Business Operations | Unknown | Applied | 2025-03-12 |
 | CyberCube | Data Scientist | San Francisco, CA | Declined | 2025-03-12 |
-| Visa | Data Scientist for Risk and Identity Solutions | Unknown | Applied | 2025-03-12 |
 | Visa | Product Analyst | Unknown | Applied | 2025-03-12 |
 | UST | Unknown | Unknown | Declined | 2025-03-12 |
 | Notion | Data Scientist, Growth | Unknown | Declined | 2025-03-12 |

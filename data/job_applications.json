@@ -10403,13 +10403,6 @@
     },
     {
         "Company": "Visa",
-        "Job Title": "Data Scientist for Risk and Identity Solutions",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
-        "Company": "Visa",
         "Job Title": "Product Analyst",
         "Location": "Unknown",
         "status": "Applied",
@@ -14709,6 +14702,13 @@
     {
         "Company": "West",
         "Job Title": "Associate Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Data Scientist for Risk and Identity Solutions",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-03-31"
