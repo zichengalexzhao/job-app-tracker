@@ -10,6 +10,8 @@
 | West | Associate Scientist | Unknown | Declined | 2025-03-31 |
 | Visa | Data Scientist for Risk and Identity Solutions | Unknown | Declined | 2025-03-31 |
 | Coterie Applications Inc. | Associate Data Scientist | Unknown | Declined | 2025-03-31 |
+| Candid Health | Unknown | Unknown | Declined | 2025-03-31 |
+| Empyrean Benefit Solutions | Carrier Business Systems Analyst | Unknown | Declined | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
