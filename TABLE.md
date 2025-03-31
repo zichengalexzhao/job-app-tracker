@@ -7,6 +7,7 @@
 | Nextdoor | Unknown | Unknown | Applied | 2025-03-31 |
 | Acer Group | Unknown | Unknown | Applied | 2025-03-31 |
 | Peaksware | Data Analyst - TrainingPeaks | San Francisco, California, United States | Applied | 2025-03-31 |
+| West | Associate Scientist | Unknown | Declined | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |

@@ -14705,5 +14705,12 @@
         "Location": "San Francisco, California, United States",
         "status": "Applied",
         "Date": "2025-03-31"
+    },
+    {
+        "Company": "West",
+        "Job Title": "Associate Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-03-31"
     }
 ]
