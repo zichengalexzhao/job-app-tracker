@@ -14670,5 +14670,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-31"
+    },
+    {
+        "Company": "Acer",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Associate, Fraud Insights Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Nextdoor",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Acer Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Peaksware",
+        "Job Title": "Data Analyst - TrainingPeaks",
+        "Location": "San Francisco, California, United States",
+        "status": "Applied",
+        "Date": "2025-03-31"
     }
 ]
