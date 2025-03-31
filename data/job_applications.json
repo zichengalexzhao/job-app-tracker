@@ -13972,13 +13972,6 @@
         "Date": "2025-03-28"
     },
     {
-        "Company": "Ulta Beauty",
-        "Job Title": "Guest Data Analyst",
-        "Location": "OF02 Corporate Office Operations",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
         "Company": "Home Depot",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -14732,6 +14725,20 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Ulta Beauty",
+        "Job Title": "Guest Data Analyst",
+        "Location": "Bolingbrook, IL",
+        "status": "Declined",
+        "Date": "2025-03-31"
+    },
+    {
+        "Company": "Charles Schwab",
+        "Job Title": "Data Governance Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-03-31"
     }
 ]

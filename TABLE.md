@@ -14,6 +14,8 @@
 | Empyrean Benefit Solutions | Carrier Business Systems Analyst | Unknown | Declined | 2025-03-31 |
 | Distyl AI | Applied AI Researcher | Unknown | Declined | 2025-03-31 |
 | OpenPhone Technologies, Inc. | Data Analyst | Unknown | Applied | 2025-03-31 |
+| Ulta Beauty | Guest Data Analyst | Bolingbrook, IL | Declined | 2025-03-31 |
+| Charles Schwab | Data Governance Analyst | Unknown | Declined | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-03-30 |
@@ -64,7 +66,6 @@
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
 | GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
 | Boyd Gaming | Analyst II Data Strategies | Unknown | Applied | 2025-03-28 |
-| Ulta Beauty | Guest Data Analyst | OF02 Corporate Office Operations | Applied | 2025-03-28 |
 | Home Depot | Unknown | Unknown | Applied | 2025-03-28 |
 | BlueCross BlueShield of South Carolina | Data Analyst I | Unknown | Applied | 2025-03-28 |
 | Randstad USA | BI Analyst | Pittsburgh, Pennsylvania | Applied | 2025-03-28 |
