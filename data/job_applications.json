@@ -14964,5 +14964,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-01"
+    },
+    {
+        "Company": "Corewell Health",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "BCBSNE (Blue Cross and Blue Shield of Nebraska)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst II, Prime Video Global Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst II, Prime Video Global Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
     }
 ]
