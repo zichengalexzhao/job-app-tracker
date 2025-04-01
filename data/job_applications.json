@@ -14966,13 +14966,6 @@
         "Date": "2025-04-01"
     },
     {
-        "Company": "Corewell Health",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-01"
-    },
-    {
         "Company": "BCBSNE (Blue Cross and Blue Shield of Nebraska)",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -15024,6 +15017,27 @@
     {
         "Company": "Carvana",
         "Job Title": "Associate Data Scientist, Decision Support Systems",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Merck & Co. Inc.",
+        "Job Title": "Global Supplier Management Innovation and Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Equilar",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Corewell Health",
+        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-01"

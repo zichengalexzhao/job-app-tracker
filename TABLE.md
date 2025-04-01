@@ -19,7 +19,6 @@
 | KLA-Tencor | Data Analyst - Microsoft Fabric | Unknown | Applied | 2025-04-01 |
 | Extend | Unknown | Unknown | Applied | 2025-04-01 |
 | AMD | Data Analyst Intern/Co-Op | Unknown | Declined | 2025-04-01 |
-| Corewell Health | Data Analyst | Unknown | Applied | 2025-04-01 |
 | BCBSNE (Blue Cross and Blue Shield of Nebraska) | Unknown | Unknown | Applied | 2025-04-01 |
 | Amazon | Business Analyst II, Prime Video Global Operations | Unknown | Applied | 2025-04-01 |
 | Amazon | Business Analyst II, Prime Video Global Operations | Unknown | Applied | 2025-04-01 |
@@ -28,6 +27,9 @@
 | Aon | Early Careers: US Data Analytics - Specialist | Unknown | Declined | 2025-04-01 |
 | Aon | Early Careers: US Data Analytics - Specialist | Unknown | Declined | 2025-04-01 |
 | Carvana | Associate Data Scientist, Decision Support Systems | Unknown | Declined | 2025-04-01 |
+| Merck & Co. Inc. | Global Supplier Management Innovation and Data Analyst | Unknown | Declined | 2025-04-01 |
+| Equilar | Unknown | Unknown | Declined | 2025-04-01 |
+| Corewell Health | Data Analyst | Unknown | Declined | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
