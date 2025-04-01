@@ -14945,13 +14945,6 @@
         "Date": "2025-04-01"
     },
     {
-        "Company": "KLA-Tencor",
-        "Job Title": "Data Analyst - Microsoft Fabric",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-01"
-    },
-    {
         "Company": "Extend",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -15038,6 +15031,34 @@
     {
         "Company": "Corewell Health",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Gerdau",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "The New IEM, Llc",
+        "Job Title": "Manufacturing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "CACI",
+        "Job Title": "Open-Source Intelligence Analyst - Senior, Mid, and Junior",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "KLA-Tencor",
+        "Job Title": "Data Analyst - Microsoft Fabric",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-01"

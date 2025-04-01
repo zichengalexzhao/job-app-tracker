@@ -16,7 +16,6 @@
 | Well | Data Analyst, Performance | Unknown | Declined | 2025-04-01 |
 | HealthPartners | Analyst, Data | Unknown | Declined | 2025-04-01 |
 | ghSMART | Research and Insights Analyst | Unknown | Applied | 2025-04-01 |
-| KLA-Tencor | Data Analyst - Microsoft Fabric | Unknown | Applied | 2025-04-01 |
 | Extend | Unknown | Unknown | Applied | 2025-04-01 |
 | AMD | Data Analyst Intern/Co-Op | Unknown | Declined | 2025-04-01 |
 | BCBSNE (Blue Cross and Blue Shield of Nebraska) | Unknown | Unknown | Applied | 2025-04-01 |
@@ -30,6 +29,10 @@
 | Merck & Co. Inc. | Global Supplier Management Innovation and Data Analyst | Unknown | Declined | 2025-04-01 |
 | Equilar | Unknown | Unknown | Declined | 2025-04-01 |
 | Corewell Health | Data Analyst | Unknown | Declined | 2025-04-01 |
+| Gerdau | Unknown | Unknown | Applied | 2025-04-01 |
+| The New IEM, Llc | Manufacturing Data Analyst | Unknown | Applied | 2025-04-01 |
+| CACI | Open-Source Intelligence Analyst - Senior, Mid, and Junior | Unknown | Applied | 2025-04-01 |
+| KLA-Tencor | Data Analyst - Microsoft Fabric | Unknown | Declined | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
