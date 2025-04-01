@@ -12,6 +12,8 @@
 | Urban Science | Unknown | Unknown | Applied | 2025-04-01 |
 | Urban Science | Analyst | Unknown | Applied | 2025-04-01 |
 | Kikoff | Unknown | Unknown | Declined | 2025-04-01 |
+| AlixPartners | Business Intelligence Centre - Data Analytics & AI Associate | Unknown | Declined | 2025-04-01 |
+| Well | Data Analyst, Performance | Unknown | Declined | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
