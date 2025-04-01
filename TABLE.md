@@ -33,6 +33,22 @@
 | The New IEM, Llc | Manufacturing Data Analyst | Unknown | Applied | 2025-04-01 |
 | CACI | Open-Source Intelligence Analyst - Senior, Mid, and Junior | Unknown | Applied | 2025-04-01 |
 | KLA-Tencor | Data Analyst - Microsoft Fabric | Unknown | Declined | 2025-04-01 |
+| Samsung SDS America | Logistics Data Analyst (EM6934) | Unknown | Applied | 2025-04-01 |
+| Samsung SDS America | Logistics Data Analyst | Unknown | Applied | 2025-04-01 |
+| Berkley Entertainment (a Berkley Company) | Unknown | Unknown | Applied | 2025-04-01 |
+| Ericsson | Data Analyst | Unknown | Applied | 2025-04-01 |
+| Equinix | Senior Analyst | Unknown | Applied | 2025-04-01 |
+| TotalEnergies | Energy Data Portfolio Analyst | Unknown | Applied | 2025-04-01 |
+| Infosys | Associate Analyst - Data Science | Unknown | Applied | 2025-04-01 |
+| Infosys | Unknown | Unknown | Applied | 2025-04-01 |
+| CarMax | Unknown | Unknown | Applied | 2025-04-01 |
+| CarMax | Business Analyst II, Strategic Planning and Delivery | Unknown | Applied | 2025-04-01 |
+| Carilion Clinic | Internship- Data Science Health Analytics | Unknown | Applied | 2025-04-01 |
+| Vizient | Analyst 29976R | Unknown | Applied | 2025-04-01 |
+| CarMax | Unknown | Unknown | Applied | 2025-04-01 |
+| CarMax | Analyst Rotation Program | Richmond, VA | Applied | 2025-04-01 |
+| PCA | Data Science Analyst | Unknown | Applied | 2025-04-01 |
+| CCHS (Cinch Health Solutions) | Data Science Analyst Intern | Unknown | Applied | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
