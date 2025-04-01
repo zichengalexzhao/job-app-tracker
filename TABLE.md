@@ -15,6 +15,10 @@
 | AlixPartners | Business Intelligence Centre - Data Analytics & AI Associate | Unknown | Declined | 2025-04-01 |
 | Well | Data Analyst, Performance | Unknown | Declined | 2025-04-01 |
 | HealthPartners | Analyst, Data | Unknown | Declined | 2025-04-01 |
+| ghSMART | Research and Insights Analyst | Unknown | Applied | 2025-04-01 |
+| KLA-Tencor | Data Analyst - Microsoft Fabric | Unknown | Applied | 2025-04-01 |
+| Extend | Unknown | Unknown | Applied | 2025-04-01 |
+| AMD | Data Analyst Intern/Co-Op | Unknown | Declined | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
@@ -1372,7 +1376,6 @@
 | DoorDash | Associate, Strategy & Operations, DoorDash for Business | Unknown | Declined | 2025-02-14 |
 | Unknown | Cloud Azure Data Architect | Addison, TX (Remote) | Applied | 2025-02-14 |
 | foodpanda | Data Analyst | Unknown | Applied | 2025-02-13 |
-| AMD | Data Analyst Intern/Co-Op | Unknown | Applied | 2025-02-13 |
 | Unknown | Data Engineering Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |
 | Harbinger Motors Inc. | Intern, Production Data Analytics | Unknown | Applied | 2025-02-13 |
 | Unknown | Business Analytics Intern (Summer 2025) | Unknown | Applied | 2025-02-13 |

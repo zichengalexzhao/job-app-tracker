@@ -1071,13 +1071,6 @@
         "Date": "2025-02-13"
     },
     {
-        "Company": "AMD",
-        "Job Title": "Data Analyst Intern/Co-Op",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-13"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Data Engineering Intern (Summer 2025)",
         "Location": "Unknown",
@@ -14940,6 +14933,34 @@
     {
         "Company": "HealthPartners",
         "Job Title": "Analyst, Data",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "ghSMART",
+        "Job Title": "Research and Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "KLA-Tencor",
+        "Job Title": "Data Analyst - Microsoft Fabric",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Extend",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "AMD",
+        "Job Title": "Data Analyst Intern/Co-Op",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-01"
