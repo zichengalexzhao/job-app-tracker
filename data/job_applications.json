@@ -14845,5 +14845,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-31"
+    },
+    {
+        "Company": "Serco Inc.",
+        "Job Title": "Configuration Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Ixonia Bank/Novus Home Mortgage",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "MobilityWare",
+        "Job Title": "UA Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
     }
 ]

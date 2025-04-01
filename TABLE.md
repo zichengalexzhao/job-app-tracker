@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
+| Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
+| MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
