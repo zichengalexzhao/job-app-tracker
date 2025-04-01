@@ -14922,5 +14922,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-01"
+    },
+    {
+        "Company": "Kikoff",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
     }
 ]
