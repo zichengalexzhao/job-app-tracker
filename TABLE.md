@@ -27,6 +27,7 @@
 | GOAT Group | Metadata Curation Specialist I | Unknown | Applied | 2025-04-01 |
 | Aon | Early Careers: US Data Analytics - Specialist | Unknown | Declined | 2025-04-01 |
 | Aon | Early Careers: US Data Analytics - Specialist | Unknown | Declined | 2025-04-01 |
+| Carvana | Associate Data Scientist, Decision Support Systems | Unknown | Declined | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
