@@ -14,6 +14,7 @@
 | Kikoff | Unknown | Unknown | Declined | 2025-04-01 |
 | AlixPartners | Business Intelligence Centre - Data Analytics & AI Associate | Unknown | Declined | 2025-04-01 |
 | Well | Data Analyst, Performance | Unknown | Declined | 2025-04-01 |
+| HealthPartners | Analyst, Data | Unknown | Declined | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
@@ -132,7 +133,6 @@
 | Air Apps | Unknown | Unknown | Applied | 2025-03-28 |
 | Bass Pro | Customer Insights Analyst | Unknown | Applied | 2025-03-28 |
 | HGV Careers | Call Center Operations Analyst - 3055 | Unknown | Applied | 2025-03-28 |
-| HealthPartners | Analyst, Data | Unknown | Applied | 2025-03-28 |
 | PHD | Associate, Programmatic | Unknown | Applied | 2025-03-28 |
 | Tbwa Chiat/Day | Lead Data Analyst | San Francisco, CA | Applied | 2025-03-28 |
 | Rue Gilt Groupe (RGG) | Data Analyst - Member Services | Unknown | Declined | 2025-03-28 |

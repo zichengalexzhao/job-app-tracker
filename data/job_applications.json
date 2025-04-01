@@ -14189,13 +14189,6 @@
         "Date": "2025-03-28"
     },
     {
-        "Company": "HealthPartners",
-        "Job Title": "Analyst, Data",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
         "Company": "PHD",
         "Job Title": "Associate, Programmatic",
         "Location": "Unknown",
@@ -14940,6 +14933,13 @@
     {
         "Company": "Well",
         "Job Title": "Data Analyst, Performance",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "HealthPartners",
+        "Job Title": "Analyst, Data",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-01"
