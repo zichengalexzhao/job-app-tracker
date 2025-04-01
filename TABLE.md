@@ -9,6 +9,8 @@
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Applied | 2025-04-01 |
 | Unknown | Unknown | Unknown | Applied | 2025-04-01 |
 | NCH Corporation | Category Insights Analyst | Unknown | Applied | 2025-04-01 |
+| Urban Science | Unknown | Unknown | Applied | 2025-04-01 |
+| Urban Science | Analyst | Unknown | Applied | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
