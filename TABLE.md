@@ -23,6 +23,8 @@
 | BCBSNE (Blue Cross and Blue Shield of Nebraska) | Unknown | Unknown | Applied | 2025-04-01 |
 | Amazon | Business Analyst II, Prime Video Global Operations | Unknown | Applied | 2025-04-01 |
 | Amazon | Business Analyst II, Prime Video Global Operations | Unknown | Applied | 2025-04-01 |
+| Sun Coast | Performance Analyst-25000007 | Unknown | Declined | 2025-04-01 |
+| GOAT Group | Metadata Curation Specialist I | Unknown | Applied | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |

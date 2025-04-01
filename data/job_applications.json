@@ -14992,5 +14992,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-01"
+    },
+    {
+        "Company": "Sun Coast",
+        "Job Title": "Performance Analyst-25000007",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "GOAT Group",
+        "Job Title": "Metadata Curation Specialist I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
     }
 ]
