@@ -14866,5 +14866,47 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-01"
+    },
+    {
+        "Company": "FactSet Research Systems Inc.",
+        "Job Title": "Power Markets Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "AutoZone.com, Inc.",
+        "Job Title": "Business System Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Magna Tech",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Mastercard",
+        "Job Title": "Analyst, Big Data Analytics & Engineering",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
+    },
+    {
+        "Company": "NCH Corporation",
+        "Job Title": "Category Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
     }
 ]
