@@ -7686,20 +7686,6 @@
         "Date": "2025-03-03"
     },
     {
-        "Company": "Amazon",
-        "Job Title": "Partner Management Coordinator, Prime Video Channels",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
-        "Company": "Amazon",
-        "Job Title": "Partner Management Coordinator, Prime Video Channels",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
         "Company": "Toll Brothers, Inc.",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -15292,6 +15278,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Partner Management Coordinator, Prime Video Channels",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-02"
     }
 ]

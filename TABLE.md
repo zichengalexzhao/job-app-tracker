@@ -17,6 +17,7 @@
 | Altice USA | Unknown | Unknown | Applied | 2025-04-02 |
 | Kemper | Associate Data Scientist | Unknown | Declined | 2025-04-02 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-02 |
+| Amazon | Partner Management Coordinator, Prime Video Channels | Unknown | Declined | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
@@ -1074,8 +1075,6 @@
 | NBCUniversal | Data Analyst | Unknown | Declined | 2025-03-03 |
 | Ranger Technical Resources | Application Analyst | Newport Beach, CA | Applied | 2025-03-03 |
 | Businessolver | Unknown | Unknown | Applied | 2025-03-03 |
-| Amazon | Partner Management Coordinator, Prime Video Channels | Unknown | Applied | 2025-03-03 |
-| Amazon | Partner Management Coordinator, Prime Video Channels | Unknown | Applied | 2025-03-03 |
 | Toll Brothers, Inc. | Unknown | Unknown | Applied | 2025-03-03 |
 | Toll Brothers, Inc. | Unknown | Unknown | Applied | 2025-03-03 |
 | Beek Health | Data Scientist | Unknown | Applied | 2025-03-03 |
