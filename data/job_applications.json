@@ -14770,13 +14770,6 @@
         "Date": "2025-03-31"
     },
     {
-        "Company": "Kemper",
-        "Job Title": "Associate Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-31"
-    },
-    {
         "Company": "Ipsos",
         "Job Title": "Market Research Analyst, Creative Excellence",
         "Location": "Unknown",
@@ -15282,6 +15275,20 @@
     },
     {
         "Company": "Altice USA",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Kemper",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Trane Technologies",
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",

@@ -15,6 +15,8 @@
 | Fidelity | Unknown | Unknown | Applied | 2025-04-02 |
 | Cigna | Data Scientist Intern - Summer 2025 | Unknown | Applied | 2025-04-02 |
 | Altice USA | Unknown | Unknown | Applied | 2025-04-02 |
+| Kemper | Associate Data Scientist | Unknown | Declined | 2025-04-02 |
+| Trane Technologies | Unknown | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
@@ -92,7 +94,6 @@
 | Hinge Health, Inc. | Supply Chain Analyst | Unknown | Applied | 2025-03-31 |
 | Lineage Logistics | Insurance & Risk Analyst | Unknown | Applied | 2025-03-31 |
 | MSD (Merck Sharp & Dohme) | Global Supplier Management Innovation and Data Analyst | Unknown | Applied | 2025-03-31 |
-| Kemper | Associate Data Scientist | Unknown | Applied | 2025-03-31 |
 | Ipsos | Market Research Analyst, Creative Excellence | Unknown | Declined | 2025-03-31 |
 | A+E Networks | Analyst, Content Research | Unknown | Declined | 2025-03-31 |
 | Imprivata | Data Scientist | Unknown | Declined | 2025-03-31 |
