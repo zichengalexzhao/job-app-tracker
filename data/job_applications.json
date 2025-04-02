@@ -15174,5 +15174,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-01"
+    },
+    {
+        "Company": "SAP",
+        "Job Title": "Unknown",
+        "Location": "Palo Alto, CA, US",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Specialist Tech Business Analysis",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-01"
     }
 ]

@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
@@ -49,6 +50,7 @@
 | CarMax | Analyst Rotation Program | Richmond, VA | Applied | 2025-04-01 |
 | PCA | Data Science Analyst | Unknown | Applied | 2025-04-01 |
 | CCHS (Cinch Health Solutions) | Data Science Analyst Intern | Unknown | Applied | 2025-04-01 |
+| Unknown | Specialist Tech Business Analysis | Unknown | Applied | 2025-04-01 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
