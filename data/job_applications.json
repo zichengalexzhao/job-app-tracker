@@ -15468,5 +15468,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-02"
+    },
+    {
+        "Company": "Daifuku",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Hobart, IN",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Daifuku",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Gulf States Toyota, Inc.",
+        "Job Title": "Analyst II, Supply Chain",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "PRA Group",
+        "Job Title": "Strategy Analyst - Legal Recovery",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
     }
 ]

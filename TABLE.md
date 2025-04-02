@@ -47,6 +47,10 @@
 | Age of Learning | Data Science & Analytics Intern | Unknown | Applied | 2025-04-02 |
 | The Standard | Unknown | Unknown | Applied | 2025-04-02 |
 | Kaiser Permanente | Business Analytics Master's Intern | Unknown | Applied | 2025-04-02 |
+| Daifuku | Data Analyst Intern | Hobart, IN | Applied | 2025-04-02 |
+| Daifuku | Data Analyst Intern | Unknown | Applied | 2025-04-02 |
+| Gulf States Toyota, Inc. | Analyst II, Supply Chain | Unknown | Declined | 2025-04-02 |
+| PRA Group | Strategy Analyst - Legal Recovery | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
