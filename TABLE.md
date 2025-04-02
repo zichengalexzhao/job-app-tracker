@@ -51,6 +51,7 @@
 | Daifuku | Data Analyst Intern | Unknown | Applied | 2025-04-02 |
 | Gulf States Toyota, Inc. | Analyst II, Supply Chain | Unknown | Declined | 2025-04-02 |
 | PRA Group | Strategy Analyst - Legal Recovery | Unknown | Applied | 2025-04-02 |
+| Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
