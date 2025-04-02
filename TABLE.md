@@ -35,6 +35,13 @@
 | McKinsey & Company | Capabilities & Insights Analyst - Paper & Packaging | Unknown | Declined | 2025-04-02 |
 | DoorDash | Associate, Fraud Insights Operations | Unknown | Declined | 2025-04-02 |
 | Paramount | Unknown | Unknown | Applied | 2025-04-02 |
+| JLL (Jones Lang LaSalle) | Data Analyst Summer 2025 Internship | Unknown | Declined | 2025-04-02 |
+| Carvana | Associate Data Scientist, Decision Support Systems | Unknown | Declined | 2025-04-02 |
+| Alterman Group Inc | INTERN - Data Analyst | Unknown | Applied | 2025-04-02 |
+| Microsoft | Data Scientist | Unknown | Applied | 2025-04-02 |
+| Disney | Unknown | Unknown | Applied | 2025-04-02 |
+| Cint | Analyst, Data Solutions & Measurement | Unknown | Applied | 2025-04-02 |
+| Fifth Third Bank | Quantitative Analyst I | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |

@@ -15384,5 +15384,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-02"
+    },
+    {
+        "Company": "JLL (Jones Lang LaSalle)",
+        "Job Title": "Data Analyst Summer 2025 Internship",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Carvana",
+        "Job Title": "Associate Data Scientist, Decision Support Systems",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Alterman Group Inc",
+        "Job Title": "INTERN - Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Microsoft",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Cint",
+        "Job Title": "Analyst, Data Solutions & Measurement",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Fifth Third Bank",
+        "Job Title": "Quantitative Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
     }
 ]
