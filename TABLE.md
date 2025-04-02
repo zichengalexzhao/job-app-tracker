@@ -54,6 +54,21 @@
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Applied | 2025-04-02 |
 | Interior Logic Group | Data Visualizer/Analyst Intern | Unknown | Applied | 2025-04-02 |
 | CareDx Inc | Data Scientist | Unknown | Applied | 2025-04-02 |
+| Sony | Data Analyst | Unknown | Applied | 2025-04-02 |
+| Trace3 | Data & Analytics | Unknown | Applied | 2025-04-02 |
+| Gold Coast Health Plan | Unknown | Unknown | Applied | 2025-04-02 |
+| Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-04-02 |
+| Yosemite Pathology Medical Group | Data Analyst | Unknown | Applied | 2025-04-02 |
+| L'AGENCE | Unknown | Unknown | Applied | 2025-04-02 |
+| Pacific World Corporation | Business Analyst | Unknown | Applied | 2025-04-02 |
+| PACE | Unknown | Unknown | Applied | 2025-04-02 |
+| Oldcastle BuildingEnvelope, Inc. | Business Intelligence Analyst | Dallas, TX | Applied | 2025-04-02 |
+| Gainwell Technologies LLC | Associate Professional Business Analyst | Unknown | Applied | 2025-04-02 |
+| Veolia North America | Data Analyst | Unknown | Applied | 2025-04-02 |
+| Tubi | Analyst, Business Operations & Strategy | Unknown | Applied | 2025-04-02 |
+| Cable One, Inc. | Data Analyst II | Unknown | Applied | 2025-04-02 |
+| Actively AI | Unknown | Unknown | Applied | 2025-04-02 |
+| Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
