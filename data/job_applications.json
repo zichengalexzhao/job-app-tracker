@@ -14567,13 +14567,6 @@
         "Date": "2025-03-30"
     },
     {
-        "Company": "Ipsos",
-        "Job Title": "Research Analyst, Healthcare",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-31"
-    },
-    {
         "Company": "Inspire Brands",
         "Job Title": "Brand Analytics Analyst",
         "Location": "Unknown",
@@ -15327,6 +15320,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Ipsos",
+        "Job Title": "Research Analyst, Healthcare",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-02"
     }
 ]

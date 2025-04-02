@@ -24,6 +24,7 @@
 | Cigna | Data Scientist Intern | Unknown | Applied | 2025-04-02 |
 | DaVita Kidney Care | Analyst, Change Management & Deployment | Unknown | Applied | 2025-04-02 |
 | TransUnion | Unknown | Unknown | Applied | 2025-04-02 |
+| Ipsos | Research Analyst, Healthcare | Unknown | Declined | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
@@ -74,7 +75,6 @@
 | PCA | Data Science Analyst | Unknown | Applied | 2025-04-01 |
 | CCHS (Cinch Health Solutions) | Data Science Analyst Intern | Unknown | Applied | 2025-04-01 |
 | Unknown | Specialist Tech Business Analysis | Unknown | Applied | 2025-04-01 |
-| Ipsos | Research Analyst, Healthcare | Unknown | Applied | 2025-03-31 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
 | DoorDash | Associate, Fraud Insights Operations | Unknown | Applied | 2025-03-31 |
