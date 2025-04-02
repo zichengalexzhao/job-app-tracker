@@ -21,6 +21,7 @@
 | FIS | Data Scientist, FIS University Program | Unknown | Applied | 2025-04-02 |
 | Agilent | Business Intelligence Market Research - Intern | Unknown | Applied | 2025-04-02 |
 | Recology | Waste Zero Reporting Analyst | Unknown | Applied | 2025-04-02 |
+| Cigna | Data Scientist Intern | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
