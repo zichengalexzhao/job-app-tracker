@@ -11,6 +11,10 @@
 | GXO Logistics | Data Analyst | Unknown | Applied | 2025-04-02 |
 | Goodyear | Associate Data Scientist | Unknown | Applied | 2025-04-02 |
 | FirstService Residential | Business Analyst | Unknown | Applied | 2025-04-02 |
+| Coinbase | People Data Analyst | Unknown | Applied | 2025-04-02 |
+| Fidelity | Unknown | Unknown | Applied | 2025-04-02 |
+| Cigna | Data Scientist Intern - Summer 2025 | Unknown | Applied | 2025-04-02 |
+| Altice USA | Unknown | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
