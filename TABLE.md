@@ -1,6 +1,16 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
+| Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
+| Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
+| First United | Business Analyst - nCino | Unknown | Applied | 2025-04-02 |
+| Toyota | Senior Analyst - Analytics | Unknown | Applied | 2025-04-02 |
+| Toyota | Senior Analyst - Analytics | Unknown | Applied | 2025-04-02 |
+| JLL | Data Analyst Summer 2025 Internship | Unknown | Applied | 2025-04-02 |
+| Unknown | Data Analyst - Location Intelligence | Unknown | Applied | 2025-04-02 |
+| GXO Logistics | Data Analyst | Unknown | Applied | 2025-04-02 |
+| Goodyear | Associate Data Scientist | Unknown | Applied | 2025-04-02 |
+| FirstService Residential | Business Analyst | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
