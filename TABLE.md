@@ -27,6 +27,14 @@
 | Ipsos | Research Analyst, Healthcare | Unknown | Declined | 2025-04-02 |
 | Inspire Brands | Analyst - Customer Analytics | Unknown | Applied | 2025-04-02 |
 | DaVita Kidney Care | Associate Analyst, Business | Unknown | Applied | 2025-04-02 |
+| Ibotta | Data Scientist, Marketing Analytics | Unknown | Applied | 2025-04-02 |
+| Hornblower Group, Inc. | Data Analyst, Tableau Developer | Unknown | Applied | 2025-04-02 |
+| SHI International Corp. | Unknown | Unknown | Applied | 2025-04-02 |
+| Perplexity AI | Unknown | Unknown | Applied | 2025-04-02 |
+| Xometry | Data Science Intern | Unknown | Applied | 2025-04-02 |
+| McKinsey & Company | Capabilities & Insights Analyst - Paper & Packaging | Unknown | Declined | 2025-04-02 |
+| DoorDash | Associate, Fraud Insights Operations | Unknown | Declined | 2025-04-02 |
+| Paramount | Unknown | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
@@ -79,7 +87,6 @@
 | Unknown | Specialist Tech Business Analysis | Unknown | Applied | 2025-04-01 |
 | Inspire Brands | Brand Analytics Analyst | Unknown | Applied | 2025-03-31 |
 | Acer | Unknown | Unknown | Applied | 2025-03-31 |
-| DoorDash | Associate, Fraud Insights Operations | Unknown | Applied | 2025-03-31 |
 | Nextdoor | Unknown | Unknown | Applied | 2025-03-31 |
 | Acer Group | Unknown | Unknown | Applied | 2025-03-31 |
 | Peaksware | Data Analyst - TrainingPeaks | San Francisco, California, United States | Applied | 2025-03-31 |
@@ -181,7 +188,6 @@
 | UC Davis Graduate School of Management | Student Commencement Speaker | U-Center, UC Davis | Applied | 2025-03-28 |
 | Marsh McLennan Agency | Informatics Consultant | Unknown | Applied | 2025-03-28 |
 | Double Good | Unknown | Unknown | Applied | 2025-03-28 |
-| McKinsey & Company | Capabilities & Insights Analyst - Paper & Packaging | Unknown | Applied | 2025-03-28 |
 | Bernhard LLC | Data Analyst I | AR - Little Rock - Office | Applied | 2025-03-28 |
 | Garner Health | Data Scientist I | Unknown | Declined | 2025-03-28 |
 | Disney | Data Analyst | Unknown | Applied | 2025-03-28 |

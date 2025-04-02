@@ -14084,13 +14084,6 @@
         "Date": "2025-03-28"
     },
     {
-        "Company": "McKinsey & Company",
-        "Job Title": "Capabilities & Insights Analyst - Paper & Packaging",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
         "Company": "Bernhard LLC",
         "Job Title": "Data Analyst I",
         "Location": "AR - Little Rock - Office",
@@ -14576,13 +14569,6 @@
     {
         "Company": "Acer",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-31"
-    },
-    {
-        "Company": "DoorDash",
-        "Job Title": "Associate, Fraud Insights Operations",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-31"
@@ -15339,6 +15325,62 @@
     {
         "Company": "DaVita Kidney Care",
         "Job Title": "Associate Analyst, Business",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Ibotta",
+        "Job Title": "Data Scientist, Marketing Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Hornblower Group, Inc.",
+        "Job Title": "Data Analyst, Tableau Developer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "SHI International Corp.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Perplexity AI",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Xometry",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Capabilities & Insights Analyst - Paper & Packaging",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Associate, Fraud Insights Operations",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-02"
