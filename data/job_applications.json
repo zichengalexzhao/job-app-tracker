@@ -15433,5 +15433,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-02"
+    },
+    {
+        "Company": "KRAFT SPORTS AND ENTERTAINMENT LLC",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "NCH",
+        "Job Title": "Category Insights Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Age of Learning",
+        "Job Title": "Data Science & Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "The Standard",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Business Analytics Master's Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
     }
 ]

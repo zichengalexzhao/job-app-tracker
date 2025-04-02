@@ -42,6 +42,11 @@
 | Disney | Unknown | Unknown | Applied | 2025-04-02 |
 | Cint | Analyst, Data Solutions & Measurement | Unknown | Applied | 2025-04-02 |
 | Fifth Third Bank | Quantitative Analyst I | Unknown | Applied | 2025-04-02 |
+| KRAFT SPORTS AND ENTERTAINMENT LLC | Business Intelligence Analyst | Unknown | Declined | 2025-04-02 |
+| NCH | Category Insights Analyst | Unknown | Declined | 2025-04-02 |
+| Age of Learning | Data Science & Analytics Intern | Unknown | Applied | 2025-04-02 |
+| The Standard | Unknown | Unknown | Applied | 2025-04-02 |
+| Kaiser Permanente | Business Analytics Master's Intern | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
