@@ -15328,5 +15328,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-02"
+    },
+    {
+        "Company": "Inspire Brands",
+        "Job Title": "Analyst - Customer Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "DaVita Kidney Care",
+        "Job Title": "Associate Analyst, Business",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
     }
 ]

@@ -25,6 +25,8 @@
 | DaVita Kidney Care | Analyst, Change Management & Deployment | Unknown | Applied | 2025-04-02 |
 | TransUnion | Unknown | Unknown | Applied | 2025-04-02 |
 | Ipsos | Research Analyst, Healthcare | Unknown | Declined | 2025-04-02 |
+| Inspire Brands | Analyst - Customer Analytics | Unknown | Applied | 2025-04-02 |
+| DaVita Kidney Care | Associate Analyst, Business | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |
