@@ -15860,5 +15860,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "National University",
+        "Job Title": "Digital Marketing Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "KLA-Tencor",
+        "Job Title": "Data Analytics Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Lightspeed DMS",
+        "Job Title": "Operations Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Workday",
+        "Job Title": "Business Analyst",
+        "Location": "Utah",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Workday",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "California",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Solidigm",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Eaton",
+        "Job Title": "ECommerce Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
     }
 ]

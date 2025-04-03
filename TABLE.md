@@ -34,6 +34,13 @@
 | SWBC | Data Analytics Intern | Unknown | Applied | 2025-04-03 |
 | Double Good | Associate Product Manager | Unknown | Declined | 2025-04-03 |
 | Unknown | Data Analyst | Unknown | Applied | 2025-04-03 |
+| National University | Digital Marketing Analyst | Unknown | Applied | 2025-04-03 |
+| KLA-Tencor | Data Analytics Engineer | Unknown | Applied | 2025-04-03 |
+| Lightspeed DMS | Operations Data Analyst | Unknown | Applied | 2025-04-03 |
+| Workday | Business Analyst | Utah | Applied | 2025-04-03 |
+| Workday | Business Intelligence Analyst | California | Applied | 2025-04-03 |
+| Solidigm | Business Analyst | Unknown | Applied | 2025-04-03 |
+| Eaton | ECommerce Analyst | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
