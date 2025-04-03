@@ -15713,5 +15713,19 @@
         "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "FIS",
+        "Job Title": "Data Scientist, FIS University Program",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "TaylorMade",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-03"
     }
 ]
