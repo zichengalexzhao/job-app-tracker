@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Arbol | Quantitative Researcher | Unknown | Declined | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
@@ -153,7 +154,6 @@
 | YPrime | Data Management Analyst | Unknown | Declined | 2025-03-31 |
 | TransUnion | Unknown | Unknown | Applied | 2025-03-31 |
 | TransUnion | Unknown | Unknown | Applied | 2025-03-31 |
-| Arbol | Quantitative Researcher | Unknown | Applied | 2025-03-31 |
 | Dealerware | Data Analyst | Unknown | Applied | 2025-03-31 |
 | Sony Pictures Entertainment | AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025 | Unknown | Declined | 2025-03-30 |
 | Zaspar Technologies | Information Technology | Remote | Applied | 2025-03-30 |

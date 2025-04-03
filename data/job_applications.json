@@ -14777,13 +14777,6 @@
         "Date": "2025-03-31"
     },
     {
-        "Company": "Arbol",
-        "Job Title": "Quantitative Researcher",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-31"
-    },
-    {
         "Company": "Dealerware",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -15643,5 +15636,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-02"
+    },
+    {
+        "Company": "Arbol",
+        "Job Title": "Quantitative Researcher",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-03"
     }
 ]
