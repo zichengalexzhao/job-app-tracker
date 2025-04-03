@@ -15727,5 +15727,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Analytics Manager (Tableau)",
+        "Location": "Remote/Medina, WA",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "PACE",
+        "Job Title": "Data Analyst - Procurement Department",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
     }
 ]

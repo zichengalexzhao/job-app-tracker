@@ -13,6 +13,8 @@
 | Sigma Computing | Unknown | San Francisco, CA | Applied | 2025-04-03 |
 | FIS | Data Scientist, FIS University Program | Unknown | Applied | 2025-04-03 |
 | TaylorMade | Business Intelligence Analyst | Unknown | Declined | 2025-04-03 |
+| Unknown | Analytics Manager (Tableau) | Remote/Medina, WA | Applied | 2025-04-03 |
+| PACE | Data Analyst - Procurement Department | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
