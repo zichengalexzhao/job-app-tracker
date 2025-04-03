@@ -15776,5 +15776,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "ID.me",
+        "Job Title": "Business Insights Analyst - Member Operations",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Applied Materials",
+        "Job Title": "Market Analyst II",
+        "Location": "Santa Clara, CA",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "7-Eleven",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Cohere Health",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
     }
 ]

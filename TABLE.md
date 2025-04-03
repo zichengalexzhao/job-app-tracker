@@ -22,6 +22,10 @@
 | Stericycle | IT Risk & Compliance Analytics Analyst | Unknown | Declined | 2025-04-03 |
 | Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-04-03 |
 | SHI International & Stratascale | Marketing Data Analytics - Internship | Unknown | Declined | 2025-04-03 |
+| ID.me | Business Insights Analyst - Member Operations | Unknown | Declined | 2025-04-03 |
+| Applied Materials | Market Analyst II | Santa Clara, CA | Applied | 2025-04-03 |
+| 7-Eleven | Data Science Intern | Unknown | Applied | 2025-04-03 |
+| Cohere Health | Data Scientist II | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
