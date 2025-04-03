@@ -46,6 +46,12 @@
 | Perplexity AI | Technical Data Annotation Analyst | Remote (Pacific Time Zone) | Declined | 2025-04-03 |
 | Acer Group | Market Research Analyst | Unknown | Declined | 2025-04-03 |
 | TrainingPeaks (Peaksware) | Data Analyst | Unknown | Declined | 2025-04-03 |
+| IPSY | Unknown | Unknown | Applied | 2025-04-03 |
+| Ruiz Foods | Logistics Analyst | Unknown | Applied | 2025-04-03 |
+| Murata Electronics | Business Analyst | Unknown | Applied | 2025-04-03 |
+| Solidigm | Business Analyst | Unknown | Applied | 2025-04-03 |
+| Cover Genius | Data Scientist | Unknown | Applied | 2025-04-03 |
+| SWBC | Data Analytics Intern | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |

@@ -15944,5 +15944,47 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "IPSY",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Ruiz Foods",
+        "Job Title": "Logistics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Murata Electronics",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Solidigm",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Cover Genius",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "SWBC",
+        "Job Title": "Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
     }
 ]
