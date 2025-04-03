@@ -15643,5 +15643,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "Beyond Finance",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "CVS Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
     }
 ]

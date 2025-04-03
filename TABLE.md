@@ -1,6 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Arbol | Quantitative Researcher | Unknown | Declined | 2025-04-03 |
+| Beyond Finance | Unknown | Unknown | Applied | 2025-04-03 |
+| CVS Health | Unknown | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
