@@ -20,6 +20,8 @@
 | Micron Technology | Data Scientist | Boise, Idaho, United States of America \| Manassas, Virginia, United States of America | Applied | 2025-04-03 |
 | Oakley Transport | Reporting and Business Intelligence Analyst | Lake Wales, Florida | Applied | 2025-04-03 |
 | Stericycle | IT Risk & Compliance Analytics Analyst | Unknown | Declined | 2025-04-03 |
+| Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-04-03 |
+| SHI International & Stratascale | Marketing Data Analytics - Internship | Unknown | Declined | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |

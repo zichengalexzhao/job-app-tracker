@@ -15762,5 +15762,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "Turing",
+        "Job Title": "Business Analyst (Chinese Language)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "SHI International & Stratascale",
+        "Job Title": "Marketing Data Analytics - Internship",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-03"
     }
 ]
