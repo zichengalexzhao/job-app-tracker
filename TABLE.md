@@ -41,6 +41,8 @@
 | Workday | Business Intelligence Analyst | California | Applied | 2025-04-03 |
 | Solidigm | Business Analyst | Unknown | Applied | 2025-04-03 |
 | Eaton | ECommerce Analyst | Unknown | Applied | 2025-04-03 |
+| EisnerAmper | Data Analyst Summer Intern | Unknown | Applied | 2025-04-03 |
+| Smule, Inc. | Unknown | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
