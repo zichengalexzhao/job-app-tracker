@@ -19,6 +19,7 @@
 | Snowflake | Account Based Marketing Specialist | Unknown | Declined | 2025-04-03 |
 | Micron Technology | Data Scientist | Boise, Idaho, United States of America \| Manassas, Virginia, United States of America | Applied | 2025-04-03 |
 | Oakley Transport | Reporting and Business Intelligence Analyst | Lake Wales, Florida | Applied | 2025-04-03 |
+| Stericycle | IT Risk & Compliance Analytics Analyst | Unknown | Declined | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
@@ -302,7 +303,6 @@
 | Hubbell | Associate Business Analyst | Shelton, CT | Applied | 2025-03-27 |
 | PHS Bio-Medical Services | Business Analyst I | Unknown | Applied | 2025-03-27 |
 | Rue Gilt Groupe | Data Analyst - Member Services | Unknown | Applied | 2025-03-27 |
-| Stericycle | IT Risk & Compliance Analytics Analyst | Unknown | Applied | 2025-03-27 |
 | Charles Schwab Corporation | Data Governance Analyst | Unknown | Applied | 2025-03-27 |
 | Charles Schwab Corporation | Data Governance Analyst | Unknown | Applied | 2025-03-27 |
 | Sun Coast Resources, LLC | Performance Analyst -25000007 | Unknown | Applied | 2025-03-27 |

@@ -13818,13 +13818,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "Stericycle",
-        "Job Title": "IT Risk & Compliance Analytics Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "Charles Schwab Corporation",
         "Job Title": "Data Governance Analyst",
         "Location": "Unknown",
@@ -15761,6 +15754,13 @@
         "Job Title": "Reporting and Business Intelligence Analyst",
         "Location": "Lake Wales, Florida",
         "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Stericycle",
+        "Job Title": "IT Risk & Compliance Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-03"
     }
 ]
