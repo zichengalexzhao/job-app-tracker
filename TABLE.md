@@ -7,6 +7,10 @@
 | Canon | Unknown | Irvine, CA | Applied | 2025-04-03 |
 | US Olympic Committee | Unknown | Colorado Springs, CO | Applied | 2025-04-03 |
 | Oakley Transport | Reporting and Business Intelligence Analyst | Unknown | Applied | 2025-04-03 |
+| Sysco | Customer Intelligence Data Analyst | Houston, TX | Applied | 2025-04-03 |
+| LegitScript | Analyst, Merchant Monitoring | Unknown | Applied | 2025-04-03 |
+| Lacek | Data Intelligence Intern | Unknown | Applied | 2025-04-03 |
+| Sigma Computing | Unknown | San Francisco, CA | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |

@@ -15685,5 +15685,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-03"
+    },
+    {
+        "Company": "Sysco",
+        "Job Title": "Customer Intelligence Data Analyst",
+        "Location": "Houston, TX",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "LegitScript",
+        "Job Title": "Analyst, Merchant Monitoring",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Lacek",
+        "Job Title": "Data Intelligence Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Sigma Computing",
+        "Job Title": "Unknown",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-04-03"
     }
 ]
