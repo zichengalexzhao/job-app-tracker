@@ -12110,13 +12110,6 @@
         "Date": "2025-03-19"
     },
     {
-        "Company": "Snowflake",
-        "Job Title": "Account Based Marketing Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-19"
-    },
-    {
         "Company": "Lightcast",
         "Job Title": "Linguistics Data Analyst",
         "Location": "Unknown",
@@ -15739,6 +15732,34 @@
         "Company": "PACE",
         "Job Title": "Data Analyst - Procurement Department",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "CarGurus",
+        "Job Title": "Associate Marketing Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Snowflake",
+        "Job Title": "Account Based Marketing Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Micron Technology",
+        "Job Title": "Data Scientist",
+        "Location": "Boise, Idaho, United States of America | Manassas, Virginia, United States of America",
+        "status": "Applied",
+        "Date": "2025-04-03"
+    },
+    {
+        "Company": "Oakley Transport",
+        "Job Title": "Reporting and Business Intelligence Analyst",
+        "Location": "Lake Wales, Florida",
         "status": "Applied",
         "Date": "2025-04-03"
     }

@@ -15,6 +15,10 @@
 | TaylorMade | Business Intelligence Analyst | Unknown | Declined | 2025-04-03 |
 | Unknown | Analytics Manager (Tableau) | Remote/Medina, WA | Applied | 2025-04-03 |
 | PACE | Data Analyst - Procurement Department | Unknown | Applied | 2025-04-03 |
+| CarGurus | Associate Marketing Analytics Analyst | Unknown | Declined | 2025-04-03 |
+| Snowflake | Account Based Marketing Specialist | Unknown | Declined | 2025-04-03 |
+| Micron Technology | Data Scientist | Boise, Idaho, United States of America \| Manassas, Virginia, United States of America | Applied | 2025-04-03 |
+| Oakley Transport | Reporting and Business Intelligence Analyst | Lake Wales, Florida | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
@@ -486,7 +490,6 @@
 | Independence Pet Group | Unknown | Unknown | Applied | 2025-03-19 |
 | EBSCO Industries | Unknown | Unknown | Applied | 2025-03-19 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-19 |
-| Snowflake | Account Based Marketing Specialist | Unknown | Applied | 2025-03-19 |
 | Lightcast | Linguistics Data Analyst | Unknown | Applied | 2025-03-19 |
 | Flatiron Health | Real World Evidence Data Analyst | Unknown | Applied | 2025-03-19 |
 | Wells Fargo | Quantitative Research Associate | Unknown | Applied | 2025-03-19 |
