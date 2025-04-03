@@ -52,6 +52,7 @@
 | Solidigm | Business Analyst | Unknown | Applied | 2025-04-03 |
 | Cover Genius | Data Scientist | Unknown | Applied | 2025-04-03 |
 | SWBC | Data Analytics Intern | Unknown | Applied | 2025-04-03 |
+| Mayo Clinic | Associate Data Science Analyst Remote | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
