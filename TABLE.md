@@ -26,6 +26,14 @@
 | Applied Materials | Market Analyst II | Santa Clara, CA | Applied | 2025-04-03 |
 | 7-Eleven | Data Science Intern | Unknown | Applied | 2025-04-03 |
 | Cohere Health | Data Scientist II | Unknown | Applied | 2025-04-03 |
+| CereCore | Unknown | Unknown | Applied | 2025-04-03 |
+| Natera | Unknown | Unknown | Applied | 2025-04-03 |
+| Unknown | Unknown | Unknown | Applied | 2025-04-03 |
+| LifeSOULutions That Work | Unknown | Unknown | Applied | 2025-04-03 |
+| Flip | Unknown | Unknown | Applied | 2025-04-03 |
+| SWBC | Data Analytics Intern | Unknown | Applied | 2025-04-03 |
+| Double Good | Associate Product Manager | Unknown | Declined | 2025-04-03 |
+| Unknown | Data Analyst | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
