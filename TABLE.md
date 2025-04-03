@@ -3,6 +3,10 @@
 | Arbol | Quantitative Researcher | Unknown | Declined | 2025-04-03 |
 | Beyond Finance | Unknown | Unknown | Applied | 2025-04-03 |
 | CVS Health | Unknown | Unknown | Applied | 2025-04-03 |
+| C & B Material Handling, LLC | Data Analytics Intern | Unknown | Applied | 2025-04-03 |
+| Canon | Unknown | Irvine, CA | Applied | 2025-04-03 |
+| US Olympic Committee | Unknown | Colorado Springs, CO | Applied | 2025-04-03 |
+| Oakley Transport | Reporting and Business Intelligence Analyst | Unknown | Applied | 2025-04-03 |
 | SAP | Unknown | Palo Alto, CA, US | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
 | Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-02 |
