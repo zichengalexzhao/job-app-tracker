@@ -58,7 +58,6 @@
 | Trace3 | Data & Analytics | Unknown | Applied | 2025-04-02 |
 | Gold Coast Health Plan | Unknown | Unknown | Applied | 2025-04-02 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-04-02 |
-| Yosemite Pathology Medical Group | Data Analyst | Unknown | Applied | 2025-04-02 |
 | L'AGENCE | Unknown | Unknown | Applied | 2025-04-02 |
 | Pacific World Corporation | Business Analyst | Unknown | Applied | 2025-04-02 |
 | PACE | Unknown | Unknown | Applied | 2025-04-02 |
@@ -69,6 +68,10 @@
 | Cable One, Inc. | Data Analyst II | Unknown | Applied | 2025-04-02 |
 | Actively AI | Unknown | Unknown | Applied | 2025-04-02 |
 | Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-04-02 |
+| Medallion | Unknown | Unknown | Applied | 2025-04-02 |
+| Alo Yoga | Data Science MS Intern | Unknown | Applied | 2025-04-02 |
+| Yosemite Pathology Medical Group | Data Analyst | Unknown | Declined | 2025-04-02 |
+| ICF | Unknown | Unknown | Applied | 2025-04-02 |
 | Serco Inc. | Configuration Data Analyst | Unknown | Applied | 2025-04-01 |
 | Ixonia Bank/Novus Home Mortgage | Data Analyst | Unknown | Applied | 2025-04-01 |
 | MobilityWare | UA Analyst | Unknown | Declined | 2025-04-01 |

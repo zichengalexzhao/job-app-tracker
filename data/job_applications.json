@@ -15547,13 +15547,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Yosemite Pathology Medical Group",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "L'AGENCE",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -15619,6 +15612,34 @@
     {
         "Company": "Turing",
         "Job Title": "Business Analyst (Chinese Language)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Medallion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Alo Yoga",
+        "Job Title": "Data Science MS Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "Yosemite Pathology Medical Group",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-02"
+    },
+    {
+        "Company": "ICF",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-02"
