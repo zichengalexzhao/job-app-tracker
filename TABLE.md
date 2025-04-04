@@ -8,6 +8,7 @@
 | Independence Pet Holdings | Unknown | Unknown | Declined | 2025-04-04 |
 | Alto Pharmacy | Early Career Product Analyst, Supply Chain & Logistics | Unknown | Declined | 2025-04-04 |
 | CarMax | Business Analyst II, Strategic Planning and Delivery | Unknown | Applied | 2025-04-04 |
+| GMR Marketing | Associate Data Scientist | Unknown | Declined | 2025-04-04 |
 | Arbol | Quantitative Researcher | Unknown | Declined | 2025-04-03 |
 | Beyond Finance | Unknown | Unknown | Applied | 2025-04-03 |
 | CVS Health | Unknown | Unknown | Applied | 2025-04-03 |
@@ -262,7 +263,6 @@
 | SavvyMoney | Unknown | Unknown | Applied | 2025-03-29 |
 | Unknown | Business Intelligence Analyst 2 / Marketing Analyst, Strategic Partnerships | Unknown | Applied | 2025-03-28 |
 | CHS (Community Health Systems) | Data Analyst | Unknown | Applied | 2025-03-28 |
-| GMR Marketing | Associate Data Scientist | Unknown | Applied | 2025-03-28 |
 | Boyd Gaming | Analyst II Data Strategies | Unknown | Applied | 2025-03-28 |
 | Home Depot | Unknown | Unknown | Applied | 2025-03-28 |
 | BlueCross BlueShield of South Carolina | Data Analyst I | Unknown | Applied | 2025-03-28 |

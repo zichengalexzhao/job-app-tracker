@@ -13874,13 +13874,6 @@
         "Date": "2025-03-28"
     },
     {
-        "Company": "GMR Marketing",
-        "Job Title": "Associate Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-28"
-    },
-    {
         "Company": "Zenlayer, Inc",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -16048,6 +16041,13 @@
         "Job Title": "Business Analyst II, Strategic Planning and Delivery",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "GMR Marketing",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-04"
     }
 ]
