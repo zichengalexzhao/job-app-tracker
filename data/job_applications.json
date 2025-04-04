@@ -16140,5 +16140,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-04"
+    },
+    {
+        "Company": "Ibotta",
+        "Job Title": "Data Scientist, Marketing Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Decision Analytics Associate",
+        "Location": "Princeton, Philadelphia",
+        "status": "Declined",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "UWorld, LLC",
+        "Job Title": "Marketing Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-04"
     }
 ]
