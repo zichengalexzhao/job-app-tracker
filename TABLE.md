@@ -10,6 +10,10 @@
 | CarMax | Business Analyst II, Strategic Planning and Delivery | Unknown | Applied | 2025-04-04 |
 | GMR Marketing | Associate Data Scientist | Unknown | Declined | 2025-04-04 |
 | Carilion Clinic | Internship- Data Science Health Analytics (151675) | Unknown | Declined | 2025-04-04 |
+| AL Group of Companies | Business Analyst, US Assets | Unknown | Applied | 2025-04-04 |
+| Dresser Utility Solutions | Unknown | Unknown | Applied | 2025-04-04 |
+| InvoiceCloud | Business Strategy Analyst | Unknown | Declined | 2025-04-04 |
+| UC Davis | Unknown | Unknown | Applied | 2025-04-04 |
 | Arbol | Quantitative Researcher | Unknown | Declined | 2025-04-03 |
 | Beyond Finance | Unknown | Unknown | Applied | 2025-04-03 |
 | CVS Health | Unknown | Unknown | Applied | 2025-04-03 |

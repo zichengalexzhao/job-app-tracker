@@ -16056,5 +16056,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-04"
+    },
+    {
+        "Company": "AL Group of Companies",
+        "Job Title": "Business Analyst, US Assets",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Dresser Utility Solutions",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "InvoiceCloud",
+        "Job Title": "Business Strategy Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "UC Davis",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
     }
 ]
