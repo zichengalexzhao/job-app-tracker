@@ -15624,13 +15624,6 @@
         "Date": "2025-04-03"
     },
     {
-        "Company": "C & B Material Handling, LLC",
-        "Job Title": "Data Analytics Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-03"
-    },
-    {
         "Company": "Canon",
         "Job Title": "Unknown",
         "Location": "Irvine, CA",
@@ -16132,6 +16125,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "C & B Material Handling, LLC",
+        "Job Title": "Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-04"
     }
 ]
