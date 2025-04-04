@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| CareSource | Summer Internship 2025 - Data Science | Unknown | Applied | 2025-04-04 |
+| Partner In Publishing | Quantitative Customer Insights Researcher | Unknown | Applied | 2025-04-04 |
+| Vizient | Associate Analyst 30175R | Unknown | Applied | 2025-04-04 |
+| Sacramento Kings | Business Intelligence Analyst | Unknown | Applied | 2025-04-04 |
+| ATEC Wireless | Data Analyst / Project Coordinator | Unknown | Applied | 2025-04-04 |
 | Arbol | Quantitative Researcher | Unknown | Declined | 2025-04-03 |
 | Beyond Finance | Unknown | Unknown | Applied | 2025-04-03 |
 | CVS Health | Unknown | Unknown | Applied | 2025-04-03 |
