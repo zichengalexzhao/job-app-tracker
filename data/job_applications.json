@@ -16028,5 +16028,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-04"
+    },
+    {
+        "Company": "Independence Pet Holdings",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Alto Pharmacy",
+        "Job Title": "Early Career Product Analyst, Supply Chain & Logistics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "CarMax",
+        "Job Title": "Business Analyst II, Strategic Planning and Delivery",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
     }
 ]
