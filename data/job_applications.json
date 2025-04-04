@@ -13580,13 +13580,6 @@
         "Date": "2025-03-26"
     },
     {
-        "Company": "Corewell Health",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-26"
-    },
-    {
         "Company": "SmartFinancial",
         "Job Title": "Marketing Data Analyst",
         "Location": "Unknown",
@@ -15393,13 +15386,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Cint",
-        "Job Title": "Analyst, Data Solutions & Measurement",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "Fifth Third Bank",
         "Job Title": "Quantitative Analyst I",
         "Location": "Unknown",
@@ -16080,6 +16066,69 @@
     },
     {
         "Company": "UC Davis",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Corewell Health",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Omnicom Media Group US OMD",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Jellyvision",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Siemens Healthineers",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Cint",
+        "Job Title": "Analyst, Data Solutions & Measurement",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Oneoncology",
+        "Job Title": "Analyst, Analytics & Data Products",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "TK Elevator",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Analyst, Business & Product Analysis",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-04"
+    },
+    {
+        "Company": "Cast & Crew",
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",

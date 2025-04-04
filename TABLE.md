@@ -14,6 +14,15 @@
 | Dresser Utility Solutions | Unknown | Unknown | Applied | 2025-04-04 |
 | InvoiceCloud | Business Strategy Analyst | Unknown | Declined | 2025-04-04 |
 | UC Davis | Unknown | Unknown | Applied | 2025-04-04 |
+| Corewell Health | Business Intelligence Analyst | Unknown | Declined | 2025-04-04 |
+| Omnicom Media Group US OMD | Unknown | Unknown | Declined | 2025-04-04 |
+| Jellyvision | Business Intelligence Analyst | Unknown | Applied | 2025-04-04 |
+| Siemens Healthineers | Unknown | Unknown | Applied | 2025-04-04 |
+| Cint | Analyst, Data Solutions & Measurement | Unknown | Declined | 2025-04-04 |
+| Oneoncology | Analyst, Analytics & Data Products | Unknown | Applied | 2025-04-04 |
+| TK Elevator | Business Intelligence Analyst | Unknown | Applied | 2025-04-04 |
+| S&P Global | Analyst, Business & Product Analysis | Unknown | Applied | 2025-04-04 |
+| Cast & Crew | Unknown | Unknown | Applied | 2025-04-04 |
 | Arbol | Quantitative Researcher | Unknown | Declined | 2025-04-03 |
 | Beyond Finance | Unknown | Unknown | Applied | 2025-04-03 |
 | CVS Health | Unknown | Unknown | Applied | 2025-04-03 |
@@ -107,7 +116,6 @@
 | Alterman Group Inc | INTERN - Data Analyst | Unknown | Applied | 2025-04-02 |
 | Microsoft | Data Scientist | Unknown | Applied | 2025-04-02 |
 | Disney | Unknown | Unknown | Applied | 2025-04-02 |
-| Cint | Analyst, Data Solutions & Measurement | Unknown | Applied | 2025-04-02 |
 | Fifth Third Bank | Quantitative Analyst I | Unknown | Applied | 2025-04-02 |
 | KRAFT SPORTS AND ENTERTAINMENT LLC | Business Intelligence Analyst | Unknown | Declined | 2025-04-02 |
 | NCH | Category Insights Analyst | Unknown | Declined | 2025-04-02 |
@@ -384,7 +392,6 @@
 | Medpace, Inc. | Junior Data Analyst- Commercial Operations | Unknown | Applied | 2025-03-26 |
 | Almo/ExertisAlmo | Data Analyst | Unknown | Applied | 2025-03-26 |
 | National Grid | Analyst, Business Compliance | Unknown | Declined | 2025-03-26 |
-| Corewell Health | Business Intelligence Analyst | Unknown | Applied | 2025-03-26 |
 | SmartFinancial | Marketing Data Analyst | Unknown | Applied | 2025-03-26 |
 | SmartFinancial | Marketing Data Analyst | San Francisco, United States | Applied | 2025-03-26 |
 | Carvana | Unknown | Unknown | Applied | 2025-03-26 |
