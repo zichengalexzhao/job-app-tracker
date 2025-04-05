@@ -19,6 +19,17 @@
 | 7-Eleven | Data Science Intern | Unknown | Applied | 2025-04-05 |
 | NU National University | Digital Marketing Analyst | Unknown | Declined | 2025-04-05 |
 | Radian Group Inc. | Data Scientist I, MIRS | Unknown | Applied | 2025-04-05 |
+| ABS and Affiliated Companies | Analyst, Market Insights | Unknown | Applied | 2025-04-05 |
+| Amazon | Business Intelligence Engineer, Video Content Research Economic Valuation | Unknown | Applied | 2025-04-05 |
+| Amazon | Business Intelligence Engineer, Video Content Research Economic Valuation | Unknown | Applied | 2025-04-05 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-05 |
+| Webster | Analyst - Business Analysis | Unknown | Applied | 2025-04-05 |
+| Weee! Inc | Operations Analyst II | Unknown | Applied | 2025-04-05 |
+| Elevance Health Companies, Inc. | Advanced Analytics Analyst | Unknown | Applied | 2025-04-05 |
+| T-Mobile | Analyst, Business Intelligence | Unknown | Applied | 2025-04-05 |
+| Silicon Valley Clean Energy | Data Analytics Intern | Unknown | Applied | 2025-04-05 |
+| BizzyCar | Revenue Operations Analyst | Unknown | Applied | 2025-04-05 |
+| Samsung Semiconductor | Unknown | Unknown | Applied | 2025-04-05 |
 | CareSource | Summer Internship 2025 - Data Science | Unknown | Applied | 2025-04-04 |
 | Partner In Publishing | Quantitative Customer Insights Researcher | Unknown | Applied | 2025-04-04 |
 | Vizient | Associate Analyst 30175R | Unknown | Applied | 2025-04-04 |
