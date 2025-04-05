@@ -16259,5 +16259,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-05"
+    },
+    {
+        "Company": "Macy's",
+        "Job Title": "Analyst, Business Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-05"
+    },
+    {
+        "Company": "7-Eleven",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-05"
     }
 ]
