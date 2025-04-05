@@ -33,6 +33,7 @@
 | Kohl's | Unknown | Unknown | Applied | 2025-04-05 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-05 |
 | HanesBrands | Product Analyst- Intern | Unknown | Declined | 2025-04-05 |
+| Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-04-05 |
 | CareSource | Summer Internship 2025 - Data Science | Unknown | Applied | 2025-04-04 |
 | Partner In Publishing | Quantitative Customer Insights Researcher | Unknown | Applied | 2025-04-04 |
 | Vizient | Associate Analyst 30175R | Unknown | Applied | 2025-04-04 |
