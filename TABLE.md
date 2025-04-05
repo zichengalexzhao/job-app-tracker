@@ -10,6 +10,7 @@
 | Omnicom Health | Data & Digital Intern | Unknown | Applied | 2025-04-05 |
 | Bally's Interactive | Graduate Insight Analyst - Marketing | Unknown | Applied | 2025-04-05 |
 | Jun Group | Unknown | Unknown | Applied | 2025-04-05 |
+| Earnest | Unknown | Unknown | Applied | 2025-04-05 |
 | CareSource | Summer Internship 2025 - Data Science | Unknown | Applied | 2025-04-04 |
 | Partner In Publishing | Quantitative Customer Insights Researcher | Unknown | Applied | 2025-04-04 |
 | Vizient | Associate Analyst 30175R | Unknown | Applied | 2025-04-04 |
