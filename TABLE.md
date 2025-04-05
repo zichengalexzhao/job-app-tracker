@@ -13,6 +13,8 @@
 | Earnest | Unknown | Unknown | Applied | 2025-04-05 |
 | Applied Intuition | Data Quality Specialist | Unknown | Applied | 2025-04-05 |
 | Zynga | Unknown | Unknown | Applied | 2025-04-05 |
+| Oneoncology | Analyst, Analytics & Data Products | Unknown | Declined | 2025-04-05 |
+| Unknown | Associate Enterprise Analytics Analyst | Unknown | Declined | 2025-04-05 |
 | CareSource | Summer Internship 2025 - Data Science | Unknown | Applied | 2025-04-04 |
 | Partner In Publishing | Quantitative Customer Insights Researcher | Unknown | Applied | 2025-04-04 |
 | Vizient | Associate Analyst 30175R | Unknown | Applied | 2025-04-04 |
@@ -32,7 +34,6 @@
 | Jellyvision | Business Intelligence Analyst | Unknown | Applied | 2025-04-04 |
 | Siemens Healthineers | Unknown | Unknown | Applied | 2025-04-04 |
 | Cint | Analyst, Data Solutions & Measurement | Unknown | Declined | 2025-04-04 |
-| Oneoncology | Analyst, Analytics & Data Products | Unknown | Applied | 2025-04-04 |
 | TK Elevator | Business Intelligence Analyst | Unknown | Applied | 2025-04-04 |
 | S&P Global | Analyst, Business & Product Analysis | Unknown | Applied | 2025-04-04 |
 | Cast & Crew | Unknown | Unknown | Applied | 2025-04-04 |

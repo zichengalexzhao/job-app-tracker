@@ -16100,13 +16100,6 @@
         "Date": "2025-04-04"
     },
     {
-        "Company": "Oneoncology",
-        "Job Title": "Analyst, Analytics & Data Products",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-04"
-    },
-    {
         "Company": "TK Elevator",
         "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
@@ -16251,6 +16244,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-05"
+    },
+    {
+        "Company": "Oneoncology",
+        "Job Title": "Analyst, Analytics & Data Products",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-05"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Associate Enterprise Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-05"
     }
 ]
