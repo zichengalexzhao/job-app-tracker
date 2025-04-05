@@ -1,6 +1,15 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Bertelsmann | Analyst, Business Intelligence | Open to Remote | Declined | 2025-04-05 |
+| Klaviyo | Product Analyst | Boston, MA | Applied | 2025-04-05 |
+| Kaiser Permanente | Access Data Analyst II -1344666 | Unknown | Applied | 2025-04-05 |
+| RSS, LLC. | Unknown | Unknown | Applied | 2025-04-05 |
+| HPS Investment Partners | Unknown | Unknown | Applied | 2025-04-05 |
+| Unknown | Unknown | Unknown | Applied | 2025-04-05 |
+| Nordstrom | Unknown | Unknown | Applied | 2025-04-05 |
+| Omnicom Health | Data & Digital Intern | Unknown | Applied | 2025-04-05 |
+| Bally's Interactive | Graduate Insight Analyst - Marketing | Unknown | Applied | 2025-04-05 |
+| Jun Group | Unknown | Unknown | Applied | 2025-04-05 |
 | CareSource | Summer Internship 2025 - Data Science | Unknown | Applied | 2025-04-04 |
 | Partner In Publishing | Quantitative Customer Insights Researcher | Unknown | Applied | 2025-04-04 |
 | Vizient | Associate Analyst 30175R | Unknown | Applied | 2025-04-04 |
