@@ -7,6 +7,7 @@
 | Koch | Unknown | Unknown | Applied | 2025-04-06 |
 | RPX | Business Analyst | Unknown | Applied | 2025-04-06 |
 | Interior Logic Group | Data Visualizer/Analyst Intern | Unknown | Declined | 2025-04-06 |
+| Tatari | Unknown | Unknown | Applied | 2025-04-06 |
 | Bertelsmann | Analyst, Business Intelligence | Open to Remote | Declined | 2025-04-05 |
 | Klaviyo | Product Analyst | Boston, MA | Applied | 2025-04-05 |
 | Kaiser Permanente | Access Data Analyst II -1344666 | Unknown | Applied | 2025-04-05 |
