@@ -8,6 +8,7 @@
 | RPX | Business Analyst | Unknown | Applied | 2025-04-06 |
 | Interior Logic Group | Data Visualizer/Analyst Intern | Unknown | Declined | 2025-04-06 |
 | Tatari | Unknown | Unknown | Applied | 2025-04-06 |
+| Goodyear | Associate Data Scientist | Unknown | Declined | 2025-04-06 |
 | Bertelsmann | Analyst, Business Intelligence | Open to Remote | Declined | 2025-04-05 |
 | Klaviyo | Product Analyst | Boston, MA | Applied | 2025-04-05 |
 | Kaiser Permanente | Access Data Analyst II -1344666 | Unknown | Applied | 2025-04-05 |
@@ -130,7 +131,6 @@
 | JLL | Data Analyst Summer 2025 Internship | Unknown | Applied | 2025-04-02 |
 | Unknown | Data Analyst - Location Intelligence | Unknown | Applied | 2025-04-02 |
 | GXO Logistics | Data Analyst | Unknown | Applied | 2025-04-02 |
-| Goodyear | Associate Data Scientist | Unknown | Applied | 2025-04-02 |
 | FirstService Residential | Business Analyst | Unknown | Applied | 2025-04-02 |
 | Coinbase | People Data Analyst | Unknown | Applied | 2025-04-02 |
 | Fidelity | Unknown | Unknown | Applied | 2025-04-02 |

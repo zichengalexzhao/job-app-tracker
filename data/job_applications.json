@@ -15162,13 +15162,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Goodyear",
-        "Job Title": "Associate Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "FirstService Residential",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -16433,6 +16426,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-06"
+    },
+    {
+        "Company": "Goodyear",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-06"
     }
 ]
