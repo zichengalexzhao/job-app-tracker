@@ -16399,5 +16399,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-06"
+    },
+    {
+        "Company": "Pace Analytical Services",
+        "Job Title": "Quality Analyst 1",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-06"
+    },
+    {
+        "Company": "CROSSMARK",
+        "Job Title": "Unknown",
+        "Location": "US-Remote",
+        "status": "Applied",
+        "Date": "2025-04-06"
+    },
+    {
+        "Company": "Koch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-06"
+    },
+    {
+        "Company": "RPX",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-06"
     }
 ]

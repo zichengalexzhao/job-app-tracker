@@ -2,6 +2,10 @@
 | --- | --- | --- | --- | --- |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
+| Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
+| CROSSMARK | Unknown | US-Remote | Applied | 2025-04-06 |
+| Koch | Unknown | Unknown | Applied | 2025-04-06 |
+| RPX | Business Analyst | Unknown | Applied | 2025-04-06 |
 | Bertelsmann | Analyst, Business Intelligence | Open to Remote | Declined | 2025-04-05 |
 | Klaviyo | Product Analyst | Boston, MA | Applied | 2025-04-05 |
 | Kaiser Permanente | Access Data Analyst II -1344666 | Unknown | Applied | 2025-04-05 |
