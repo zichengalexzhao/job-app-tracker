@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
+| Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Bertelsmann | Analyst, Business Intelligence | Open to Remote | Declined | 2025-04-05 |
 | Klaviyo | Product Analyst | Boston, MA | Applied | 2025-04-05 |
 | Kaiser Permanente | Access Data Analyst II -1344666 | Unknown | Applied | 2025-04-05 |
@@ -190,7 +192,6 @@
 | FactSet Research Systems Inc. | Power Markets Analyst | Unknown | Declined | 2025-04-01 |
 | AutoZone.com, Inc. | Business System Analyst | Unknown | Applied | 2025-04-01 |
 | Magna Tech | Unknown | Unknown | Applied | 2025-04-01 |
-| Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Applied | 2025-04-01 |
 | Unknown | Unknown | Unknown | Applied | 2025-04-01 |
 | NCH Corporation | Category Insights Analyst | Unknown | Applied | 2025-04-01 |
 | Urban Science | Unknown | Unknown | Applied | 2025-04-01 |

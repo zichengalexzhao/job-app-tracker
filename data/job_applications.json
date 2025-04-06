@@ -14798,13 +14798,6 @@
         "Date": "2025-04-01"
     },
     {
-        "Company": "Mastercard",
-        "Job Title": "Analyst, Big Data Analytics & Engineering",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-01"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -16392,5 +16385,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-05"
+    },
+    {
+        "Company": "Sharp HealthCare",
+        "Job Title": "Business Intelligence Analyst I - Enterprise Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-06"
+    },
+    {
+        "Company": "Mastercard",
+        "Job Title": "Analyst, Big Data Analytics & Engineering",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-06"
     }
 ]
