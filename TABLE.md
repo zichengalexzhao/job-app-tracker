@@ -6,6 +6,7 @@
 | CROSSMARK | Unknown | US-Remote | Applied | 2025-04-06 |
 | Koch | Unknown | Unknown | Applied | 2025-04-06 |
 | RPX | Business Analyst | Unknown | Applied | 2025-04-06 |
+| Interior Logic Group | Data Visualizer/Analyst Intern | Unknown | Declined | 2025-04-06 |
 | Bertelsmann | Analyst, Business Intelligence | Open to Remote | Declined | 2025-04-05 |
 | Klaviyo | Product Analyst | Boston, MA | Applied | 2025-04-05 |
 | Kaiser Permanente | Access Data Analyst II -1344666 | Unknown | Applied | 2025-04-05 |
@@ -170,7 +171,6 @@
 | Gulf States Toyota, Inc. | Analyst II, Supply Chain | Unknown | Declined | 2025-04-02 |
 | PRA Group | Strategy Analyst - Legal Recovery | Unknown | Applied | 2025-04-02 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Applied | 2025-04-02 |
-| Interior Logic Group | Data Visualizer/Analyst Intern | Unknown | Applied | 2025-04-02 |
 | CareDx Inc | Data Scientist | Unknown | Applied | 2025-04-02 |
 | Sony | Data Analyst | Unknown | Applied | 2025-04-02 |
 | Trace3 | Data & Analytics | Unknown | Applied | 2025-04-02 |
