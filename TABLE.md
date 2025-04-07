@@ -42,6 +42,18 @@
 | Coinbase | Unknown | Unknown | Applied | 2025-04-07 |
 | King | Unknown | Unknown | Applied | 2025-04-07 |
 | Western Digital | Data Analytics | Unknown | Declined | 2025-04-07 |
+| AbbVie | Customer Master Data Analyst | Unknown | Applied | 2025-04-07 |
+| Exact Sciences | Unknown | Unknown | Applied | 2025-04-07 |
+| U.S. Pipe | Data Analytics Intern | Unknown | Applied | 2025-04-07 |
+| Hyland Software | Data Analyst 2 | Unknown | Applied | 2025-04-07 |
+| Live Nation Entertainment | Data Visualization Intern, LiveAnalytics | Unknown | Applied | 2025-04-07 |
+| Hyland Software | Data Analyst 2 | Unknown | Applied | 2025-04-07 |
+| Contentstack | Business Intelligence & Analytics Intern | Unknown | Applied | 2025-04-07 |
+| Cars Commerce | Data Scientist III | Unknown | Applied | 2025-04-07 |
+| Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-07 |
+| Akraya | Business Data Analyst | Unknown | Applied | 2025-04-07 |
+| Salesforce | Data Analytics Analyst | Unknown | Applied | 2025-04-07 |
+| Hut 8 | Unknown | Unknown | Applied | 2025-04-07 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
