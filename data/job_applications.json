@@ -16079,13 +16079,6 @@
         "Date": "2025-04-04"
     },
     {
-        "Company": "S&P Global",
-        "Job Title": "Analyst, Business & Product Analysis",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-04"
-    },
-    {
         "Company": "Cast & Crew",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -16447,6 +16440,34 @@
         "Job Title": "Data Management Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Analyst, Business & Product Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Analyst, Business & Product Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Graduate Associate, Data Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Rapid7",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-07"
     }
 ]
