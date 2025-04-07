@@ -9,6 +9,8 @@
 | Rapid7 | Unknown | Unknown | Applied | 2025-04-07 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant III Main | Unknown | Declined | 2025-04-07 |
 | KLA-Tencor | Data Analytics Engineer | Unknown | Declined | 2025-04-07 |
+| UnitedHealth Group | Data Scientist Consultant | Remote | Declined | 2025-04-07 |
+| Klaviyo | Product Analyst | Unknown | Declined | 2025-04-07 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
@@ -19,7 +21,6 @@
 | Tatari | Unknown | Unknown | Applied | 2025-04-06 |
 | Goodyear | Associate Data Scientist | Unknown | Declined | 2025-04-06 |
 | Bertelsmann | Analyst, Business Intelligence | Open to Remote | Declined | 2025-04-05 |
-| Klaviyo | Product Analyst | Boston, MA | Applied | 2025-04-05 |
 | Kaiser Permanente | Access Data Analyst II -1344666 | Unknown | Applied | 2025-04-05 |
 | RSS, LLC. | Unknown | Unknown | Applied | 2025-04-05 |
 | HPS Investment Partners | Unknown | Unknown | Applied | 2025-04-05 |
@@ -1456,7 +1457,6 @@
 | National Storage Affiliates | Unknown | Unknown | Applied | 2025-02-22 |
 | Goodwill of South Florida | Junior Business Analyst | Miami, Florida | Applied | 2025-02-22 |
 | ASU | Business Intelligence Analyst | Unknown | Applied | 2025-02-22 |
-| UnitedHealth Group | Data Scientist Consultant | Remote | Applied | 2025-02-22 |
 | Hadron Holdings LP | Insurance Data and Reporting Analyst | Unknown | Applied | 2025-02-22 |
 | PrizePicks | Unknown | Unknown | Applied | 2025-02-22 |
 | Greystar | Unknown | Unknown | Applied | 2025-02-22 |

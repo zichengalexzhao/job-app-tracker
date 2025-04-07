@@ -119,13 +119,6 @@
         "Date": "2025-02-22"
     },
     {
-        "Company": "UnitedHealth Group",
-        "Job Title": "Data Scientist Consultant",
-        "Location": "Remote",
-        "status": "Applied",
-        "Date": "2025-02-22"
-    },
-    {
         "Company": "Hadron Holdings LP",
         "Job Title": "Insurance Data and Reporting Analyst",
         "Location": "Unknown",
@@ -16121,13 +16114,6 @@
         "Date": "2025-04-05"
     },
     {
-        "Company": "Klaviyo",
-        "Job Title": "Product Analyst",
-        "Location": "Boston, MA",
-        "status": "Applied",
-        "Date": "2025-04-05"
-    },
-    {
         "Company": "Kaiser Permanente",
         "Job Title": "Access Data Analyst II -1344666",
         "Location": "Unknown",
@@ -16473,6 +16459,20 @@
     {
         "Company": "KLA-Tencor",
         "Job Title": "Data Analytics Engineer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "UnitedHealth Group",
+        "Job Title": "Data Scientist Consultant",
+        "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Klaviyo",
+        "Job Title": "Product Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-07"
