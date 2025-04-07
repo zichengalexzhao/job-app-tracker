@@ -15813,13 +15813,6 @@
         "Date": "2025-04-03"
     },
     {
-        "Company": "KLA-Tencor",
-        "Job Title": "Data Analytics Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-03"
-    },
-    {
         "Company": "Lightspeed DMS",
         "Job Title": "Operations Data Analyst",
         "Location": "Unknown",
@@ -16468,6 +16461,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Reporting and Analytics Consultant III Main",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "KLA-Tencor",
+        "Job Title": "Data Analytics Engineer",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-07"
     }
 ]

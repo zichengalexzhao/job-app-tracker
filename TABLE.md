@@ -7,6 +7,8 @@
 | S&P Global | Analyst, Business & Product Analysis | Unknown | Declined | 2025-04-07 |
 | Disney | Graduate Associate, Data Analytics | Unknown | Applied | 2025-04-07 |
 | Rapid7 | Unknown | Unknown | Applied | 2025-04-07 |
+| Kaiser Permanente | Data Reporting and Analytics Consultant III Main | Unknown | Declined | 2025-04-07 |
+| KLA-Tencor | Data Analytics Engineer | Unknown | Declined | 2025-04-07 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
@@ -110,7 +112,6 @@
 | Double Good | Associate Product Manager | Unknown | Declined | 2025-04-03 |
 | Unknown | Data Analyst | Unknown | Applied | 2025-04-03 |
 | National University | Digital Marketing Analyst | Unknown | Applied | 2025-04-03 |
-| KLA-Tencor | Data Analytics Engineer | Unknown | Applied | 2025-04-03 |
 | Lightspeed DMS | Operations Data Analyst | Unknown | Applied | 2025-04-03 |
 | Workday | Business Analyst | Utah | Applied | 2025-04-03 |
 | Workday | Business Intelligence Analyst | California | Applied | 2025-04-03 |
