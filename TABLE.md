@@ -1,6 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
+| Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
+| Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
@@ -172,7 +174,6 @@
 | Daifuku | Data Analyst Intern | Unknown | Applied | 2025-04-02 |
 | Gulf States Toyota, Inc. | Analyst II, Supply Chain | Unknown | Declined | 2025-04-02 |
 | PRA Group | Strategy Analyst - Legal Recovery | Unknown | Applied | 2025-04-02 |
-| Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Applied | 2025-04-02 |
 | CareDx Inc | Data Scientist | Unknown | Applied | 2025-04-02 |
 | Sony | Data Analyst | Unknown | Applied | 2025-04-02 |
 | Trace3 | Data & Analytics | Unknown | Applied | 2025-04-02 |

@@ -15442,13 +15442,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Keurig Dr Pepper",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "CareDx Inc",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -16438,6 +16431,20 @@
     {
         "Company": "Everlight Solar",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Keurig Dr Pepper",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Koch",
+        "Job Title": "Data Management Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-07"
