@@ -30,6 +30,15 @@
 | Benjamin Moore & Co | Business Insights Intern | Unknown | Applied | 2025-04-07 |
 | Topcon | Data Analyst Intern | Unknown | Applied | 2025-04-07 |
 | Morgan & Morgan, P.A. | Business Intelligence Analyst | Unknown | Applied | 2025-04-07 |
+| Palo Alto Networks | Business Systems Analyst, Sales Planning | Unknown | Declined | 2025-04-07 |
+| PIMCO | Unknown | Unknown | Applied | 2025-04-07 |
+| VISION HOSPITALITY GROUP, LLC | Business Intelligence Analyst, Operations Analyst | Chattanooga, TN | Applied | 2025-04-07 |
+| Blue Cross Blue Shield of Michigan (BCBSM) and Emergent Holdings | Business Analyst, Artificial Intelligence Intern | Unknown | Applied | 2025-04-07 |
+| Blue Cross | Business Analyst, Artificial Intelligence Intern | Unknown | Applied | 2025-04-07 |
+| The Knot Worldwide | Data Scientist | Unknown | Applied | 2025-04-07 |
+| DataRobot | Junior Data Science Engineer | Unknown | Applied | 2025-04-07 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-07 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-07 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
@@ -798,7 +807,6 @@
 | Urgently | Unknown | Unknown | Applied | 2025-03-16 |
 | Urgently | Unknown | Unknown | Applied | 2025-03-16 |
 | Asurion | Data Scientist - Generative AI | Unknown | Applied | 2025-03-16 |
-| Palo Alto Networks | Business Systems Analyst, Sales Planning | Unknown | Applied | 2025-03-16 |
 | Salesforce | Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics) | Unknown | Declined | 2025-03-16 |
 | Encord | Data Operations Analyst / Associate | Unknown | Applied | 2025-03-16 |
 | Home Depot | Unknown | Unknown | Applied | 2025-03-16 |

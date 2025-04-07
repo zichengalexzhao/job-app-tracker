@@ -10983,13 +10983,6 @@
         "Date": "2025-03-16"
     },
     {
-        "Company": "Palo Alto Networks",
-        "Job Title": "Business Systems Analyst, Sales Planning",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-16"
-    },
-    {
         "Company": "Salesforce",
         "Job Title": "Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics)",
         "Location": "Unknown",
@@ -16606,6 +16599,69 @@
     {
         "Company": "Morgan & Morgan, P.A.",
         "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Palo Alto Networks",
+        "Job Title": "Business Systems Analyst, Sales Planning",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "PIMCO",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "VISION HOSPITALITY GROUP, LLC",
+        "Job Title": "Business Intelligence Analyst, Operations Analyst",
+        "Location": "Chattanooga, TN",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Blue Cross Blue Shield of Michigan (BCBSM) and Emergent Holdings",
+        "Job Title": "Business Analyst, Artificial Intelligence Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Blue Cross",
+        "Job Title": "Business Analyst, Artificial Intelligence Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "The Knot Worldwide",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "DataRobot",
+        "Job Title": "Junior Data Science Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-07"
