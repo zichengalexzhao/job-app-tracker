@@ -40,6 +40,8 @@
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-07 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-07 |
 | Coinbase | Unknown | Unknown | Applied | 2025-04-07 |
+| King | Unknown | Unknown | Applied | 2025-04-07 |
+| Western Digital | Data Analytics | Unknown | Declined | 2025-04-07 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
@@ -1658,7 +1660,6 @@
 | SentiLink | Unknown | Unknown | Applied | 2025-02-11 |
 | Unknown | Risk Data Scientist - Risk Solutions | Unknown | Applied | 2025-02-11 |
 | KLA-Tencor | Data Scientist | Unknown | Applied | 2025-02-11 |
-| Western Digital | Data Analytics | Unknown | Applied | 2025-02-11 |
 | Tesla | Data Analyst, Supply Chain, 236995 | Unknown | Applied | 2025-02-11 |
 | GOBankingRates | Data Analyst | 100% Remote, Anywhere in the USA | Declined | 2025-02-11 |
 | Oscar | Operations, Data Analyst | Unknown | Declined | 2025-02-11 |

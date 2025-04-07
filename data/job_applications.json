@@ -1330,13 +1330,6 @@
         "Date": "2025-02-11"
     },
     {
-        "Company": "Western Digital",
-        "Job Title": "Data Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-11"
-    },
-    {
         "Company": "Tesla",
         "Job Title": "Data Analyst, Supply Chain, 236995",
         "Location": "Unknown",
@@ -16671,6 +16664,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "King",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-07"
+    },
+    {
+        "Company": "Western Digital",
+        "Job Title": "Data Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-07"
     }
 ]
