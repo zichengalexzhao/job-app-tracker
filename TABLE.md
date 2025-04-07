@@ -11,6 +11,25 @@
 | KLA-Tencor | Data Analytics Engineer | Unknown | Declined | 2025-04-07 |
 | UnitedHealth Group | Data Scientist Consultant | Remote | Declined | 2025-04-07 |
 | Klaviyo | Product Analyst | Unknown | Declined | 2025-04-07 |
+| Stanford University | Healthcare Business Analyst | Unknown | Applied | 2025-04-07 |
+| Beyond Finance | Sales Operations & Analytics Associate | Unknown | Declined | 2025-04-07 |
+| Ayar Labs | Data Analyst - Semiconductor Lasers | Unknown | Applied | 2025-04-07 |
+| Barracuda Networks Inc. | Senior Data Analyst | Unknown | Applied | 2025-04-07 |
+| Supermicro | Sr. Data Analyst | Unknown | Declined | 2025-04-07 |
+| Tesla | PLM Analyst, 237137 | Unknown | Applied | 2025-04-07 |
+| TikTok | Data Analyst, Video Platform - USDS | Unknown | Applied | 2025-04-07 |
+| NewYork-Presbyterian | Data Analyst | Unknown | Applied | 2025-04-07 |
+| Midland Credit Management | Business Analyst | Unknown | Applied | 2025-04-07 |
+| Elevance Health | Data Analytics Internship – Summer 2025 - JR146821 | Unknown | Applied | 2025-04-07 |
+| Blackstone | Quant & Portfolio Analytics, Analyst | Unknown | Applied | 2025-04-07 |
+| Acushnet | 2025 People Analytics Co-op - 3941 | Unknown | Applied | 2025-04-07 |
+| Primerica | Data Support Analyst Intern | Unknown | Applied | 2025-04-07 |
+| Expedia Group | Sr. Analyst – Vrbo US Markets | Unknown | Applied | 2025-04-07 |
+| GroupM Nexus | Marketing Data Scientist | Unknown | Applied | 2025-04-07 |
+| ActBlue | Unknown | Unknown | Applied | 2025-04-07 |
+| Benjamin Moore & Co | Business Insights Intern | Unknown | Applied | 2025-04-07 |
+| Topcon | Data Analyst Intern | Unknown | Applied | 2025-04-07 |
+| Morgan & Morgan, P.A. | Business Intelligence Analyst | Unknown | Applied | 2025-04-07 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data | Unknown | Applied | 2025-04-06 |
 | Mastercard | Analyst, Big Data Analytics & Engineering | Unknown | Declined | 2025-04-06 |
 | Pace Analytical Services | Quality Analyst 1 | Unknown | Declined | 2025-04-06 |
