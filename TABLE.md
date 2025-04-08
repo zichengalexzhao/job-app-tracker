@@ -45,6 +45,10 @@
 | Claritev | Operations Analyst I | Unknown | Applied | 2025-04-08 |
 | Cohere Health | Data Scientist II | Unknown | Declined | 2025-04-08 |
 | Unknown | Machine Learning Engineer | Colorado Springs, CO | Applied | 2025-04-08 |
+| ZeroFox | Intelligence Analyst | Unknown | Applied | 2025-04-08 |
+| ZeroFox | Intelligence Analyst | Unknown | Applied | 2025-04-08 |
+| ZeroFox | Intelligence Analyst | San Francisco, California, United States | Applied | 2025-04-08 |
+| GroupM Nexus | Marketing Data Scientist | Unknown | Declined | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
@@ -70,7 +74,6 @@
 | Acushnet | 2025 People Analytics Co-op - 3941 | Unknown | Applied | 2025-04-07 |
 | Primerica | Data Support Analyst Intern | Unknown | Applied | 2025-04-07 |
 | Expedia Group | Sr. Analyst – Vrbo US Markets | Unknown | Applied | 2025-04-07 |
-| GroupM Nexus | Marketing Data Scientist | Unknown | Applied | 2025-04-07 |
 | ActBlue | Unknown | Unknown | Applied | 2025-04-07 |
 | Benjamin Moore & Co | Business Insights Intern | Unknown | Applied | 2025-04-07 |
 | Topcon | Data Analyst Intern | Unknown | Applied | 2025-04-07 |

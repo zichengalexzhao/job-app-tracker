@@ -16541,13 +16541,6 @@
         "Date": "2025-04-07"
     },
     {
-        "Company": "GroupM Nexus",
-        "Job Title": "Marketing Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-07"
-    },
-    {
         "Company": "ActBlue",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -17056,6 +17049,34 @@
         "Job Title": "Machine Learning Engineer",
         "Location": "Colorado Springs, CO",
         "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "ZeroFox",
+        "Job Title": "Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "ZeroFox",
+        "Job Title": "Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "ZeroFox",
+        "Job Title": "Intelligence Analyst",
+        "Location": "San Francisco, California, United States",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "GroupM Nexus",
+        "Job Title": "Marketing Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-08"
     }
 ]
