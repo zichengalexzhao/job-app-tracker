@@ -44,6 +44,7 @@
 | Live Nation Worldwide, Inc. | Data Visualization Intern, LiveAnalytics | Unknown | Declined | 2025-04-08 |
 | Claritev | Operations Analyst I | Unknown | Applied | 2025-04-08 |
 | Cohere Health | Data Scientist II | Unknown | Declined | 2025-04-08 |
+| Unknown | Machine Learning Engineer | Colorado Springs, CO | Applied | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |

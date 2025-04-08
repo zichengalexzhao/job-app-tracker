@@ -17050,5 +17050,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-08"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Machine Learning Engineer",
+        "Location": "Colorado Springs, CO",
+        "status": "Applied",
+        "Date": "2025-04-08"
     }
 ]
