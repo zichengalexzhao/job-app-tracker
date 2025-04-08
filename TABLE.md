@@ -43,6 +43,7 @@
 | Maxwell Locke & Ritter | Unknown | Unknown | Applied | 2025-04-08 |
 | Live Nation Worldwide, Inc. | Data Visualization Intern, LiveAnalytics | Unknown | Declined | 2025-04-08 |
 | Claritev | Operations Analyst I | Unknown | Applied | 2025-04-08 |
+| Cohere Health | Data Scientist II | Unknown | Declined | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
@@ -187,7 +188,6 @@
 | ID.me | Business Insights Analyst - Member Operations | Unknown | Declined | 2025-04-03 |
 | Applied Materials | Market Analyst II | Santa Clara, CA | Applied | 2025-04-03 |
 | 7-Eleven | Data Science Intern | Unknown | Applied | 2025-04-03 |
-| Cohere Health | Data Scientist II | Unknown | Applied | 2025-04-03 |
 | CereCore | Unknown | Unknown | Applied | 2025-04-03 |
 | Natera | Unknown | Unknown | Applied | 2025-04-03 |
 | Unknown | Unknown | Unknown | Applied | 2025-04-03 |

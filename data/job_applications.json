@@ -15715,13 +15715,6 @@
         "Date": "2025-04-03"
     },
     {
-        "Company": "Cohere Health",
-        "Job Title": "Data Scientist II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-03"
-    },
-    {
         "Company": "CereCore",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -17049,6 +17042,13 @@
         "Job Title": "Operations Analyst I",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Cohere Health",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-08"
     }
 ]
