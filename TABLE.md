@@ -34,6 +34,13 @@
 | Bally's Interactive | Graduate Insight Analyst - Marketing | Unknown | Declined | 2025-04-08 |
 | Navitus Health Solutions, LLC | Business Intelligence Developer | Unknown | Declined | 2025-04-08 |
 | NBCUniversal | Analyst, Compliance Operations | Unknown | Applied | 2025-04-08 |
+| Convoso | Unknown | Unknown | Applied | 2025-04-08 |
+| Scan Health Plan | Business Intelligence Analyst II | Unknown | Applied | 2025-04-08 |
+| Forest Lawn | Business / Data Analyst | Unknown | Applied | 2025-04-08 |
+| Cupertino Electric, Inc. | Data Analyst | Unknown | Applied | 2025-04-08 |
+| Google | Unknown | Unknown | Applied | 2025-04-08 |
+| StepStone Group | Junior Analyst - Client Data Support | Unknown | Applied | 2025-04-08 |
+| Maxwell Locke & Ritter | Unknown | Unknown | Applied | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
