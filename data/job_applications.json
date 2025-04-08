@@ -16135,13 +16135,6 @@
         "Date": "2025-04-05"
     },
     {
-        "Company": "Bally's Interactive",
-        "Job Title": "Graduate Insight Analyst - Marketing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-05"
-    },
-    {
         "Company": "Jun Group",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -16949,6 +16942,48 @@
     {
         "Company": "Horizon Media",
         "Job Title": "Analyst, Advanced Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "SitusAMC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Trane Technologies",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Sharp HealthCare",
+        "Job Title": "Business Intelligence Analyst I - Enterprise Data Analytics",
+        "Location": "San Diego Corporate Office",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Bally's Interactive",
+        "Job Title": "Graduate Insight Analyst - Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Navitus Health Solutions, LLC",
+        "Job Title": "Business Intelligence Developer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "NBCUniversal",
+        "Job Title": "Analyst, Compliance Operations",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-08"

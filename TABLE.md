@@ -28,6 +28,12 @@
 | Exact Sciences | Unknown | Unknown | Applied | 2025-04-08 |
 | Pacific Gas and Electric Company (PG&E) | Data Scientist | Unknown | Applied | 2025-04-08 |
 | Horizon Media | Analyst, Advanced Analytics | Unknown | Applied | 2025-04-08 |
+| SitusAMC | Unknown | Unknown | Applied | 2025-04-08 |
+| Trane Technologies | Unknown | Unknown | Applied | 2025-04-08 |
+| Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data Analytics | San Diego Corporate Office | Applied | 2025-04-08 |
+| Bally's Interactive | Graduate Insight Analyst - Marketing | Unknown | Declined | 2025-04-08 |
+| Navitus Health Solutions, LLC | Business Intelligence Developer | Unknown | Declined | 2025-04-08 |
+| NBCUniversal | Analyst, Compliance Operations | Unknown | Applied | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
@@ -98,7 +104,6 @@
 | Unknown | Unknown | Unknown | Applied | 2025-04-05 |
 | Nordstrom | Unknown | Unknown | Applied | 2025-04-05 |
 | Omnicom Health | Data & Digital Intern | Unknown | Applied | 2025-04-05 |
-| Bally's Interactive | Graduate Insight Analyst - Marketing | Unknown | Applied | 2025-04-05 |
 | Jun Group | Unknown | Unknown | Applied | 2025-04-05 |
 | Earnest | Unknown | Unknown | Applied | 2025-04-05 |
 | Applied Intuition | Data Quality Specialist | Unknown | Applied | 2025-04-05 |
