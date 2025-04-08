@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
+| Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
+| Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
+| BC (Unknown) | Business Data Analyst | Unknown | Applied | 2025-04-08 |
+| Cellebrite | Marketing Data Analyst | Unknown | Applied | 2025-04-08 |
+| Archer | Supply Chain Data Analyst | Unknown | Applied | 2025-04-08 |
+| Mochi Health | Unknown | Unknown | Applied | 2025-04-08 |
+| 1Password | Unknown | Unknown | Applied | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
