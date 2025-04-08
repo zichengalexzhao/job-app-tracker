@@ -41,6 +41,8 @@
 | Google | Unknown | Unknown | Applied | 2025-04-08 |
 | StepStone Group | Junior Analyst - Client Data Support | Unknown | Applied | 2025-04-08 |
 | Maxwell Locke & Ritter | Unknown | Unknown | Applied | 2025-04-08 |
+| Live Nation Worldwide, Inc. | Data Visualization Intern, LiveAnalytics | Unknown | Declined | 2025-04-08 |
+| Claritev | Operations Analyst I | Unknown | Applied | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
