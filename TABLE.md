@@ -8,6 +8,7 @@
 | Archer | Supply Chain Data Analyst | Unknown | Applied | 2025-04-08 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-04-08 |
 | 1Password | Unknown | Unknown | Applied | 2025-04-08 |
+| Lowe's | Unknown | Unknown | Applied | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
