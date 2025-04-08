@@ -16,6 +16,18 @@
 | Weee! Inc | Operations Analyst II | Unknown | Applied | 2025-04-08 |
 | RPA Advertising | Audience Intelligence Analyst | Unknown | Applied | 2025-04-08 |
 | Twitch | Data Scientist - Analytics (Health) | Unknown | Declined | 2025-04-08 |
+| LegitScript | Analyst, Merchant Monitoring | Unknown | Declined | 2025-04-08 |
+| H-E-B, L.P. | Business Analyst I 2025-153808 | Unknown | Applied | 2025-04-08 |
+| Molina Healthcare | Data Analyst (Healthcare Required) | CA (Remote) | Applied | 2025-04-08 |
+| Disney | Unknown | Unknown | Applied | 2025-04-08 |
+| Zenlayer, Inc | Unknown | Unknown | Applied | 2025-04-08 |
+| McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Applied | 2025-04-08 |
+| Conduent | Business Operations Analyst II | Unknown | Applied | 2025-04-08 |
+| Sei Labs | Research Analyst | Unknown | Applied | 2025-04-08 |
+| Apple | Video Content Data Scientist | Unknown | Applied | 2025-04-08 |
+| Exact Sciences | Unknown | Unknown | Applied | 2025-04-08 |
+| Pacific Gas and Electric Company (PG&E) | Data Scientist | Unknown | Applied | 2025-04-08 |
+| Horizon Media | Analyst, Advanced Analytics | Unknown | Applied | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |
@@ -145,7 +157,6 @@
 | US Olympic Committee | Unknown | Colorado Springs, CO | Applied | 2025-04-03 |
 | Oakley Transport | Reporting and Business Intelligence Analyst | Unknown | Applied | 2025-04-03 |
 | Sysco | Customer Intelligence Data Analyst | Houston, TX | Applied | 2025-04-03 |
-| LegitScript | Analyst, Merchant Monitoring | Unknown | Applied | 2025-04-03 |
 | Lacek | Data Intelligence Intern | Unknown | Applied | 2025-04-03 |
 | Sigma Computing | Unknown | San Francisco, CA | Applied | 2025-04-03 |
 | FIS | Data Scientist, FIS University Program | Unknown | Applied | 2025-04-03 |

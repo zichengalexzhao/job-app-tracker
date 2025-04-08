@@ -15603,13 +15603,6 @@
         "Date": "2025-04-03"
     },
     {
-        "Company": "LegitScript",
-        "Job Title": "Analyst, Merchant Monitoring",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-03"
-    },
-    {
         "Company": "Lacek",
         "Job Title": "Data Intelligence Intern",
         "Location": "Unknown",
@@ -16874,6 +16867,90 @@
         "Job Title": "Data Scientist - Analytics (Health)",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "LegitScript",
+        "Job Title": "Analyst, Merchant Monitoring",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "H-E-B, L.P.",
+        "Job Title": "Business Analyst I 2025-153808",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Molina Healthcare",
+        "Job Title": "Data Analyst (Healthcare Required)",
+        "Location": "CA (Remote)",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Zenlayer, Inc",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Business Analyst - Strategy & Corporate Finance and Private Capital",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Conduent",
+        "Job Title": "Business Operations Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Sei Labs",
+        "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Apple",
+        "Job Title": "Video Content Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Exact Sciences",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Pacific Gas and Electric Company (PG&E)",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Horizon Media",
+        "Job Title": "Analyst, Advanced Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-08"
     }
 ]
