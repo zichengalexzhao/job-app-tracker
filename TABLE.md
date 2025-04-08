@@ -9,6 +9,13 @@
 | Mochi Health | Unknown | Unknown | Applied | 2025-04-08 |
 | 1Password | Unknown | Unknown | Applied | 2025-04-08 |
 | Lowe's | Unknown | Unknown | Applied | 2025-04-08 |
+| NSF (National Science Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-08 |
+| Toyota | Senior Business Analyst, Charging Technology & Customer Experience | Unknown | Applied | 2025-04-08 |
+| Capstone Investment Advisors | Data Scientist | Unknown | Applied | 2025-04-08 |
+| OMD (Omnicom Media Group) | Associate, Data Operations | Unknown | Applied | 2025-04-08 |
+| Weee! Inc | Operations Analyst II | Unknown | Applied | 2025-04-08 |
+| RPA Advertising | Audience Intelligence Analyst | Unknown | Applied | 2025-04-08 |
+| Twitch | Data Scientist - Analytics (Health) | Unknown | Declined | 2025-04-08 |
 | Everlight Solar | Unknown | Unknown | Declined | 2025-04-07 |
 | Keurig Dr Pepper | Business Intelligence Analyst | Unknown | Declined | 2025-04-07 |
 | Koch | Data Management Analyst | Unknown | Declined | 2025-04-07 |

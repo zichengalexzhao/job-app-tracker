@@ -16826,5 +16826,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-08"
+    },
+    {
+        "Company": "NSF (National Science Foundation)",
+        "Job Title": "Associate Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Toyota",
+        "Job Title": "Senior Business Analyst, Charging Technology & Customer Experience",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Capstone Investment Advisors",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "OMD (Omnicom Media Group)",
+        "Job Title": "Associate, Data Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Weee! Inc",
+        "Job Title": "Operations Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "RPA Advertising",
+        "Job Title": "Audience Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-08"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Data Scientist - Analytics (Health)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-08"
     }
 ]
