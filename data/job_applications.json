@@ -17176,5 +17176,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-09"
+    },
+    {
+        "Company": "Whalar",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
     }
 ]
