@@ -17155,5 +17155,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-09"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Access Data Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Reporting and Analytics Consultant III Main",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Mastercard",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
     }
 ]
