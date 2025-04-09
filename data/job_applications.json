@@ -17190,5 +17190,26 @@
         "Location": "Washington",
         "status": "Declined",
         "Date": "2025-04-09"
+    },
+    {
+        "Company": "Molina Healthcare",
+        "Job Title": "Data Analyst (Healthcare Required)",
+        "Location": "CA",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Vizient",
+        "Job Title": "Analytics and Insights Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "NSF (National Sanitation Foundation)",
+        "Job Title": "Associate Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
     }
 ]
