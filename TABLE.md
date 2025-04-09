@@ -22,6 +22,27 @@
 | Cainiao Supply Chain US. INC. | Logistics Operations Analyst | Los Angeles, CA | Applied | 2025-04-09 |
 | Intuit | Data Scientist, AI Scientist, Machine Learning Engineer | Unknown | Applied | 2025-04-09 |
 | Montefiore Medical Center | BUSINESS INTELLIGENCE ANALYST | YONKERS, NY, US | Applied | 2025-04-09 |
+| Pearson | Senior Data Analyst - Strategy, K12 & Early Career - 19202 | Unknown | Applied | 2025-04-09 |
+| Hamilton Company | Data Analyst | Unknown | Applied | 2025-04-09 |
+| Zenlayer, Inc | Unknown | Unknown | Applied | 2025-04-09 |
+| CyberCoders | Data Analyst | La Puente | Applied | 2025-04-09 |
+| Adventist Health | Performance Analyst (System), Management Reporting - 38357 | Unknown | Applied | 2025-04-09 |
+| Ensemble Health Partners | Analyst II, Business Product | Unknown | Applied | 2025-04-09 |
+| Form Energy | Unknown | Unknown | Applied | 2025-04-09 |
+| Sanofi | Sales Analyst | Unknown | Applied | 2025-04-09 |
+| Brightspeed | Business Analyst | Unknown | Applied | 2025-04-09 |
+| Oscar | Senior Analyst, Compensation | Unknown | Applied | 2025-04-09 |
+| Okland | Data Analyst | Unknown | Applied | 2025-04-09 |
+| Retool | Unknown | Unknown | Applied | 2025-04-09 |
+| Compass Group | ANALYST, STRATEGY & ANALYTICS - FEDEX FORUM | Memphis, TN | Applied | 2025-04-09 |
+| Infinitive Inc | Unknown | Unknown | Applied | 2025-04-09 |
+| Condé Nast | Unknown | Unknown | Applied | 2025-04-09 |
+| ComEd | Analyst, Data Analytics | Unknown | Applied | 2025-04-09 |
+| Compass Group | Unknown | Unknown | Applied | 2025-04-09 |
+| Novus Home Mortgage | Data Analyst | Unknown | Declined | 2025-04-09 |
+| Cardinal Health | Unknown | Unknown | Applied | 2025-04-09 |
+| Placer.ai | Unknown | Unknown | Applied | 2025-04-09 |
+| Vonage | Junior Product Analyst | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
