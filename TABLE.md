@@ -3,6 +3,10 @@
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
+| Workday @ OneDigital | Unknown | Unknown | Applied | 2025-04-09 |
+| Aston Carter | Data & Video Analyst | Unknown | Applied | 2025-04-09 |
+| EssilorLuxottica | Customer Satisfaction Analyst - Returns and Quality-881759 | Unknown | Applied | 2025-04-09 |
+| GG BRANDS COMPANY | Unknown | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
