@@ -56,6 +56,12 @@
 | Convoso | Customer Success Operations Analyst | Unknown | Declined | 2025-04-09 |
 | CPS Solutions, LLC | Unknown | Unknown | Applied | 2025-04-09 |
 | The Venetian Resort Las Vegas | ANALYST - CASINO OPTIMIZATION | Unknown | Applied | 2025-04-09 |
+| Tower Research Capital | Unknown | Unknown | Applied | 2025-04-09 |
+| Zoom Communications | Research Scientist | Unknown | Applied | 2025-04-09 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-09 |
+| Oracle | Consulting Project Consultant - 287403 | Unknown | Applied | 2025-04-09 |
+| DataVisor | Solution Data Scientist | Unknown | Applied | 2025-04-09 |
+| Sacramento Kings | Business Intelligence Analyst | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
