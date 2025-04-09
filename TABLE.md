@@ -10,6 +10,7 @@
 | MCM | HR - 08954 Business Analyst | Unknown | Declined | 2025-04-09 |
 | AAA | Data Analyst | Unknown | Applied | 2025-04-09 |
 | BIGO | Business Analytics Intern | Unknown | Applied | 2025-04-09 |
+| Zipline | Data Analyst Intern | Unknown | Declined | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |

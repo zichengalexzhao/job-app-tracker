@@ -17148,5 +17148,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-09"
+    },
+    {
+        "Company": "Zipline",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
     }
 ]
