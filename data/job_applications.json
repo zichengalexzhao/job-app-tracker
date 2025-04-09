@@ -17078,5 +17078,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-08"
+    },
+    {
+        "Company": "SAP",
+        "Job Title": "DATA SCIENCE: SAP Next Talent - Rotational Program",
+        "Location": "Palo Alto, CA, US",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Reporting and Analytics Consultant II, Programming",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "San Francisco Forty Niners",
+        "Job Title": "Performance R&D Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
     }
 ]
