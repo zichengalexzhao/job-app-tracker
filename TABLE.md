@@ -7,6 +7,8 @@
 | Aston Carter | Data & Video Analyst | Unknown | Applied | 2025-04-09 |
 | EssilorLuxottica | Customer Satisfaction Analyst - Returns and Quality-881759 | Unknown | Applied | 2025-04-09 |
 | GG BRANDS COMPANY | Unknown | Unknown | Applied | 2025-04-09 |
+| MCM | HR - 08954 Business Analyst | Unknown | Declined | 2025-04-09 |
+| AAA | Data Analyst | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |

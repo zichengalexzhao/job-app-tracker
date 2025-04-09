@@ -17127,5 +17127,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-09"
+    },
+    {
+        "Company": "MCM",
+        "Job Title": "HR - 08954 Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "AAA",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
     }
 ]
