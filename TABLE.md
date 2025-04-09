@@ -15,6 +15,7 @@
 | Kaiser Permanente | Data Reporting and Analytics Consultant III Main | Unknown | Declined | 2025-04-09 |
 | Mastercard | Unknown | Unknown | Applied | 2025-04-09 |
 | Whalar | Data Analyst | Unknown | Declined | 2025-04-09 |
+| Amtrak | Summer 2025 Big Data Engineering Intern | Washington | Declined | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
