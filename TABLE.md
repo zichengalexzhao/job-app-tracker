@@ -43,6 +43,13 @@
 | Cardinal Health | Unknown | Unknown | Applied | 2025-04-09 |
 | Placer.ai | Unknown | Unknown | Applied | 2025-04-09 |
 | Vonage | Junior Product Analyst | Unknown | Applied | 2025-04-09 |
+| Unknown | Business Analyst, Artificial Intelligence Intern | Unknown | Applied | 2025-04-09 |
+| Think Together | Unknown | Unknown | Applied | 2025-04-09 |
+| Claritev | Operations Analyst I | Unknown | Applied | 2025-04-09 |
+| Elevance Health | Data Analytics Internship – Summer 2025 | Unknown | Declined | 2025-04-09 |
+| American Career College | Business Analyst | Unknown | Applied | 2025-04-09 |
+| American Career College | Business Analyst | Unknown | Applied | 2025-04-09 |
+| Stanford University | Business Intelligence Analyst | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |

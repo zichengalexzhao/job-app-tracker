@@ -17379,5 +17379,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-09"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Analyst, Artificial Intelligence Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Think Together",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Claritev",
+        "Job Title": "Operations Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Elevance Health",
+        "Job Title": "Data Analytics Internship \u2013 Summer 2025",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "American Career College",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "American Career College",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Stanford University",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
     }
 ]
