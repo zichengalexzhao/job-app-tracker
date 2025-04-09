@@ -62,6 +62,15 @@
 | Oracle | Consulting Project Consultant - 287403 | Unknown | Applied | 2025-04-09 |
 | DataVisor | Solution Data Scientist | Unknown | Applied | 2025-04-09 |
 | Sacramento Kings | Business Intelligence Analyst | Unknown | Applied | 2025-04-09 |
+| Flynn Group | Unknown | Unknown | Applied | 2025-04-09 |
+| Pacific Gas and Electric (PG&E) | Data Governance Analyst, Associate Requisition ID 164124 | Unknown | Applied | 2025-04-09 |
+| Universal Orlando Resort | Analyst I, Research Fulfillment | Unknown | Applied | 2025-04-09 |
+| Alameda Health System | Charge Description Master (CDM) Analyst | Unknown | Applied | 2025-04-09 |
+| Kharon | Research Analyst | Unknown | Applied | 2025-04-09 |
+| Aon | Data Analytics Analyst | Unknown | Applied | 2025-04-09 |
+| Uber | Data Scientist I | US - Risk & Fraud | Applied | 2025-04-09 |
+| DataVisor | Solution Data Scientist | Unknown | Applied | 2025-04-09 |
+| PNC | Business Analyst | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
