@@ -50,6 +50,12 @@
 | American Career College | Business Analyst | Unknown | Applied | 2025-04-09 |
 | American Career College | Business Analyst | Unknown | Applied | 2025-04-09 |
 | Stanford University | Business Intelligence Analyst | Unknown | Applied | 2025-04-09 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-09 |
+| Sumitomo Mitsui Banking Corporation | Associate, Data Analytics | Unknown | Applied | 2025-04-09 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-09 |
+| Convoso | Customer Success Operations Analyst | Unknown | Declined | 2025-04-09 |
+| CPS Solutions, LLC | Unknown | Unknown | Applied | 2025-04-09 |
+| The Venetian Resort Las Vegas | ANALYST - CASINO OPTIMIZATION | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
