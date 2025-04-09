@@ -20,6 +20,8 @@
 | Vizient | Analytics and Insights Associate | Unknown | Declined | 2025-04-09 |
 | NSF (National Sanitation Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-09 |
 | Cainiao Supply Chain US. INC. | Logistics Operations Analyst | Los Angeles, CA | Applied | 2025-04-09 |
+| Intuit | Data Scientist, AI Scientist, Machine Learning Engineer | Unknown | Applied | 2025-04-09 |
+| Montefiore Medical Center | BUSINESS INTELLIGENCE ANALYST | YONKERS, NY, US | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |

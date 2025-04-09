@@ -17218,5 +17218,19 @@
         "Location": "Los Angeles, CA",
         "status": "Applied",
         "Date": "2025-04-09"
+    },
+    {
+        "Company": "Intuit",
+        "Job Title": "Data Scientist, AI Scientist, Machine Learning Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-09"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "BUSINESS INTELLIGENCE ANALYST",
+        "Location": "YONKERS, NY, US",
+        "status": "Applied",
+        "Date": "2025-04-09"
     }
 ]
