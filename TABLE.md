@@ -27,6 +27,15 @@
 | Point72 | L/S Data Analyst | Unknown | Declined | 2025-04-10 |
 | StepStone Group | Junior Analyst - Client Data Support | La Jolla | Declined | 2025-04-10 |
 | xAI | Unknown | Unknown | Applied | 2025-04-10 |
+| Messari | Analytics Engineer | Unknown | Applied | 2025-04-10 |
+| St. Jude | Unknown | Unknown | Applied | 2025-04-10 |
+| UMortgage | Lock Desk Analyst | Unknown | Applied | 2025-04-10 |
+| ASM | Data Analyst | Unknown | Declined | 2025-04-10 |
+| Tubi | Data Engineer | Unknown | Applied | 2025-04-10 |
+| Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |
+| EverBank N.A. | Data Analyst - Community Reinvestment Act | Jacksonville, Florida | Applied | 2025-04-10 |
+| Elevance Health Companies, Inc. | Advanced Analytics Analyst | Unknown | Applied | 2025-04-10 |
+| Chewy.com | Business Intelligence Engineer I | Unknown | Declined | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |

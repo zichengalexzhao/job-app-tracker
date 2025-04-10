@@ -17729,5 +17729,68 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-10"
+    },
+    {
+        "Company": "Messari",
+        "Job Title": "Analytics Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "St. Jude",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "UMortgage",
+        "Job Title": "Lock Desk Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "ASM",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Tubi",
+        "Job Title": "Data Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Angi",
+        "Job Title": "Compensation & Equity Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "EverBank N.A.",
+        "Job Title": "Data Analyst - Community Reinvestment Act",
+        "Location": "Jacksonville, Florida",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Elevance Health Companies, Inc.",
+        "Job Title": "Advanced Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Chewy.com",
+        "Job Title": "Business Intelligence Engineer I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
     }
 ]
