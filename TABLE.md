@@ -52,6 +52,7 @@
 | Claritev | Operations Analyst I | Unknown | Applied | 2025-04-10 |
 | RISEBORO COMMUNITY PARTNERSHIP | Unknown | Unknown | Applied | 2025-04-10 |
 | USAA | AI/ML Engineer Entry Level | Unknown | Declined | 2025-04-10 |
+| Q Marketing | Data Analyst | Unknown | Declined | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
