@@ -13111,13 +13111,6 @@
         "Date": "2025-03-24"
     },
     {
-        "Company": "Point72",
-        "Job Title": "L/S Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-24"
-    },
-    {
         "Company": "Orion Innovation",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -17719,6 +17712,13 @@
     {
         "Company": "ASM",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Point72",
+        "Job Title": "L/S Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-10"

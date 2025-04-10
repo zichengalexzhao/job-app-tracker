@@ -24,6 +24,7 @@
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-10 |
 | Visa | Associate Tech Product Analyst | Unknown | Declined | 2025-04-10 |
 | ASM | Data Analyst | Unknown | Declined | 2025-04-10 |
+| Point72 | L/S Data Analyst | Unknown | Declined | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
@@ -657,7 +658,6 @@
 | Boeing | Mid-Level Business Process Analyst | Seattle, WA | Applied | 2025-03-24 |
 | AbbVie | Data Scientist I (Lake County Site Operations) | Lake County | Applied | 2025-03-24 |
 | Block | Data Analyst | Unknown | Applied | 2025-03-24 |
-| Point72 | L/S Data Analyst | Unknown | Applied | 2025-03-24 |
 | Orion Innovation | Unknown | Unknown | Applied | 2025-03-24 |
 | Johnson & Johnson | Machine Learning Engineer | Unknown | Declined | 2025-03-24 |
 | Gemini | Analyst, Social Media | Unknown | Declined | 2025-03-24 |
