@@ -1,6 +1,12 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
+| DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
+| Lincoln International | Unknown | Unknown | Applied | 2025-04-10 |
+| Trust & Will | Data Analyst | Unknown | Applied | 2025-04-10 |
+| Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
+| Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |
+| The Trade Desk | Unknown | Unknown | Applied | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
