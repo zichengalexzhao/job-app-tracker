@@ -16982,13 +16982,6 @@
         "Date": "2025-04-08"
     },
     {
-        "Company": "StepStone Group",
-        "Job Title": "Junior Analyst - Client Data Support",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-08"
-    },
-    {
         "Company": "Maxwell Locke & Ritter",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -17720,6 +17713,13 @@
         "Company": "Point72",
         "Job Title": "L/S Data Analyst",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "StepStone Group",
+        "Job Title": "Junior Analyst - Client Data Support",
+        "Location": "La Jolla",
         "status": "Declined",
         "Date": "2025-04-10"
     }
