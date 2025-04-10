@@ -7098,13 +7098,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "USAA",
-        "Job Title": "AI/ML Engineer Entry Level",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "Kodiak",
         "Job Title": "New Grad Applied AI Engineer - Computer Vision",
         "Location": "Unknown",
@@ -17889,6 +17882,20 @@
         "Job Title": "Operations Analyst I",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "RISEBORO COMMUNITY PARTNERSHIP",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "USAA",
+        "Job Title": "AI/ML Engineer Entry Level",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-10"
     }
 ]

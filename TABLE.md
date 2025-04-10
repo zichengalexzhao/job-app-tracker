@@ -50,6 +50,8 @@
 | SeatGeek | Workforce Analyst | Unknown | Applied | 2025-04-10 |
 | Reyes Coca-Cola Bottling LLC | Business Intelligence Specialist | Unknown | Applied | 2025-04-10 |
 | Claritev | Operations Analyst I | Unknown | Applied | 2025-04-10 |
+| RISEBORO COMMUNITY PARTNERSHIP | Unknown | Unknown | Applied | 2025-04-10 |
+| USAA | AI/ML Engineer Entry Level | Unknown | Declined | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
@@ -1559,7 +1561,6 @@
 | LegitScript | Analyst I, Certification | Unknown | Declined | 2025-02-27 |
 | BlueYonder | Data Scientist (Gen AI) | Unknown | Applied | 2025-02-27 |
 | Travelers | Unknown | Unknown | Applied | 2025-02-27 |
-| USAA | AI/ML Engineer Entry Level | Unknown | Applied | 2025-02-27 |
 | Kodiak | New Grad Applied AI Engineer - Computer Vision | Unknown | Applied | 2025-02-27 |
 | Starcom (Publicis Groupe) | Analyst, Paid Social (2025-95407) | Unknown | Applied | 2025-02-27 |
 | Coalition Technologies | SEO Analyst | Unknown | Applied | 2025-02-27 |
