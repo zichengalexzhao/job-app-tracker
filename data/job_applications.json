@@ -17827,5 +17827,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-10"
+    },
+    {
+        "Company": "Moog",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Steampunk",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "steampunk",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Yeti Coolers",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Cambia Health Solutions",
+        "Job Title": "Risk Management BSA I, II, III",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
     }
 ]
