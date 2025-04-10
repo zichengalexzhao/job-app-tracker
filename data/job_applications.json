@@ -16926,13 +16926,6 @@
         "Date": "2025-04-08"
     },
     {
-        "Company": "Horizon Media",
-        "Job Title": "Analyst, Advanced Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-08"
-    },
-    {
         "Company": "SitusAMC",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -17623,6 +17616,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Horizon Media",
+        "Job Title": "Analyst, Advanced Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-10"
     }
 ]

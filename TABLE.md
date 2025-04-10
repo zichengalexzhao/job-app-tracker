@@ -7,6 +7,7 @@
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
 | Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |
 | The Trade Desk | Unknown | Unknown | Applied | 2025-04-10 |
+| Horizon Media | Analyst, Advanced Analytics | Unknown | Declined | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
@@ -105,7 +106,6 @@
 | Apple | Video Content Data Scientist | Unknown | Applied | 2025-04-08 |
 | Exact Sciences | Unknown | Unknown | Applied | 2025-04-08 |
 | Pacific Gas and Electric Company (PG&E) | Data Scientist | Unknown | Applied | 2025-04-08 |
-| Horizon Media | Analyst, Advanced Analytics | Unknown | Applied | 2025-04-08 |
 | SitusAMC | Unknown | Unknown | Applied | 2025-04-08 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-08 |
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data Analytics | San Diego Corporate Office | Applied | 2025-04-08 |
