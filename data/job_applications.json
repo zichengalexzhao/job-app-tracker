@@ -17862,5 +17862,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-10"
+    },
+    {
+        "Company": "Zywa",
+        "Job Title": "Senior Product Data Analyst",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "SeatGeek",
+        "Job Title": "Workforce Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Reyes Coca-Cola Bottling LLC",
+        "Job Title": "Business Intelligence Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Claritev",
+        "Job Title": "Operations Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
     }
 ]

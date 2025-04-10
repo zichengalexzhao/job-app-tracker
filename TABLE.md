@@ -46,6 +46,10 @@
 | steampunk | Junior Data Analyst | Unknown | Applied | 2025-04-10 |
 | Yeti Coolers | Unknown | Unknown | Applied | 2025-04-10 |
 | Cambia Health Solutions | Risk Management BSA I, II, III | Unknown | Applied | 2025-04-10 |
+| Zywa | Senior Product Data Analyst | San Francisco, CA | Applied | 2025-04-10 |
+| SeatGeek | Workforce Analyst | Unknown | Applied | 2025-04-10 |
+| Reyes Coca-Cola Bottling LLC | Business Intelligence Specialist | Unknown | Applied | 2025-04-10 |
+| Claritev | Operations Analyst I | Unknown | Applied | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
