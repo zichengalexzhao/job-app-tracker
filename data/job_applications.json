@@ -17722,5 +17722,12 @@
         "Location": "La Jolla",
         "status": "Declined",
         "Date": "2025-04-10"
+    },
+    {
+        "Company": "xAI",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
     }
 ]
