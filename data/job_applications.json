@@ -13699,13 +13699,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "ASM",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "Sephora",
         "Job Title": "Analyst, Media Insights",
         "Location": "FSC REMOTE SF/NY/DC",
@@ -17719,6 +17712,13 @@
     {
         "Company": "Visa",
         "Job Title": "Associate Tech Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "ASM",
+        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-10"
