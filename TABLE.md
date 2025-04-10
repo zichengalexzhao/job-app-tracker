@@ -8,6 +8,20 @@
 | Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |
 | The Trade Desk | Unknown | Unknown | Applied | 2025-04-10 |
 | Horizon Media | Analyst, Advanced Analytics | Unknown | Declined | 2025-04-10 |
+| Tencent | Unknown | Unknown | Applied | 2025-04-10 |
+| CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-04-10 |
+| Visa | Unknown | Unknown | Applied | 2025-04-10 |
+| Unknown | Benefits Analyst I | Unknown | Applied | 2025-04-10 |
+| Micron | Data Scientist | Unknown | Declined | 2025-04-10 |
+| Cognizant | Business Analyst, Energy & Utilities Consulting Practice-00063648231 | Unknown | Applied | 2025-04-10 |
+| Unknown | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-04-10 |
+| Zelis | Technical Product Analyst | Unknown | Applied | 2025-04-10 |
+| Inspire Brands | Brand Analytics Analyst - Arby's | Unknown | Applied | 2025-04-10 |
+| New Energy Equity | Unknown | Unknown | Applied | 2025-04-10 |
+| Zel Technologies LLC | Unknown | Unknown | Applied | 2025-04-10 |
+| Plymouth Rock Assurance Corporation | Claims Analytics Analyst | Unknown | Applied | 2025-04-10 |
+| Uline | Unknown | Unknown | Applied | 2025-04-10 |
+| Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |
@@ -723,7 +737,6 @@
 | Unknown | IT Programmer Analyst I | Unknown | Declined | 2025-03-20 |
 | ZEO Energy | Business Intelligence Analyst | Unknown | Applied | 2025-03-20 |
 | Agilent | Business Process Analyst - Field Repair Center | Unknown | Applied | 2025-03-20 |
-| Micron | Data Scientist | Unknown | Applied | 2025-03-20 |
 | New York City Housing Development Corporation | Business & Data Analyst | Unknown | Applied | 2025-03-20 |
 | GM Financial | Data Analyst I | Unknown | Applied | 2025-03-20 |
 | DiscovermyHR | Unknown | Unknown | Applied | 2025-03-20 |

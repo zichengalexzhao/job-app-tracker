@@ -12474,13 +12474,6 @@
         "Date": "2025-03-20"
     },
     {
-        "Company": "Micron",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-20"
-    },
-    {
         "Company": "New York City Housing Development Corporation",
         "Job Title": "Business & Data Analyst",
         "Location": "Unknown",
@@ -17621,6 +17614,104 @@
     {
         "Company": "Horizon Media",
         "Job Title": "Analyst, Advanced Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Tencent",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "CAA (Creative Artists Agency)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Benefits Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Micron",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Cognizant",
+        "Job Title": "Business Analyst, Energy & Utilities Consulting Practice-00063648231",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Employee Benefits Data Analytics Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Zelis",
+        "Job Title": "Technical Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Inspire Brands",
+        "Job Title": "Brand Analytics Analyst - Arby's",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "New Energy Equity",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Zel Technologies LLC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Plymouth Rock Assurance Corporation",
+        "Job Title": "Claims Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Uline",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Reporting and Analytics Consultant II, Programming",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-10"
