@@ -36,6 +36,11 @@
 | EverBank N.A. | Data Analyst - Community Reinvestment Act | Jacksonville, Florida | Applied | 2025-04-10 |
 | Elevance Health Companies, Inc. | Advanced Analytics Analyst | Unknown | Applied | 2025-04-10 |
 | Chewy.com | Business Intelligence Engineer I | Unknown | Declined | 2025-04-10 |
+| ALX Africa | Unknown | Unknown | Applied | 2025-04-10 |
+| EssilorLuxottica | Customer Satisfaction Analyst - Returns and Quality-881683 | Unknown | Applied | 2025-04-10 |
+| HealthEquity | Business Analyst, Fraud Prevention | Unknown | Declined | 2025-04-10 |
+| Child Action, Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
+| Infinitive Inc | Unknown | Unknown | Applied | 2025-04-10 |
 | SAP | DATA SCIENCE: SAP Next Talent - Rotational Program | Palo Alto, CA, US | Applied | 2025-04-09 |
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-04-09 |
 | San Francisco Forty Niners | Performance R&D Analyst | Unknown | Applied | 2025-04-09 |

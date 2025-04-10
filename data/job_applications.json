@@ -17792,5 +17792,40 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-10"
+    },
+    {
+        "Company": "ALX Africa",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "EssilorLuxottica",
+        "Job Title": "Customer Satisfaction Analyst - Returns and Quality-881683",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "HealthEquity",
+        "Job Title": "Business Analyst, Fraud Prevention",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Child Action, Inc.",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
+    },
+    {
+        "Company": "Infinitive Inc",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-10"
     }
 ]
