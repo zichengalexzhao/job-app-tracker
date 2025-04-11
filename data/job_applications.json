@@ -16856,13 +16856,6 @@
         "Date": "2025-04-08"
     },
     {
-        "Company": "Apple",
-        "Job Title": "Video Content Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-08"
-    },
-    {
         "Company": "Exact Sciences",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -18293,6 +18286,27 @@
     {
         "Company": "Rain Bird Corporation",
         "Job Title": "Data Analytics Internship",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Apple",
+        "Job Title": "Video Content Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "TransUnion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "TransUnion",
+        "Job Title": "Argus Advisory, Consulting Analyst - Financial Services, Entry Level",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-11"

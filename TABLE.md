@@ -62,6 +62,9 @@
 | Rain Bird Corporation | Unknown | Unknown | Applied | 2025-04-11 |
 | Hometap | Business Intelligence Analyst | Unknown | Declined | 2025-04-11 |
 | Rain Bird Corporation | Data Analytics Internship | Unknown | Applied | 2025-04-11 |
+| Apple | Video Content Data Scientist | Unknown | Declined | 2025-04-11 |
+| TransUnion | Unknown | Unknown | Applied | 2025-04-11 |
+| TransUnion | Argus Advisory, Consulting Analyst - Financial Services, Entry Level | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
@@ -207,7 +210,6 @@
 | McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Applied | 2025-04-08 |
 | Conduent | Business Operations Analyst II | Unknown | Applied | 2025-04-08 |
 | Sei Labs | Research Analyst | Unknown | Applied | 2025-04-08 |
-| Apple | Video Content Data Scientist | Unknown | Applied | 2025-04-08 |
 | Exact Sciences | Unknown | Unknown | Applied | 2025-04-08 |
 | Pacific Gas and Electric Company (PG&E) | Data Scientist | Unknown | Applied | 2025-04-08 |
 | SitusAMC | Unknown | Unknown | Applied | 2025-04-08 |
