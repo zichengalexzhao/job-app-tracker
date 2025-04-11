@@ -18,13 +18,13 @@
 | FortunaBMC | Analytic Associate | Unknown | Applied | 2025-04-11 |
 | Fortuna BMC | Unknown | Unknown | Applied | 2025-04-11 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-04-11 |
-| Lincoln International | Unknown | Unknown | Applied | 2025-04-11 |
 | Xelay Acumen | Unknown | Unknown | Declined | 2025-04-11 |
 | Plymouth Rock Assurance Corporation | Claims Analytics Analyst | Unknown | Applied | 2025-04-11 |
 | XPENG | Data Analyst - Contractor | Unknown | Applied | 2025-04-11 |
+| FortunaBMC | Analytic Associate | Unknown | Applied | 2025-04-11 |
+| Lincoln International | Unknown | Unknown | Declined | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
-| Lincoln International | Unknown | Unknown | Applied | 2025-04-10 |
 | Trust & Will | Data Analyst | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
 | Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |

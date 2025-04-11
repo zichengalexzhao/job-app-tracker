@@ -17549,13 +17549,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "Lincoln International",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "Trust & Will",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -18032,13 +18025,6 @@
         "Date": "2025-04-11"
     },
     {
-        "Company": "Lincoln International",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-11"
-    },
-    {
         "Company": "Xelay Acumen",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -18057,6 +18043,20 @@
         "Job Title": "Data Analyst - Contractor",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "FortunaBMC",
+        "Job Title": "Analytic Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Lincoln International",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-11"
     }
 ]
