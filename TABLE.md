@@ -19,6 +19,7 @@
 | Fortuna BMC | Unknown | Unknown | Applied | 2025-04-11 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-04-11 |
 | Lincoln International | Unknown | Unknown | Applied | 2025-04-11 |
+| Xelay Acumen | Unknown | Unknown | Declined | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Lincoln International | Unknown | Unknown | Applied | 2025-04-10 |

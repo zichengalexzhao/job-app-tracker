@@ -18037,5 +18037,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-11"
+    },
+    {
+        "Company": "Xelay Acumen",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
     }
 ]
