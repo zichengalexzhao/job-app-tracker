@@ -28,6 +28,7 @@
 | ZipLiens | Junior Data Analyst | Unknown | Declined | 2025-04-11 |
 | Trust & Will | Data Analyst | Unknown | Declined | 2025-04-11 |
 | RPA | Audience Intelligence Analyst | Unknown | Declined | 2025-04-11 |
+| The Wonderful Company | Junior Data Scientist, Global Sourcing | Unknown | Declined | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |

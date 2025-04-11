@@ -18079,5 +18079,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-11"
+    },
+    {
+        "Company": "The Wonderful Company",
+        "Job Title": "Junior Data Scientist, Global Sourcing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
     }
 ]
