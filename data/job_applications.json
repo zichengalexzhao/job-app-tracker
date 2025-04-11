@@ -17549,13 +17549,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "Trust & Will",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "Logic20/20 Inc.",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -18069,6 +18062,20 @@
     {
         "Company": "ZipLiens",
         "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Trust & Will",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "RPA",
+        "Job Title": "Audience Intelligence Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-11"
