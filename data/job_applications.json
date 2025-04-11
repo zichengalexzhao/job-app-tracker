@@ -17731,13 +17731,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "UMortgage",
-        "Job Title": "Lock Desk Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "ASM",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -18062,6 +18055,13 @@
     {
         "Company": "CentralSquare Technologies",
         "Job Title": "Revenue Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "UMortgage",
+        "Job Title": "Lock Desk Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-11"

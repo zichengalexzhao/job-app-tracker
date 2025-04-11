@@ -24,6 +24,7 @@
 | FortunaBMC | Analytic Associate | Unknown | Applied | 2025-04-11 |
 | Lincoln International | Unknown | Unknown | Declined | 2025-04-11 |
 | CentralSquare Technologies | Revenue Operations Analyst | Unknown | Declined | 2025-04-11 |
+| UMortgage | Lock Desk Analyst | Unknown | Declined | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Trust & Will | Data Analyst | Unknown | Applied | 2025-04-10 |
@@ -52,7 +53,6 @@
 | xAI | Unknown | Unknown | Applied | 2025-04-10 |
 | Messari | Analytics Engineer | Unknown | Applied | 2025-04-10 |
 | St. Jude | Unknown | Unknown | Applied | 2025-04-10 |
-| UMortgage | Lock Desk Analyst | Unknown | Applied | 2025-04-10 |
 | ASM | Data Analyst | Unknown | Declined | 2025-04-10 |
 | Tubi | Data Engineer | Unknown | Applied | 2025-04-10 |
 | Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |
