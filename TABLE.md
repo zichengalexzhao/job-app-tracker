@@ -65,6 +65,10 @@
 | Apple | Video Content Data Scientist | Unknown | Declined | 2025-04-11 |
 | TransUnion | Unknown | Unknown | Applied | 2025-04-11 |
 | TransUnion | Argus Advisory, Consulting Analyst - Financial Services, Entry Level | Unknown | Applied | 2025-04-11 |
+| DaVita Kidney Care | Business Analyst - Growth Strategy & Analytics | Unknown | Applied | 2025-04-11 |
+| Prezzee | Data Analyst, Fraud | Unknown | Declined | 2025-04-11 |
+| Bank of America | Quantitative Finance Analyst | Unknown | Applied | 2025-04-11 |
+| TransUnion | Unknown | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |

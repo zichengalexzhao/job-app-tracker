@@ -18310,5 +18310,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-11"
+    },
+    {
+        "Company": "DaVita Kidney Care",
+        "Job Title": "Business Analyst - Growth Strategy & Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Prezzee",
+        "Job Title": "Data Analyst, Fraud",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Bank of America",
+        "Job Title": "Quantitative Finance Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "TransUnion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
     }
 ]
