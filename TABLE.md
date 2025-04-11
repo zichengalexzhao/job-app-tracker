@@ -49,6 +49,14 @@
 | iSpot.tv | Data Analyst | Unknown | Applied | 2025-04-11 |
 | SoFi | Digital Chatbot Analyst | Unknown | Applied | 2025-04-11 |
 | Mosaic Health | Provider Data Analyst | Unknown | Applied | 2025-04-11 |
+| Colibri Group | Data Analyst I | Unknown | Applied | 2025-04-11 |
+| Verusen | Data Analysis Intern | Unknown | Applied | 2025-04-11 |
+| Constellation Energy Generation, LLC. | Quantitative Analyst, Risk Analytics (2025-125105) | Unknown | Applied | 2025-04-11 |
+| Assurant | Data Analytics Intern | Unknown | Applied | 2025-04-11 |
+| Shippo | Data Scientist | Unknown | Applied | 2025-04-11 |
+| Shippo | Data Scientist | Unknown | Applied | 2025-04-11 |
+| Medtronic | Unknown | Unknown | Applied | 2025-04-11 |
+| Molina Healthcare | Analyst, Healthcare Data - 2031276 | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
