@@ -18261,5 +18261,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-11"
+    },
+    {
+        "Company": "Randstad USA",
+        "Job Title": "Data Analyst",
+        "Location": "San Jose, California",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "SitusAMC",
+        "Job Title": "Analyst, Credit Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Rain Bird Corporation",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Hometap",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Rain Bird Corporation",
+        "Job Title": "Data Analytics Internship",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
     }
 ]
