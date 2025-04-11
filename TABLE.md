@@ -5,6 +5,20 @@
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
 | Netflix | Data Analyst, Production Finance Operations & Innovation | Unknown | Applied | 2025-04-11 |
 | Clear Street | Data Analyst | Unknown | Applied | 2025-04-11 |
+| Credit One Bank | Data Science (Decision Science) Intern | Unknown | Applied | 2025-04-11 |
+| Veolia North America | Water Quality Data Analyst (Entry Level) | Unknown | Applied | 2025-04-11 |
+| Lincoln Financial | Unknown | Unknown | Applied | 2025-04-11 |
+| Morningstar | Analyst, Cash Flow Analytics | Unknown | Applied | 2025-04-11 |
+| Uber | Data Scientist II - Brand Marketing | Unknown | Applied | 2025-04-11 |
+| Western Digital | Business Analyst | Unknown | Applied | 2025-04-11 |
+| Chime | Data Analyst, Credit Risk | Unknown | Applied | 2025-04-11 |
+| Ensemble Health Partners | Reporting Analyst | Unknown | Applied | 2025-04-11 |
+| Bank of America | Quantitative Finance Analyst - Markets Behavior Analytics Group | Unknown | Applied | 2025-04-11 |
+| Pacvue | Unknown | Unknown | Applied | 2025-04-11 |
+| FortunaBMC | Analytic Associate | Unknown | Applied | 2025-04-11 |
+| Fortuna BMC | Unknown | Unknown | Applied | 2025-04-11 |
+| EnergyHub | Unknown | Unknown | Applied | 2025-04-11 |
+| Lincoln International | Unknown | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Lincoln International | Unknown | Unknown | Applied | 2025-04-10 |
