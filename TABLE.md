@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
+| Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
+| GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Lincoln International | Unknown | Unknown | Applied | 2025-04-10 |

@@ -17904,5 +17904,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-10"
+    },
+    {
+        "Company": "Western Digital",
+        "Job Title": "New College Grad, Supply Chain Planner (Summer 2025 start)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Western Digital",
+        "Job Title": "Data Analytics in HAMR recording",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "GoodLeap",
+        "Job Title": "Analytics Engineer, Corporate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
     }
 ]
