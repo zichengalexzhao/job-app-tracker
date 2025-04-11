@@ -11158,13 +11158,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Taco Bell",
-        "Job Title": "Junior Business Analyst, Market Insights",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "The Home Depot",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -18106,6 +18099,111 @@
         "Job Title": "Product Analyst, Explore",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Experis",
+        "Job Title": "Business Data Analyst",
+        "Location": "NYC",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Brown Advisory",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Electronic Arts (EA)",
+        "Job Title": "AI Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Asembia LLC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Mark Anthony Brewing Inc.",
+        "Job Title": "Data Scientist - Demand Planning",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Auto-Fit Inc",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Rockstar Games",
+        "Job Title": "Associate Project Coordinator: Analytics & Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Mayo Clinic",
+        "Job Title": "Associate Data Science Analyst - Shung Lab 355680",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Taco Bell",
+        "Job Title": "Junior Business Analyst, Market Insights",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Apex Talent Solutions",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Associate, Data Management Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "iSpot.tv",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "SoFi",
+        "Job Title": "Digital Chatbot Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Mosaic Health",
+        "Job Title": "Provider Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-11"
     }
 ]

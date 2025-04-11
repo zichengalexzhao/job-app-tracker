@@ -34,6 +34,21 @@
 | Farmer's Fridge | Data Analyst Intern | Unknown | Applied | 2025-04-11 |
 | Precisely | Product Data Scientist Intern | Unknown | Declined | 2025-04-11 |
 | Strava | Product Analyst, Explore | Unknown | Declined | 2025-04-11 |
+| Experis | Business Data Analyst | NYC | Applied | 2025-04-11 |
+| Brown Advisory | Business Intelligence Analyst | Unknown | Applied | 2025-04-11 |
+| Electronic Arts (EA) | AI Data Scientist | Unknown | Declined | 2025-04-11 |
+| Asembia LLC | Unknown | Unknown | Applied | 2025-04-11 |
+| Mark Anthony Brewing Inc. | Data Scientist - Demand Planning | Unknown | Applied | 2025-04-11 |
+| KeyBank | Unknown | Unknown | Applied | 2025-04-11 |
+| Auto-Fit Inc | Data Scientist | Unknown | Applied | 2025-04-11 |
+| Rockstar Games | Associate Project Coordinator: Analytics & Insights | Unknown | Applied | 2025-04-11 |
+| Mayo Clinic | Associate Data Science Analyst - Shung Lab 355680 | Unknown | Applied | 2025-04-11 |
+| Taco Bell | Junior Business Analyst, Market Insights | Unknown | Declined | 2025-04-11 |
+| Apex Talent Solutions | Unknown | Unknown | Applied | 2025-04-11 |
+| S&P Global | Associate, Data Management Operations | Unknown | Applied | 2025-04-11 |
+| iSpot.tv | Data Analyst | Unknown | Applied | 2025-04-11 |
+| SoFi | Digital Chatbot Analyst | Unknown | Applied | 2025-04-11 |
+| Mosaic Health | Provider Data Analyst | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
@@ -940,7 +955,6 @@
 | Cardinal Health | Unknown | Unknown | Applied | 2025-03-17 |
 | Root, Inc. | Analyst II, Business Intelligence | Unknown | Applied | 2025-03-17 |
 | SelectQuote Insurance Services | Operations Analyst I | Unknown | Applied | 2025-03-17 |
-| Taco Bell | Junior Business Analyst, Market Insights | Unknown | Applied | 2025-03-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-03-17 |
 | Uline | Unknown | Unknown | Applied | 2025-03-17 |
 | DaVita Kidney Care | Associate Analyst, Business | Unknown | Applied | 2025-03-17 |
