@@ -20,6 +20,8 @@
 | EnergyHub | Unknown | Unknown | Applied | 2025-04-11 |
 | Lincoln International | Unknown | Unknown | Applied | 2025-04-11 |
 | Xelay Acumen | Unknown | Unknown | Declined | 2025-04-11 |
+| Plymouth Rock Assurance Corporation | Claims Analytics Analyst | Unknown | Applied | 2025-04-11 |
+| XPENG | Data Analyst - Contractor | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Lincoln International | Unknown | Unknown | Applied | 2025-04-10 |

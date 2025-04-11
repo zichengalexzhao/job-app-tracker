@@ -18044,5 +18044,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-11"
+    },
+    {
+        "Company": "Plymouth Rock Assurance Corporation",
+        "Job Title": "Claims Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "XPENG",
+        "Job Title": "Data Analyst - Contractor",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
     }
 ]
