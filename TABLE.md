@@ -29,6 +29,11 @@
 | Trust & Will | Data Analyst | Unknown | Declined | 2025-04-11 |
 | RPA | Audience Intelligence Analyst | Unknown | Declined | 2025-04-11 |
 | The Wonderful Company | Junior Data Scientist, Global Sourcing | Unknown | Declined | 2025-04-11 |
+| Metropolis | Transformation Analyst | Unknown | Applied | 2025-04-11 |
+| Inflection AI | Unknown | Unknown | Applied | 2025-04-11 |
+| Farmer's Fridge | Data Analyst Intern | Unknown | Applied | 2025-04-11 |
+| Precisely | Product Data Scientist Intern | Unknown | Declined | 2025-04-11 |
+| Strava | Product Analyst, Explore | Unknown | Declined | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
@@ -1164,12 +1169,10 @@
 | ByteDance | Data Scientist - Infrastructure Platform | Unknown | Applied | 2025-03-11 |
 | Advarra, Inc. | Data Analyst (Remote) | Unknown | Applied | 2025-03-11 |
 | Hometap | Analytics Engineer | Unknown | Applied | 2025-03-11 |
-| Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
 | Shipt | Data Scientist | Unknown | Declined | 2025-03-11 |
 | Zions Bancorporation | Business Systems Analyst - Risk | SLC (Salt Lake City) | Applied | 2025-03-11 |
 | DAS42 | Unknown | Unknown | Applied | 2025-03-11 |
 | Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-11 |
-| Strava | Product Analyst, Explore | Unknown | Applied | 2025-03-11 |
 | Pandora | E-Commerce Analytics Intern | New York City Office | Applied | 2025-03-11 |
 | ServiceUp | Business Data Analyst | Unknown | Applied | 2025-03-11 |
 | Penn Foster Group | Customer Data Analyst | Unknown | Applied | 2025-03-11 |

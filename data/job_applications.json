@@ -9870,13 +9870,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "Strava",
-        "Job Title": "Product Analyst, Explore",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
         "Company": "Shipt",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -9900,13 +9893,6 @@
     {
         "Company": "Splunk",
         "Job Title": "Machine Learning Engineer - Early in Career",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
-        "Company": "Strava",
-        "Job Title": "Product Analyst, Explore",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-11"
@@ -18083,6 +18069,41 @@
     {
         "Company": "The Wonderful Company",
         "Job Title": "Junior Data Scientist, Global Sourcing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Metropolis",
+        "Job Title": "Transformation Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Inflection AI",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Farmer's Fridge",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Precisely",
+        "Job Title": "Product Data Scientist Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "Strava",
+        "Job Title": "Product Analyst, Explore",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-11"
