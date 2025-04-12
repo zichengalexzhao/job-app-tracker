@@ -18450,5 +18450,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-11"
+    },
+    {
+        "Company": "Logic20/20",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-12"
     }
 ]

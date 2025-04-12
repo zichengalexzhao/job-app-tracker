@@ -16,6 +16,7 @@
 | Amazon | Business Intelligence Engineer, SAMBA | Unknown | Applied | 2025-04-12 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-12 |
 | KBRA (Kroll Bond Rating Agency) | Strategy - Associate | NY | Applied | 2025-04-12 |
+| Logic20/20 | Data Analyst | Unknown | Declined | 2025-04-12 |
 | Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
