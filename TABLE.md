@@ -23,6 +23,7 @@
 | DraftKings | Unknown | Unknown | Applied | 2025-04-12 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-12 |
 | Ensemble Health Partners | Unknown | Unknown | Applied | 2025-04-12 |
+| St. Jude Children's Research Hospital | Data Analyst I | Unknown | Applied | 2025-04-12 |
 | Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
