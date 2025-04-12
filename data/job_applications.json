@@ -18541,5 +18541,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-12"
+    },
+    {
+        "Company": "BlackRock",
+        "Job Title": "Data Analytics Associate",
+        "Location": "ATL",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "T-Mobile",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Applied Materials",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Fandom",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Altice USA",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
     }
 ]

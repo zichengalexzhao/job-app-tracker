@@ -29,6 +29,11 @@
 | Shopify | Unknown | Unknown | Applied | 2025-04-12 |
 | Shopify | Unknown | Unknown | Applied | 2025-04-12 |
 | Shopify | Engineering & Data Internship | Unknown | Applied | 2025-04-12 |
+| BlackRock | Data Analytics Associate | ATL | Applied | 2025-04-12 |
+| T-Mobile | Data Scientist | Unknown | Applied | 2025-04-12 |
+| Applied Materials | Business Intelligence Analyst | Unknown | Applied | 2025-04-12 |
+| Fandom | Product Analyst | Unknown | Applied | 2025-04-12 |
+| Altice USA | Unknown | Unknown | Applied | 2025-04-12 |
 | Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
