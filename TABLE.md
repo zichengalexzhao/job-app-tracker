@@ -36,6 +36,7 @@
 | Altice USA | Unknown | Unknown | Applied | 2025-04-12 |
 | Coinbase | People Data Analyst | Unknown | Declined | 2025-04-12 |
 | Ascension | Specialist - Technology, Data Analysis | St. Louis, MO | Applied | 2025-04-12 |
+| RISEBORO COMMUNITY PARTNERSHIP | Unknown | Unknown | Applied | 2025-04-12 |
 | Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
