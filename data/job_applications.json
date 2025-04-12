@@ -10437,13 +10437,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "Spotify",
-        "Job Title": "Senior Analyst, Sales Operations",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-13"
-    },
-    {
         "Company": "Ford Motor Company",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -16835,13 +16828,6 @@
         "Date": "2025-04-08"
     },
     {
-        "Company": "McKinsey & Company",
-        "Job Title": "Business Analyst - Strategy & Corporate Finance and Private Capital",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-08"
-    },
-    {
         "Company": "Conduent",
         "Job Title": "Business Operations Analyst II",
         "Location": "Unknown",
@@ -18334,6 +18320,132 @@
     },
     {
         "Company": "TransUnion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Business Analyst - Strategy & Corporate Finance and Private Capital",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Senior Analyst, Sales Operations",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "San Antonio Independent School District",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "UnitedHealth Group",
+        "Job Title": "Data Analyst",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Liberty Mutual Insurance",
+        "Job Title": "Analyst Product Analysis",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Investment Analytics Group Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "St. Michael's Inc",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Liberty Mutual Insurance",
+        "Job Title": "Analyst II, Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Capital Projects Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Intelligence Engineer, SAMBA",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "PECO Energy Company",
+        "Job Title": "Business Analyst (2025-23275)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Datadog",
+        "Job Title": "GTM Strategy and Operations Analyst - Commercial",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Intelligence Engineer, SAMBA",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "KBRA (Kroll Bond Rating Agency)",
+        "Job Title": "Strategy - Associate",
+        "Location": "NY",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Sotheby's",
+        "Job Title": "Analyst, Commercial & Business Management",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-11"
+    },
+    {
+        "Company": "fuboTV",
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",

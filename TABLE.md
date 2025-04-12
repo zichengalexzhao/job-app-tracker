@@ -1,5 +1,21 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Declined | 2025-04-12 |
+| Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
+| San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
+| UnitedHealth Group | Data Analyst | Remote | Applied | 2025-04-12 |
+| Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Applied | 2025-04-12 |
+| U.S. Bank | Investment Analytics Group Analyst | Unknown | Applied | 2025-04-12 |
+| St. Michael's Inc | Unknown | Unknown | Applied | 2025-04-12 |
+| Liberty Mutual Insurance | Analyst II, Data Science | Unknown | Applied | 2025-04-12 |
+| Unknown | Capital Projects Business Analyst | Unknown | Applied | 2025-04-12 |
+| Amazon | Business Intelligence Engineer, SAMBA | Unknown | Applied | 2025-04-12 |
+| PECO Energy Company | Business Analyst (2025-23275) | Unknown | Applied | 2025-04-12 |
+| KeyBank | Unknown | Unknown | Applied | 2025-04-12 |
+| Datadog | GTM Strategy and Operations Analyst - Commercial | Unknown | Applied | 2025-04-12 |
+| Amazon | Business Intelligence Engineer, SAMBA | Unknown | Applied | 2025-04-12 |
+| JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-12 |
+| KBRA (Kroll Bond Rating Agency) | Strategy - Associate | NY | Applied | 2025-04-12 |
 | Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
@@ -69,6 +85,8 @@
 | Prezzee | Data Analyst, Fraud | Unknown | Declined | 2025-04-11 |
 | Bank of America | Quantitative Finance Analyst | Unknown | Applied | 2025-04-11 |
 | TransUnion | Unknown | Unknown | Applied | 2025-04-11 |
+| Sotheby's | Analyst, Commercial & Business Management | Unknown | Applied | 2025-04-11 |
+| fuboTV | Unknown | Unknown | Applied | 2025-04-11 |
 | Wasserman | Unknown | Unknown | Applied | 2025-04-10 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-10 |
 | Logic20/20 Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
@@ -211,7 +229,6 @@
 | Molina Healthcare | Data Analyst (Healthcare Required) | CA (Remote) | Applied | 2025-04-08 |
 | Disney | Unknown | Unknown | Applied | 2025-04-08 |
 | Zenlayer, Inc | Unknown | Unknown | Applied | 2025-04-08 |
-| McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Applied | 2025-04-08 |
 | Conduent | Business Operations Analyst II | Unknown | Applied | 2025-04-08 |
 | Sei Labs | Research Analyst | Unknown | Applied | 2025-04-08 |
 | Exact Sciences | Unknown | Unknown | Applied | 2025-04-08 |
@@ -1095,7 +1112,6 @@
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-14 |
 | The New York Times | Analyst, Subscriber Experiences | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Analyst - Risk & Resilience | Unknown | Declined | 2025-03-14 |
-| Spotify | Senior Analyst, Sales Operations | Unknown | Applied | 2025-03-13 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
 | Coterie Applications Inc. | Data Analyst | Unknown | Applied | 2025-03-13 |
 | AgroFresh Inc. | Unknown | Unknown | Applied | 2025-03-13 |
