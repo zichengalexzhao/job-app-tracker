@@ -40,6 +40,7 @@
 | CPS Solutions, LLC | Healthcare Data Analyst | Nationwide | Declined | 2025-04-12 |
 | Universal Orlando Resort | Analyst I, Research Fulfillment | Unknown | Declined | 2025-04-12 |
 | CLAREMEDICA HEALTH PARTNERS LLC | Unknown | Unknown | Applied | 2025-04-12 |
+| Venetian Resort Las Vegas | ANALYST - CASINO OPTIMIZATION | Unknown | Declined | 2025-04-12 |
 | Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
