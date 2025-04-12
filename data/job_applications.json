@@ -18590,5 +18590,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-12"
+    },
+    {
+        "Company": "CPS Solutions, LLC",
+        "Job Title": "Healthcare Data Analyst",
+        "Location": "Nationwide",
+        "status": "Declined",
+        "Date": "2025-04-12"
     }
 ]
