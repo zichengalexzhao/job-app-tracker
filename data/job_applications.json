@@ -15092,13 +15092,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Coinbase",
-        "Job Title": "People Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "Fidelity",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -18574,6 +18567,20 @@
         "Company": "Altice USA",
         "Job Title": "Unknown",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "People Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Ascension",
+        "Job Title": "Specialist - Technology, Data Analysis",
+        "Location": "St. Louis, MO",
         "status": "Applied",
         "Date": "2025-04-12"
     }

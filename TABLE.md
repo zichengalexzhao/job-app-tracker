@@ -34,6 +34,8 @@
 | Applied Materials | Business Intelligence Analyst | Unknown | Applied | 2025-04-12 |
 | Fandom | Product Analyst | Unknown | Applied | 2025-04-12 |
 | Altice USA | Unknown | Unknown | Applied | 2025-04-12 |
+| Coinbase | People Data Analyst | Unknown | Declined | 2025-04-12 |
+| Ascension | Specialist - Technology, Data Analysis | St. Louis, MO | Applied | 2025-04-12 |
 | Western Digital | New College Grad, Supply Chain Planner (Summer 2025 start) | Unknown | Applied | 2025-04-11 |
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
@@ -450,7 +452,6 @@
 | Unknown | Data Analyst - Location Intelligence | Unknown | Applied | 2025-04-02 |
 | GXO Logistics | Data Analyst | Unknown | Applied | 2025-04-02 |
 | FirstService Residential | Business Analyst | Unknown | Applied | 2025-04-02 |
-| Coinbase | People Data Analyst | Unknown | Applied | 2025-04-02 |
 | Fidelity | Unknown | Unknown | Applied | 2025-04-02 |
 | Cigna | Data Scientist Intern - Summer 2025 | Unknown | Applied | 2025-04-02 |
 | Altice USA | Unknown | Unknown | Applied | 2025-04-02 |
