@@ -17437,13 +17437,6 @@
         "Date": "2025-04-09"
     },
     {
-        "Company": "Universal Orlando Resort",
-        "Job Title": "Analyst I, Research Fulfillment",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-09"
-    },
-    {
         "Company": "Alameda Health System",
         "Job Title": "Charge Description Master (CDM) Analyst",
         "Location": "Unknown",
@@ -18595,6 +18588,13 @@
         "Company": "CPS Solutions, LLC",
         "Job Title": "Healthcare Data Analyst",
         "Location": "Nationwide",
+        "status": "Declined",
+        "Date": "2025-04-12"
+    },
+    {
+        "Company": "Universal Orlando Resort",
+        "Job Title": "Analyst I, Research Fulfillment",
+        "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-12"
     }
