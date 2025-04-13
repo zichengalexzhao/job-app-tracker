@@ -21,6 +21,7 @@
 | StackAdapt | Product Analytics, Mobile App | USA or Canada | Applied | 2025-04-13 |
 | Citi | AVP, AML Namescreening Data Analyst-25854159 | Unknown | Applied | 2025-04-13 |
 | JPMorgan Chase & Co. | Applied AIML Data Scientist - Senior Associate | Unknown | Declined | 2025-04-13 |
+| Adobe | Machine Learning Intern | San Jose, CA | Applied | 2025-04-13 |
 | McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Declined | 2025-04-12 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
