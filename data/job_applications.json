@@ -18723,5 +18723,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-13"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Applied AIML Data Scientist - Senior Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-13"
     }
 ]
