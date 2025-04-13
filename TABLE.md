@@ -10,6 +10,7 @@
 | Sephora | Analyst, Media Insights | FSC REMOTE SF/NY/DC | Applied | 2025-04-13 |
 | RH | Inventory Analyst | Unknown | Applied | 2025-04-13 |
 | Adobe | Sales Operations Analyst | Unknown | Declined | 2025-04-13 |
+| Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-04-13 |
 | McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Declined | 2025-04-12 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
