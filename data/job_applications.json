@@ -18660,5 +18660,61 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-13"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Unknown",
+        "Location": "Washington, Washington DC, US",
+        "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Associate, Data & Technology, eDiscovery",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "DaVita Kidney Care",
+        "Job Title": "Analyst, HSG Data Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "Rocket Money",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "ALX Africa",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "Authentic Brands Group",
+        "Job Title": "Data Analyst Summer Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "StackAdapt",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "StackAdapt",
+        "Job Title": "Product Analytics, Mobile App",
+        "Location": "USA or Canada",
+        "status": "Applied",
+        "Date": "2025-04-13"
     }
 ]

@@ -11,6 +11,14 @@
 | RH | Inventory Analyst | Unknown | Applied | 2025-04-13 |
 | Adobe | Sales Operations Analyst | Unknown | Declined | 2025-04-13 |
 | Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-04-13 |
+| Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-04-13 |
+| Unknown | Associate, Data & Technology, eDiscovery | Unknown | Applied | 2025-04-13 |
+| DaVita Kidney Care | Analyst, HSG Data Analytics | Unknown | Applied | 2025-04-13 |
+| Rocket Money | Unknown | Unknown | Applied | 2025-04-13 |
+| ALX Africa | Unknown | Unknown | Applied | 2025-04-13 |
+| Authentic Brands Group | Data Analyst Summer Intern | Unknown | Applied | 2025-04-13 |
+| StackAdapt | Data Scientist | Unknown | Applied | 2025-04-13 |
+| StackAdapt | Product Analytics, Mobile App | USA or Canada | Applied | 2025-04-13 |
 | McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Declined | 2025-04-12 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
