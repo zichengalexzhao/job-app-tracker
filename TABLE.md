@@ -3,6 +3,7 @@
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
+| Ensemble Health Partners | Unknown | Unknown | Applied | 2025-04-13 |
 | McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Declined | 2025-04-12 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
