@@ -9,6 +9,7 @@
 | Redhorse Corporation | Project Analyst I | Unknown | Applied | 2025-04-13 |
 | Sephora | Analyst, Media Insights | FSC REMOTE SF/NY/DC | Applied | 2025-04-13 |
 | RH | Inventory Analyst | Unknown | Applied | 2025-04-13 |
+| Adobe | Sales Operations Analyst | Unknown | Declined | 2025-04-13 |
 | McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Declined | 2025-04-12 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
@@ -1206,7 +1207,6 @@
 | Intermountain Health | Unknown | Unknown | Applied | 2025-03-12 |
 | Carilion Clinic | AI and Data Scientist- Health Analytics (151205) | Unknown | Declined | 2025-03-12 |
 | Plaid | Business Intelligence - GTM | Unknown | Applied | 2025-03-12 |
-| Adobe | Sales Operations Analyst | Unknown | Applied | 2025-03-12 |
 | Zoox | Business Intelligence Engineer | Unknown | Applied | 2025-03-12 |
 | Colibri Group | Marketing Data Analyst | Unknown | Applied | 2025-03-12 |
 | Critical Mass | Marketing Science Analyst | Unknown | Declined | 2025-03-12 |
@@ -2224,7 +2224,6 @@
 | Databricks | Data Scientist - New Grad (2025 Start) | Unknown | Applied | 2024-12-10 |
 | TikTok | Data Scientist, Product Analytics (Early Career) - USDS | Unknown | Applied | 2024-12-10 |
 | Electronic Arts (EA) | Lifecycle Mktg Analytics Intern | Unknown | Declined | 2024-12-10 |
-| Adobe | Sales Operations Analyst | Unknown | Applied | 2024-12-09 |
 | Intuit | Data Scientist 2 | Unknown | Applied | 2024-12-06 |
 | The J.M. Smucker Co. | Unknown | Unknown | Applied | 2024-12-05 |
 | Abbott | Data Scientist | Unknown | Applied | 2024-12-05 |
@@ -2296,8 +2295,6 @@
 | Salesforce | Summer 2025 Intern - Business Insights Analyst | Unknown | Declined | 2024-11-21 |
 | AE Studio | Unknown | Unknown | Applied | 2024-11-20 |
 | OpenAI | Unknown | Unknown | Applied | 2024-11-20 |
-| Adobe | Sales Operations Analyst | Unknown | Applied | 2024-11-20 |
-| Adobe | Sales Operations Analyst | Unknown | Applied | 2024-11-20 |
 | Intuit | Unknown | Unknown | Applied | 2024-11-20 |
 | Adobe | Data Scientist Intern | Unknown | Applied | 2024-11-20 |
 | Visa | Unknown | Unknown | Applied | 2024-11-20 |

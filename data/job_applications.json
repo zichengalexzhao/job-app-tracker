@@ -3283,13 +3283,6 @@
         "Date": "2024-12-10"
     },
     {
-        "Company": "Adobe",
-        "Job Title": "Sales Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-09"
-    },
-    {
         "Company": "Intuit",
         "Job Title": "Data Scientist 2",
         "Location": "Unknown",
@@ -3901,20 +3894,6 @@
     {
         "Company": "OpenAI",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-11-20"
-    },
-    {
-        "Company": "Adobe",
-        "Job Title": "Sales Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-11-20"
-    },
-    {
-        "Company": "Adobe",
-        "Job Title": "Sales Operations Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-11-20"
@@ -10271,13 +10250,6 @@
     {
         "Company": "Plaid",
         "Job Title": "Business Intelligence - GTM",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
-        "Company": "Adobe",
-        "Job Title": "Sales Operations Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-12"
@@ -18673,6 +18645,13 @@
         "Job Title": "Inventory Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-13"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Sales Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-13"
     }
 ]
