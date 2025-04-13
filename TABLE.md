@@ -4,6 +4,11 @@
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
 | Ensemble Health Partners | Unknown | Unknown | Applied | 2025-04-13 |
+| Schneider Electric | Data Analyst Intern (Global Finance) | Unknown | Applied | 2025-04-13 |
+| Four Hands | Associate Master Data Analyst | Unknown | Applied | 2025-04-13 |
+| Redhorse Corporation | Project Analyst I | Unknown | Applied | 2025-04-13 |
+| Sephora | Analyst, Media Insights | FSC REMOTE SF/NY/DC | Applied | 2025-04-13 |
+| RH | Inventory Analyst | Unknown | Applied | 2025-04-13 |
 | McKinsey & Company | Business Analyst - Strategy & Corporate Finance and Private Capital | Unknown | Declined | 2025-04-12 |
 | Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
