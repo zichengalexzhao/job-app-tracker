@@ -11,6 +11,25 @@
 | H-E-B | Business Analyst I | Unknown | Declined | 2025-04-14 |
 | Spotify | Data Scientist I - Podcast | Unknown | Applied | 2025-04-14 |
 | Stackline | Data Analyst II | Unknown | Declined | 2025-04-14 |
+| Doosan | 2025 Digital Innovation Student Experience | Unknown | Applied | 2025-04-14 |
+| Clear Street | Data Analyst | Unknown | Declined | 2025-04-14 |
+| ALX Africa | Unknown | Unknown | Applied | 2025-04-14 |
+| VHB | Data Analyst | Orlando | Applied | 2025-04-14 |
+| NRG Energy | Graduate Rotation Analyst - VOC | Unknown | Applied | 2025-04-14 |
+| Oracle | Business Intelligence Analyst | Unknown | Applied | 2025-04-14 |
+| MDVIP LLC | Product Analyst | Unknown | Applied | 2025-04-14 |
+| Berkley Aspire (a Berkley Company) | Unknown | Unknown | Applied | 2025-04-14 |
+| Central Garden & Pet | Data & Analytics Intern | Unknown | Applied | 2025-04-14 |
+| Partner In Publishing | Quantitative Customer Insights Researcher | Unknown | Applied | 2025-04-14 |
+| YouGov | US Sport Graduate Analyst (Media & Data Products) | Unknown | Applied | 2025-04-14 |
+| BizzyCar | Revenue Operations Analyst | Unknown | Declined | 2025-04-14 |
+| Aptean | Analyst, Revenue Intelligence and Insights | Unknown | Applied | 2025-04-14 |
+| Aptean | Analyst, Revenue Intelligence and Insights | Unknown | Applied | 2025-04-14 |
+| Pathward, N.A. | Unknown | Unknown | Applied | 2025-04-14 |
+| CVS Health | Unknown | Unknown | Applied | 2025-04-14 |
+| HealthEdge | Associate Business Intelligence Analyst | Unknown | Applied | 2025-04-14 |
+| Central Garden & Pet | Data & Analytics Intern | Unknown | Applied | 2025-04-14 |
+| Los Angeles Kings | Summer Intern, Data Science | Unknown | Applied | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
@@ -77,7 +96,6 @@
 | Western Digital | Data Analytics in HAMR recording | Unknown | Applied | 2025-04-11 |
 | GoodLeap | Analytics Engineer, Corporate | Unknown | Applied | 2025-04-11 |
 | Netflix | Data Analyst, Production Finance Operations & Innovation | Unknown | Applied | 2025-04-11 |
-| Clear Street | Data Analyst | Unknown | Applied | 2025-04-11 |
 | Credit One Bank | Data Science (Decision Science) Intern | Unknown | Applied | 2025-04-11 |
 | Veolia North America | Water Quality Data Analyst (Entry Level) | Unknown | Applied | 2025-04-11 |
 | Lincoln Financial | Unknown | Unknown | Applied | 2025-04-11 |
@@ -396,7 +414,6 @@
 | Elevance Health Companies, Inc. | Advanced Analytics Analyst | Unknown | Applied | 2025-04-05 |
 | T-Mobile | Analyst, Business Intelligence | Unknown | Applied | 2025-04-05 |
 | Silicon Valley Clean Energy | Data Analytics Intern | Unknown | Applied | 2025-04-05 |
-| BizzyCar | Revenue Operations Analyst | Unknown | Applied | 2025-04-05 |
 | Samsung Semiconductor | Unknown | Unknown | Applied | 2025-04-05 |
 | Kohl's | Unknown | Unknown | Applied | 2025-04-05 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-05 |

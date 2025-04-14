@@ -16170,13 +16170,6 @@
         "Date": "2025-04-05"
     },
     {
-        "Company": "BizzyCar",
-        "Job Title": "Revenue Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-05"
-    },
-    {
         "Company": "Samsung Semiconductor",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -17822,13 +17815,6 @@
         "Date": "2025-04-11"
     },
     {
-        "Company": "Clear Street",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-11"
-    },
-    {
         "Company": "Credit One Bank",
         "Job Title": "Data Science (Decision Science) Intern",
         "Location": "Unknown",
@@ -18799,6 +18785,139 @@
         "Job Title": "Data Analyst II",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Doosan",
+        "Job Title": "2025 Digital Innovation Student Experience",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Clear Street",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "ALX Africa",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "VHB",
+        "Job Title": "Data Analyst",
+        "Location": "Orlando",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "NRG Energy",
+        "Job Title": "Graduate Rotation Analyst - VOC",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "MDVIP LLC",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Berkley Aspire (a Berkley Company)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Central Garden & Pet",
+        "Job Title": "Data & Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Partner In Publishing",
+        "Job Title": "Quantitative Customer Insights Researcher",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "YouGov",
+        "Job Title": "US Sport Graduate Analyst (Media & Data Products)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "BizzyCar",
+        "Job Title": "Revenue Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Aptean",
+        "Job Title": "Analyst, Revenue Intelligence and Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Aptean",
+        "Job Title": "Analyst, Revenue Intelligence and Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Pathward, N.A.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "CVS Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "HealthEdge",
+        "Job Title": "Associate Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Central Garden & Pet",
+        "Job Title": "Data & Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Los Angeles Kings",
+        "Job Title": "Summer Intern, Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-14"
     }
 ]
