@@ -38,6 +38,7 @@
 | IQVIA | Strategy Consulting Associate | Unknown | Applied | 2025-04-14 |
 | Pitney Bowes | Associate Business Analyst | Unknown | Applied | 2025-04-14 |
 | Upgrade | Model Risk Analyst | Unknown | Applied | 2025-04-14 |
+| Experis | Research Analyst I | Unknown | Applied | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
