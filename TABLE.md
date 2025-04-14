@@ -3,6 +3,9 @@
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
+| Xelay Acumen | Unknown | Unknown | Declined | 2025-04-14 |
+| PNC | Business Analyst | Unknown | Declined | 2025-04-14 |
+| Assurant | Unknown | Unknown | Applied | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
@@ -256,7 +259,6 @@
 | Aon | Data Analytics Analyst | Unknown | Applied | 2025-04-09 |
 | Uber | Data Scientist I | US - Risk & Fraud | Applied | 2025-04-09 |
 | DataVisor | Solution Data Scientist | Unknown | Applied | 2025-04-09 |
-| PNC | Business Analyst | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
 | Berkeley Research Group, LLC | Data Analyst | Unknown | Applied | 2025-04-08 |
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |

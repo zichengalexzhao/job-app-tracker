@@ -17444,13 +17444,6 @@
         "Date": "2025-04-09"
     },
     {
-        "Company": "PNC",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-09"
-    },
-    {
         "Company": "Wasserman",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -18757,6 +18750,27 @@
         "Job Title": "Market Research Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Xelay Acumen",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "PNC",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Assurant",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-14"
     }
 ]
