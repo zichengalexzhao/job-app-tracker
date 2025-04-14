@@ -18772,5 +18772,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-14"
+    },
+    {
+        "Company": "Arby's",
+        "Job Title": "Brand Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "H-E-B",
+        "Job Title": "Business Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-14"
     }
 ]
