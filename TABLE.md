@@ -9,6 +9,8 @@
 | Schneider Electric | Data Analyst Intern (Global Finance) | Unknown | Declined | 2025-04-14 |
 | Arby's | Brand Analytics Analyst | Unknown | Applied | 2025-04-14 |
 | H-E-B | Business Analyst I | Unknown | Declined | 2025-04-14 |
+| Spotify | Data Scientist I - Podcast | Unknown | Applied | 2025-04-14 |
+| Stackline | Data Analyst II | Unknown | Declined | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |

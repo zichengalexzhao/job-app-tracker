@@ -18786,5 +18786,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-14"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Data Scientist I - Podcast",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Stackline",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-14"
     }
 ]
