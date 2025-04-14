@@ -18751,5 +18751,12 @@
         "Location": "Medina, WA",
         "status": "Applied",
         "Date": "2025-04-14"
+    },
+    {
+        "Company": "Fieldpiece",
+        "Job Title": "Market Research Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-14"
     }
 ]
