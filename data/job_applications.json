@@ -18606,13 +18606,6 @@
         "Date": "2025-04-13"
     },
     {
-        "Company": "Schneider Electric",
-        "Job Title": "Data Analyst Intern (Global Finance)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-13"
-    },
-    {
         "Company": "Four Hands",
         "Job Title": "Associate Master Data Analyst",
         "Location": "Unknown",
@@ -18771,6 +18764,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Schneider Electric",
+        "Job Title": "Data Analyst Intern (Global Finance)",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-14"
     }
 ]

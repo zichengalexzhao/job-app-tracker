@@ -6,11 +6,11 @@
 | Xelay Acumen | Unknown | Unknown | Declined | 2025-04-14 |
 | PNC | Business Analyst | Unknown | Declined | 2025-04-14 |
 | Assurant | Unknown | Unknown | Applied | 2025-04-14 |
+| Schneider Electric | Data Analyst Intern (Global Finance) | Unknown | Declined | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
 | Ensemble Health Partners | Unknown | Unknown | Applied | 2025-04-13 |
-| Schneider Electric | Data Analyst Intern (Global Finance) | Unknown | Applied | 2025-04-13 |
 | Four Hands | Associate Master Data Analyst | Unknown | Applied | 2025-04-13 |
 | Redhorse Corporation | Project Analyst I | Unknown | Applied | 2025-04-13 |
 | Sephora | Analyst, Media Insights | FSC REMOTE SF/NY/DC | Applied | 2025-04-13 |
