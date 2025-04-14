@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
+| Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |

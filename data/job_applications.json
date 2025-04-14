@@ -18737,5 +18737,19 @@
         "Location": "San Jose, CA",
         "status": "Applied",
         "Date": "2025-04-13"
+    },
+    {
+        "Company": "Coalition Technologies",
+        "Job Title": "Reporting Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-14"
+    },
+    {
+        "Company": "Jobot",
+        "Job Title": "Analytics Manager (Tableau)",
+        "Location": "Medina, WA",
+        "status": "Applied",
+        "Date": "2025-04-14"
     }
 ]
