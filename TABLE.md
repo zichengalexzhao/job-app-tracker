@@ -30,6 +30,14 @@
 | HealthEdge | Associate Business Intelligence Analyst | Unknown | Applied | 2025-04-14 |
 | Central Garden & Pet | Data & Analytics Intern | Unknown | Applied | 2025-04-14 |
 | Los Angeles Kings | Summer Intern, Data Science | Unknown | Applied | 2025-04-14 |
+| RISEBORO COMMUNITY PARTNERSHIP | Unknown | Unknown | Applied | 2025-04-14 |
+| Southern New Hampshire University | Unknown | Unknown | Applied | 2025-04-14 |
+| HP Inc | Cybersecurity Governance Specialist | Unknown | Declined | 2025-04-14 |
+| Topcon | Data Science Intern | Unknown | Applied | 2025-04-14 |
+| KPMG | Unknown | Unknown | Applied | 2025-04-14 |
+| IQVIA | Strategy Consulting Associate | Unknown | Applied | 2025-04-14 |
+| Pitney Bowes | Associate Business Analyst | Unknown | Applied | 2025-04-14 |
+| Upgrade | Model Risk Analyst | Unknown | Applied | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
