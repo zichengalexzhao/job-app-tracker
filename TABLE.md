@@ -60,6 +60,8 @@
 | Black & Veatch | Senior Analyst | Unknown | Applied | 2025-04-15 |
 | Fivetran | Senior Data Analyst | Unknown | Applied | 2025-04-15 |
 | Underdog Sports | Data Analyst II, Commercial | Unknown | Applied | 2025-04-15 |
+| Informa Markets | Customer Insights Researcher | Unknown | Applied | 2025-04-15 |
+| Four Hands | Associate Master Data Analyst | Unknown | Declined | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
@@ -112,7 +114,6 @@
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
 | Ensemble Health Partners | Unknown | Unknown | Applied | 2025-04-13 |
-| Four Hands | Associate Master Data Analyst | Unknown | Applied | 2025-04-13 |
 | Redhorse Corporation | Project Analyst I | Unknown | Applied | 2025-04-13 |
 | Sephora | Analyst, Media Insights | FSC REMOTE SF/NY/DC | Applied | 2025-04-13 |
 | RH | Inventory Analyst | Unknown | Applied | 2025-04-13 |

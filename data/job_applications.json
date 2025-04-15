@@ -18571,13 +18571,6 @@
         "Date": "2025-04-13"
     },
     {
-        "Company": "Four Hands",
-        "Job Title": "Associate Master Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-13"
-    },
-    {
         "Company": "Redhorse Corporation",
         "Job Title": "Project Analyst I",
         "Location": "Unknown",
@@ -19443,6 +19436,20 @@
         "Job Title": "Data Analyst II, Commercial",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Informa Markets",
+        "Job Title": "Customer Insights Researcher",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Four Hands",
+        "Job Title": "Associate Master Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-15"
     }
 ]
