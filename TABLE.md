@@ -57,6 +57,9 @@
 | Mspark | Reporting Associate | Unknown | Applied | 2025-04-15 |
 | Blue River Technology | Unknown | Unknown | Applied | 2025-04-15 |
 | Brown Advisory | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
+| Black & Veatch | Senior Analyst | Unknown | Applied | 2025-04-15 |
+| Fivetran | Senior Data Analyst | Unknown | Applied | 2025-04-15 |
+| Underdog Sports | Data Analyst II, Commercial | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |

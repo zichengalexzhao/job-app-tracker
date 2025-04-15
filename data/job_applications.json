@@ -19423,5 +19423,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-15"
+    },
+    {
+        "Company": "Black & Veatch",
+        "Job Title": "Senior Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Fivetran",
+        "Job Title": "Senior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Underdog Sports",
+        "Job Title": "Data Analyst II, Commercial",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
     }
 ]
