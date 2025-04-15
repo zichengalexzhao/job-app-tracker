@@ -30,6 +30,18 @@
 | Appspace | Unknown | Unknown | Applied | 2025-04-15 |
 | RYZE Superfoods | Unknown | Unknown | Applied | 2025-04-15 |
 | Farmer's Fridge | Data Analyst Intern | Unknown | Declined | 2025-04-15 |
+| Rivian Automotive, LLC | Sr. Data Analyst | Unknown | Applied | 2025-04-15 |
+| Red Bull Distribution Company | Business Operations Analyst | Unknown | Applied | 2025-04-15 |
+| American Career College | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
+| American Career College | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
+| Photon | Data Scientist/Analyst | San Francisco, CA, USA | Applied | 2025-04-15 |
+| Photon | Data Scientist/Analyst | San Francisco, CA, USA | Applied | 2025-04-15 |
+| SAFE Credit Union | Workforce Management & Data Analyst | Unknown | Applied | 2025-04-15 |
+| Mesa Energy Systems, Inc. | Business Analyst | Unknown | Applied | 2025-04-15 |
+| Albertsons Companies | Sr. Analyst, Marketing Science Engagement | Unknown | Applied | 2025-04-15 |
+| Google | Unknown | Unknown | Applied | 2025-04-15 |
+| Truveta | Customer Facing Research Analyst | Unknown | Applied | 2025-04-15 |
+| Zillow | Capacity Planning Forecast Analyst | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
