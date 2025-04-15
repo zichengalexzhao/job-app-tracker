@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
+| TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
+| HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
+| Mattel | Procurement Analyst | Unknown | Applied | 2025-04-15 |
+| Amount | Unknown | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
@@ -41,6 +46,13 @@
 | Experis | Research Analyst I | Unknown | Applied | 2025-04-14 |
 | CLAREMEDICA HEALTH PARTNERS LLC | Unknown | Unknown | Applied | 2025-04-14 |
 | ZestyAI | Unknown | Unknown | Applied | 2025-04-14 |
+| Forbes Advisor | Research and Methodology Analyst | Unknown | Applied | 2025-04-14 |
+| Unknown | Business Intelligence Analyst II | Unknown | Applied | 2025-04-14 |
+| SPS Health LLC | Data Analyst | Unknown | Applied | 2025-04-14 |
+| MLK Community Healthcare | Business Intelligence Analyst | Los Angeles, California | Applied | 2025-04-14 |
+| Doosan Bobcat | Data Scientist | Unknown | Declined | 2025-04-14 |
+| Fooda | Unknown | Unknown | Applied | 2025-04-14 |
+| Fooda | Unknown | Unknown | Applied | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
