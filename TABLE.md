@@ -12,6 +12,11 @@
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-04-15 |
 | Mattel | Procurement Analyst | Unknown | Applied | 2025-04-15 |
 | Hydraulics International | Entry-Level Data and Financial | Unknown | Applied | 2025-04-15 |
+| Freedom Mortgage | Business Analyst | Unknown | Applied | 2025-04-15 |
+| R1RCM | Analytics Analyst | Unknown | Applied | 2025-04-15 |
+| Midland Credit Management | HR - 17828 Forecasting Analyst | Unknown | Applied | 2025-04-15 |
+| Attentive | Analyst, Deal Strategy (Sales) | Unknown | Applied | 2025-04-15 |
+| MongoDB | Unknown | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
