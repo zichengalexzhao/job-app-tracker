@@ -5,6 +5,13 @@
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
 | Mattel | Procurement Analyst | Unknown | Applied | 2025-04-15 |
 | Amount | Unknown | Unknown | Applied | 2025-04-15 |
+| Epiq | Unknown | Unknown | Applied | 2025-04-15 |
+| Warner Music Group | Analyst, D2C | Unknown | Applied | 2025-04-15 |
+| Salesforce | Technical Architect | Unknown | Applied | 2025-04-15 |
+| Elevance Health Companies, Inc. | Actuarial Analyst II (JR147965) | Unknown | Applied | 2025-04-15 |
+| Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-04-15 |
+| Mattel | Procurement Analyst | Unknown | Applied | 2025-04-15 |
+| Hydraulics International | Entry-Level Data and Financial | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
