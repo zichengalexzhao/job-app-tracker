@@ -17,6 +17,10 @@
 | Midland Credit Management | HR - 17828 Forecasting Analyst | Unknown | Applied | 2025-04-15 |
 | Attentive | Analyst, Deal Strategy (Sales) | Unknown | Applied | 2025-04-15 |
 | MongoDB | Unknown | Unknown | Applied | 2025-04-15 |
+| Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-15 |
+| Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-15 |
+| Phaedon, LLC | Operations Analyst | Unknown | Applied | 2025-04-15 |
+| Unknown | Business Analyst - Default Systems and Support | On-Site | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
