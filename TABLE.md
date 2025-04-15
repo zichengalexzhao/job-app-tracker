@@ -26,6 +26,10 @@
 | JPMorgan Chase & Co. | Data Scientist Associate | Unknown | Declined | 2025-04-15 |
 | Freedom Mortgage | Business Analyst | Unknown | Declined | 2025-04-15 |
 | Tower Research Capital | Unknown | Unknown | Declined | 2025-04-15 |
+| KQED | Unknown | Unknown | Applied | 2025-04-15 |
+| Appspace | Unknown | Unknown | Applied | 2025-04-15 |
+| RYZE Superfoods | Unknown | Unknown | Applied | 2025-04-15 |
+| Farmer's Fridge | Data Analyst Intern | Unknown | Declined | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
@@ -166,7 +170,6 @@
 | The Wonderful Company | Junior Data Scientist, Global Sourcing | Unknown | Declined | 2025-04-11 |
 | Metropolis | Transformation Analyst | Unknown | Applied | 2025-04-11 |
 | Inflection AI | Unknown | Unknown | Applied | 2025-04-11 |
-| Farmer's Fridge | Data Analyst Intern | Unknown | Applied | 2025-04-11 |
 | Precisely | Product Data Scientist Intern | Unknown | Declined | 2025-04-11 |
 | Strava | Product Analyst, Explore | Unknown | Declined | 2025-04-11 |
 | Experis | Business Data Analyst | NYC | Applied | 2025-04-11 |

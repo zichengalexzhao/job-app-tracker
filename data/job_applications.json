@@ -17990,13 +17990,6 @@
         "Date": "2025-04-11"
     },
     {
-        "Company": "Farmer's Fridge",
-        "Job Title": "Data Analyst Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-11"
-    },
-    {
         "Company": "Precisely",
         "Job Title": "Product Data Scientist Intern",
         "Location": "Unknown",
@@ -19217,6 +19210,34 @@
     {
         "Company": "Tower Research Capital",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "KQED",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Appspace",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "RYZE Superfoods",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Farmer's Fridge",
+        "Job Title": "Data Analyst Intern",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-15"
