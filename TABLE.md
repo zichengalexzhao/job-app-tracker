@@ -62,6 +62,7 @@
 | Underdog Sports | Data Analyst II, Commercial | Unknown | Applied | 2025-04-15 |
 | Informa Markets | Customer Insights Researcher | Unknown | Applied | 2025-04-15 |
 | Four Hands | Associate Master Data Analyst | Unknown | Declined | 2025-04-15 |
+| Apex Talent Solutions | Unknown | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
