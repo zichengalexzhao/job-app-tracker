@@ -12,7 +12,6 @@
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-04-15 |
 | Mattel | Procurement Analyst | Unknown | Applied | 2025-04-15 |
 | Hydraulics International | Entry-Level Data and Financial | Unknown | Applied | 2025-04-15 |
-| Freedom Mortgage | Business Analyst | Unknown | Applied | 2025-04-15 |
 | R1RCM | Analytics Analyst | Unknown | Applied | 2025-04-15 |
 | Midland Credit Management | HR - 17828 Forecasting Analyst | Unknown | Applied | 2025-04-15 |
 | Attentive | Analyst, Deal Strategy (Sales) | Unknown | Applied | 2025-04-15 |
@@ -25,6 +24,8 @@
 | Matillion | Pricing and Analytics Manager | Unknown | Declined | 2025-04-15 |
 | TransGlobal | Marketing Intern-CMO Assistant | Diamond Bar, CA, USA | Applied | 2025-04-15 |
 | JPMorgan Chase & Co. | Data Scientist Associate | Unknown | Declined | 2025-04-15 |
+| Freedom Mortgage | Business Analyst | Unknown | Declined | 2025-04-15 |
+| Tower Research Capital | Unknown | Unknown | Declined | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
@@ -311,7 +312,6 @@
 | Convoso | Customer Success Operations Analyst | Unknown | Declined | 2025-04-09 |
 | CPS Solutions, LLC | Unknown | Unknown | Applied | 2025-04-09 |
 | The Venetian Resort Las Vegas | ANALYST - CASINO OPTIMIZATION | Unknown | Applied | 2025-04-09 |
-| Tower Research Capital | Unknown | Unknown | Applied | 2025-04-09 |
 | Zoom Communications | Research Scientist | Unknown | Applied | 2025-04-09 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-09 |
 | Oracle | Consulting Project Consultant - 287403 | Unknown | Applied | 2025-04-09 |

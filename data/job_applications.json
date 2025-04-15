@@ -17346,13 +17346,6 @@
         "Date": "2025-04-09"
     },
     {
-        "Company": "Tower Research Capital",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-09"
-    },
-    {
         "Company": "Zoom Communications",
         "Job Title": "Research Scientist",
         "Location": "Unknown",
@@ -19131,13 +19124,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Freedom Mortgage",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "R1RCM",
         "Job Title": "Analytics Analyst",
         "Location": "Unknown",
@@ -19217,6 +19203,20 @@
     {
         "Company": "JPMorgan Chase & Co.",
         "Job Title": "Data Scientist Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Freedom Mortgage",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Tower Research Capital",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-15"
