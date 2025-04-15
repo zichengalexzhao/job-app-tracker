@@ -16674,13 +16674,6 @@
         "Date": "2025-04-08"
     },
     {
-        "Company": "Archer",
-        "Job Title": "Supply Chain Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-08"
-    },
-    {
         "Company": "Mochi Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -19322,6 +19315,83 @@
     {
         "Company": "Zillow",
         "Job Title": "Capacity Planning Forecast Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Archer",
+        "Job Title": "Supply Chain Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Rexford Industrial",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Perficient",
+        "Job Title": "Associate Business Consultant",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Fortive",
+        "Job Title": "Data Engineering/Analytics- GLDP Associate - 6153",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Perficient",
+        "Job Title": "Associate Business Consultant - Remote",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Boston Consulting Group (BCG)",
+        "Job Title": "Analyst - BCG Vantage, Organization Design",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Optiv",
+        "Job Title": "Associate IT Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Stantec",
+        "Job Title": "On-site Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Mindera",
+        "Job Title": "Technical Data Analyst",
+        "Location": "United States",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Activision Blizzard King",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-15"
+    },
+    {
+        "Company": "Easterseals Southern California",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-15"

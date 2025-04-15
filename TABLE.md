@@ -42,6 +42,17 @@
 | Google | Unknown | Unknown | Applied | 2025-04-15 |
 | Truveta | Customer Facing Research Analyst | Unknown | Applied | 2025-04-15 |
 | Zillow | Capacity Planning Forecast Analyst | Unknown | Applied | 2025-04-15 |
+| Archer | Supply Chain Data Analyst | Unknown | Declined | 2025-04-15 |
+| Rexford Industrial | Unknown | Unknown | Applied | 2025-04-15 |
+| Perficient | Associate Business Consultant | Remote | Applied | 2025-04-15 |
+| Fortive | Data Engineering/Analytics- GLDP Associate - 6153 | Unknown | Applied | 2025-04-15 |
+| Perficient | Associate Business Consultant - Remote | Unknown | Applied | 2025-04-15 |
+| Boston Consulting Group (BCG) | Analyst - BCG Vantage, Organization Design | Unknown | Applied | 2025-04-15 |
+| Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-15 |
+| Stantec | On-site Data Analyst | Unknown | Declined | 2025-04-15 |
+| Mindera | Technical Data Analyst | United States | Applied | 2025-04-15 |
+| Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-15 |
+| Easterseals Southern California | Unknown | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
@@ -344,7 +355,6 @@
 | Boise Cascade Company | Unknown | Unknown | Applied | 2025-04-08 |
 | BC (Unknown) | Business Data Analyst | Unknown | Applied | 2025-04-08 |
 | Cellebrite | Marketing Data Analyst | Unknown | Applied | 2025-04-08 |
-| Archer | Supply Chain Data Analyst | Unknown | Applied | 2025-04-08 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-04-08 |
 | 1Password | Unknown | Unknown | Applied | 2025-04-08 |
 | Lowe's | Unknown | Unknown | Applied | 2025-04-08 |
