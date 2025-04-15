@@ -53,6 +53,10 @@
 | Mindera | Technical Data Analyst | United States | Applied | 2025-04-15 |
 | Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-15 |
 | Easterseals Southern California | Unknown | Unknown | Applied | 2025-04-15 |
+| T-Mobile | Sr Analyst, Care Contact Interaction Analytics | Unknown | Applied | 2025-04-15 |
+| Mspark | Reporting Associate | Unknown | Applied | 2025-04-15 |
+| Blue River Technology | Unknown | Unknown | Applied | 2025-04-15 |
+| Brown Advisory | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
