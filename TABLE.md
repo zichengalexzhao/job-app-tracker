@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
+| Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
+| Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
+| Stitch Fix | Data Scientist - Recommendation Algorithms | Unknown | Applied | 2025-04-16 |
+| Instacart | Data Analyst Contractor | Unknown | Applied | 2025-04-16 |
+| Rush Street Interactive | Unknown | Unknown | Applied | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -64,6 +70,8 @@
 | Four Hands | Associate Master Data Analyst | Unknown | Declined | 2025-04-15 |
 | Apex Talent Solutions | Unknown | Unknown | Applied | 2025-04-15 |
 | Newmark | Research Analyst | Unknown | Applied | 2025-04-15 |
+| Envoy | Unknown | Unknown | Applied | 2025-04-15 |
+| Apex Talent Solutions | Unknown | Unknown | Applied | 2025-04-15 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-14 |
 | Jobot | Analytics Manager (Tableau) | Medina, WA | Applied | 2025-04-14 |
 | Fieldpiece | Market Research Analyst | Unknown | Declined | 2025-04-14 |
@@ -1122,7 +1130,6 @@
 | Unknown | Associate IT Business Analyst | Unknown | Applied | 2025-03-18 |
 | Luxoft | Unknown | Unknown | Declined | 2025-03-18 |
 | Capital Area Food Bank | Unknown | Unknown | Applied | 2025-03-18 |
-| Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-18 |
 | The Friedkin Group | Business Intelligence Developer II | Unknown | Applied | 2025-03-18 |
 | The Friedkin Group | Analyst II, Supply Chain | Unknown | Applied | 2025-03-18 |
 | Stateside Brands | Sales Operations Analyst | Unknown | Applied | 2025-03-18 |
@@ -1258,7 +1265,6 @@
 | McKinsey & Company | Business Analyst | Unknown | Declined | 2025-03-14 |
 | NielsenIQ | Insights Analyst | Unknown | Declined | 2025-03-14 |
 | Truist | Data Scientist 1-2 Card Fraud Analytics | Unknown | Declined | 2025-03-14 |
-| Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-14 |
 | The New York Times | Analyst, Subscriber Experiences | Unknown | Declined | 2025-03-14 |
 | McKinsey & Company | Analyst - Risk & Resilience | Unknown | Declined | 2025-03-14 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-13 |
@@ -1338,7 +1344,6 @@
 | Kiavi | Product Analyst | Unknown | Applied | 2025-03-12 |
 | W3global | Data Scientist With Marcom & Experimentation | Sunnyvale | Applied | 2025-03-12 |
 | Supermicro | Business Analyst | Unknown | Declined | 2025-03-12 |
-| Twitch | Data Science Intern (MA/PhD) | Unknown | Applied | 2025-03-12 |
 | UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-12 |
 | Reddit | ML Search Generalist (pooled req) | Unknown | Applied | 2025-03-12 |
 | Angi | Temporary Insights Analyst, 1 Year Contract | Unknown | Applied | 2025-03-12 |
