@@ -51,6 +51,8 @@
 | Redwood Materials | Unknown | Unknown | Applied | 2025-04-16 |
 | Oobli | Unknown | Davis, CA | Applied | 2025-04-16 |
 | Allen Matkins | User Success Analyst | Unknown | Declined | 2025-04-16 |
+| Reyes Coca-Cola Bottling LLC | Business Intelligence Specialist | Niles | Declined | 2025-04-16 |
+| Talent Vibe Solutions | Data Entry Clerk | Unknown | Interviewed | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -337,7 +339,6 @@
 | Yeti Coolers | Unknown | Unknown | Applied | 2025-04-10 |
 | Cambia Health Solutions | Risk Management BSA I, II, III | Unknown | Applied | 2025-04-10 |
 | Zywa | Senior Product Data Analyst | San Francisco, CA | Applied | 2025-04-10 |
-| Reyes Coca-Cola Bottling LLC | Business Intelligence Specialist | Unknown | Applied | 2025-04-10 |
 | Claritev | Operations Analyst I | Unknown | Applied | 2025-04-10 |
 | RISEBORO COMMUNITY PARTNERSHIP | Unknown | Unknown | Applied | 2025-04-10 |
 | USAA | AI/ML Engineer Entry Level | Unknown | Declined | 2025-04-10 |

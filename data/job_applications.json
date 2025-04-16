@@ -17682,13 +17682,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "Reyes Coca-Cola Bottling LLC",
-        "Job Title": "Business Intelligence Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "Claritev",
         "Job Title": "Operations Analyst I",
         "Location": "Unknown",
@@ -19765,6 +19758,20 @@
         "Job Title": "User Success Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Reyes Coca-Cola Bottling LLC",
+        "Job Title": "Business Intelligence Specialist",
+        "Location": "Niles",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Talent Vibe Solutions",
+        "Job Title": "Data Entry Clerk",
+        "Location": "Unknown",
+        "status": "Interviewed",
         "Date": "2025-04-16"
     }
 ]
