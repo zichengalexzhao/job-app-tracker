@@ -14,6 +14,12 @@
 | Hungryroot | Unknown | Unknown | Applied | 2025-04-16 |
 | Western Health Advantage | Business Solutions Analyst II | Unknown | Applied | 2025-04-16 |
 | Stantec Consulting Ltd. | Data Scientist Intern | Unknown | Applied | 2025-04-16 |
+| Dexian | Business Data Analyst III (MTV) | Unknown | Applied | 2025-04-16 |
+| Centene | Data Analyst II Healthcare Analytics | Unknown | Applied | 2025-04-16 |
+| VCI (Dycom Industries, Inc.) | Data Analyst | Upland, CA | Applied | 2025-04-16 |
+| Yoh, A Day & Zimmermann Company | Business Analyst (Corporate Planning) | Unknown | Applied | 2025-04-16 |
+| DATACALIPER LLC | Business Analyst with Clinical Background | Unknown | Applied | 2025-04-16 |
+| Leadstack Inc | Unknown | Unknown | Applied | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
