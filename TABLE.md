@@ -45,6 +45,7 @@
 | Hinge Health, Inc. | Revenue Operations Associate | Unknown | Applied | 2025-04-16 |
 | EVgo | Intern, Data Analytics | Unknown | Applied | 2025-04-16 |
 | VCI Construction, LLC | Data Analyst | Unknown | Applied | 2025-04-16 |
+| Unknown | Capacity Planning Forecast Analyst | Unknown | Declined | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
