@@ -6,6 +6,14 @@
 | Stitch Fix | Data Scientist - Recommendation Algorithms | Unknown | Applied | 2025-04-16 |
 | Instacart | Data Analyst Contractor | Unknown | Applied | 2025-04-16 |
 | Rush Street Interactive | Unknown | Unknown | Applied | 2025-04-16 |
+| Synchrony | AVP, Data Quality Specialist | Unknown | Applied | 2025-04-16 |
+| Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-16 |
+| Highlight | Analytics Engineer | Unknown | Applied | 2025-04-16 |
+| McKinley Marketing Partners | Jr. Data Analyst | Unknown | Applied | 2025-04-16 |
+| Triple Whale | Unknown | Unknown | Applied | 2025-04-16 |
+| Hungryroot | Unknown | Unknown | Applied | 2025-04-16 |
+| Western Health Advantage | Business Solutions Analyst II | Unknown | Applied | 2025-04-16 |
+| Stantec Consulting Ltd. | Data Scientist Intern | Unknown | Applied | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
