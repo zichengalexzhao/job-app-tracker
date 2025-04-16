@@ -11306,20 +11306,6 @@
     },
     {
         "Company": "Amazon",
-        "Job Title": "Business Analyst, Relay Operations Center Tech Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
-        "Company": "Amazon",
-        "Job Title": "Business Analyst, Relay Operations Center Tech Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
-        "Company": "Amazon",
         "Job Title": "Business Analyst, Profit Intelligence",
         "Location": "Unknown",
         "status": "Applied",
@@ -19673,6 +19659,76 @@
         "Company": "Montefiore Medical Center",
         "Job Title": "Business Intelligence Analyst",
         "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Board Certified Behavioral Analyst",
+        "Location": "Apple Valley",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "R1RCM",
+        "Job Title": "Denials Rules Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst, Relay Operations Center Tech Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Engineer I, Data Services Team",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Ross Stores, Inc.",
+        "Job Title": "Engineer III (BI Tools Platform)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Wells Fargo",
+        "Job Title": "Quantitative Analytics Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Data Scientist \u2013 Conversational AI",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Hinge Health, Inc.",
+        "Job Title": "Revenue Operations Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "EVgo",
+        "Job Title": "Intern, Data Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "VCI Construction, LLC",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-16"
     }

@@ -35,6 +35,16 @@
 | Blue Acorn iCi | Unknown | Unknown | Applied | 2025-04-16 |
 | ID.me | Unknown | Unknown | Applied | 2025-04-16 |
 | Montefiore Medical Center | Business Intelligence Analyst | Yonkers, NY, US | Applied | 2025-04-16 |
+| Unknown | Board Certified Behavioral Analyst | Apple Valley | Applied | 2025-04-16 |
+| R1RCM | Denials Rules Associate | Unknown | Applied | 2025-04-16 |
+| Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Declined | 2025-04-16 |
+| Amazon | Data Engineer I, Data Services Team | Unknown | Applied | 2025-04-16 |
+| Ross Stores, Inc. | Engineer III (BI Tools Platform) | Unknown | Applied | 2025-04-16 |
+| Wells Fargo | Quantitative Analytics Specialist | Unknown | Applied | 2025-04-16 |
+| Walmart | Data Scientist – Conversational AI | Unknown | Applied | 2025-04-16 |
+| Hinge Health, Inc. | Revenue Operations Associate | Unknown | Applied | 2025-04-16 |
+| EVgo | Intern, Data Analytics | Unknown | Applied | 2025-04-16 |
+| VCI Construction, LLC | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -1201,8 +1211,6 @@
 | Capital One | Sr Business Analyst, Business Planning Analyst - Capital One Shopping | Unknown | Applied | 2025-03-17 |
 | Sodexo | Master Data Analyst | Unknown | Declined | 2025-03-17 |
 | Quad | Supply Chain Business Analyst | Unknown | Declined | 2025-03-17 |
-| Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
-| Amazon | Business Analyst, Relay Operations Center Tech Analytics | Unknown | Applied | 2025-03-17 |
 | Amazon | Business Analyst, Profit Intelligence | Unknown | Applied | 2025-03-17 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-17 |
 | OMD (Omnicom Media Group) | Associate, Marketing Science | Unknown | Applied | 2025-03-17 |
