@@ -19759,5 +19759,12 @@
         "Location": "Davis, CA",
         "status": "Applied",
         "Date": "2025-04-16"
+    },
+    {
+        "Company": "Allen Matkins",
+        "Job Title": "User Success Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
     }
 ]
