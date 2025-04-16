@@ -21,6 +21,7 @@
 | DATACALIPER LLC | Business Analyst with Clinical Background | Unknown | Applied | 2025-04-16 |
 | Leadstack Inc | Unknown | Unknown | Applied | 2025-04-16 |
 | Ericsson | Data Analyst | Unknown | Declined | 2025-04-16 |
+| Medline | Analyst Business Intelligence | Unknown | Applied | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
