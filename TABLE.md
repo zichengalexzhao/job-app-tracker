@@ -23,6 +23,12 @@
 | Ericsson | Data Analyst | Unknown | Declined | 2025-04-16 |
 | Medline | Analyst Business Intelligence | Unknown | Applied | 2025-04-16 |
 | Datadog | GTM Strategy and Operations Analyst - Commercial | Unknown | Declined | 2025-04-16 |
+| Yoh | Business Analyst | Unknown | Applied | 2025-04-16 |
+| Adswerve | Data Scientist I | Unknown | Declined | 2025-04-16 |
+| Pathward, N.A. | Analytics Analyst I | Unknown | Declined | 2025-04-16 |
+| Stantec | Data Scientist Intern (Summer 2025) | Unknown | Declined | 2025-04-16 |
+| Yoh (a Day & Zimmermann company) | Business Analyst | Unknown | Applied | 2025-04-16 |
+| Elevance Health | Advanced Analytics Analyst | Unknown | Declined | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |

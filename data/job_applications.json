@@ -19605,5 +19605,47 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-16"
+    },
+    {
+        "Company": "Yoh",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Adswerve",
+        "Job Title": "Data Scientist I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Pathward, N.A.",
+        "Job Title": "Analytics Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Stantec",
+        "Job Title": "Data Scientist Intern (Summer 2025)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Yoh (a Day & Zimmermann company)",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Elevance Health",
+        "Job Title": "Advanced Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
     }
 ]
