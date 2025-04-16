@@ -31,6 +31,10 @@
 | Elevance Health | Advanced Analytics Analyst | Unknown | Declined | 2025-04-16 |
 | Roku | Ad Operations Associate, Sponsorships | Unknown | Declined | 2025-04-16 |
 | Phaedon, LLC | Operations Analyst | Unknown | Declined | 2025-04-16 |
+| Air Apps | Unknown | Unknown | Applied | 2025-04-16 |
+| Blue Acorn iCi | Unknown | Unknown | Applied | 2025-04-16 |
+| ID.me | Unknown | Unknown | Applied | 2025-04-16 |
+| Montefiore Medical Center | Business Intelligence Analyst | Yonkers, NY, US | Applied | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |

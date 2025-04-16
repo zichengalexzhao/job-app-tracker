@@ -19647,5 +19647,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-16"
+    },
+    {
+        "Company": "Air Apps",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Blue Acorn iCi",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "ID.me",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-04-16"
     }
 ]
