@@ -14875,13 +14875,6 @@
         "Date": "2025-04-01"
     },
     {
-        "Company": "Ericsson",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-01"
-    },
-    {
         "Company": "Equinix",
         "Job Title": "Senior Analyst",
         "Location": "Unknown",
@@ -19597,6 +19590,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Ericsson",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-16"
     }
 ]

@@ -20,6 +20,7 @@
 | Yoh, A Day & Zimmermann Company | Business Analyst (Corporate Planning) | Unknown | Applied | 2025-04-16 |
 | DATACALIPER LLC | Business Analyst with Clinical Background | Unknown | Applied | 2025-04-16 |
 | Leadstack Inc | Unknown | Unknown | Applied | 2025-04-16 |
+| Ericsson | Data Analyst | Unknown | Declined | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -696,7 +697,6 @@
 | Samsung SDS America | Logistics Data Analyst (EM6934) | Unknown | Applied | 2025-04-01 |
 | Samsung SDS America | Logistics Data Analyst | Unknown | Applied | 2025-04-01 |
 | Berkley Entertainment (a Berkley Company) | Unknown | Unknown | Applied | 2025-04-01 |
-| Ericsson | Data Analyst | Unknown | Applied | 2025-04-01 |
 | Equinix | Senior Analyst | Unknown | Applied | 2025-04-01 |
 | TotalEnergies | Energy Data Portfolio Analyst | Unknown | Applied | 2025-04-01 |
 | Infosys | Associate Analyst - Data Science | Unknown | Applied | 2025-04-01 |
