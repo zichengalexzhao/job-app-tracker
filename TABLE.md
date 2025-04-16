@@ -46,6 +46,10 @@
 | EVgo | Intern, Data Analytics | Unknown | Applied | 2025-04-16 |
 | VCI Construction, LLC | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Unknown | Capacity Planning Forecast Analyst | Unknown | Declined | 2025-04-16 |
+| SeatGeek | Workforce Analyst | Unknown | Declined | 2025-04-16 |
+| Live Nation Entertainment | Data Analyst, Metrics & Reporting | Unknown | Applied | 2025-04-16 |
+| Redwood Materials | Unknown | Unknown | Applied | 2025-04-16 |
+| Oobli | Unknown | Davis, CA | Applied | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -332,7 +336,6 @@
 | Yeti Coolers | Unknown | Unknown | Applied | 2025-04-10 |
 | Cambia Health Solutions | Risk Management BSA I, II, III | Unknown | Applied | 2025-04-10 |
 | Zywa | Senior Product Data Analyst | San Francisco, CA | Applied | 2025-04-10 |
-| SeatGeek | Workforce Analyst | Unknown | Applied | 2025-04-10 |
 | Reyes Coca-Cola Bottling LLC | Business Intelligence Specialist | Unknown | Applied | 2025-04-10 |
 | Claritev | Operations Analyst I | Unknown | Applied | 2025-04-10 |
 | RISEBORO COMMUNITY PARTNERSHIP | Unknown | Unknown | Applied | 2025-04-10 |

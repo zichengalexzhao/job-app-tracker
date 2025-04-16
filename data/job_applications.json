@@ -17682,13 +17682,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "SeatGeek",
-        "Job Title": "Workforce Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "Reyes Coca-Cola Bottling LLC",
         "Job Title": "Business Intelligence Specialist",
         "Location": "Unknown",
@@ -19737,6 +19730,34 @@
         "Job Title": "Capacity Planning Forecast Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "SeatGeek",
+        "Job Title": "Workforce Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Live Nation Entertainment",
+        "Job Title": "Data Analyst, Metrics & Reporting",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Redwood Materials",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Oobli",
+        "Job Title": "Unknown",
+        "Location": "Davis, CA",
+        "status": "Applied",
         "Date": "2025-04-16"
     }
 ]
