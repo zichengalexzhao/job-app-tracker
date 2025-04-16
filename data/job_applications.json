@@ -9506,20 +9506,6 @@
         "Date": "2025-03-09"
     },
     {
-        "Company": "UBS",
-        "Job Title": "Junior Data Management Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-09"
-    },
-    {
-        "Company": "UBS",
-        "Job Title": "Junior Data Management Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-09"
-    },
-    {
         "Company": "Travelers",
         "Job Title": "Business Analyst, Business Insurance, R-41749",
         "Location": "Unknown",
@@ -10357,13 +10343,6 @@
         "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-03-12"
-    },
-    {
-        "Company": "UBS",
-        "Job Title": "Junior Data Management Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-03-12"
     },
     {
@@ -19772,6 +19751,20 @@
         "Job Title": "Data Entry Clerk",
         "Location": "Unknown",
         "status": "Interviewed",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Elevance Health",
+        "Job Title": "Actuarial Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "UBS",
+        "Job Title": "Junior Data Management Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-16"
     }
 ]

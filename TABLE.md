@@ -53,6 +53,8 @@
 | Allen Matkins | User Success Analyst | Unknown | Declined | 2025-04-16 |
 | Reyes Coca-Cola Bottling LLC | Business Intelligence Specialist | Niles | Declined | 2025-04-16 |
 | Talent Vibe Solutions | Data Entry Clerk | Unknown | Interviewed | 2025-04-16 |
+| Elevance Health | Actuarial Analyst II | Unknown | Declined | 2025-04-16 |
+| UBS | Junior Data Management Analyst | Unknown | Declined | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -1383,7 +1385,6 @@
 | Kiavi | Product Analyst | Unknown | Applied | 2025-03-12 |
 | W3global | Data Scientist With Marcom & Experimentation | Sunnyvale | Applied | 2025-03-12 |
 | Supermicro | Business Analyst | Unknown | Declined | 2025-03-12 |
-| UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-12 |
 | Reddit | ML Search Generalist (pooled req) | Unknown | Applied | 2025-03-12 |
 | Angi | Temporary Insights Analyst, 1 Year Contract | Unknown | Applied | 2025-03-12 |
 | Quest Global | Data Analyst (P-106559) | Unknown | Applied | 2025-03-12 |
@@ -1509,8 +1510,6 @@
 | UWM (United Wholesale Mortgage) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |
 | United Wholesale Mortgage (UWM) | Business Intelligence Analyst | Unknown | Applied | 2025-03-09 |
 | Carvana | Unknown | Unknown | Applied | 2025-03-09 |
-| UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-09 |
-| UBS | Junior Data Management Analyst | Unknown | Applied | 2025-03-09 |
 | Invaio Sciences Inc. | Analytics & Data Visualization Engineer | Unknown | Applied | 2025-03-08 |
 | Carter’s | Unknown | Unknown | Applied | 2025-03-08 |
 | Vontier Employment Services LLC | Associate Analyst, Total Rewards | Unknown | Applied | 2025-03-08 |
