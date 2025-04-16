@@ -29,6 +29,8 @@
 | Stantec | Data Scientist Intern (Summer 2025) | Unknown | Declined | 2025-04-16 |
 | Yoh (a Day & Zimmermann company) | Business Analyst | Unknown | Applied | 2025-04-16 |
 | Elevance Health | Advanced Analytics Analyst | Unknown | Declined | 2025-04-16 |
+| Roku | Ad Operations Associate, Sponsorships | Unknown | Declined | 2025-04-16 |
+| Phaedon, LLC | Operations Analyst | Unknown | Declined | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -47,7 +49,6 @@
 | MongoDB | Unknown | Unknown | Applied | 2025-04-15 |
 | Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-15 |
 | Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-15 |
-| Phaedon, LLC | Operations Analyst | Unknown | Applied | 2025-04-15 |
 | Unknown | Business Analyst - Default Systems and Support | On-Site | Applied | 2025-04-15 |
 | HealthEdge | Unknown | Unknown | Applied | 2025-04-15 |
 | Matillion | Pricing and Analytics Manager | Unknown | Declined | 2025-04-15 |
@@ -1227,7 +1228,6 @@
 | One Inc | Data Analyst II, Vendor | Unknown | Applied | 2025-03-17 |
 | Spectrum | Business Analyst | Unknown | Applied | 2025-03-17 |
 | The Newrez Family of Companies | Associate Enterprise Analytics Analyst | Unknown | Applied | 2025-03-17 |
-| Roku | Ad Operations Associate, Sponsorships | Unknown | Applied | 2025-03-17 |
 | Horizon Media | Unknown | Unknown | Applied | 2025-03-17 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-03-16 |
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |

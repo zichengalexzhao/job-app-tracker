@@ -11522,13 +11522,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Roku",
-        "Job Title": "Ad Operations Associate, Sponsorships",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "Horizon Media",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -19110,13 +19103,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Phaedon, LLC",
-        "Job Title": "Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Business Analyst - Default Systems and Support",
         "Location": "On-Site",
@@ -19644,6 +19630,20 @@
     {
         "Company": "Elevance Health",
         "Job Title": "Advanced Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Roku",
+        "Job Title": "Ad Operations Associate, Sponsorships",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Phaedon, LLC",
+        "Job Title": "Operations Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-16"
