@@ -18298,13 +18298,6 @@
         "Date": "2025-04-12"
     },
     {
-        "Company": "Datadog",
-        "Job Title": "GTM Strategy and Operations Analyst - Commercial",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-12"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Business Intelligence Engineer, SAMBA",
         "Location": "Unknown",
@@ -19604,6 +19597,13 @@
         "Job Title": "Analyst Business Intelligence",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-16"
+    },
+    {
+        "Company": "Datadog",
+        "Job Title": "GTM Strategy and Operations Analyst - Commercial",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-16"
     }
 ]

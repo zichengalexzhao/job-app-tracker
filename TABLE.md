@@ -22,6 +22,7 @@
 | Leadstack Inc | Unknown | Unknown | Applied | 2025-04-16 |
 | Ericsson | Data Analyst | Unknown | Declined | 2025-04-16 |
 | Medline | Analyst Business Intelligence | Unknown | Applied | 2025-04-16 |
+| Datadog | GTM Strategy and Operations Analyst - Commercial | Unknown | Declined | 2025-04-16 |
 | Petrol Advertising | Unknown | Unknown | Applied | 2025-04-15 |
 | TalentBurst | Retail Analyst | San Francisco, CA 94105, CA | Applied | 2025-04-15 |
 | HavenHub | Unknown | Unknown | Applied | 2025-04-15 |
@@ -168,7 +169,6 @@
 | Amazon | Business Intelligence Engineer, SAMBA | Unknown | Applied | 2025-04-12 |
 | PECO Energy Company | Business Analyst (2025-23275) | Unknown | Applied | 2025-04-12 |
 | KeyBank | Unknown | Unknown | Applied | 2025-04-12 |
-| Datadog | GTM Strategy and Operations Analyst - Commercial | Unknown | Applied | 2025-04-12 |
 | Amazon | Business Intelligence Engineer, SAMBA | Unknown | Applied | 2025-04-12 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-12 |
 | KBRA (Kroll Bond Rating Agency) | Strategy - Associate | NY | Applied | 2025-04-12 |
