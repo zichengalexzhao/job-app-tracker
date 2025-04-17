@@ -18,6 +18,8 @@
 | TeleTracking Technologies, Inc. | Unknown | Unknown | Applied | 2025-04-17 |
 | Bio-Techne | Senior Data Analyst | Unknown | Declined | 2025-04-17 |
 | Material Bank | Product Data Analyst | Unknown | Applied | 2025-04-17 |
+| Forest Lawn Memorial-Parks & Mortuaries | Business / Data Analyst | Unknown | Declined | 2025-04-17 |
+| Sanofi | Sales Analyst | Unknown | Applied | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |

@@ -19892,5 +19892,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-17"
+    },
+    {
+        "Company": "Forest Lawn Memorial-Parks & Mortuaries",
+        "Job Title": "Business / Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Sanofi",
+        "Job Title": "Sales Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
     }
 ]
