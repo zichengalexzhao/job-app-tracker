@@ -19766,5 +19766,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-16"
+    },
+    {
+        "Company": "Ford Motor Company",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
     }
 ]
