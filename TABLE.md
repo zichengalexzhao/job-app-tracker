@@ -51,6 +51,7 @@
 | Tubi | Data Engineer | Unknown | Declined | 2025-04-17 |
 | Urban Science | Unknown | Unknown | Applied | 2025-04-17 |
 | Numerator | Research Analyst | Unknown | Declined | 2025-04-17 |
+| McKinsey & Company | Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial) | Unknown | Declined | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
@@ -1788,7 +1789,6 @@
 | CHEP/Brambles | Software Data Analyst | Orlando / Alpharetta (Hybrid) | Applied | 2025-03-03 |
 | Boston Consulting Group (BCG) | Data Scientist | United States - BCG X | Applied | 2025-03-03 |
 | Penn Interactive | Data Analyst, Enterprise | Unknown | Applied | 2025-03-03 |
-| McKinsey & Company | Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial) | Unknown | Applied | 2025-03-03 |
 | VGP Holdings LLC | Data Analytics Internship | Unknown | Declined | 2025-03-02 |
 | DraftKings | Unknown | Unknown | Applied | 2025-03-02 |
 | Applied Materials | TKM Supply Chain Intern- Bachelor's | Santa Clara, CA | Applied | 2025-03-02 |

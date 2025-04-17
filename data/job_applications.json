@@ -7812,13 +7812,6 @@
         "Date": "2025-03-03"
     },
     {
-        "Company": "McKinsey & Company",
-        "Job Title": "Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -20064,6 +20057,13 @@
     {
         "Company": "Numerator",
         "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "McKinsey & Company",
+        "Job Title": "Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial)",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-17"
