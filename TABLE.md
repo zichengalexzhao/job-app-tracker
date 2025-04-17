@@ -35,6 +35,11 @@
 | ByteDance | TikTok Shop - Product Operations Analyst | Unknown | Applied | 2025-04-17 |
 | ByteDance | Workforce Management Analyst | Unknown | Applied | 2025-04-17 |
 | ByteDance | TikTok Shop - Business Analyst | Unknown | Applied | 2025-04-17 |
+| Thumbtack | Data Scientist, Product | Unknown | Applied | 2025-04-17 |
+| Sephora | Unknown | Unknown | Applied | 2025-04-17 |
+| UC Davis Graduate School of Management | Unknown | Unknown | Applied | 2025-04-17 |
+| Sephora | Senior Analyst, Data Science | FSC REMOTE SF/NY/DC -173(USA_0173) | Applied | 2025-04-17 |
+| Block | Marketing Data Analyst | Unknown | Applied | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
