@@ -40,6 +40,13 @@
 | UC Davis Graduate School of Management | Unknown | Unknown | Applied | 2025-04-17 |
 | Sephora | Senior Analyst, Data Science | FSC REMOTE SF/NY/DC -173(USA_0173) | Applied | 2025-04-17 |
 | Block | Marketing Data Analyst | Unknown | Applied | 2025-04-17 |
+| Synchrony Financial | Unknown | Unknown | Applied | 2025-04-17 |
+| theScore | Data Analyst, Product | Unknown | Declined | 2025-04-17 |
+| Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Applied | 2025-04-17 |
+| Toyota | Senior Analyst - Analytics | Unknown | Applied | 2025-04-17 |
+| West Coast University, Inc | Business Intelligence Analyst (ID 2025-3639) | Unknown | Declined | 2025-04-17 |
+| Red Bull Distribution Company | Business Operations Analyst | Unknown | Declined | 2025-04-17 |
+| MDVIP LLC | Unknown | Unknown | Declined | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
@@ -122,7 +129,6 @@
 | RYZE Superfoods | Unknown | Unknown | Applied | 2025-04-15 |
 | Farmer's Fridge | Data Analyst Intern | Unknown | Declined | 2025-04-15 |
 | Rivian Automotive, LLC | Sr. Data Analyst | Unknown | Applied | 2025-04-15 |
-| Red Bull Distribution Company | Business Operations Analyst | Unknown | Applied | 2025-04-15 |
 | American Career College | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
 | American Career College | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
 | Photon | Data Scientist/Analyst | San Francisco, CA, USA | Applied | 2025-04-15 |

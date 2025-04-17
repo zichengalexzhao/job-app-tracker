@@ -19117,13 +19117,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Red Bull Distribution Company",
-        "Job Title": "Business Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "American Career College",
         "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
@@ -20017,6 +20010,55 @@
         "Job Title": "Marketing Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Synchrony Financial",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "theScore",
+        "Job Title": "Data Analyst, Product",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Global Music Rights, LLC",
+        "Job Title": "Data Analyst, Financial Planning & Analysis",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Toyota",
+        "Job Title": "Senior Analyst - Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "West Coast University, Inc",
+        "Job Title": "Business Intelligence Analyst (ID 2025-3639)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Red Bull Distribution Company",
+        "Job Title": "Business Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "MDVIP LLC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-17"
     }
 ]
