@@ -19033,20 +19033,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Humana",
-        "Job Title": "Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
-        "Company": "Humana",
-        "Job Title": "Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Business Analyst - Default Systems and Support",
         "Location": "On-Site",
@@ -19420,13 +19406,6 @@
     {
         "Company": "Synchrony",
         "Job Title": "AVP, Data Quality Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-16"
-    },
-    {
-        "Company": "Humana",
-        "Job Title": "Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-16"
@@ -19904,6 +19883,13 @@
         "Company": "Redhorse Corporation",
         "Job Title": "Project Analyst I",
         "Location": "Zicheng",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision",
+        "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-17"
     }

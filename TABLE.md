@@ -21,6 +21,7 @@
 | Forest Lawn Memorial-Parks & Mortuaries | Business / Data Analyst | Unknown | Declined | 2025-04-17 |
 | Sanofi | Sales Analyst | Unknown | Applied | 2025-04-17 |
 | Redhorse Corporation | Project Analyst I | Zicheng | Declined | 2025-04-17 |
+| Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Declined | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
@@ -28,7 +29,6 @@
 | Instacart | Data Analyst Contractor | Unknown | Applied | 2025-04-16 |
 | Rush Street Interactive | Unknown | Unknown | Applied | 2025-04-16 |
 | Synchrony | AVP, Data Quality Specialist | Unknown | Applied | 2025-04-16 |
-| Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-16 |
 | Highlight | Analytics Engineer | Unknown | Applied | 2025-04-16 |
 | McKinley Marketing Partners | Jr. Data Analyst | Unknown | Applied | 2025-04-16 |
 | Triple Whale | Unknown | Unknown | Applied | 2025-04-16 |
@@ -92,8 +92,6 @@
 | Midland Credit Management | HR - 17828 Forecasting Analyst | Unknown | Applied | 2025-04-15 |
 | Attentive | Analyst, Deal Strategy (Sales) | Unknown | Applied | 2025-04-15 |
 | MongoDB | Unknown | Unknown | Applied | 2025-04-15 |
-| Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-15 |
-| Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Applied | 2025-04-15 |
 | Unknown | Business Analyst - Default Systems and Support | On-Site | Applied | 2025-04-15 |
 | HealthEdge | Unknown | Unknown | Applied | 2025-04-15 |
 | Matillion | Pricing and Analytics Manager | Unknown | Declined | 2025-04-15 |
