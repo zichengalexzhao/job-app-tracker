@@ -24,6 +24,17 @@
 | Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Declined | 2025-04-17 |
 | Rexford Industrial | Technology Intern - Power BI and Data Engineering (Summer 2025) | Unknown | Declined | 2025-04-17 |
 | Omnicom Media Group US OMD | Unknown | Unknown | Declined | 2025-04-17 |
+| Scribd | Senior Product Analyst (UGC) | Unknown | Applied | 2025-04-17 |
+| SCAN Health Plan | Analyst, Marketing & Digital Analytics | Unknown | Applied | 2025-04-17 |
+| GoFundMe | Strategy Analyst I | Unknown | Applied | 2025-04-17 |
+| Xos, Inc. | Unknown | Unknown | Applied | 2025-04-17 |
+| Visa | Analyst, Business Strategy and Operations | Unknown | Applied | 2025-04-17 |
+| Pinterest | Data Scientist I | Unknown | Applied | 2025-04-17 |
+| Redwood Materials | Unknown | Unknown | Applied | 2025-04-17 |
+| Partnership HealthPlan of California | Health Services Analyst I | Unknown | Applied | 2025-04-17 |
+| ByteDance | TikTok Shop - Product Operations Analyst | Unknown | Applied | 2025-04-17 |
+| ByteDance | Workforce Management Analyst | Unknown | Applied | 2025-04-17 |
+| ByteDance | TikTok Shop - Business Analyst | Unknown | Applied | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
