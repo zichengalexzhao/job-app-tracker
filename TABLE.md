@@ -9,6 +9,15 @@
 | Sony | Data Analyst | Unknown | Applied | 2025-04-17 |
 | Pacific Gas and Electric Company | Substation Operations Intern | Unknown | Applied | 2025-04-17 |
 | Radian | Data Scientist I, MIRS | New York City - Madison Ave offices | Applied | 2025-04-17 |
+| Unknown | Analyst/Senior Business Analyst | Unknown | Applied | 2025-04-17 |
+| Weee! Inc | Operations Analyst II | Unknown | Applied | 2025-04-17 |
+| Redwood Materials | Unknown | Unknown | Applied | 2025-04-17 |
+| FuseGlobal | Chargeback Analyst | Unknown | Applied | 2025-04-17 |
+| FuseGlobal | Analyst, Commercial Development | Unknown | Applied | 2025-04-17 |
+| ABC Legal Services | Unknown | Unknown | Applied | 2025-04-17 |
+| TeleTracking Technologies, Inc. | Unknown | Unknown | Applied | 2025-04-17 |
+| Bio-Techne | Senior Data Analyst | Unknown | Declined | 2025-04-17 |
+| Material Bank | Product Data Analyst | Unknown | Applied | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |

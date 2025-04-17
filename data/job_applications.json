@@ -19829,5 +19829,68 @@
         "Location": "New York City - Madison Ave offices",
         "status": "Applied",
         "Date": "2025-04-17"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Analyst/Senior Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Weee! Inc",
+        "Job Title": "Operations Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Redwood Materials",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "FuseGlobal",
+        "Job Title": "Chargeback Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "FuseGlobal",
+        "Job Title": "Analyst, Commercial Development",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "ABC Legal Services",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "TeleTracking Technologies, Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Bio-Techne",
+        "Job Title": "Senior Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Material Bank",
+        "Job Title": "Product Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
     }
 ]
