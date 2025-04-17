@@ -9968,13 +9968,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "Numerator",
-        "Job Title": "Research Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-11"
-    },
-    {
         "Company": "Cognizant",
         "Job Title": "Data Conversion Associate Consultant",
         "Location": "Unknown",
@@ -20057,6 +20050,20 @@
     {
         "Company": "Tubi",
         "Job Title": "Data Engineer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Urban Science",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Numerator",
+        "Job Title": "Research Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-17"

@@ -49,6 +49,8 @@
 | MDVIP LLC | Unknown | Unknown | Declined | 2025-04-17 |
 | Vagaro | Unknown | Unknown | Declined | 2025-04-17 |
 | Tubi | Data Engineer | Unknown | Declined | 2025-04-17 |
+| Urban Science | Unknown | Unknown | Applied | 2025-04-17 |
+| Numerator | Research Analyst | Unknown | Declined | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
@@ -1472,7 +1474,6 @@
 | DoorDash | Master Data Management Specialist | Unknown | Declined | 2025-03-11 |
 | Ford | Unknown | Unknown | Applied | 2025-03-11 |
 | Chewy Inc | Business Intelligence Engineer I | Unknown | Applied | 2025-03-11 |
-| Numerator | Research Analyst | Unknown | Applied | 2025-03-11 |
 | CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-11 |
 | Disney | Unknown | Unknown | Applied | 2025-03-11 |
 | Blue Cross NC | Unknown | Unknown | Applied | 2025-03-11 |
