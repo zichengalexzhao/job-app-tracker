@@ -18480,13 +18480,6 @@
         "Date": "2025-04-13"
     },
     {
-        "Company": "Redhorse Corporation",
-        "Job Title": "Project Analyst I",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-13"
-    },
-    {
         "Company": "Sephora",
         "Job Title": "Analyst, Media Insights",
         "Location": "FSC REMOTE SF/NY/DC",
@@ -19905,6 +19898,13 @@
         "Job Title": "Sales Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Redhorse Corporation",
+        "Job Title": "Project Analyst I",
+        "Location": "Zicheng",
+        "status": "Declined",
         "Date": "2025-04-17"
     }
 ]
