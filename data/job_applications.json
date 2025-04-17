@@ -19787,5 +19787,47 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-17"
+    },
+    {
+        "Company": "Lumen",
+        "Job Title": "Business Intelligence Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "FedEx",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Center for Elders' Independence",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Sony",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Pacific Gas and Electric Company",
+        "Job Title": "Substation Operations Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Radian",
+        "Job Title": "Data Scientist I, MIRS",
+        "Location": "New York City - Madison Ave offices",
+        "status": "Applied",
+        "Date": "2025-04-17"
     }
 ]

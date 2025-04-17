@@ -3,6 +3,12 @@
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
+| Lumen | Business Intelligence Analyst II | Unknown | Applied | 2025-04-17 |
+| FedEx | Unknown | Unknown | Applied | 2025-04-17 |
+| Center for Elders' Independence | Business Intelligence Analyst | Unknown | Applied | 2025-04-17 |
+| Sony | Data Analyst | Unknown | Applied | 2025-04-17 |
+| Pacific Gas and Electric Company | Substation Operations Intern | Unknown | Applied | 2025-04-17 |
+| Radian | Data Scientist I, MIRS | New York City - Madison Ave offices | Applied | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
