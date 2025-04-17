@@ -22,6 +22,8 @@
 | Sanofi | Sales Analyst | Unknown | Applied | 2025-04-17 |
 | Redhorse Corporation | Project Analyst I | Zicheng | Declined | 2025-04-17 |
 | Humana | Actuarial Analyst, Analytics/Forecasting - Medicare Dental/Vision | Unknown | Declined | 2025-04-17 |
+| Rexford Industrial | Technology Intern - Power BI and Data Engineering (Summer 2025) | Unknown | Declined | 2025-04-17 |
+| Omnicom Media Group US OMD | Unknown | Unknown | Declined | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
