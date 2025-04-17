@@ -47,6 +47,8 @@
 | West Coast University, Inc | Business Intelligence Analyst (ID 2025-3639) | Unknown | Declined | 2025-04-17 |
 | Red Bull Distribution Company | Business Operations Analyst | Unknown | Declined | 2025-04-17 |
 | MDVIP LLC | Unknown | Unknown | Declined | 2025-04-17 |
+| Vagaro | Unknown | Unknown | Declined | 2025-04-17 |
+| Tubi | Data Engineer | Unknown | Declined | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
@@ -367,7 +369,6 @@
 | Messari | Analytics Engineer | Unknown | Applied | 2025-04-10 |
 | St. Jude | Unknown | Unknown | Applied | 2025-04-10 |
 | ASM | Data Analyst | Unknown | Declined | 2025-04-10 |
-| Tubi | Data Engineer | Unknown | Applied | 2025-04-10 |
 | Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |
 | EverBank N.A. | Data Analyst - Community Reinvestment Act | Jacksonville, Florida | Applied | 2025-04-10 |
 | Elevance Health Companies, Inc. | Advanced Analytics Analyst | Unknown | Applied | 2025-04-10 |
@@ -1068,7 +1069,6 @@
 | NICO National Indemnity Company | Accounting Data Reporting Analyst | Unknown | Applied | 2025-03-21 |
 | Andersen | Business Analyst (Rating, Data) | San Francisco | Declined | 2025-03-21 |
 | Hewlett Packard Enterprise (HPE) | Data Science Graduate | Unknown | Declined | 2025-03-21 |
-| Vagaro | Unknown | Unknown | Applied | 2025-03-21 |
 | Covetrus | Item Master Analyst | Unknown | Declined | 2025-03-21 |
 | Healthcare Analytics \| Payment Integrity | Data Analyst | Unknown | Declined | 2025-03-21 |
 | Uber | Measurement & Insights Analyst, Uber Advertising | Unknown | Declined | 2025-03-21 |

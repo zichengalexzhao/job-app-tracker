@@ -12684,13 +12684,6 @@
         "Date": "2025-03-21"
     },
     {
-        "Company": "Vagaro",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-21"
-    },
-    {
         "Company": "Covetrus",
         "Job Title": "Item Master Analyst",
         "Location": "Unknown",
@@ -17549,13 +17542,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "Tubi",
-        "Job Title": "Data Engineer",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "Angi",
         "Job Title": "Compensation & Equity Analyst",
         "Location": "Unknown",
@@ -20057,6 +20043,20 @@
     {
         "Company": "MDVIP LLC",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Vagaro",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Tubi",
+        "Job Title": "Data Engineer",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-17"
