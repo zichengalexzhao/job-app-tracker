@@ -52,6 +52,7 @@
 | Urban Science | Unknown | Unknown | Applied | 2025-04-17 |
 | Numerator | Research Analyst | Unknown | Declined | 2025-04-17 |
 | McKinsey & Company | Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial) | Unknown | Declined | 2025-04-17 |
+| Vida Health | Process Application and Automation Specialist | Unknown | Applied | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
