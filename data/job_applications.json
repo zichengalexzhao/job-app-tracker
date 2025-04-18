@@ -20102,5 +20102,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-18"
+    },
+    {
+        "Company": "FinThrive",
+        "Job Title": "Power BI Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Phihong USA Corp",
+        "Job Title": "Operations Research Analyst",
+        "Location": "Fremont, CA",
+        "status": "Applied",
+        "Date": "2025-04-18"
     }
 ]

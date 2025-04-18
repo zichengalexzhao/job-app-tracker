@@ -4,6 +4,8 @@
 | YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
 | Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
 | Kaiser Permanente | Data Scientist Intern-Graduate | Unknown | Declined | 2025-04-18 |
+| FinThrive | Power BI Intern | Unknown | Declined | 2025-04-18 |
+| Phihong USA Corp | Operations Research Analyst | Fremont, CA | Applied | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
