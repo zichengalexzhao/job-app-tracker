@@ -20116,5 +20116,40 @@
         "Location": "Fremont, CA",
         "status": "Applied",
         "Date": "2025-04-18"
+    },
+    {
+        "Company": "Stride",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Hinge Health, Inc.",
+        "Job Title": "Revenue Operations Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Thumbtack",
+        "Job Title": "Data Scientist, Product",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Engineer I, Data Services Team",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Medtronic",
+        "Job Title": "Contract Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
     }
 ]
