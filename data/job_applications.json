@@ -15232,13 +15232,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Sony",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "Trace3",
         "Job Title": "Data & Analytics",
         "Location": "Unknown",
@@ -19719,13 +19712,6 @@
         "Date": "2025-04-17"
     },
     {
-        "Company": "Sony",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-17"
-    },
-    {
         "Company": "Pacific Gas and Electric Company",
         "Job Title": "Substation Operations Intern",
         "Location": "Unknown",
@@ -20353,6 +20339,13 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Sony",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-18"
     }
 ]

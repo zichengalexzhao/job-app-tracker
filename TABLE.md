@@ -42,13 +42,13 @@
 | Swivel Payment Solutions LLC | Jr. BI Analyst | New York, NY | Applied | 2025-04-18 |
 | Evolus | Digital Product Business Analyst | Unknown | Applied | 2025-04-18 |
 | Tailscale | Data Analyst | Unknown | Applied | 2025-04-18 |
+| Sony | Data Analyst | Unknown | Declined | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Lumen | Business Intelligence Analyst II | Unknown | Applied | 2025-04-17 |
 | FedEx | Unknown | Unknown | Applied | 2025-04-17 |
 | Center for Elders' Independence | Business Intelligence Analyst | Unknown | Applied | 2025-04-17 |
-| Sony | Data Analyst | Unknown | Applied | 2025-04-17 |
 | Pacific Gas and Electric Company | Substation Operations Intern | Unknown | Applied | 2025-04-17 |
 | Radian | Data Scientist I, MIRS | New York City - Madison Ave offices | Applied | 2025-04-17 |
 | Unknown | Analyst/Senior Business Analyst | Unknown | Applied | 2025-04-17 |
@@ -763,7 +763,6 @@
 | Gulf States Toyota, Inc. | Analyst II, Supply Chain | Unknown | Declined | 2025-04-02 |
 | PRA Group | Strategy Analyst - Legal Recovery | Unknown | Applied | 2025-04-02 |
 | CareDx Inc | Data Scientist | Unknown | Applied | 2025-04-02 |
-| Sony | Data Analyst | Unknown | Applied | 2025-04-02 |
 | Trace3 | Data & Analytics | Unknown | Applied | 2025-04-02 |
 | Gold Coast Health Plan | Unknown | Unknown | Applied | 2025-04-02 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-04-02 |
