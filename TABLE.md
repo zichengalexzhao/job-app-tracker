@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Circana | Client Insights Consultant | Unknown | Applied | 2025-04-18 |
+| YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
+| Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
@@ -53,6 +56,8 @@
 | Numerator | Research Analyst | Unknown | Declined | 2025-04-17 |
 | McKinsey & Company | Data Scientist II - Agriculture Analytics (Machine Learning / Geospatial) | Unknown | Declined | 2025-04-17 |
 | Vida Health | Process Application and Automation Specialist | Unknown | Applied | 2025-04-17 |
+| Pearson | Data Management Analyst | Unknown | Applied | 2025-04-17 |
+| VCI Construction, LLC | Data Analyst | Upland, CA | Declined | 2025-04-17 |
 | Twitch | Data Science Intern (MA/PhD) | Unknown | Declined | 2025-04-16 |
 | Zayo | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Viasat, Inc. | Data Scientist - Generative AI | Unknown | Applied | 2025-04-16 |
@@ -96,7 +101,6 @@
 | Walmart | Data Scientist – Conversational AI | Unknown | Applied | 2025-04-16 |
 | Hinge Health, Inc. | Revenue Operations Associate | Unknown | Applied | 2025-04-16 |
 | EVgo | Intern, Data Analytics | Unknown | Applied | 2025-04-16 |
-| VCI Construction, LLC | Data Analyst | Unknown | Applied | 2025-04-16 |
 | Unknown | Capacity Planning Forecast Analyst | Unknown | Declined | 2025-04-16 |
 | SeatGeek | Workforce Analyst | Unknown | Declined | 2025-04-16 |
 | Live Nation Entertainment | Data Analyst, Metrics & Reporting | Unknown | Applied | 2025-04-16 |
@@ -240,7 +244,6 @@
 | Spotify | Senior Analyst, Sales Operations | Unknown | Declined | 2025-04-12 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-04-12 |
 | UnitedHealth Group | Data Analyst | Remote | Applied | 2025-04-12 |
-| Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Applied | 2025-04-12 |
 | U.S. Bank | Investment Analytics Group Analyst | Unknown | Applied | 2025-04-12 |
 | St. Michael's Inc | Unknown | Unknown | Applied | 2025-04-12 |
 | Liberty Mutual Insurance | Analyst II, Data Science | Unknown | Applied | 2025-04-12 |

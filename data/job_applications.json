@@ -18158,13 +18158,6 @@
         "Date": "2025-04-12"
     },
     {
-        "Company": "Liberty Mutual Insurance",
-        "Job Title": "Analyst Product Analysis",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-12"
-    },
-    {
         "Company": "U.S. Bank",
         "Job Title": "Investment Analytics Group Analyst",
         "Location": "Unknown",
@@ -19628,13 +19621,6 @@
         "Date": "2025-04-16"
     },
     {
-        "Company": "VCI Construction, LLC",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-16"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Capacity Planning Forecast Analyst",
         "Location": "Unknown",
@@ -20073,6 +20059,41 @@
         "Job Title": "Process Application and Automation Specialist",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "Circana",
+        "Job Title": "Client Insights Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "YipitData",
+        "Job Title": "Research Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Liberty Mutual Insurance",
+        "Job Title": "Analyst Product Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Pearson",
+        "Job Title": "Data Management Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-17"
+    },
+    {
+        "Company": "VCI Construction, LLC",
+        "Job Title": "Data Analyst",
+        "Location": "Upland, CA",
+        "status": "Declined",
         "Date": "2025-04-17"
     }
 ]
