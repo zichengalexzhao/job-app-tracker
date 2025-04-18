@@ -17,6 +17,8 @@
 | eBay | Applied Researcher 1 | Unknown | Declined | 2025-04-18 |
 | ABC Legal Services | Data Analyst | Unknown | Declined | 2025-04-18 |
 | JPMorgan Chase & Co. | Global Technology Strategy Analyst | Unknown | Declined | 2025-04-18 |
+| HubSpot | Data Scientist, People Analytics | Unknown | Declined | 2025-04-18 |
+| Disney | Business Analyst, Platform Distribution Operations | Unknown | Applied | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
@@ -1885,7 +1887,6 @@
 | IQVIA | Data Science Intern - Summer 2025 | Unknown | Applied | 2025-02-27 |
 | Netflix | Data Scientist (L4) - Growth and Membership | Unknown | Applied | 2025-02-27 |
 | Workday | Unknown | Unknown | Applied | 2025-02-27 |
-| HubSpot | Data Scientist, People Analytics | Unknown | Applied | 2025-02-27 |
 | SoFi | Data Scientist, Pricing | Unknown | Declined | 2025-02-27 |
 | Intermedia.net, Inc. | Unknown | Unknown | Applied | 2025-02-27 |
 | Deckers Brands | Analyst, Consumer Data | Unknown | Applied | 2025-02-27 |

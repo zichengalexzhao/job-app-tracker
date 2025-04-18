@@ -7028,13 +7028,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "HubSpot",
-        "Job Title": "Data Scientist, People Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "SoFi",
         "Job Title": "Data Scientist, Pricing",
         "Location": "Unknown",
@@ -20192,6 +20185,20 @@
         "Job Title": "Global Technology Strategy Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "HubSpot",
+        "Job Title": "Data Scientist, People Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Business Analyst, Platform Distribution Operations",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-18"
     }
 ]
