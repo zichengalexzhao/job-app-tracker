@@ -20389,5 +20389,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-18"
+    },
+    {
+        "Company": "R1RCM",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Docusign",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "R1RCM",
+        "Job Title": "Data Operations Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
     }
 ]
