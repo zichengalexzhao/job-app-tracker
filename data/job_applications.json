@@ -20179,5 +20179,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-18"
+    },
+    {
+        "Company": "ABC Legal Services",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
     }
 ]
