@@ -19,6 +19,15 @@
 | JPMorgan Chase & Co. | Global Technology Strategy Analyst | Unknown | Declined | 2025-04-18 |
 | HubSpot | Data Scientist, People Analytics | Unknown | Declined | 2025-04-18 |
 | Disney | Business Analyst, Platform Distribution Operations | Unknown | Applied | 2025-04-18 |
+| Adventist Health | Data Integrity Analyst | Unknown | Applied | 2025-04-18 |
+| Boys & Girls Clubs of the Peninsula | Business Analyst | Unknown | Applied | 2025-04-18 |
+| V3 Electric | Sales Analyst | Unknown | Applied | 2025-04-18 |
+| C Overaa & Co | Power BI Developer | Unknown | Declined | 2025-04-18 |
+| Adobe | Senior Analyst - B2B Behavioral Analytics | Unknown | Applied | 2025-04-18 |
+| Uber | Applied Scientist, Marketplace Fairness and AI | Unknown | Applied | 2025-04-18 |
+| Juniper Networks | Data Analyst-Intern | Unknown | Applied | 2025-04-18 |
+| Amplitude | Business Intelligence Analyst, Strategic Finance | Unknown | Declined | 2025-04-18 |
+| ZS | Decision Analytics Associate | South San Francisco | Declined | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
@@ -1106,7 +1115,6 @@
 | Peloton Consulting Group | Technical Implementation Consultant – Analyst | Unknown | Applied | 2025-03-20 |
 | Roku | Analyst, Business Automation | Unknown | Applied | 2025-03-20 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-20 |
-| Amplitude | Business Intelligence Analyst, Strategic Finance | Unknown | Applied | 2025-03-20 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-20 |
 | Beyond Finance | Unknown | Unknown | Applied | 2025-03-20 |
 | Amazon | Data Engineer, Stores Finance Analytics & Insights | Unknown | Applied | 2025-03-20 |

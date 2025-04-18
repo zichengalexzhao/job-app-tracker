@@ -12278,13 +12278,6 @@
         "Date": "2025-03-20"
     },
     {
-        "Company": "Amplitude",
-        "Job Title": "Business Intelligence Analyst, Strategic Finance",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-20"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Business Analyst, NASC ACES, ACES Analytics and Strategy",
         "Location": "Unknown",
@@ -20199,6 +20192,69 @@
         "Job Title": "Business Analyst, Platform Distribution Operations",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Adventist Health",
+        "Job Title": "Data Integrity Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Boys & Girls Clubs of the Peninsula",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "V3 Electric",
+        "Job Title": "Sales Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "C Overaa & Co",
+        "Job Title": "Power BI Developer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Senior Analyst - B2B Behavioral Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Applied Scientist, Marketplace Fairness and AI",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Juniper Networks",
+        "Job Title": "Data Analyst-Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Amplitude",
+        "Job Title": "Business Intelligence Analyst, Strategic Finance",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Decision Analytics Associate",
+        "Location": "South San Francisco",
+        "status": "Declined",
         "Date": "2025-04-18"
     }
 ]
