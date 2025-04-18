@@ -28,6 +28,19 @@
 | Juniper Networks | Data Analyst-Intern | Unknown | Applied | 2025-04-18 |
 | Amplitude | Business Intelligence Analyst, Strategic Finance | Unknown | Declined | 2025-04-18 |
 | ZS | Decision Analytics Associate | South San Francisco | Declined | 2025-04-18 |
+| Cherry Street Energy | Unknown | Unknown | Declined | 2025-04-18 |
+| AppLovin | Marketing Science Partner, eCommerce | Unknown | Applied | 2025-04-18 |
+| KinderCare Careers | Procurement Analyst | Unknown | Applied | 2025-04-18 |
+| DHL Express | 2025 Summer Intern - Logistics Operations | Boston, MA | Applied | 2025-04-18 |
+| Cainiao Supply Chain US. INC. | Logistics Operations Analyst | Los Angeles, CA | Applied | 2025-04-18 |
+| Think Academy (TAL Education Group) | Business Operations Specialist and Math Teacher | Unknown | Applied | 2025-04-18 |
+| TotalCare | Operations Lead | Irvine, CA | Applied | 2025-04-18 |
+| Chain-Sys Corp | Presales Data Management & AI | Rocklin, CA | Applied | 2025-04-18 |
+| Eaker Perez Law | Financial Analyst | San Diego, CA | Applied | 2025-04-18 |
+| CareerVest LLC | Data Scientist | California City, CA | Applied | 2025-04-18 |
+| E Logic | Business Analyst | Unknown | Applied | 2025-04-18 |
+| Swivel Payment Solutions LLC | Jr. BI Analyst | New York, NY | Applied | 2025-04-18 |
+| Evolus | Digital Product Business Analyst | Unknown | Applied | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
