@@ -12,6 +12,9 @@
 | Amazon | Data Engineer I, Data Services Team | Unknown | Applied | 2025-04-18 |
 | Medtronic | Contract Analyst | Unknown | Applied | 2025-04-18 |
 | Centene | Data Analyst II Healthcare Analytics | Unknown | Applied | 2025-04-18 |
+| Western Union | Data Analyst, US Consumer Services | Unknown | Applied | 2025-04-18 |
+| Western Union | Data Analyst, US Consumer Services | Unknown | Applied | 2025-04-18 |
+| eBay | Applied Researcher 1 | Unknown | Declined | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
