@@ -41,6 +41,7 @@
 | E Logic | Business Analyst | Unknown | Applied | 2025-04-18 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | New York, NY | Applied | 2025-04-18 |
 | Evolus | Digital Product Business Analyst | Unknown | Applied | 2025-04-18 |
+| Tailscale | Data Analyst | Unknown | Applied | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
