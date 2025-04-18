@@ -43,6 +43,13 @@
 | Evolus | Digital Product Business Analyst | Unknown | Applied | 2025-04-18 |
 | Tailscale | Data Analyst | Unknown | Applied | 2025-04-18 |
 | Sony | Data Analyst | Unknown | Declined | 2025-04-18 |
+| Autodesk | Strategic Analyst | Unknown | Applied | 2025-04-18 |
+| AppFolio | Sr. Performance Analyst | Unknown | Applied | 2025-04-18 |
+| IMP Consulting | Business Analyst - West Coast | Unknown | Applied | 2025-04-18 |
+| Terrestris Global Solutions | Management Analyst I | Unknown | Applied | 2025-04-18 |
+| Experis | Pricing Analyst | Unknown | Applied | 2025-04-18 |
+| Prosites Inc | AI Data Analyst | Unknown | Applied | 2025-04-18 |
+| Qualtrics | Analyst (Partner Payments) | Unknown | Declined | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
@@ -262,7 +269,6 @@
 | Fooda | Unknown | Unknown | Applied | 2025-04-14 |
 | U-Haul | Statistical Analyst | Unknown | Applied | 2025-04-13 |
 | Qualtrics | Data Scientist - Connected Intelligence | Unknown | Applied | 2025-04-13 |
-| Qualtrics | Analyst (Partner Payments) | Unknown | Applied | 2025-04-13 |
 | Ensemble Health Partners | Unknown | Unknown | Applied | 2025-04-13 |
 | Sephora | Analyst, Media Insights | FSC REMOTE SF/NY/DC | Applied | 2025-04-13 |
 | RH | Inventory Analyst | Unknown | Applied | 2025-04-13 |

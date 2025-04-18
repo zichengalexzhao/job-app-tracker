@@ -18410,13 +18410,6 @@
         "Date": "2025-04-13"
     },
     {
-        "Company": "Qualtrics",
-        "Job Title": "Analyst (Partner Payments)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-13"
-    },
-    {
         "Company": "Ensemble Health Partners",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -20344,6 +20337,55 @@
     {
         "Company": "Sony",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Autodesk",
+        "Job Title": "Strategic Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "AppFolio",
+        "Job Title": "Sr. Performance Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "IMP Consulting",
+        "Job Title": "Business Analyst - West Coast",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Terrestris Global Solutions",
+        "Job Title": "Management Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Experis",
+        "Job Title": "Pricing Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Prosites Inc",
+        "Job Title": "AI Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-18"
+    },
+    {
+        "Company": "Qualtrics",
+        "Job Title": "Analyst (Partner Payments)",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-18"
