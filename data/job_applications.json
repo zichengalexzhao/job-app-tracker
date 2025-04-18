@@ -20095,5 +20095,12 @@
         "Location": "Upland, CA",
         "status": "Declined",
         "Date": "2025-04-17"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Scientist Intern-Graduate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-18"
     }
 ]

@@ -3,6 +3,7 @@
 | Circana | Client Insights Consultant | Unknown | Applied | 2025-04-18 |
 | YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
 | Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
+| Kaiser Permanente | Data Scientist Intern-Graduate | Unknown | Declined | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
