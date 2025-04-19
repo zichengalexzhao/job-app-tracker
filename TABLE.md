@@ -54,6 +54,14 @@
 | Docusign | Data Science Intern | Unknown | Applied | 2025-04-18 |
 | R1RCM | Data Operations Analyst II | Unknown | Applied | 2025-04-18 |
 | Coinbase | Unknown | Unknown | Applied | 2025-04-18 |
+| ByteDance | Data Scientist (Multiple Positions) | Unknown | Applied | 2025-04-18 |
+| Zeta Global | Senior Analyst | Unknown | Applied | 2025-04-18 |
+| The Wonderful Company | Digital Marketing Strategist | Unknown | Applied | 2025-04-18 |
+| TikTok | Data Scientist - Search | Unknown | Applied | 2025-04-18 |
+| Rockerbox | Professional Services Analyst | Unknown | Applied | 2025-04-18 |
+| Outreach | Business Intelligence Analyst, Sales | Unknown | Applied | 2025-04-18 |
+| A Place For Mom | Jr. Data & BI Analyst | Unknown | Applied | 2025-04-18 |
+| Redwood Materials | Unknown | Unknown | Applied | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
