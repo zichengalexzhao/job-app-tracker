@@ -20020,13 +20020,6 @@
         "Date": "2025-04-17"
     },
     {
-        "Company": "Circana",
-        "Job Title": "Client Insights Consultant",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-18"
-    },
-    {
         "Company": "YipitData",
         "Job Title": "Research Associate",
         "Location": "Unknown",
@@ -20484,6 +20477,13 @@
     {
         "Company": "TeleTracking Technologies, Inc.",
         "Job Title": "Healthcare Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-19"
+    },
+    {
+        "Company": "Circana",
+        "Job Title": "Client Insights Consultant",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-19"
