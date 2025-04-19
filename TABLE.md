@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Lincoln Financial Group | Unknown | Unknown | Applied | 2025-04-19 |
+| Adobe | Sr AI Engineer | Unknown | Declined | 2025-04-19 |
 | Circana | Client Insights Consultant | Unknown | Applied | 2025-04-18 |
 | YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
 | Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
@@ -1338,7 +1339,6 @@
 | FedEx | Unknown | Unknown | Applied | 2025-03-17 |
 | City National Bank | Small Business Consumer Processor I | Unknown | Declined | 2025-03-17 |
 | Babylist | Data Analyst, Warehouse Operations | Unknown | Applied | 2025-03-17 |
-| Adobe | Sr AI Engineer | Unknown | Applied | 2025-03-17 |
 | Berkeley Research Group, LLC | Fall Associate- Economics and Data Analytics | Unknown | Applied | 2025-03-17 |
 | Walgreens | Data Scientist - Healthcare & Clinical Data | Remote | Declined | 2025-03-17 |
 | Randstad Life Sciences | Clinical Data Scientist I | Waltham, Massachusetts | Applied | 2025-03-17 |
