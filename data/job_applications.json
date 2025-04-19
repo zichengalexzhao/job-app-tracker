@@ -20487,5 +20487,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-19"
+    },
+    {
+        "Company": "ServiceUp",
+        "Job Title": "Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-19"
+    },
+    {
+        "Company": "Snowflake",
+        "Job Title": "Marketplace Operations Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-19"
+    },
+    {
+        "Company": "Terray Therapeutics, Inc.",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-19"
+    },
+    {
+        "Company": "Blueprint",
+        "Job Title": "Data & Ops Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-19"
     }
 ]

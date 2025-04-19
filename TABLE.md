@@ -4,6 +4,10 @@
 | Adobe | Sr AI Engineer | Unknown | Declined | 2025-04-19 |
 | TeleTracking Technologies, Inc. | Healthcare Business Intelligence Analyst | Unknown | Declined | 2025-04-19 |
 | Circana | Client Insights Consultant | Unknown | Declined | 2025-04-19 |
+| ServiceUp | Business Data Analyst | Unknown | Applied | 2025-04-19 |
+| Snowflake | Marketplace Operations Specialist | Unknown | Applied | 2025-04-19 |
+| Terray Therapeutics, Inc. | Associate Data Scientist | Unknown | Applied | 2025-04-19 |
+| Blueprint | Data & Ops Analyst | Unknown | Applied | 2025-04-19 |
 | YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
 | Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
 | Kaiser Permanente | Data Scientist Intern-Graduate | Unknown | Declined | 2025-04-18 |
