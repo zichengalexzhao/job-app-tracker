@@ -8,6 +8,7 @@
 | Snowflake | Marketplace Operations Specialist | Unknown | Applied | 2025-04-19 |
 | Terray Therapeutics, Inc. | Associate Data Scientist | Unknown | Applied | 2025-04-19 |
 | Blueprint | Data & Ops Analyst | Unknown | Applied | 2025-04-19 |
+| Natera | Business Analyst | Unknown | Declined | 2025-04-19 |
 | YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
 | Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
 | Kaiser Permanente | Data Scientist Intern-Graduate | Unknown | Declined | 2025-04-18 |

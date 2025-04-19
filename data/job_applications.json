@@ -20515,5 +20515,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-19"
+    },
+    {
+        "Company": "Natera",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-19"
     }
 ]
