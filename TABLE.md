@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Lincoln Financial Group | Unknown | Unknown | Applied | 2025-04-19 |
 | Adobe | Sr AI Engineer | Unknown | Declined | 2025-04-19 |
+| TeleTracking Technologies, Inc. | Healthcare Business Intelligence Analyst | Unknown | Declined | 2025-04-19 |
 | Circana | Client Insights Consultant | Unknown | Applied | 2025-04-18 |
 | YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
 | Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
