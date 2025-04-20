@@ -20529,5 +20529,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-19"
+    },
+    {
+        "Company": "Wipro",
+        "Job Title": "Business Analyst- Healthcare",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-20"
+    },
+    {
+        "Company": "Ford Motor Company",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-20"
     }
 ]
