@@ -4,6 +4,8 @@
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
 | Adobe | Unknown | San Jose, CA | Applied | 2025-04-20 |
+| A Place For Mom | Jr. Data & BI Analyst | Unknown | Declined | 2025-04-20 |
+| GuruNanda LLC | Amazon Growth & Ads Strategy Manager | Unknown | Declined | 2025-04-20 |
 | Lincoln Financial Group | Unknown | Unknown | Applied | 2025-04-19 |
 | Adobe | Sr AI Engineer | Unknown | Declined | 2025-04-19 |
 | TeleTracking Technologies, Inc. | Healthcare Business Intelligence Analyst | Unknown | Declined | 2025-04-19 |
@@ -73,7 +75,6 @@
 | TikTok | Data Scientist - Search | Unknown | Applied | 2025-04-18 |
 | Rockerbox | Professional Services Analyst | Unknown | Applied | 2025-04-18 |
 | Outreach | Business Intelligence Analyst, Sales | Unknown | Applied | 2025-04-18 |
-| A Place For Mom | Jr. Data & BI Analyst | Unknown | Applied | 2025-04-18 |
 | Redwood Materials | Unknown | Unknown | Applied | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |

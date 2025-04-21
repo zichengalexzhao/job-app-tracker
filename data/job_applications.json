@@ -20447,13 +20447,6 @@
         "Date": "2025-04-18"
     },
     {
-        "Company": "A Place For Mom",
-        "Job Title": "Jr. Data & BI Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-18"
-    },
-    {
         "Company": "Redwood Materials",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -20556,6 +20549,20 @@
         "Job Title": "Unknown",
         "Location": "San Jose, CA",
         "status": "Applied",
+        "Date": "2025-04-20"
+    },
+    {
+        "Company": "A Place For Mom",
+        "Job Title": "Jr. Data & BI Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-20"
+    },
+    {
+        "Company": "GuruNanda LLC",
+        "Job Title": "Amazon Growth & Ads Strategy Manager",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-20"
     }
 ]
