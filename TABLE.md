@@ -28,6 +28,8 @@
 | ENGIE North America Inc. | Intern, Power Congestion | Unknown | Applied | 2025-04-21 |
 | Pathward, N.A. | Unknown | Unknown | Applied | 2025-04-21 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
+| Adobe | Data Analyst Intern | San Jose, CA, USA | Applied | 2025-04-21 |
+| Centene | Data Analyst I | Unknown | Applied | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
