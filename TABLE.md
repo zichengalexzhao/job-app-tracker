@@ -15,6 +15,19 @@
 | Mspark | Reporting Associate | Unknown | Declined | 2025-04-21 |
 | NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-04-21 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
+| Highnote | Senior Data Scientist, Fraud Prevention | San Francisco | Applied | 2025-04-21 |
+| Informa Connect | Data & Analytics Business Analyst | Unknown | Applied | 2025-04-21 |
+| Jacobs | AI Analyst - 24726 | Unknown | Declined | 2025-04-21 |
+| Informa Connect | Data & Analytics Business Analyst | Unknown | Applied | 2025-04-21 |
+| OptionMetrics | Jr. Model Validation Analyst | Unknown | Applied | 2025-04-21 |
+| OptionMetrics | Quant Analyst Internship | Unknown | Applied | 2025-04-21 |
+| Roblox | Ad Operations Specialist (Temporary) | Unknown | Applied | 2025-04-21 |
+| Apple | Business Systems Analyst | Unknown | Applied | 2025-04-21 |
+| Unknown | Utility Worker | San Francisco, CA | Applied | 2025-04-21 |
+| Alma Rosa Winery & Vineyards | Sales Analyst | Solvang, CA | Applied | 2025-04-21 |
+| ENGIE North America Inc. | Intern, Power Congestion | Unknown | Applied | 2025-04-21 |
+| Pathward, N.A. | Unknown | Unknown | Applied | 2025-04-21 |
+| Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
