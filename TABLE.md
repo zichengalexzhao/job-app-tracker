@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
+| Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
+| Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
+| TCW | Reporting & Analytics Analyst | Unknown | Applied | 2025-04-21 |
+| Unknown | Business Intelligence Intern- Summer 2025 - 67326 | Unknown | Applied | 2025-04-21 |
+| Socure | Unknown | Unknown | Applied | 2025-04-21 |
+| Tarzana Treatment Center | Unknown | Unknown | Applied | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
