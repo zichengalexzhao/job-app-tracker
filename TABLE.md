@@ -13,6 +13,7 @@
 | Inspira Education | Student Success Operations Specialist | Remote | Applied | 2025-04-21 |
 | Shopify | Unknown | Unknown | Applied | 2025-04-21 |
 | Mspark | Reporting Associate | Unknown | Declined | 2025-04-21 |
+| NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
