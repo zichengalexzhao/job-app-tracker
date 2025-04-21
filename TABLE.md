@@ -34,6 +34,11 @@
 | SOLV Energy | Jr. Performance Engineering Analyst | Unknown | Applied | 2025-04-21 |
 | Tri Counties Bank | CRA HMDA Data Analyst I, II or III | Unknown | Applied | 2025-04-21 |
 | Flock Safety | Customer Support Insights & WFM Analyst | Unknown | Applied | 2025-04-21 |
+| Pearce Services LLC | Solar Performance Analyst | Unknown | Applied | 2025-04-21 |
+| MSD (Merck Sharp & Dohme) | Specialist – Data Science, Commercial AI | Unknown | Applied | 2025-04-21 |
+| Scribd | Product Analyst II (Content) | Unknown | Applied | 2025-04-21 |
+| Oracle | Data Scientist 2 - 289807 | Unknown | Applied | 2025-04-21 |
+| Autoliv United States | Data Analyst | Unknown | Applied | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
