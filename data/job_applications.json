@@ -19222,13 +19222,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Fivetran",
-        "Job Title": "Senior Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Underdog Sports",
         "Job Title": "Data Analyst II, Commercial",
         "Location": "Unknown",
@@ -20829,6 +20822,48 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Robbins Research International, Inc.",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Robbins Research International, Inc.",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Ivanti",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Pacvue",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Realty Income",
+        "Job Title": "Data & Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Fivetran",
+        "Job Title": "Senior Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-21"
     }
 ]

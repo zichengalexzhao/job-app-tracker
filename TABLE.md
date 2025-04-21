@@ -39,6 +39,12 @@
 | Scribd | Product Analyst II (Content) | Unknown | Applied | 2025-04-21 |
 | Oracle | Data Scientist 2 - 289807 | Unknown | Applied | 2025-04-21 |
 | Autoliv United States | Data Analyst | Unknown | Applied | 2025-04-21 |
+| Robbins Research International, Inc. | Marketing Data Analyst | Unknown | Applied | 2025-04-21 |
+| Robbins Research International, Inc. | Marketing Data Analyst | Unknown | Applied | 2025-04-21 |
+| Ivanti | Unknown | Unknown | Applied | 2025-04-21 |
+| Pacvue | Unknown | Unknown | Applied | 2025-04-21 |
+| Realty Income | Data & Business Analyst | Unknown | Applied | 2025-04-21 |
+| Fivetran | Senior Data Analyst | Unknown | Declined | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
@@ -275,7 +281,6 @@
 | Blue River Technology | Unknown | Unknown | Applied | 2025-04-15 |
 | Brown Advisory | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
 | Black & Veatch | Senior Analyst | Unknown | Applied | 2025-04-15 |
-| Fivetran | Senior Data Analyst | Unknown | Applied | 2025-04-15 |
 | Underdog Sports | Data Analyst II, Commercial | Unknown | Applied | 2025-04-15 |
 | Informa Markets | Customer Insights Researcher | Unknown | Applied | 2025-04-15 |
 | Four Hands | Associate Master Data Analyst | Unknown | Declined | 2025-04-15 |
