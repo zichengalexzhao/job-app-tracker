@@ -12,6 +12,7 @@
 | United Airlines | Analyst - Global Maintenance Strategy | Unknown | Applied | 2025-04-21 |
 | Inspira Education | Student Success Operations Specialist | Remote | Applied | 2025-04-21 |
 | Shopify | Unknown | Unknown | Applied | 2025-04-21 |
+| Mspark | Reporting Associate | Unknown | Declined | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
@@ -245,7 +246,6 @@
 | Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-15 |
 | Easterseals Southern California | Unknown | Unknown | Applied | 2025-04-15 |
 | T-Mobile | Sr Analyst, Care Contact Interaction Analytics | Unknown | Applied | 2025-04-15 |
-| Mspark | Reporting Associate | Unknown | Applied | 2025-04-15 |
 | Blue River Technology | Unknown | Unknown | Applied | 2025-04-15 |
 | Brown Advisory | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
 | Black & Veatch | Senior Analyst | Unknown | Applied | 2025-04-15 |

@@ -19201,13 +19201,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Mspark",
-        "Job Title": "Reporting Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Blue River Technology",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -20647,6 +20640,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Mspark",
+        "Job Title": "Reporting Associate",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-21"
     }
 ]
