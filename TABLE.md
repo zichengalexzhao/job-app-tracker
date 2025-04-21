@@ -30,6 +30,10 @@
 | Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
 | Adobe | Data Analyst Intern | San Jose, CA, USA | Applied | 2025-04-21 |
 | Centene | Data Analyst I | Unknown | Applied | 2025-04-21 |
+| Wilson Sonsini Goodrich & Rosati | Data Analyst, CRM | Unknown | Applied | 2025-04-21 |
+| SOLV Energy | Jr. Performance Engineering Analyst | Unknown | Applied | 2025-04-21 |
+| Tri Counties Bank | CRA HMDA Data Analyst I, II or III | Unknown | Applied | 2025-04-21 |
+| Flock Safety | Customer Support Insights & WFM Analyst | Unknown | Applied | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
