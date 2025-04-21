@@ -7,6 +7,11 @@
 | Unknown | Business Intelligence Intern- Summer 2025 - 67326 | Unknown | Applied | 2025-04-21 |
 | Socure | Unknown | Unknown | Applied | 2025-04-21 |
 | Tarzana Treatment Center | Unknown | Unknown | Applied | 2025-04-21 |
+| Google | Unknown | Unknown | Applied | 2025-04-21 |
+| Skyworks | Semiconductor Process and Data Analytics Summer/Fall Co-op student | Unknown | Applied | 2025-04-21 |
+| United Airlines | Analyst - Global Maintenance Strategy | Unknown | Applied | 2025-04-21 |
+| Inspira Education | Student Success Operations Specialist | Remote | Applied | 2025-04-21 |
+| Shopify | Unknown | Unknown | Applied | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
