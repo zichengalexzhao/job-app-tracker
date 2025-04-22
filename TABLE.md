@@ -36,6 +36,8 @@
 | 2K | Analyst, Commercial Strategy & Operations | Unknown | Declined | 2025-04-22 |
 | Google | Unknown | Unknown | Applied | 2025-04-22 |
 | AXS | Summer Intern, Data Science | Unknown | Declined | 2025-04-22 |
+| Molina Healthcare | Analyst, Finance & Analytics | Remote | Applied | 2025-04-22 |
+| Western Health Advantage | Business Solutions Analyst II | Unknown | Declined | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
@@ -227,7 +229,6 @@
 | McKinley Marketing Partners | Jr. Data Analyst | Unknown | Applied | 2025-04-16 |
 | Triple Whale | Unknown | Unknown | Applied | 2025-04-16 |
 | Hungryroot | Unknown | Unknown | Applied | 2025-04-16 |
-| Western Health Advantage | Business Solutions Analyst II | Unknown | Applied | 2025-04-16 |
 | Stantec Consulting Ltd. | Data Scientist Intern | Unknown | Applied | 2025-04-16 |
 | Dexian | Business Data Analyst III (MTV) | Unknown | Applied | 2025-04-16 |
 | Centene | Data Analyst II Healthcare Analytics | Unknown | Applied | 2025-04-16 |

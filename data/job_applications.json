@@ -19327,13 +19327,6 @@
         "Date": "2025-04-16"
     },
     {
-        "Company": "Western Health Advantage",
-        "Job Title": "Business Solutions Analyst II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-16"
-    },
-    {
         "Company": "Stantec Consulting Ltd.",
         "Job Title": "Data Scientist Intern",
         "Location": "Unknown",
@@ -21128,6 +21121,20 @@
     {
         "Company": "AXS",
         "Job Title": "Summer Intern, Data Science",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Molina Healthcare",
+        "Job Title": "Analyst, Finance & Analytics",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Western Health Advantage",
+        "Job Title": "Business Solutions Analyst II",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-22"
