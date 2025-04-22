@@ -21110,5 +21110,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-22"
+    },
+    {
+        "Company": "Cleveland Browns",
+        "Job Title": "Data Analyst, Ticketing",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "ManTech",
+        "Job Title": "Senior Data Scientist",
+        "Location": "Chantilly, VA, USA",
+        "status": "Applied",
+        "Date": "2025-04-22"
     }
 ]
