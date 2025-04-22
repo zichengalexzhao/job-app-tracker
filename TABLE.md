@@ -62,6 +62,13 @@
 | CBRE | Data Analyst | Unknown | Applied | 2025-04-22 |
 | Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-22 |
 | Aon | Data Analytics Analyst | Unknown | Declined | 2025-04-22 |
+| Crumbl | Data Analytics Intern | Unknown | Applied | 2025-04-22 |
+| Michael Page | Data Analyst / Business Analytics Consultant | Unknown | Applied | 2025-04-22 |
+| Sperber Landscape Companies | Unknown | Unknown | Applied | 2025-04-22 |
+| RYZE Superfoods | Data Analyst | Unknown | Declined | 2025-04-22 |
+| Informa Markets | Customer Insights Researcher | Unknown | Applied | 2025-04-22 |
+| Mattel | LiveOps Product Manager (Digital Gaming) | Unknown | Applied | 2025-04-22 |
+| Unknown | CAT Analyst | Unknown | Applied | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |

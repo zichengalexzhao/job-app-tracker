@@ -21285,5 +21285,54 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-22"
+    },
+    {
+        "Company": "Crumbl",
+        "Job Title": "Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Michael Page",
+        "Job Title": "Data Analyst / Business Analytics Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Sperber Landscape Companies",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "RYZE Superfoods",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Informa Markets",
+        "Job Title": "Customer Insights Researcher",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Mattel",
+        "Job Title": "LiveOps Product Manager (Digital Gaming)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "CAT Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
     }
 ]
