@@ -13,6 +13,14 @@
 | Peregrine Technologies | Pricing Specialist | Unknown | Applied | 2025-04-22 |
 | The Los Angeles Lakers, Inc | Database Analyst | Unknown | Applied | 2025-04-22 |
 | Kikoff | Data Scientist | Unknown | Declined | 2025-04-22 |
+| Cleveland Browns | Data Analyst, Ticketing | Unknown | Applied | 2025-04-22 |
+| Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-22 |
+| Mercy Chefs | Unknown | Unknown | Applied | 2025-04-22 |
+| AlphaSense | Associate Product Manager - Company Docs | Unknown | Applied | 2025-04-22 |
+| Solstice Power Technologies LLC | Unknown | Unknown | Applied | 2025-04-22 |
+| Kin Insurance | Growth Analyst | Unknown | Applied | 2025-04-22 |
+| Gusto | Sales Compensation Analyst | Unknown | Applied | 2025-04-22 |
+| Dragonfly | Operations - Dragonfly Portfolio | Unknown | Applied | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
