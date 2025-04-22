@@ -21,6 +21,13 @@
 | Kin Insurance | Growth Analyst | Unknown | Applied | 2025-04-22 |
 | Gusto | Sales Compensation Analyst | Unknown | Applied | 2025-04-22 |
 | Dragonfly | Operations - Dragonfly Portfolio | Unknown | Applied | 2025-04-22 |
+| U.S. Bank | Data Management Analyst | Unknown | Applied | 2025-04-22 |
+| YouGov | Research Analyst | Unknown | Applied | 2025-04-22 |
+| West Marine | Supply Chain Analyst | Unknown | Applied | 2025-04-22 |
+| Coalition, Inc. | Unknown | Unknown | Applied | 2025-04-22 |
+| AbbVie | Senior Analyst, Marketing Business Intelligence (Training & Education Analytics)- REF36862N | Unknown | Applied | 2025-04-22 |
+| TikTok | Content Insights Analyst | Lemon8, US | Applied | 2025-04-22 |
+| Notion | Data Scientist, Sales and Revenue Operations | Unknown | Applied | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
