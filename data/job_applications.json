@@ -17262,13 +17262,6 @@
         "Date": "2025-04-09"
     },
     {
-        "Company": "Aon",
-        "Job Title": "Data Analytics Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-09"
-    },
-    {
         "Company": "Uber",
         "Job Title": "Data Scientist I",
         "Location": "US - Risk & Fraud",
@@ -18273,13 +18266,6 @@
         "Company": "Shopify",
         "Job Title": "Engineering & Data Internship",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-12"
-    },
-    {
-        "Company": "BlackRock",
-        "Job Title": "Data Analytics Associate",
-        "Location": "ATL",
         "status": "Applied",
         "Date": "2025-04-12"
     },
@@ -21157,6 +21143,146 @@
         "Company": "Rockstar Games",
         "Job Title": "Associate Project Coordinator: Analytics & Insights",
         "Location": "Rockstar New York",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Southwest Gas",
+        "Job Title": "Analyst I, Operations",
+        "Location": "Victorville",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Analyst I, Operations",
+        "Location": "Victorville",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Sephora",
+        "Job Title": "Business Intelligence Analyst / Systems Administrator",
+        "Location": "FSC REMOTE SF/NY/DC -173(USA_0173)",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Analyst I, Operations",
+        "Location": "Victorville",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Envista Family of Companies",
+        "Job Title": "Sales & Marketing Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "BlackRock",
+        "Job Title": "Data Analytics Associate",
+        "Location": "ATL",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Control Risks",
+        "Job Title": "Junior Open Source Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Control Risks",
+        "Job Title": "Junior Open Source Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Analyst, Asset Management",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "DLH",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "DLH",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Aon",
+        "Job Title": "Data Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Mercury Insurance Services, LLC",
+        "Job Title": "RD Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Business Intelligence Senior Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Data Intelligence Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Sales Brokerage Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Activision Blizzard King",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Activision Blizzard King",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Aon",
+        "Job Title": "Data Analytics Analyst",
+        "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-22"
     }

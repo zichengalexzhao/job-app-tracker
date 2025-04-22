@@ -42,6 +42,26 @@
 | RevolutionParts | Unknown | Unknown | Declined | 2025-04-22 |
 | Matillion | Pricing and Analytics Manager | Unknown | Declined | 2025-04-22 |
 | Rockstar Games | Associate Project Coordinator: Analytics & Insights | Rockstar New York | Declined | 2025-04-22 |
+| Southwest Gas | Analyst I, Operations | Victorville | Applied | 2025-04-22 |
+| Unknown | Analyst I, Operations | Victorville | Applied | 2025-04-22 |
+| Sephora | Business Intelligence Analyst / Systems Administrator | FSC REMOTE SF/NY/DC -173(USA_0173) | Applied | 2025-04-22 |
+| Unknown | Analyst I, Operations | Victorville | Applied | 2025-04-22 |
+| Envista Family of Companies | Sales & Marketing Analyst | Unknown | Applied | 2025-04-22 |
+| BlackRock | Data Analytics Associate | ATL | Declined | 2025-04-22 |
+| Control Risks | Junior Open Source Intelligence Analyst | Unknown | Applied | 2025-04-22 |
+| Control Risks | Junior Open Source Intelligence Analyst | Unknown | Applied | 2025-04-22 |
+| Unknown | Analyst, Asset Management | Unknown | Applied | 2025-04-22 |
+| DLH | Unknown | Unknown | Applied | 2025-04-22 |
+| DLH | Unknown | Unknown | Applied | 2025-04-22 |
+| Aon | Data Analytics Analyst | Unknown | Declined | 2025-04-22 |
+| Mercury Insurance Services, LLC | RD Analyst II | Unknown | Applied | 2025-04-22 |
+| CBRE | Business Intelligence Senior Analyst | Unknown | Applied | 2025-04-22 |
+| CBRE | Data Intelligence Research Analyst | Unknown | Applied | 2025-04-22 |
+| CBRE | Sales Brokerage Analyst | Unknown | Applied | 2025-04-22 |
+| Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-22 |
+| CBRE | Data Analyst | Unknown | Applied | 2025-04-22 |
+| Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-22 |
+| Aon | Data Analytics Analyst | Unknown | Declined | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
@@ -427,7 +447,6 @@
 | Shopify | Unknown | Unknown | Applied | 2025-04-12 |
 | Shopify | Unknown | Unknown | Applied | 2025-04-12 |
 | Shopify | Engineering & Data Internship | Unknown | Applied | 2025-04-12 |
-| BlackRock | Data Analytics Associate | ATL | Applied | 2025-04-12 |
 | T-Mobile | Data Scientist | Unknown | Applied | 2025-04-12 |
 | Applied Materials | Business Intelligence Analyst | Unknown | Applied | 2025-04-12 |
 | Fandom | Product Analyst | Unknown | Applied | 2025-04-12 |
@@ -619,7 +638,6 @@
 | Pacific Gas and Electric (PG&E) | Data Governance Analyst, Associate Requisition ID 164124 | Unknown | Applied | 2025-04-09 |
 | Alameda Health System | Charge Description Master (CDM) Analyst | Unknown | Applied | 2025-04-09 |
 | Kharon | Research Analyst | Unknown | Applied | 2025-04-09 |
-| Aon | Data Analytics Analyst | Unknown | Applied | 2025-04-09 |
 | Uber | Data Scientist I | US - Risk & Fraud | Applied | 2025-04-09 |
 | DataVisor | Solution Data Scientist | Unknown | Applied | 2025-04-09 |
 | Spotify | Analyst, Growth Finance | Unknown | Applied | 2025-04-08 |
