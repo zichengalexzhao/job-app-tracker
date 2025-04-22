@@ -21334,5 +21334,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-22"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Accenture",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Sephora",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Alliant Insurance Services, Inc.",
+        "Job Title": "Benefits Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
     }
 ]
