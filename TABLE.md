@@ -28,6 +28,8 @@
 | AbbVie | Senior Analyst, Marketing Business Intelligence (Training & Education Analytics)- REF36862N | Unknown | Applied | 2025-04-22 |
 | TikTok | Content Insights Analyst | Lemon8, US | Applied | 2025-04-22 |
 | Notion | Data Scientist, Sales and Revenue Operations | Unknown | Applied | 2025-04-22 |
+| SitusAMC | Unknown | Unknown | Applied | 2025-04-22 |
+| ALX Africa | Unknown | Unknown | Applied | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
