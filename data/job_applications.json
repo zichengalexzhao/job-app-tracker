@@ -7686,13 +7686,6 @@
         "Date": "2025-03-03"
     },
     {
-        "Company": "Kikoff",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-03"
-    },
-    {
         "Company": "Reyes Holdings, L.L.C",
         "Job Title": "Business Data Analyst",
         "Location": "Unknown",
@@ -20864,6 +20857,132 @@
         "Job Title": "Senior Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "TeamViewer US, Inc.",
+        "Job Title": "Customer Operations Analyst",
+        "Location": "Clearwater, FL",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Navitus Health Solutions, LLC",
+        "Job Title": "Analyst, Pricing and Underwriting (2025-4472)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Goodwin",
+        "Job Title": "CRM Data Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "American Red Cross",
+        "Job Title": "Benefits Analyst",
+        "Location": "Work From Home",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Goodwin",
+        "Job Title": "Billing Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "R1RCM",
+        "Job Title": "Data Analytics Manager",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Blue Cross NC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "BeOne",
+        "Job Title": "Data Strategy & Governance Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "TotalCare",
+        "Job Title": "Operations Lead",
+        "Location": "Southern California",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Faire",
+        "Job Title": "Revenue Operations Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Peregrine Technologies",
+        "Job Title": "Pricing Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "The Los Angeles Lakers, Inc",
+        "Job Title": "Database Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Kikoff",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Lucid Motors",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Gibson, Dunn & Crutcher LLP",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Bio-Rad Laboratories, Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "NBCUniversal",
+        "Job Title": "Data Science & Analytics Internships \u2013 Academic Year 2025-2026",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-21"
+    },
+    {
+        "Company": "Bio-Rad Laboratories, Inc.",
+        "Job Title": "Data Scientist Intern",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-21"
     }
 ]

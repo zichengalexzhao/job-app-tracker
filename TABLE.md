@@ -1,5 +1,18 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
+| Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
+| Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
+| American Red Cross | Benefits Analyst | Work From Home | Applied | 2025-04-22 |
+| Goodwin | Billing Operations Analyst | Unknown | Applied | 2025-04-22 |
+| R1RCM | Data Analytics Manager | Unknown | Applied | 2025-04-22 |
+| Blue Cross NC | Unknown | Unknown | Applied | 2025-04-22 |
+| BeOne | Data Strategy & Governance Intern | Unknown | Applied | 2025-04-22 |
+| TotalCare | Operations Lead | Southern California | Applied | 2025-04-22 |
+| Faire | Revenue Operations Associate | Unknown | Applied | 2025-04-22 |
+| Peregrine Technologies | Pricing Specialist | Unknown | Applied | 2025-04-22 |
+| The Los Angeles Lakers, Inc | Database Analyst | Unknown | Applied | 2025-04-22 |
+| Kikoff | Data Scientist | Unknown | Declined | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
@@ -45,6 +58,11 @@
 | Pacvue | Unknown | Unknown | Applied | 2025-04-21 |
 | Realty Income | Data & Business Analyst | Unknown | Applied | 2025-04-21 |
 | Fivetran | Senior Data Analyst | Unknown | Declined | 2025-04-21 |
+| Lucid Motors | Unknown | Unknown | Applied | 2025-04-21 |
+| Gibson, Dunn & Crutcher LLP | Business Intelligence Analyst | Unknown | Applied | 2025-04-21 |
+| Bio-Rad Laboratories, Inc. | Unknown | Unknown | Applied | 2025-04-21 |
+| NBCUniversal | Data Science & Analytics Internships – Academic Year 2025-2026 | Unknown | Applied | 2025-04-21 |
+| Bio-Rad Laboratories, Inc. | Data Scientist Intern | Unknown | Applied | 2025-04-21 |
 | Wipro | Business Analyst- Healthcare | Unknown | Declined | 2025-04-20 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-20 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-04-20 |
@@ -1887,7 +1905,6 @@
 | PriceLabs | Unknown | Unknown | Applied | 2025-03-03 |
 | Rakuten | Unknown | Unknown | Applied | 2025-03-03 |
 | Kikoff | Operations Analyst | Unknown | Applied | 2025-03-03 |
-| Kikoff | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Reyes Holdings, L.L.C | Business Data Analyst | Unknown | Declined | 2025-03-03 |
 | Disney | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Pixability | Unknown | Unknown | Applied | 2025-03-03 |
