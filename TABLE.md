@@ -74,6 +74,9 @@
 | Accenture | Unknown | Unknown | Applied | 2025-04-22 |
 | Sephora | Unknown | Unknown | Applied | 2025-04-22 |
 | Alliant Insurance Services, Inc. | Benefits Analyst I | Unknown | Declined | 2025-04-22 |
+| Ubisoft | Marketing Analytics Data Engineering Internship | San Francisco or Montreal | Applied | 2025-04-22 |
+| FirstService Residential, Inc. | Business Analyst | Unknown | Applied | 2025-04-22 |
+| NMRK (assumed from email domain) | Research Analyst | Unknown | Interviewed | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |

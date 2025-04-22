@@ -21369,5 +21369,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-22"
+    },
+    {
+        "Company": "Ubisoft",
+        "Job Title": "Marketing Analytics Data Engineering Internship",
+        "Location": "San Francisco or Montreal",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "FirstService Residential, Inc.",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "NMRK (assumed from email domain)",
+        "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Interviewed",
+        "Date": "2025-04-22"
     }
 ]
