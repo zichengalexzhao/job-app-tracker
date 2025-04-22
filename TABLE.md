@@ -33,6 +33,9 @@
 | Micron | Data Scientist | Unknown | Declined | 2025-04-22 |
 | Cleveland Browns | Data Analyst, Ticketing | Unknown | Applied | 2025-04-22 |
 | ManTech | Senior Data Scientist | Chantilly, VA, USA | Applied | 2025-04-22 |
+| 2K | Analyst, Commercial Strategy & Operations | Unknown | Declined | 2025-04-22 |
+| Google | Unknown | Unknown | Applied | 2025-04-22 |
+| AXS | Summer Intern, Data Science | Unknown | Declined | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
@@ -1825,7 +1828,6 @@
 | Department of Motor Vehicles | DMV Statistical Analyst—01099 | Unknown | Declined | 2025-03-06 |
 | Municipal Credit Union | Marketing Data Analyst | Unknown | Applied | 2025-03-06 |
 | Unknown | Data Integration Analyst - Parametric | Unknown | Applied | 2025-03-06 |
-| AXS | Summer Intern, Data Science | Unknown | Applied | 2025-03-06 |
 | Korn Ferry | Operations Analyst | Unknown | Declined | 2025-03-06 |
 | Trimble | Data Analyst | Unknown | Applied | 2025-03-06 |
 | Further | Unknown | Unknown | Applied | 2025-03-06 |
@@ -2356,7 +2358,6 @@
 | Jellyfish | Data Scientist, Product | Unknown | Applied | 2025-02-05 |
 | Fetch | Unknown | Unknown | Applied | 2025-02-05 |
 | Assurant | Insights Product Analyst | Unknown | Applied | 2025-02-05 |
-| 2K | Analyst, Commercial Strategy & Operations | Unknown | Applied | 2025-02-05 |
 | NAVEX Global A | Data Analyst | Unknown | Applied | 2025-02-05 |
 | Rocket Money | Unknown | Unknown | Applied | 2025-02-05 |
 | Salesforce | Analyst - Private Equity Practice | Unknown | Declined | 2025-02-05 |

@@ -1736,13 +1736,6 @@
         "Date": "2025-02-05"
     },
     {
-        "Company": "2K",
-        "Job Title": "Analyst, Commercial Strategy & Operations",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-05"
-    },
-    {
         "Company": "NAVEX Global A",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -8472,13 +8465,6 @@
     {
         "Company": "Unknown",
         "Job Title": "Data Integration Analyst - Parametric",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-06"
-    },
-    {
-        "Company": "AXS",
-        "Job Title": "Summer Intern, Data Science",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-06"
@@ -21123,6 +21109,27 @@
         "Job Title": "Senior Data Scientist",
         "Location": "Chantilly, VA, USA",
         "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "2K",
+        "Job Title": "Analyst, Commercial Strategy & Operations",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Google",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "AXS",
+        "Job Title": "Summer Intern, Data Science",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-22"
     }
 ]
