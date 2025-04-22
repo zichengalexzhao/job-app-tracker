@@ -21103,5 +21103,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-22"
+    },
+    {
+        "Company": "Micron",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
     }
 ]

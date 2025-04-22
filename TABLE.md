@@ -30,6 +30,7 @@
 | Notion | Data Scientist, Sales and Revenue Operations | Unknown | Applied | 2025-04-22 |
 | SitusAMC | Unknown | Unknown | Applied | 2025-04-22 |
 | ALX Africa | Unknown | Unknown | Applied | 2025-04-22 |
+| Micron | Data Scientist | Unknown | Declined | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
