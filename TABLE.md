@@ -38,6 +38,10 @@
 | AXS | Summer Intern, Data Science | Unknown | Declined | 2025-04-22 |
 | Molina Healthcare | Analyst, Finance & Analytics | Remote | Applied | 2025-04-22 |
 | Western Health Advantage | Business Solutions Analyst II | Unknown | Declined | 2025-04-22 |
+| Webflow | Demand Generation Marketing Associate, Conversion Campaigns | Unknown | Declined | 2025-04-22 |
+| RevolutionParts | Unknown | Unknown | Declined | 2025-04-22 |
+| Matillion | Pricing and Analytics Manager | Unknown | Declined | 2025-04-22 |
+| Rockstar Games | Associate Project Coordinator: Analytics & Insights | Rockstar New York | Declined | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
@@ -474,7 +478,6 @@
 | Mark Anthony Brewing Inc. | Data Scientist - Demand Planning | Unknown | Applied | 2025-04-11 |
 | KeyBank | Unknown | Unknown | Applied | 2025-04-11 |
 | Auto-Fit Inc | Data Scientist | Unknown | Applied | 2025-04-11 |
-| Rockstar Games | Associate Project Coordinator: Analytics & Insights | Unknown | Applied | 2025-04-11 |
 | Mayo Clinic | Associate Data Science Analyst - Shung Lab 355680 | Unknown | Applied | 2025-04-11 |
 | Taco Bell | Junior Business Analyst, Market Insights | Unknown | Declined | 2025-04-11 |
 | Apex Talent Solutions | Unknown | Unknown | Applied | 2025-04-11 |

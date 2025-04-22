@@ -17885,13 +17885,6 @@
         "Date": "2025-04-11"
     },
     {
-        "Company": "Rockstar Games",
-        "Job Title": "Associate Project Coordinator: Analytics & Insights",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-11"
-    },
-    {
         "Company": "Mayo Clinic",
         "Job Title": "Associate Data Science Analyst - Shung Lab 355680",
         "Location": "Unknown",
@@ -21136,6 +21129,34 @@
         "Company": "Western Health Advantage",
         "Job Title": "Business Solutions Analyst II",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Webflow",
+        "Job Title": "Demand Generation Marketing Associate, Conversion Campaigns",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "RevolutionParts",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Matillion",
+        "Job Title": "Pricing and Analytics Manager",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-22"
+    },
+    {
+        "Company": "Rockstar Games",
+        "Job Title": "Associate Project Coordinator: Analytics & Insights",
+        "Location": "Rockstar New York",
         "status": "Declined",
         "Date": "2025-04-22"
     }
