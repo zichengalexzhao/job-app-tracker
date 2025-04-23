@@ -6,6 +6,7 @@
 | Liquid IV | Acquisition Analyst | Unknown | Applied | 2025-04-23 |
 | Liquid IV | Analyst, Inventory Control | Unknown | Applied | 2025-04-23 |
 | SentiLink | Unknown | Unknown | Applied | 2025-04-23 |
+| DirectHire Solutions | Unknown | Unknown | Interviewed | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
