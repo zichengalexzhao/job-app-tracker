@@ -10836,13 +10836,6 @@
         "Date": "2025-03-16"
     },
     {
-        "Company": "Asurion",
-        "Job Title": "Data Scientist - Generative AI",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-16"
-    },
-    {
         "Company": "Salesforce",
         "Job Title": "Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics)",
         "Location": "Unknown",
@@ -21459,6 +21452,34 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Interviewed",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Molina Healthcare",
+        "Job Title": "Assoc Analyst, Provider Config",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Asurion",
+        "Job Title": "Data Scientist - Generative AI",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "RB Global Careers",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Juniper Networks",
+        "Job Title": "Product Management Intern \u2013 Wired Assurance (AI-Driven Data & Networking Analysis)",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-23"
     }
 ]

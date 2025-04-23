@@ -7,6 +7,10 @@
 | Liquid IV | Analyst, Inventory Control | Unknown | Applied | 2025-04-23 |
 | SentiLink | Unknown | Unknown | Applied | 2025-04-23 |
 | DirectHire Solutions | Unknown | Unknown | Interviewed | 2025-04-23 |
+| Molina Healthcare | Assoc Analyst, Provider Config | Unknown | Applied | 2025-04-23 |
+| Asurion | Data Scientist - Generative AI | Unknown | Declined | 2025-04-23 |
+| RB Global Careers | Data Analyst | Unknown | Applied | 2025-04-23 |
+| Juniper Networks | Product Management Intern – Wired Assurance (AI-Driven Data & Networking Analysis) | Unknown | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
@@ -1511,7 +1515,6 @@
 | DoorDash | Associate, New Verticals - Retail Strategy & Operations | Unknown | Applied | 2025-03-16 |
 | Urgently | Unknown | Unknown | Applied | 2025-03-16 |
 | Urgently | Unknown | Unknown | Applied | 2025-03-16 |
-| Asurion | Data Scientist - Generative AI | Unknown | Applied | 2025-03-16 |
 | Salesforce | Analyst/Sr Analyst, Marketing Planning and Strategy (Workforce Reporting and Analytics) | Unknown | Declined | 2025-03-16 |
 | Encord | Data Operations Analyst / Associate | Unknown | Applied | 2025-03-16 |
 | Home Depot | Unknown | Unknown | Applied | 2025-03-16 |
