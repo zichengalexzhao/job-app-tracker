@@ -13,6 +13,10 @@
 | Juniper Networks | Product Management Intern – Wired Assurance (AI-Driven Data & Networking Analysis) | Unknown | Applied | 2025-04-23 |
 | United Airlines | Analyst - Global Maintenance Strategy (WHQ00025037) | Unknown | Declined | 2025-04-23 |
 | Dave & Buster's | Data Analyst | Unknown | Declined | 2025-04-23 |
+| Mosaic Health | Provider Data Analyst | Unknown | Declined | 2025-04-23 |
+| Fifth Third Bank | Quantitative Analyst I | Unknown | Declined | 2025-04-23 |
+| K. Hovnanian Companies, LLC | Real Estate Product and Sales Analyst | Unknown | Declined | 2025-04-23 |
+| University Enterprises, Inc. | Director of Research & Evaluation | Sacramento, CA | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
@@ -534,7 +538,6 @@
 | S&P Global | Associate, Data Management Operations | Unknown | Applied | 2025-04-11 |
 | iSpot.tv | Data Analyst | Unknown | Applied | 2025-04-11 |
 | SoFi | Digital Chatbot Analyst | Unknown | Applied | 2025-04-11 |
-| Mosaic Health | Provider Data Analyst | Unknown | Applied | 2025-04-11 |
 | Colibri Group | Data Analyst I | Unknown | Applied | 2025-04-11 |
 | Verusen | Data Analysis Intern | Unknown | Applied | 2025-04-11 |
 | Constellation Energy Generation, LLC. | Quantitative Analyst, Risk Analytics (2025-125105) | Unknown | Applied | 2025-04-11 |
@@ -921,7 +924,6 @@
 | Alterman Group Inc | INTERN - Data Analyst | Unknown | Applied | 2025-04-02 |
 | Microsoft | Data Scientist | Unknown | Applied | 2025-04-02 |
 | Disney | Unknown | Unknown | Applied | 2025-04-02 |
-| Fifth Third Bank | Quantitative Analyst I | Unknown | Applied | 2025-04-02 |
 | KRAFT SPORTS AND ENTERTAINMENT LLC | Business Intelligence Analyst | Unknown | Declined | 2025-04-02 |
 | NCH | Category Insights Analyst | Unknown | Declined | 2025-04-02 |
 | Age of Learning | Data Science & Analytics Intern | Unknown | Applied | 2025-04-02 |

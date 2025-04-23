@@ -15120,13 +15120,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Fifth Third Bank",
-        "Job Title": "Quantitative Analyst I",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "KRAFT SPORTS AND ENTERTAINMENT LLC",
         "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
@@ -17908,13 +17901,6 @@
     {
         "Company": "SoFi",
         "Job Title": "Digital Chatbot Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-11"
-    },
-    {
-        "Company": "Mosaic Health",
-        "Job Title": "Provider Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-11"
@@ -21494,6 +21480,34 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Mosaic Health",
+        "Job Title": "Provider Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Fifth Third Bank",
+        "Job Title": "Quantitative Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "K. Hovnanian Companies, LLC",
+        "Job Title": "Real Estate Product and Sales Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "University Enterprises, Inc.",
+        "Job Title": "Director of Research & Evaluation",
+        "Location": "Sacramento, CA",
+        "status": "Applied",
         "Date": "2025-04-23"
     }
 ]
