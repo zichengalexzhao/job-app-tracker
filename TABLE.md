@@ -38,6 +38,9 @@
 | The Knot Worldwide | Data Scientist | Unknown | Declined | 2025-04-23 |
 | Optimal | Paid Media Strategist | Unknown | Applied | 2025-04-23 |
 | Easterseals Southern California | Business Analyst 3 | Irvine, CA | Applied | 2025-04-23 |
+| Amazon | Data Scientist | Unknown | Applied | 2025-04-23 |
+| Progressive Leasing | Data Scientist | Remote | Applied | 2025-04-23 |
+| Blue Diamond Growers | Sales Operations Analyst | Unknown | Declined | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |

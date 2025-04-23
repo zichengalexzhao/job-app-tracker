@@ -21614,5 +21614,26 @@
         "Location": "Irvine, CA",
         "status": "Applied",
         "Date": "2025-04-23"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Progressive Leasing",
+        "Job Title": "Data Scientist",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Blue Diamond Growers",
+        "Job Title": "Sales Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
     }
 ]
