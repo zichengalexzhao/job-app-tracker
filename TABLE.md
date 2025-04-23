@@ -17,6 +17,11 @@
 | Fifth Third Bank | Quantitative Analyst I | Unknown | Declined | 2025-04-23 |
 | K. Hovnanian Companies, LLC | Real Estate Product and Sales Analyst | Unknown | Declined | 2025-04-23 |
 | University Enterprises, Inc. | Director of Research & Evaluation | Sacramento, CA | Applied | 2025-04-23 |
+| Leap Event Technology | CRM Analyst | Unknown | Applied | 2025-04-23 |
+| Johnson & Johnson | Data Scientist | Unknown | Applied | 2025-04-23 |
+| PatientPoint | Data Visualization Analyst | Unknown | Applied | 2025-04-23 |
+| Montefiore Medical Center | Business Intelligence Analyst | Yonkers, NY, US | Applied | 2025-04-23 |
+| Paramount | Unknown | Unknown | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |

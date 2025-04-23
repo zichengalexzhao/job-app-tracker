@@ -21509,5 +21509,40 @@
         "Location": "Sacramento, CA",
         "status": "Applied",
         "Date": "2025-04-23"
+    },
+    {
+        "Company": "Leap Event Technology",
+        "Job Title": "CRM Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Johnson & Johnson",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "PatientPoint",
+        "Job Title": "Data Visualization Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
     }
 ]
