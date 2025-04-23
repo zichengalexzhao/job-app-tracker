@@ -21488,5 +21488,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-23"
+    },
+    {
+        "Company": "Dave & Buster's",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
     }
 ]
