@@ -28,6 +28,10 @@
 | Informa Connect | Data & Analytics Business Analyst | Unknown | Declined | 2025-04-23 |
 | Prime Healthcare | Unknown | Unknown | Applied | 2025-04-23 |
 | Roblox | (Temporary) Ad Operations Specialist | Unknown | Declined | 2025-04-23 |
+| Penn Mutual | Wealth Management Business Insights Analyst | Unknown | Applied | 2025-04-23 |
+| DoorDash | Associate Manager, Product Operations | Unknown | Applied | 2025-04-23 |
+| FedEx | Unknown | Unknown | Applied | 2025-04-23 |
+| FedEx | Unknown | Unknown | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |

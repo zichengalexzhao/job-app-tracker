@@ -21558,5 +21558,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-23"
+    },
+    {
+        "Company": "Penn Mutual",
+        "Job Title": "Wealth Management Business Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Associate Manager, Product Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "FedEx",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "FedEx",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
     }
 ]
