@@ -32,6 +32,12 @@
 | DoorDash | Associate Manager, Product Operations | Unknown | Applied | 2025-04-23 |
 | FedEx | Unknown | Unknown | Applied | 2025-04-23 |
 | FedEx | Unknown | Unknown | Applied | 2025-04-23 |
+| TransUnion | Unknown | Unknown | Applied | 2025-04-23 |
+| Lumen | Unknown | Unknown | Applied | 2025-04-23 |
+| Crumbl | Data Analytics Intern | Unknown | Declined | 2025-04-23 |
+| The Knot Worldwide | Data Scientist | Unknown | Declined | 2025-04-23 |
+| Optimal | Paid Media Strategist | Unknown | Applied | 2025-04-23 |
+| Easterseals Southern California | Business Analyst 3 | Irvine, CA | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
@@ -94,7 +100,6 @@
 | CBRE | Data Analyst | Unknown | Applied | 2025-04-22 |
 | Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-22 |
 | Aon | Data Analytics Analyst | Unknown | Declined | 2025-04-22 |
-| Crumbl | Data Analytics Intern | Unknown | Applied | 2025-04-22 |
 | Michael Page | Data Analyst / Business Analytics Consultant | Unknown | Applied | 2025-04-22 |
 | Sperber Landscape Companies | Unknown | Unknown | Applied | 2025-04-22 |
 | RYZE Superfoods | Data Analyst | Unknown | Declined | 2025-04-22 |
@@ -763,7 +768,6 @@
 | VISION HOSPITALITY GROUP, LLC | Business Intelligence Analyst, Operations Analyst | Chattanooga, TN | Applied | 2025-04-07 |
 | Blue Cross Blue Shield of Michigan (BCBSM) and Emergent Holdings | Business Analyst, Artificial Intelligence Intern | Unknown | Applied | 2025-04-07 |
 | Blue Cross | Business Analyst, Artificial Intelligence Intern | Unknown | Applied | 2025-04-07 |
-| The Knot Worldwide | Data Scientist | Unknown | Applied | 2025-04-07 |
 | DataRobot | Junior Data Science Engineer | Unknown | Applied | 2025-04-07 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-07 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-04-07 |

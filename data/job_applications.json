@@ -16352,13 +16352,6 @@
         "Date": "2025-04-07"
     },
     {
-        "Company": "The Knot Worldwide",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-07"
-    },
-    {
         "Company": "DataRobot",
         "Job Title": "Junior Data Science Engineer",
         "Location": "Unknown",
@@ -21245,13 +21238,6 @@
         "Date": "2025-04-22"
     },
     {
-        "Company": "Crumbl",
-        "Job Title": "Data Analytics Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-22"
-    },
-    {
         "Company": "Michael Page",
         "Job Title": "Data Analyst / Business Analytics Consultant",
         "Location": "Unknown",
@@ -21584,6 +21570,48 @@
         "Company": "FedEx",
         "Job Title": "Unknown",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "TransUnion",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Lumen",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Crumbl",
+        "Job Title": "Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "The Knot Worldwide",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Optimal",
+        "Job Title": "Paid Media Strategist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Easterseals Southern California",
+        "Job Title": "Business Analyst 3",
+        "Location": "Irvine, CA",
         "status": "Applied",
         "Date": "2025-04-23"
     }
