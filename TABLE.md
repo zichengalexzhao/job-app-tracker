@@ -22,6 +22,12 @@
 | PatientPoint | Data Visualization Analyst | Unknown | Applied | 2025-04-23 |
 | Montefiore Medical Center | Business Intelligence Analyst | Yonkers, NY, US | Applied | 2025-04-23 |
 | Paramount | Unknown | Unknown | Applied | 2025-04-23 |
+| Arch Premier Inc | Unknown | Unknown | Applied | 2025-04-23 |
+| Coinbase | People Data Analyst | Unknown | Declined | 2025-04-23 |
+| Informa Markets | Customer Insights Researcher | Unknown | Declined | 2025-04-23 |
+| Informa Connect | Data & Analytics Business Analyst | Unknown | Declined | 2025-04-23 |
+| Prime Healthcare | Unknown | Unknown | Applied | 2025-04-23 |
+| Roblox | (Temporary) Ad Operations Specialist | Unknown | Declined | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
@@ -88,7 +94,6 @@
 | Michael Page | Data Analyst / Business Analytics Consultant | Unknown | Applied | 2025-04-22 |
 | Sperber Landscape Companies | Unknown | Unknown | Applied | 2025-04-22 |
 | RYZE Superfoods | Data Analyst | Unknown | Declined | 2025-04-22 |
-| Informa Markets | Customer Insights Researcher | Unknown | Applied | 2025-04-22 |
 | Mattel | LiveOps Product Manager (Digital Gaming) | Unknown | Applied | 2025-04-22 |
 | Unknown | CAT Analyst | Unknown | Applied | 2025-04-22 |
 | Unknown | Unknown | Unknown | Applied | 2025-04-22 |
@@ -118,9 +123,7 @@
 | NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-04-21 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
 | Highnote | Senior Data Scientist, Fraud Prevention | San Francisco | Applied | 2025-04-21 |
-| Informa Connect | Data & Analytics Business Analyst | Unknown | Applied | 2025-04-21 |
 | Jacobs | AI Analyst - 24726 | Unknown | Declined | 2025-04-21 |
-| Informa Connect | Data & Analytics Business Analyst | Unknown | Applied | 2025-04-21 |
 | OptionMetrics | Jr. Model Validation Analyst | Unknown | Applied | 2025-04-21 |
 | OptionMetrics | Quant Analyst Internship | Unknown | Applied | 2025-04-21 |
 | Roblox | Ad Operations Specialist (Temporary) | Unknown | Applied | 2025-04-21 |
@@ -388,7 +391,6 @@
 | Brown Advisory | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
 | Black & Veatch | Senior Analyst | Unknown | Applied | 2025-04-15 |
 | Underdog Sports | Data Analyst II, Commercial | Unknown | Applied | 2025-04-15 |
-| Informa Markets | Customer Insights Researcher | Unknown | Applied | 2025-04-15 |
 | Four Hands | Associate Master Data Analyst | Unknown | Declined | 2025-04-15 |
 | Apex Talent Solutions | Unknown | Unknown | Applied | 2025-04-15 |
 | Newmark | Research Analyst | Unknown | Applied | 2025-04-15 |

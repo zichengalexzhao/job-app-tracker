@@ -19166,13 +19166,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Informa Markets",
-        "Job Title": "Customer Insights Researcher",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Four Hands",
         "Job Title": "Associate Master Data Analyst",
         "Location": "Unknown",
@@ -20594,24 +20587,10 @@
         "Date": "2025-04-21"
     },
     {
-        "Company": "Informa Connect",
-        "Job Title": "Data & Analytics Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-21"
-    },
-    {
         "Company": "Jacobs",
         "Job Title": "AI Analyst - 24726",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-04-21"
-    },
-    {
-        "Company": "Informa Connect",
-        "Job Title": "Data & Analytics Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-04-21"
     },
     {
@@ -21294,13 +21273,6 @@
         "Date": "2025-04-22"
     },
     {
-        "Company": "Informa Markets",
-        "Job Title": "Customer Insights Researcher",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-22"
-    },
-    {
         "Company": "Mattel",
         "Job Title": "LiveOps Product Manager (Digital Gaming)",
         "Location": "Unknown",
@@ -21543,6 +21515,48 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Arch Premier Inc",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "People Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Informa Markets",
+        "Job Title": "Customer Insights Researcher",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Informa Connect",
+        "Job Title": "Data & Analytics Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Prime Healthcare",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Roblox",
+        "Job Title": "(Temporary) Ad Operations Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-23"
     }
 ]
