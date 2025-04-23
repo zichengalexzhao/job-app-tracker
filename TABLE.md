@@ -41,6 +41,10 @@
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-23 |
 | Progressive Leasing | Data Scientist | Remote | Applied | 2025-04-23 |
 | Blue Diamond Growers | Sales Operations Analyst | Unknown | Declined | 2025-04-23 |
+| S&P Global | Data Analyst | Unknown | Declined | 2025-04-23 |
+| TotalEnergies | Energy Data Portfolio Analyst | Unknown | Declined | 2025-04-23 |
+| GoFundMe | Strategy Analyst I | Unknown | Applied | 2025-04-23 |
+| Ayar Labs | Data Analyst - Semiconductor Lasers | Unknown | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
@@ -1005,7 +1009,6 @@
 | Samsung SDS America | Logistics Data Analyst | Unknown | Applied | 2025-04-01 |
 | Berkley Entertainment (a Berkley Company) | Unknown | Unknown | Applied | 2025-04-01 |
 | Equinix | Senior Analyst | Unknown | Applied | 2025-04-01 |
-| TotalEnergies | Energy Data Portfolio Analyst | Unknown | Applied | 2025-04-01 |
 | Infosys | Associate Analyst - Data Science | Unknown | Applied | 2025-04-01 |
 | Infosys | Unknown | Unknown | Applied | 2025-04-01 |
 | CarMax | Unknown | Unknown | Applied | 2025-04-01 |

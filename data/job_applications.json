@@ -14770,13 +14770,6 @@
         "Date": "2025-04-01"
     },
     {
-        "Company": "TotalEnergies",
-        "Job Title": "Energy Data Portfolio Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-01"
-    },
-    {
         "Company": "Infosys",
         "Job Title": "Associate Analyst - Data Science",
         "Location": "Unknown",
@@ -21634,6 +21627,34 @@
         "Job Title": "Sales Operations Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "TotalEnergies",
+        "Job Title": "Energy Data Portfolio Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "GoFundMe",
+        "Job Title": "Strategy Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-23"
+    },
+    {
+        "Company": "Ayar Labs",
+        "Job Title": "Data Analyst - Semiconductor Lasers",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-23"
     }
 ]
