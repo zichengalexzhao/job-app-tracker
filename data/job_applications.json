@@ -21481,5 +21481,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-23"
+    },
+    {
+        "Company": "United Airlines",
+        "Job Title": "Analyst - Global Maintenance Strategy (WHQ00025037)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-23"
     }
 ]
