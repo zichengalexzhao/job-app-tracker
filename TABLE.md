@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
+| Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
+| Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
+| Liquid IV | Acquisition Analyst | Unknown | Applied | 2025-04-23 |
+| Liquid IV | Analyst, Inventory Control | Unknown | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
@@ -78,6 +83,8 @@
 | FirstService Residential, Inc. | Business Analyst | Unknown | Applied | 2025-04-22 |
 | NMRK (assumed from email domain) | Research Analyst | Unknown | Interviewed | 2025-04-22 |
 | Crown World | Intern - Corporate (Summer) | Unknown | Applied | 2025-04-22 |
+| Blue River Technology | Unknown | Unknown | Applied | 2025-04-22 |
+| Two Dots | Fraud Analyst | San Francisco, CA | Applied | 2025-04-22 |
 | WMT Digital | Unknown | Unknown | Applied | 2025-04-21 |
 | Pacific Premier Bank | Product & Data Analyst | Unknown | Applied | 2025-04-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-04-21 |
