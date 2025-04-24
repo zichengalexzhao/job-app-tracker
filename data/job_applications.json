@@ -21824,5 +21824,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-24"
+    },
+    {
+        "Company": "DrFirst Inc",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "DrFirst",
+        "Job Title": "Intern, Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "DrFirst",
+        "Job Title": "Intern, Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Medline",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Windfall",
+        "Job Title": "Data & AI Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Consumer Cellular",
+        "Job Title": "Data Scientist Junior",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Aegon Transamerica",
+        "Job Title": "Business Intelligence Developer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
     }
 ]

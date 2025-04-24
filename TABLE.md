@@ -28,6 +28,13 @@
 | Raptive | Unknown | Unknown | Applied | 2025-04-24 |
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-24 |
 | Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-24 |
+| DrFirst Inc | Unknown | Unknown | Applied | 2025-04-24 |
+| DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-04-24 |
+| DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-04-24 |
+| Medline | Associate Data Scientist | Unknown | Applied | 2025-04-24 |
+| Windfall | Data & AI Specialist | Unknown | Applied | 2025-04-24 |
+| Consumer Cellular | Data Scientist Junior | Unknown | Applied | 2025-04-24 |
+| Aegon Transamerica | Business Intelligence Developer | Unknown | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
