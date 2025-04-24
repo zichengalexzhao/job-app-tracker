@@ -41,6 +41,12 @@
 | Outreach | Business Intelligence Analyst, Sales | Unknown | Declined | 2025-04-24 |
 | Tesla | PLM Analyst | Unknown | Declined | 2025-04-24 |
 | Shopify | Unknown | Unknown | Declined | 2025-04-24 |
+| American Credit Acceptance | Data Scientist | Unknown | Applied | 2025-04-24 |
+| American Credit Acceptance | Data Analyst | Unknown | Applied | 2025-04-24 |
+| American Credit Acceptance | Operations Analyst | Unknown | Applied | 2025-04-24 |
+| Unknown | Data and Analytics Intern | Unknown | Applied | 2025-04-24 |
+| Adventist Health | Data Integrity Analyst | Unknown | Declined | 2025-04-24 |
+| Attentive | Data Scientist II | Unknown | Applied | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
@@ -243,7 +249,6 @@
 | JPMorgan Chase & Co. | Global Technology Strategy Analyst | Unknown | Declined | 2025-04-18 |
 | HubSpot | Data Scientist, People Analytics | Unknown | Declined | 2025-04-18 |
 | Disney | Business Analyst, Platform Distribution Operations | Unknown | Applied | 2025-04-18 |
-| Adventist Health | Data Integrity Analyst | Unknown | Applied | 2025-04-18 |
 | Boys & Girls Clubs of the Peninsula | Business Analyst | Unknown | Applied | 2025-04-18 |
 | V3 Electric | Sales Analyst | Unknown | Applied | 2025-04-18 |
 | C Overaa & Co | Power BI Developer | Unknown | Declined | 2025-04-18 |
