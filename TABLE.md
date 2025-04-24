@@ -18,6 +18,16 @@
 | EPIQ Infotech | Part-Time Data Analyst | San Francisco, CA | Applied | 2025-04-24 |
 | Rivian | Sr. Data Analyst | Unknown | Declined | 2025-04-24 |
 | Slalom | Adobe Analytics Platform Specialist | Unknown | Declined | 2025-04-24 |
+| Transamerica Life Insurance Company | Business Intelligence Developer | Unknown | Applied | 2025-04-24 |
+| Siemens | Data Scientist Intern (Supplyframe) | Unknown | Declined | 2025-04-24 |
+| Kaweah Health | OP Business Analyst | Unknown | Applied | 2025-04-24 |
+| Fortuna BMC | Unknown | Unknown | Applied | 2025-04-24 |
+| TikTok | Data Science Intern | Unknown | Applied | 2025-04-24 |
+| Block | Marketing Data Analyst | Unknown | Applied | 2025-04-24 |
+| Raptive | Unknown | Unknown | Applied | 2025-04-24 |
+| Raptive | Unknown | Unknown | Applied | 2025-04-24 |
+| Amazon | Data Scientist | Unknown | Applied | 2025-04-24 |
+| Coalition Technologies | Reporting Analyst | Unknown | Applied | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |

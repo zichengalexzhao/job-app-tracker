@@ -21754,5 +21754,75 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-24"
+    },
+    {
+        "Company": "Transamerica Life Insurance Company",
+        "Job Title": "Business Intelligence Developer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Siemens",
+        "Job Title": "Data Scientist Intern (Supplyframe)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Kaweah Health",
+        "Job Title": "OP Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Fortuna BMC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "TikTok",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Block",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Raptive",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Raptive",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Coalition Technologies",
+        "Job Title": "Reporting Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
     }
 ]
