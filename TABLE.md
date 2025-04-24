@@ -11,6 +11,8 @@
 | American Red Cross | Benefits Analyst | Work From Home | Declined | 2025-04-24 |
 | Spotify | Data Scientist - Podcast | Unknown | Declined | 2025-04-24 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-04-24 |
+| PatientPoint | Data Visualization Analyst | Unknown | Declined | 2025-04-24 |
+| Michael Page | Unknown | New York | Applied | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
@@ -30,7 +32,6 @@
 | University Enterprises, Inc. | Director of Research & Evaluation | Sacramento, CA | Applied | 2025-04-23 |
 | Leap Event Technology | CRM Analyst | Unknown | Applied | 2025-04-23 |
 | Johnson & Johnson | Data Scientist | Unknown | Applied | 2025-04-23 |
-| PatientPoint | Data Visualization Analyst | Unknown | Applied | 2025-04-23 |
 | Montefiore Medical Center | Business Intelligence Analyst | Yonkers, NY, US | Applied | 2025-04-23 |
 | Paramount | Unknown | Unknown | Applied | 2025-04-23 |
 | Arch Premier Inc | Unknown | Unknown | Applied | 2025-04-23 |

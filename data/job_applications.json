@@ -21455,13 +21455,6 @@
         "Date": "2025-04-23"
     },
     {
-        "Company": "PatientPoint",
-        "Job Title": "Data Visualization Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-23"
-    },
-    {
         "Company": "Montefiore Medical Center",
         "Job Title": "Business Intelligence Analyst",
         "Location": "Yonkers, NY, US",
@@ -21717,6 +21710,20 @@
         "Company": "Northwestern Mutual",
         "Job Title": "Unknown",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "PatientPoint",
+        "Job Title": "Data Visualization Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Michael Page",
+        "Job Title": "Unknown",
+        "Location": "New York",
         "status": "Applied",
         "Date": "2025-04-24"
     }
