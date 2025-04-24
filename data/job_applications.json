@@ -21691,5 +21691,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-24"
+    },
+    {
+        "Company": "KLA",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Scientist 2-289807",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
     }
 ]

@@ -5,6 +5,8 @@
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
 | Stride | Unknown | Unknown | Applied | 2025-04-24 |
 | U.S. Bank | Data Management Analyst | Unknown | Declined | 2025-04-24 |
+| KLA | Unknown | Unknown | Applied | 2025-04-24 |
+| Oracle | Data Scientist 2-289807 | Unknown | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
