@@ -21705,5 +21705,12 @@
         "Location": "Work From Home",
         "status": "Declined",
         "Date": "2025-04-24"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Data Scientist - Podcast",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
     }
 ]
