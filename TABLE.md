@@ -10,6 +10,7 @@
 | Sony Pictures Entertainment | Data Science Intern, Theatrical Marketing – Summer 2025 | Unknown | Declined | 2025-04-24 |
 | American Red Cross | Benefits Analyst | Work From Home | Declined | 2025-04-24 |
 | Spotify | Data Scientist - Podcast | Unknown | Declined | 2025-04-24 |
+| Northwestern Mutual | Unknown | Unknown | Applied | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
