@@ -45,6 +45,7 @@
 | TotalEnergies | Energy Data Portfolio Analyst | Unknown | Declined | 2025-04-23 |
 | GoFundMe | Strategy Analyst I | Unknown | Applied | 2025-04-23 |
 | Ayar Labs | Data Analyst - Semiconductor Lasers | Unknown | Applied | 2025-04-23 |
+| Uber | Scientist II, Merchant Growth | Unknown | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
