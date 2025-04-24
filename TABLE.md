@@ -7,6 +7,8 @@
 | U.S. Bank | Data Management Analyst | Unknown | Declined | 2025-04-24 |
 | KLA | Unknown | Unknown | Applied | 2025-04-24 |
 | Oracle | Data Scientist 2-289807 | Unknown | Declined | 2025-04-24 |
+| Sony Pictures Entertainment | Data Science Intern, Theatrical Marketing – Summer 2025 | Unknown | Declined | 2025-04-24 |
+| American Red Cross | Benefits Analyst | Work From Home | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
@@ -56,7 +58,6 @@
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |
-| American Red Cross | Benefits Analyst | Work From Home | Applied | 2025-04-22 |
 | Goodwin | Billing Operations Analyst | Unknown | Applied | 2025-04-22 |
 | R1RCM | Data Analytics Manager | Unknown | Applied | 2025-04-22 |
 | Blue Cross NC | Unknown | Unknown | Applied | 2025-04-22 |
@@ -1871,7 +1872,6 @@
 | Amazon | Applied Scientist, AWS Product Analytics & Data Science (PANDAS) | Unknown | Applied | 2025-03-07 |
 | Sony Pictures Entertainment | Data Analyst Intern, New Media – Summer 2025 | Unknown | Applied | 2025-03-07 |
 | TNL Workday | Unknown | Unknown | Applied | 2025-03-07 |
-| Sony Pictures Entertainment | Data Science Intern, Theatrical Marketing – Summer 2025 | Unknown | Applied | 2025-03-07 |
 | AXIS Capital | Business Analyst | Unknown | Applied | 2025-03-07 |
 | CHG Healthcare | BI Analyst I | Unknown | Applied | 2025-03-07 |
 | U.S. LawShield | Unknown | Unknown | Applied | 2025-03-07 |

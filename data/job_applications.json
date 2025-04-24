@@ -8897,13 +8897,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Sony Pictures Entertainment",
-        "Job Title": "Data Science Intern, Theatrical Marketing \u2013 Summer 2025",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "AXIS Capital",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -20783,13 +20776,6 @@
         "Date": "2025-04-22"
     },
     {
-        "Company": "American Red Cross",
-        "Job Title": "Benefits Analyst",
-        "Location": "Work From Home",
-        "status": "Applied",
-        "Date": "2025-04-22"
-    },
-    {
         "Company": "Goodwin",
         "Job Title": "Billing Operations Analyst",
         "Location": "Unknown",
@@ -21703,6 +21689,20 @@
         "Company": "Oracle",
         "Job Title": "Data Scientist 2-289807",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Sony Pictures Entertainment",
+        "Job Title": "Data Science Intern, Theatrical Marketing \u2013 Summer 2025",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "American Red Cross",
+        "Job Title": "Benefits Analyst",
+        "Location": "Work From Home",
         "status": "Declined",
         "Date": "2025-04-24"
     }
