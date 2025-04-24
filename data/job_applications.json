@@ -20314,13 +20314,6 @@
         "Date": "2025-04-18"
     },
     {
-        "Company": "Outreach",
-        "Job Title": "Business Intelligence Analyst, Sales",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-18"
-    },
-    {
         "Company": "Redwood Materials",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -21870,6 +21863,34 @@
     {
         "Company": "Block",
         "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Ingram Micro",
+        "Job Title": "Summer Intern - Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Pennymac",
+        "Job Title": "Sr Analyst, IT Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Outreach",
+        "Job Title": "Business Intelligence Analyst, Sales",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Tesla",
+        "Job Title": "PLM Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-24"

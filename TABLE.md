@@ -36,6 +36,10 @@
 | Aegon Transamerica | Business Intelligence Developer | Unknown | Declined | 2025-04-24 |
 | Skai | Data Scientist | Unknown | Applied | 2025-04-24 |
 | Block | Marketing Data Analyst | Unknown | Declined | 2025-04-24 |
+| Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-24 |
+| Pennymac | Sr Analyst, IT Data | Unknown | Applied | 2025-04-24 |
+| Outreach | Business Intelligence Analyst, Sales | Unknown | Declined | 2025-04-24 |
+| Tesla | PLM Analyst | Unknown | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
@@ -279,7 +283,6 @@
 | The Wonderful Company | Digital Marketing Strategist | Unknown | Applied | 2025-04-18 |
 | TikTok | Data Scientist - Search | Unknown | Applied | 2025-04-18 |
 | Rockerbox | Professional Services Analyst | Unknown | Applied | 2025-04-18 |
-| Outreach | Business Intelligence Analyst, Sales | Unknown | Applied | 2025-04-18 |
 | Redwood Materials | Unknown | Unknown | Applied | 2025-04-18 |
 | Ford Motor Company | Unknown | Unknown | Applied | 2025-04-17 |
 | Adventist Health | Performance Analyst (System), Management Reporting | Unknown | Declined | 2025-04-17 |
