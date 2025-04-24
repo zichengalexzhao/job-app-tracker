@@ -4,6 +4,7 @@
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
 | Stride | Unknown | Unknown | Applied | 2025-04-24 |
+| U.S. Bank | Data Management Analyst | Unknown | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
@@ -71,7 +72,6 @@
 | Kin Insurance | Growth Analyst | Unknown | Applied | 2025-04-22 |
 | Gusto | Sales Compensation Analyst | Unknown | Applied | 2025-04-22 |
 | Dragonfly | Operations - Dragonfly Portfolio | Unknown | Applied | 2025-04-22 |
-| U.S. Bank | Data Management Analyst | Unknown | Applied | 2025-04-22 |
 | YouGov | Research Analyst | Unknown | Applied | 2025-04-22 |
 | West Marine | Supply Chain Analyst | Unknown | Applied | 2025-04-22 |
 | Coalition, Inc. | Unknown | Unknown | Applied | 2025-04-22 |

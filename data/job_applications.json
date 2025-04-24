@@ -20944,13 +20944,6 @@
         "Date": "2025-04-22"
     },
     {
-        "Company": "U.S. Bank",
-        "Job Title": "Data Management Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-22"
-    },
-    {
         "Company": "YouGov",
         "Job Title": "Research Analyst",
         "Location": "Unknown",
@@ -21690,6 +21683,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Data Management Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-24"
     }
 ]
