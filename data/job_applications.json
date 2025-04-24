@@ -18208,20 +18208,6 @@
     },
     {
         "Company": "Shopify",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-12"
-    },
-    {
-        "Company": "Shopify",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-12"
-    },
-    {
-        "Company": "Shopify",
         "Job Title": "Engineering & Data Internship",
         "Location": "Unknown",
         "status": "Applied",
@@ -20510,13 +20496,6 @@
         "Date": "2025-04-21"
     },
     {
-        "Company": "Shopify",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-21"
-    },
-    {
         "Company": "Mspark",
         "Job Title": "Reporting Associate",
         "Location": "Unknown",
@@ -21891,6 +21870,13 @@
     {
         "Company": "Tesla",
         "Job Title": "PLM Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Shopify",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-24"

@@ -40,6 +40,7 @@
 | Pennymac | Sr Analyst, IT Data | Unknown | Applied | 2025-04-24 |
 | Outreach | Business Intelligence Analyst, Sales | Unknown | Declined | 2025-04-24 |
 | Tesla | PLM Analyst | Unknown | Declined | 2025-04-24 |
+| Shopify | Unknown | Unknown | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
@@ -172,7 +173,6 @@
 | Skyworks | Semiconductor Process and Data Analytics Summer/Fall Co-op student | Unknown | Applied | 2025-04-21 |
 | United Airlines | Analyst - Global Maintenance Strategy | Unknown | Applied | 2025-04-21 |
 | Inspira Education | Student Success Operations Specialist | Remote | Applied | 2025-04-21 |
-| Shopify | Unknown | Unknown | Applied | 2025-04-21 |
 | Mspark | Reporting Associate | Unknown | Declined | 2025-04-21 |
 | NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-04-21 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
@@ -537,8 +537,6 @@
 | St. Jude Children's Research Hospital | Data Analyst I | Unknown | Applied | 2025-04-12 |
 | Fubo | Unknown | Unknown | Declined | 2025-04-12 |
 | Lincoln International | Unknown | Unknown | Declined | 2025-04-12 |
-| Shopify | Unknown | Unknown | Applied | 2025-04-12 |
-| Shopify | Unknown | Unknown | Applied | 2025-04-12 |
 | Shopify | Engineering & Data Internship | Unknown | Applied | 2025-04-12 |
 | T-Mobile | Data Scientist | Unknown | Applied | 2025-04-12 |
 | Applied Materials | Business Intelligence Analyst | Unknown | Applied | 2025-04-12 |
