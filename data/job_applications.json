@@ -19803,13 +19803,6 @@
         "Date": "2025-04-17"
     },
     {
-        "Company": "Block",
-        "Job Title": "Marketing Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-17"
-    },
-    {
         "Company": "Synchrony Financial",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -21791,13 +21784,6 @@
         "Date": "2025-04-24"
     },
     {
-        "Company": "Block",
-        "Job Title": "Marketing Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-24"
-    },
-    {
         "Company": "Raptive",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -21870,6 +21856,20 @@
     {
         "Company": "Aegon Transamerica",
         "Job Title": "Business Intelligence Developer",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Skai",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Block",
+        "Job Title": "Marketing Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-24"

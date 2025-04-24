@@ -23,7 +23,6 @@
 | Kaweah Health | OP Business Analyst | Unknown | Applied | 2025-04-24 |
 | Fortuna BMC | Unknown | Unknown | Applied | 2025-04-24 |
 | TikTok | Data Science Intern | Unknown | Applied | 2025-04-24 |
-| Block | Marketing Data Analyst | Unknown | Applied | 2025-04-24 |
 | Raptive | Unknown | Unknown | Applied | 2025-04-24 |
 | Raptive | Unknown | Unknown | Applied | 2025-04-24 |
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-24 |
@@ -35,6 +34,8 @@
 | Windfall | Data & AI Specialist | Unknown | Applied | 2025-04-24 |
 | Consumer Cellular | Data Scientist Junior | Unknown | Applied | 2025-04-24 |
 | Aegon Transamerica | Business Intelligence Developer | Unknown | Declined | 2025-04-24 |
+| Skai | Data Scientist | Unknown | Applied | 2025-04-24 |
+| Block | Marketing Data Analyst | Unknown | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
@@ -318,7 +319,6 @@
 | Sephora | Unknown | Unknown | Applied | 2025-04-17 |
 | UC Davis Graduate School of Management | Unknown | Unknown | Applied | 2025-04-17 |
 | Sephora | Senior Analyst, Data Science | FSC REMOTE SF/NY/DC -173(USA_0173) | Applied | 2025-04-17 |
-| Block | Marketing Data Analyst | Unknown | Applied | 2025-04-17 |
 | Synchrony Financial | Unknown | Unknown | Applied | 2025-04-17 |
 | theScore | Data Analyst, Product | Unknown | Declined | 2025-04-17 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Applied | 2025-04-17 |
