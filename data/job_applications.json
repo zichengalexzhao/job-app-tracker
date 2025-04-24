@@ -18529,13 +18529,6 @@
         "Date": "2025-04-14"
     },
     {
-        "Company": "VHB",
-        "Job Title": "Data Analyst",
-        "Location": "Orlando",
-        "status": "Applied",
-        "Date": "2025-04-14"
-    },
-    {
         "Company": "NRG Energy",
         "Job Title": "Graduate Rotation Analyst - VOC",
         "Location": "Unknown",
@@ -21725,6 +21718,20 @@
         "Job Title": "Unknown",
         "Location": "New York",
         "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Southwest Gas Corporation",
+        "Job Title": "Analyst I, Operations",
+        "Location": "Victorville",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "VHB",
+        "Job Title": "Data Analyst",
+        "Location": "Orlando, FL",
+        "status": "Declined",
         "Date": "2025-04-24"
     }
 ]
