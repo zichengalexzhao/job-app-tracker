@@ -15,6 +15,9 @@
 | Michael Page | Unknown | New York | Applied | 2025-04-24 |
 | Southwest Gas Corporation | Analyst I, Operations | Victorville | Applied | 2025-04-24 |
 | VHB | Data Analyst | Orlando, FL | Declined | 2025-04-24 |
+| EPIQ Infotech | Part-Time Data Analyst | San Francisco, CA | Applied | 2025-04-24 |
+| Rivian | Sr. Data Analyst | Unknown | Declined | 2025-04-24 |
+| Slalom | Adobe Analytics Platform Specialist | Unknown | Declined | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |

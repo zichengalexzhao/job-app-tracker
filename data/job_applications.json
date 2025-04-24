@@ -21733,5 +21733,26 @@
         "Location": "Orlando, FL",
         "status": "Declined",
         "Date": "2025-04-24"
+    },
+    {
+        "Company": "EPIQ Infotech",
+        "Job Title": "Part-Time Data Analyst",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Rivian",
+        "Job Title": "Sr. Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Slalom",
+        "Job Title": "Adobe Analytics Platform Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-24"
     }
 ]
