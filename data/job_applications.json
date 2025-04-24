@@ -21677,5 +21677,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-24"
+    },
+    {
+        "Company": "Stanford University",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Stride",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
     }
 ]
