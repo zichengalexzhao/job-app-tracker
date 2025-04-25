@@ -13,6 +13,7 @@
 | Oracle | Sales Operations Territory and Compensation Analyst | Unknown | Applied | 2025-04-25 |
 | 10x Genomics | Unknown | Unknown | Applied | 2025-04-25 |
 | DraftKings | Unknown | Unknown | Applied | 2025-04-25 |
+| Equifax | Data Analytics and Reporting Specialist | Unknown | Applied | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
