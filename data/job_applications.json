@@ -22202,5 +22202,19 @@
         "Location": "Clearwater, FL",
         "status": "Declined",
         "Date": "2025-04-25"
+    },
+    {
+        "Company": "Realty Income",
+        "Job Title": "Data & Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Analyst, Engagement Planning",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
     }
 ]
