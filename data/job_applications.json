@@ -21915,5 +21915,47 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-24"
+    },
+    {
+        "Company": "SpotHero",
+        "Job Title": "Marketing Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Lucid Motors",
+        "Job Title": "Intern, Talent Acquisition Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Notion",
+        "Job Title": "Data Scientist, Product",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "PowerSchool Group LLC",
+        "Job Title": "Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "PowerSchool Group LLC",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
+    },
+    {
+        "Company": "Vetsource",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-24"
     }
 ]

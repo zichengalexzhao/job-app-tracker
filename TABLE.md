@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| SpotHero | Marketing Analyst | Unknown | Applied | 2025-04-25 |
+| Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
+| Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |
+| PowerSchool Group LLC | Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations) | Unknown | Applied | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
@@ -47,6 +51,8 @@
 | Unknown | Data and Analytics Intern | Unknown | Applied | 2025-04-24 |
 | Adventist Health | Data Integrity Analyst | Unknown | Declined | 2025-04-24 |
 | Attentive | Data Scientist II | Unknown | Applied | 2025-04-24 |
+| PowerSchool Group LLC | Unknown | Unknown | Applied | 2025-04-24 |
+| Vetsource | Data Analyst | Unknown | Applied | 2025-04-24 |
 | Aon | H&B Analyst – Actuarial | Unknown | Applied | 2025-04-23 |
 | Roblox | Scientist / Senior Scientist, Ads Systems | Unknown | Applied | 2025-04-23 |
 | Oracle | Data Analyst II - Analytics COE - 289910 | Unknown | Applied | 2025-04-23 |
