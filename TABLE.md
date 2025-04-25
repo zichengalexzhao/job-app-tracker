@@ -17,6 +17,11 @@
 | Raymond James | Data Insights Analyst – Supervision | Unknown | Declined | 2025-04-25 |
 | Sotheby’s | Analyst, Commercial & Business Management | Unknown | Declined | 2025-04-25 |
 | Rush Street Interactive | Poker Analyst | Unknown | Declined | 2025-04-25 |
+| The Fountain Group | Data Scientist | Unknown | Applied | 2025-04-25 |
+| Tailscale | Data Analyst | Unknown | Declined | 2025-04-25 |
+| Faire | Revenue Operations Associate | Unknown | Declined | 2025-04-25 |
+| American Credit Acceptance | Data Scientist | Unknown | Applied | 2025-04-25 |
+| American Credit Acceptance | Data Analyst | Unknown | Applied | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
@@ -119,7 +124,6 @@
 | Blue Cross NC | Unknown | Unknown | Applied | 2025-04-22 |
 | BeOne | Data Strategy & Governance Intern | Unknown | Applied | 2025-04-22 |
 | TotalCare | Operations Lead | Southern California | Applied | 2025-04-22 |
-| Faire | Revenue Operations Associate | Unknown | Applied | 2025-04-22 |
 | Peregrine Technologies | Pricing Specialist | Unknown | Applied | 2025-04-22 |
 | The Los Angeles Lakers, Inc | Database Analyst | Unknown | Applied | 2025-04-22 |
 | Kikoff | Data Scientist | Unknown | Declined | 2025-04-22 |
@@ -289,7 +293,6 @@
 | E Logic | Business Analyst | Unknown | Applied | 2025-04-18 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | New York, NY | Applied | 2025-04-18 |
 | Evolus | Digital Product Business Analyst | Unknown | Applied | 2025-04-18 |
-| Tailscale | Data Analyst | Unknown | Applied | 2025-04-18 |
 | Sony | Data Analyst | Unknown | Declined | 2025-04-18 |
 | Autodesk | Strategic Analyst | Unknown | Applied | 2025-04-18 |
 | AppFolio | Sr. Performance Analyst | Unknown | Applied | 2025-04-18 |
