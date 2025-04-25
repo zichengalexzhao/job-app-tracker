@@ -22167,5 +22167,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-25"
+    },
+    {
+        "Company": "Omada Health",
+        "Job Title": "Data Analyst II, Client Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Zotec Partners",
+        "Job Title": "Operations Workflow Analyst",
+        "Location": "Unknown",
+        "status": "Offer",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Abbott",
+        "Job Title": "Statistical Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
     }
 ]

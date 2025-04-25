@@ -36,6 +36,9 @@
 | BioMarin Pharmaceutical Inc. | Performance Reporting & Analytics | Unknown | Applied | 2025-04-25 |
 | Pacific Gas and Electric Company | Substation Operations Intern | Unknown | Applied | 2025-04-25 |
 | Abbott | Clinical Data Management Analyst | Unknown | Applied | 2025-04-25 |
+| Omada Health | Data Analyst II, Client Analytics | Unknown | Declined | 2025-04-25 |
+| Zotec Partners | Operations Workflow Analyst | Unknown | Offer | 2025-04-25 |
+| Abbott | Statistical Analyst | Unknown | Applied | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
