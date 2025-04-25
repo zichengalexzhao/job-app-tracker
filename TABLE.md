@@ -24,6 +24,10 @@
 | American Credit Acceptance | Data Analyst | Unknown | Applied | 2025-04-25 |
 | American Credit Acceptance | Operations Analyst | Unknown | Applied | 2025-04-25 |
 | Cirrus Group Consulting | IT Business/Data Analyst | San Francisco, CA | Applied | 2025-04-25 |
+| Abbott | Statistical Analyst | Unknown | Applied | 2025-04-25 |
+| Humana | Data and Reporting Professional | Unknown | Applied | 2025-04-25 |
+| Humana | Data and Reporting Professional | Unknown | Applied | 2025-04-25 |
+| Scale AI | Prompt Engineer - New Grad | Unknown | Declined | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |

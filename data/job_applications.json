@@ -22083,5 +22083,33 @@
         "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-04-25"
+    },
+    {
+        "Company": "Abbott",
+        "Job Title": "Statistical Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Data and Reporting Professional",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Humana",
+        "Job Title": "Data and Reporting Professional",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Scale AI",
+        "Job Title": "Prompt Engineer - New Grad",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-25"
     }
 ]
