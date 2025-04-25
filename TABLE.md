@@ -40,6 +40,7 @@
 | Zotec Partners | Operations Workflow Analyst | Unknown | Offer | 2025-04-25 |
 | Abbott | Statistical Analyst | Unknown | Applied | 2025-04-25 |
 | SAC Health | Quality Data Analyst | Unknown | Declined | 2025-04-25 |
+| TeamViewer | Customer Operations Analyst | Clearwater, FL | Declined | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
