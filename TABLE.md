@@ -4,6 +4,8 @@
 | Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |
 | PowerSchool Group LLC | Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations) | Unknown | Applied | 2025-04-25 |
+| Champions Group Holdings | Data Analyst Intern | Unknown | Applied | 2025-04-25 |
+| Everbridge | Data Analytics & Reporting Specialist | Unknown | Declined | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
