@@ -22111,5 +22111,61 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-25"
+    },
+    {
+        "Company": "Vinculum Inc",
+        "Job Title": "Business Intelligence / Data analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "EVERSANA",
+        "Job Title": "Consultant (Life Sciences, Pharmaceuticals)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "PNC",
+        "Job Title": "Business Analytics Consultant- Python & Hadoop",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Angi",
+        "Job Title": "Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Vynca",
+        "Job Title": "Healthcare Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "BioMarin Pharmaceutical Inc.",
+        "Job Title": "Performance Reporting & Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Pacific Gas and Electric Company",
+        "Job Title": "Substation Operations Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Abbott",
+        "Job Title": "Clinical Data Management Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
     }
 ]

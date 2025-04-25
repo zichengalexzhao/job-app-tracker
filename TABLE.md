@@ -28,6 +28,14 @@
 | Humana | Data and Reporting Professional | Unknown | Applied | 2025-04-25 |
 | Humana | Data and Reporting Professional | Unknown | Applied | 2025-04-25 |
 | Scale AI | Prompt Engineer - New Grad | Unknown | Declined | 2025-04-25 |
+| Vinculum Inc | Business Intelligence / Data analyst | Unknown | Applied | 2025-04-25 |
+| EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Applied | 2025-04-25 |
+| PNC | Business Analytics Consultant- Python & Hadoop | Unknown | Applied | 2025-04-25 |
+| Angi | Insights Analyst | Unknown | Applied | 2025-04-25 |
+| Vynca | Healthcare Business Analyst | Unknown | Applied | 2025-04-25 |
+| BioMarin Pharmaceutical Inc. | Performance Reporting & Analytics | Unknown | Applied | 2025-04-25 |
+| Pacific Gas and Electric Company | Substation Operations Intern | Unknown | Applied | 2025-04-25 |
+| Abbott | Clinical Data Management Analyst | Unknown | Applied | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
