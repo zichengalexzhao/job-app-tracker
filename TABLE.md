@@ -6,6 +6,12 @@
 | PowerSchool Group LLC | Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations) | Unknown | Applied | 2025-04-25 |
 | Champions Group Holdings | Data Analyst Intern | Unknown | Applied | 2025-04-25 |
 | Everbridge | Data Analytics & Reporting Specialist | Unknown | Declined | 2025-04-25 |
+| Bitus Labs | Data Product Manager (Mandarin Speaking) | Unknown | Declined | 2025-04-25 |
+| ByteDance | Associate/Analyst Graduate (TikTok Shop Strategy) - 2025 Start (Masters/MBA) | Unknown | Applied | 2025-04-25 |
+| ByteDance | Data Analyst, Creation and Interaction - TikTok | Unknown | Applied | 2025-04-25 |
+| Sutter Health | Statistician, Research Institute | Unknown | Applied | 2025-04-25 |
+| Oracle | Sales Operations Territory and Compensation Analyst | Unknown | Applied | 2025-04-25 |
+| 10x Genomics | Unknown | Unknown | Applied | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
