@@ -20601,13 +20601,6 @@
         "Date": "2025-04-21"
     },
     {
-        "Company": "Tri Counties Bank",
-        "Job Title": "CRA HMDA Data Analyst I, II or III",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-21"
-    },
-    {
         "Company": "Flock Safety",
         "Job Title": "Customer Support Insights & WFM Analyst",
         "Location": "Unknown",
@@ -22271,6 +22264,13 @@
         "Job Title": "Marketing Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-26"
+    },
+    {
+        "Company": "Tri Counties Bank",
+        "Job Title": "CRA HMDA Data Analyst I, II or III",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-26"
     }
 ]

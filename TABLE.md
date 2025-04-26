@@ -7,6 +7,7 @@
 | DoorDash | Data Scientist / Senior Data Scientist, Analytics | Unknown | Applied | 2025-04-26 |
 | PG&E (Pacific Gas and Electric) | Substation Operations Intern | Unknown | Declined | 2025-04-26 |
 | IMT Residential | Marketing Data Analyst | Unknown | Applied | 2025-04-26 |
+| Tri Counties Bank | CRA HMDA Data Analyst I, II or III | Unknown | Declined | 2025-04-26 |
 | SpotHero | Marketing Analyst | Unknown | Applied | 2025-04-25 |
 | Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |
@@ -250,7 +251,6 @@
 | Centene | Data Analyst I | Unknown | Applied | 2025-04-21 |
 | Wilson Sonsini Goodrich & Rosati | Data Analyst, CRM | Unknown | Applied | 2025-04-21 |
 | SOLV Energy | Jr. Performance Engineering Analyst | Unknown | Applied | 2025-04-21 |
-| Tri Counties Bank | CRA HMDA Data Analyst I, II or III | Unknown | Applied | 2025-04-21 |
 | Flock Safety | Customer Support Insights & WFM Analyst | Unknown | Applied | 2025-04-21 |
 | Pearce Services LLC | Solar Performance Analyst | Unknown | Applied | 2025-04-21 |
 | MSD (Merck Sharp & Dohme) | Specialist – Data Science, Commercial AI | Unknown | Applied | 2025-04-21 |
