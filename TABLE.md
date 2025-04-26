@@ -43,6 +43,8 @@
 | TeamViewer | Customer Operations Analyst | Clearwater, FL | Declined | 2025-04-25 |
 | Realty Income | Data & Business Analyst | Unknown | Applied | 2025-04-25 |
 | Disney | Analyst, Engagement Planning | Unknown | Applied | 2025-04-25 |
+| Uber | Web Data Scientist II | Unknown | Declined | 2025-04-25 |
+| County of Sonoma | Crime Data Analyst - Extra-Help | Unknown | Applied | 2025-04-25 |
 | Endeavor | Analyst, Endeavor Analytics | Unknown | Applied | 2025-04-24 |
 | Creative Circle | Unknown | Unknown | Declined | 2025-04-24 |
 | Stanford University | Unknown | Unknown | Applied | 2025-04-24 |
@@ -1631,7 +1633,6 @@
 | Keelson Strategic | Intelligence Analyst | Unknown | Applied | 2025-03-16 |
 | FedEx | Unknown | Unknown | Applied | 2025-03-16 |
 | FedEx | Unknown | Unknown | Applied | 2025-03-16 |
-| Uber | Web Data Scientist II | Unknown | Applied | 2025-03-16 |
 | iHeartMedia | Unknown | Unknown | Applied | 2025-03-16 |
 | Twitch | Unknown | Unknown | Applied | 2025-03-16 |
 | Berkeley Research Group, LLC | Fall Associate- Economics and Data Analytics | Unknown | Applied | 2025-03-16 |

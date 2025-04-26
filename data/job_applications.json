@@ -10899,13 +10899,6 @@
         "Date": "2025-03-16"
     },
     {
-        "Company": "Uber",
-        "Job Title": "Web Data Scientist II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-16"
-    },
-    {
         "Company": "iHeartMedia",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -22213,6 +22206,20 @@
     {
         "Company": "Disney",
         "Job Title": "Analyst, Engagement Planning",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Web Data Scientist II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-25"
+    },
+    {
+        "Company": "County of Sonoma",
+        "Job Title": "Crime Data Analyst - Extra-Help",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-25"
