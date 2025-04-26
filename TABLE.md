@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Amazon | Data Scientist | Unknown | Applied | 2025-04-26 |
 | SpotHero | Marketing Analyst | Unknown | Applied | 2025-04-25 |
 | Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |
