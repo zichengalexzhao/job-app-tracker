@@ -3,6 +3,10 @@
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-26 |
 | Goodwin | Unknown | Unknown | Applied | 2025-04-26 |
 | NSF (National Science Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-26 |
+| Cast & Crew | Unknown | Unknown | Applied | 2025-04-26 |
+| DoorDash | Data Scientist / Senior Data Scientist, Analytics | Unknown | Applied | 2025-04-26 |
+| PG&E (Pacific Gas and Electric) | Substation Operations Intern | Unknown | Declined | 2025-04-26 |
+| IMT Residential | Marketing Data Analyst | Unknown | Applied | 2025-04-26 |
 | SpotHero | Marketing Analyst | Unknown | Applied | 2025-04-25 |
 | Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |

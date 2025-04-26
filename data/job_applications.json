@@ -22244,5 +22244,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-26"
+    },
+    {
+        "Company": "Cast & Crew",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-26"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Data Scientist / Senior Data Scientist, Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-26"
+    },
+    {
+        "Company": "PG&E (Pacific Gas and Electric)",
+        "Job Title": "Substation Operations Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-26"
+    },
+    {
+        "Company": "IMT Residential",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-26"
     }
 ]
