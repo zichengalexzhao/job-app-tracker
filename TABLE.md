@@ -8,6 +8,7 @@
 | PG&E (Pacific Gas and Electric) | Substation Operations Intern | Unknown | Declined | 2025-04-26 |
 | IMT Residential | Marketing Data Analyst | Unknown | Applied | 2025-04-26 |
 | Tri Counties Bank | CRA HMDA Data Analyst I, II or III | Unknown | Declined | 2025-04-26 |
+| Clinical Resolution Laboratory | Supply Chain Analyst | Unknown | Declined | 2025-04-26 |
 | SpotHero | Marketing Analyst | Unknown | Applied | 2025-04-25 |
 | Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |
