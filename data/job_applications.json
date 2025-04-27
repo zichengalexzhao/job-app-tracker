@@ -20454,13 +20454,6 @@
         "Date": "2025-04-21"
     },
     {
-        "Company": "Inspira Education",
-        "Job Title": "Student Success Operations Specialist",
-        "Location": "Remote",
-        "status": "Applied",
-        "Date": "2025-04-21"
-    },
-    {
         "Company": "Mspark",
         "Job Title": "Reporting Associate",
         "Location": "Unknown",
@@ -22327,6 +22320,20 @@
         "Job Title": "Unknown",
         "Location": "Washington, Washington DC",
         "status": "Applied",
+        "Date": "2025-04-27"
+    },
+    {
+        "Company": "Cofactor AI",
+        "Job Title": "Machine Learning Engineer",
+        "Location": "Chicago, IL",
+        "status": "Applied",
+        "Date": "2025-04-27"
+    },
+    {
+        "Company": "Inspira Education",
+        "Job Title": "Student Success Operations Specialist",
+        "Location": "Remote",
+        "status": "Declined",
         "Date": "2025-04-27"
     }
 ]

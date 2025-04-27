@@ -9,6 +9,8 @@
 | EverBank N.A. | Data Analyst - Community Reinvestment Act | Unknown | Declined | 2025-04-27 |
 | Mercury Insurance Services, LLC | RD Analyst II | Unknown | Interviewed | 2025-04-27 |
 | Amtrak | Unknown | Washington, Washington DC | Applied | 2025-04-27 |
+| Cofactor AI | Machine Learning Engineer | Chicago, IL | Applied | 2025-04-27 |
+| Inspira Education | Student Success Operations Specialist | Remote | Declined | 2025-04-27 |
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-26 |
 | Goodwin | Unknown | Unknown | Applied | 2025-04-26 |
 | NSF (National Science Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-26 |
@@ -242,7 +244,6 @@
 | Google | Unknown | Unknown | Applied | 2025-04-21 |
 | Skyworks | Semiconductor Process and Data Analytics Summer/Fall Co-op student | Unknown | Applied | 2025-04-21 |
 | United Airlines | Analyst - Global Maintenance Strategy | Unknown | Applied | 2025-04-21 |
-| Inspira Education | Student Success Operations Specialist | Remote | Applied | 2025-04-21 |
 | Mspark | Reporting Associate | Unknown | Declined | 2025-04-21 |
 | NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-04-21 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
