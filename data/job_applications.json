@@ -22286,5 +22286,12 @@
         "Location": "Bangkok",
         "status": "Declined",
         "Date": "2025-04-27"
+    },
+    {
+        "Company": "Caterpillar Inc.",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-27"
     }
 ]
