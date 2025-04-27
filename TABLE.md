@@ -6,6 +6,7 @@
 | YipitData | Research Associate | Unknown | Declined | 2025-04-27 |
 | Cirrus Group Consulting | Business Data Analyst | San Francisco, CA | Applied | 2025-04-27 |
 | Zest AI | Data Analyst | Unknown | Applied | 2025-04-27 |
+| EverBank N.A. | Data Analyst - Community Reinvestment Act | Unknown | Declined | 2025-04-27 |
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-26 |
 | Goodwin | Unknown | Unknown | Applied | 2025-04-26 |
 | NSF (National Science Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-26 |
@@ -708,7 +709,6 @@
 | St. Jude | Unknown | Unknown | Applied | 2025-04-10 |
 | ASM | Data Analyst | Unknown | Declined | 2025-04-10 |
 | Angi | Compensation & Equity Analyst | Unknown | Applied | 2025-04-10 |
-| EverBank N.A. | Data Analyst - Community Reinvestment Act | Jacksonville, Florida | Applied | 2025-04-10 |
 | Elevance Health Companies, Inc. | Advanced Analytics Analyst | Unknown | Applied | 2025-04-10 |
 | Chewy.com | Business Intelligence Engineer I | Unknown | Declined | 2025-04-10 |
 | ALX Africa | Unknown | Unknown | Applied | 2025-04-10 |

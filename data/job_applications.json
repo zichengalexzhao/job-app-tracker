@@ -17437,13 +17437,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "EverBank N.A.",
-        "Job Title": "Data Analyst - Community Reinvestment Act",
-        "Location": "Jacksonville, Florida",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "Elevance Health Companies, Inc.",
         "Job Title": "Advanced Analytics Analyst",
         "Location": "Unknown",
@@ -22313,6 +22306,13 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-27"
+    },
+    {
+        "Company": "EverBank N.A.",
+        "Job Title": "Data Analyst - Community Reinvestment Act",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-27"
     }
 ]
