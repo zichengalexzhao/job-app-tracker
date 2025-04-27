@@ -3,6 +3,7 @@
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |
+| YipitData | Research Associate | Unknown | Declined | 2025-04-27 |
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-26 |
 | Goodwin | Unknown | Unknown | Applied | 2025-04-26 |
 | NSF (National Science Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-26 |
@@ -288,7 +289,6 @@
 | Blueprint | Data & Ops Analyst | Unknown | Applied | 2025-04-19 |
 | Natera | Business Analyst | Unknown | Declined | 2025-04-19 |
 | San Manuel | Unknown | Unknown | Applied | 2025-04-19 |
-| YipitData | Research Associate | Unknown | Applied | 2025-04-18 |
 | Liberty Mutual Insurance | Analyst Product Analysis | Unknown | Declined | 2025-04-18 |
 | Kaiser Permanente | Data Scientist Intern-Graduate | Unknown | Declined | 2025-04-18 |
 | FinThrive | Power BI Intern | Unknown | Declined | 2025-04-18 |

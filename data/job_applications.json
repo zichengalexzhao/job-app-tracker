@@ -19873,13 +19873,6 @@
         "Date": "2025-04-17"
     },
     {
-        "Company": "YipitData",
-        "Job Title": "Research Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-18"
-    },
-    {
         "Company": "Liberty Mutual Insurance",
         "Job Title": "Analyst Product Analysis",
         "Location": "Unknown",
@@ -22299,6 +22292,13 @@
         "Job Title": "Summer Intern - Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-27"
+    },
+    {
+        "Company": "YipitData",
+        "Job Title": "Research Associate",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-27"
     }
 ]
