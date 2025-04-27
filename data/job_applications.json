@@ -22314,5 +22314,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-27"
+    },
+    {
+        "Company": "Mercury Insurance Services, LLC",
+        "Job Title": "RD Analyst II",
+        "Location": "Unknown",
+        "status": "Interviewed",
+        "Date": "2025-04-27"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Unknown",
+        "Location": "Washington, Washington DC",
+        "status": "Applied",
+        "Date": "2025-04-27"
     }
 ]

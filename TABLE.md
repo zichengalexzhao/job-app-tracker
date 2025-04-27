@@ -7,6 +7,8 @@
 | Cirrus Group Consulting | Business Data Analyst | San Francisco, CA | Applied | 2025-04-27 |
 | Zest AI | Data Analyst | Unknown | Applied | 2025-04-27 |
 | EverBank N.A. | Data Analyst - Community Reinvestment Act | Unknown | Declined | 2025-04-27 |
+| Mercury Insurance Services, LLC | RD Analyst II | Unknown | Interviewed | 2025-04-27 |
+| Amtrak | Unknown | Washington, Washington DC | Applied | 2025-04-27 |
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-26 |
 | Goodwin | Unknown | Unknown | Applied | 2025-04-26 |
 | NSF (National Science Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-26 |
