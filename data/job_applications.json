@@ -22405,5 +22405,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-28"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Analyst",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Analyst",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "BeOne",
+        "Job Title": "BI and Reporting Intern",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-04-28"
     }
 ]
