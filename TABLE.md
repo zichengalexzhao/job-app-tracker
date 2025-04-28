@@ -4,6 +4,9 @@
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
 | PNC | Business Analytics Consultant - Python & Hadoop | Unknown | Declined | 2025-04-28 |
+| Notion | Data Scientist, GTM | Unknown | Declined | 2025-04-28 |
+| Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-04-28 |
+| Capital Area Food Bank | Business Data Analyst | Unknown | Declined | 2025-04-28 |
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |

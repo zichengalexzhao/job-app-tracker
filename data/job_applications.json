@@ -22370,5 +22370,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-28"
+    },
+    {
+        "Company": "Notion",
+        "Job Title": "Data Scientist, GTM",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "Highbrow LLC",
+        "Job Title": "Data Science with AI/ML",
+        "Location": "Austin, Texas",
+        "status": "Applied",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "Capital Area Food Bank",
+        "Job Title": "Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-28"
     }
 ]
