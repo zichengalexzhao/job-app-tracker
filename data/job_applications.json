@@ -8764,13 +8764,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Bayer",
-        "Job Title": "Assoc Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Equip Health",
         "Job Title": "Associate Product Operations Manager",
         "Location": "Unknown",
@@ -19096,13 +19089,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Black & Veatch",
-        "Job Title": "Senior Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Underdog Sports",
         "Job Title": "Data Analyst II, Commercial",
         "Location": "Unknown",
@@ -22565,6 +22551,20 @@
         "Job Title": "Business Reporting and Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "Black & Veatch",
+        "Job Title": "Senior Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "Bayer",
+        "Job Title": "Assoc Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-28"
     }
 ]

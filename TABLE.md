@@ -32,6 +32,8 @@
 | Unknown | Unknown | Unknown | Applied | 2025-04-28 |
 | Twitch | Unknown | Unknown | Applied | 2025-04-28 |
 | AmeriHome Mortgage | Business Reporting and Data Analyst | Unknown | Applied | 2025-04-28 |
+| Black & Veatch | Senior Analyst | Unknown | Declined | 2025-04-28 |
+| Bayer | Assoc Data Scientist | Unknown | Declined | 2025-04-28 |
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |
@@ -541,7 +543,6 @@
 | T-Mobile | Sr Analyst, Care Contact Interaction Analytics | Unknown | Applied | 2025-04-15 |
 | Blue River Technology | Unknown | Unknown | Applied | 2025-04-15 |
 | Brown Advisory | Business Intelligence Analyst | Unknown | Applied | 2025-04-15 |
-| Black & Veatch | Senior Analyst | Unknown | Applied | 2025-04-15 |
 | Underdog Sports | Data Analyst II, Commercial | Unknown | Applied | 2025-04-15 |
 | Four Hands | Associate Master Data Analyst | Unknown | Declined | 2025-04-15 |
 | Apex Talent Solutions | Unknown | Unknown | Applied | 2025-04-15 |
@@ -1976,7 +1977,6 @@
 | Sephora | Analyst, Loyalty | CA-FSC SF Off (0174) | Applied | 2025-03-07 |
 | DoorDash | Machine Learning Engineer - Delivery Excellence | Unknown | Applied | 2025-03-07 |
 | AbbVie | Data Scientist I (Lake County Site Operations)-REF36860H | Unknown | Applied | 2025-03-07 |
-| Bayer | Assoc Data Scientist | Unknown | Applied | 2025-03-07 |
 | Equip Health | Associate Product Operations Manager | Unknown | Applied | 2025-03-07 |
 | Applecart | Survey Scientist | Unknown | Declined | 2025-03-07 |
 | Revvity | Intern - IT Data Analyst | Unknown | Declined | 2025-03-07 |
