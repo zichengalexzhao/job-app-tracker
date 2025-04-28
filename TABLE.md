@@ -11,6 +11,7 @@
 | Amtrak | Unknown | Washington, Washington DC | Applied | 2025-04-27 |
 | Cofactor AI | Machine Learning Engineer | Chicago, IL | Applied | 2025-04-27 |
 | Inspira Education | Student Success Operations Specialist | Remote | Declined | 2025-04-27 |
+| Adobe | Data Analyst Intern | San Jose, CA, USA | Applied | 2025-04-27 |
 | Amazon | Data Scientist | Unknown | Applied | 2025-04-26 |
 | Goodwin | Unknown | Unknown | Applied | 2025-04-26 |
 | NSF (National Science Foundation) | Associate Business Analyst | Unknown | Applied | 2025-04-26 |

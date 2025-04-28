@@ -22335,5 +22335,12 @@
         "Location": "Remote",
         "status": "Declined",
         "Date": "2025-04-27"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Data Analyst Intern",
+        "Location": "San Jose, CA, USA",
+        "status": "Applied",
+        "Date": "2025-04-27"
     }
 ]
