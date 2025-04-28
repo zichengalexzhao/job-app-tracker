@@ -12,6 +12,21 @@
 | Oracle | Data Analyst | Remote | Applied | 2025-04-28 |
 | Oracle | Data Analyst | Remote | Applied | 2025-04-28 |
 | BeOne | BI and Reporting Intern | Remote | Applied | 2025-04-28 |
+| Dow Jones | Data Analyst (Contact Center-Hybrid) | Unknown | Applied | 2025-04-28 |
+| Dow Jones | Data Analyst - Contact Center | Princeton | Applied | 2025-04-28 |
+| Capital Rx | Analyst, Analytics | Unknown | Applied | 2025-04-28 |
+| Capital Rx | Unknown | Unknown | Applied | 2025-04-28 |
+| AIPSO | Assistant Data Analyst/Data Analyst | Johnston, Rhode Island | Applied | 2025-04-28 |
+| RLI | Unknown | Unknown | Applied | 2025-04-28 |
+| Disney | Unknown | Unknown | Applied | 2025-04-28 |
+| DiscovermyHR | Unknown | Unknown | Applied | 2025-04-28 |
+| ButterflyMX | Data Analytics Intern | Unknown | Applied | 2025-04-28 |
+| Syndio | Data Scientist | Unknown | Applied | 2025-04-28 |
+| Golden1 | Unknown | Unknown | Applied | 2025-04-28 |
+| CrowdStrike | Sr. Analyst, Marketing & Growth Analytics | Remote | Applied | 2025-04-28 |
+| Wesley Health Centers (JWCH Institute) | Unknown | Unknown | Applied | 2025-04-28 |
+| PeopleConnect (using ADP services) | Financial Business Analyst | Unknown | Applied | 2025-04-28 |
+| Tanimura & Antle | Financial Analyst | Unknown | Applied | 2025-04-28 |
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |
