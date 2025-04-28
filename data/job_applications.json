@@ -22391,5 +22391,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-28"
+    },
+    {
+        "Company": "FedEx Supply Chain",
+        "Job Title": "Business Analyst III",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "Dynata",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-28"
     }
 ]
