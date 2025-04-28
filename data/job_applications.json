@@ -22566,5 +22566,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-28"
+    },
+    {
+        "Company": "Grand Canyon Education",
+        "Job Title": "Marketing Data Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "Penn Mutual",
+        "Job Title": "Wealth Management Business Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-28"
     }
 ]

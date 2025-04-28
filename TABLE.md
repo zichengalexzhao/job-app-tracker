@@ -34,6 +34,8 @@
 | AmeriHome Mortgage | Business Reporting and Data Analyst | Unknown | Applied | 2025-04-28 |
 | Black & Veatch | Senior Analyst | Unknown | Declined | 2025-04-28 |
 | Bayer | Assoc Data Scientist | Unknown | Declined | 2025-04-28 |
+| Grand Canyon Education | Marketing Data Science | Unknown | Applied | 2025-04-28 |
+| Penn Mutual | Wealth Management Business Insights Analyst | Unknown | Applied | 2025-04-28 |
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |
