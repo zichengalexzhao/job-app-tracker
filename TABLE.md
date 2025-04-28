@@ -36,6 +36,8 @@
 | Bayer | Assoc Data Scientist | Unknown | Declined | 2025-04-28 |
 | Grand Canyon Education | Marketing Data Science | Unknown | Applied | 2025-04-28 |
 | Penn Mutual | Wealth Management Business Insights Analyst | Unknown | Applied | 2025-04-28 |
+| AbbVie | Senior Analyst, Marketing Business Intelligence (Training & Education Analytics) | Unknown | Declined | 2025-04-28 |
+| NBCUniversal | Analyst, Compliance Operations | Unknown | Declined | 2025-04-28 |
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |
@@ -861,7 +863,6 @@
 | Sharp HealthCare | Business Intelligence Analyst I - Enterprise Data Analytics | San Diego Corporate Office | Applied | 2025-04-08 |
 | Bally's Interactive | Graduate Insight Analyst - Marketing | Unknown | Declined | 2025-04-08 |
 | Navitus Health Solutions, LLC | Business Intelligence Developer | Unknown | Declined | 2025-04-08 |
-| NBCUniversal | Analyst, Compliance Operations | Unknown | Applied | 2025-04-08 |
 | Convoso | Unknown | Unknown | Applied | 2025-04-08 |
 | Scan Health Plan | Business Intelligence Analyst II | Unknown | Applied | 2025-04-08 |
 | Forest Lawn | Business / Data Analyst | Unknown | Applied | 2025-04-08 |

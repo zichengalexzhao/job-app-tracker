@@ -16653,13 +16653,6 @@
         "Date": "2025-04-08"
     },
     {
-        "Company": "NBCUniversal",
-        "Job Title": "Analyst, Compliance Operations",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-08"
-    },
-    {
         "Company": "Convoso",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -22579,6 +22572,20 @@
         "Job Title": "Wealth Management Business Insights Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "AbbVie",
+        "Job Title": "Senior Analyst, Marketing Business Intelligence (Training & Education Analytics)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-28"
+    },
+    {
+        "Company": "NBCUniversal",
+        "Job Title": "Analyst, Compliance Operations",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-28"
     }
 ]
