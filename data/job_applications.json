@@ -22363,5 +22363,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-28"
+    },
+    {
+        "Company": "PNC",
+        "Job Title": "Business Analytics Consultant - Python & Hadoop",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-28"
     }
 ]

@@ -3,6 +3,7 @@
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
+| PNC | Business Analytics Consultant - Python & Hadoop | Unknown | Declined | 2025-04-28 |
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |
