@@ -27,6 +27,9 @@
 | Wesley Health Centers (JWCH Institute) | Unknown | Unknown | Applied | 2025-04-28 |
 | PeopleConnect (using ADP services) | Financial Business Analyst | Unknown | Applied | 2025-04-28 |
 | Tanimura & Antle | Financial Analyst | Unknown | Applied | 2025-04-28 |
+| EisnerAmper | 2025 Enterprise Technology Finance – Data Analyst Summer Intern | Unknown | Declined | 2025-04-28 |
+| Autoliv United States | Production Control Supervisor | Unknown | Applied | 2025-04-28 |
+| Unknown | Unknown | Unknown | Applied | 2025-04-28 |
 | Agoda | Marketing Analyst | Bangkok | Declined | 2025-04-27 |
 | Caterpillar Inc. | Unknown | Unknown | Applied | 2025-04-27 |
 | Ingram Micro | Summer Intern - Data Analyst | Unknown | Applied | 2025-04-27 |
