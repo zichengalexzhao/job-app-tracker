@@ -10192,13 +10192,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "Colibri Group",
-        "Job Title": "Marketing Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "Critical Mass",
         "Job Title": "Marketing Science Analyst",
         "Location": "Unknown",
@@ -14408,13 +14401,6 @@
     {
         "Company": "AssuredPartners",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-31"
-    },
-    {
-        "Company": "Uber",
-        "Job Title": "Scientist II, Matching",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-31"
@@ -22747,6 +22733,27 @@
         "Job Title": "Data Scientist, Retail",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Colibri Group",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Scientist II, Matching",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-29"
     }
 ]

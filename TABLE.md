@@ -29,6 +29,9 @@
 | The Wonderful Company | Digital Marketing Strategist | Unknown | Declined | 2025-04-29 |
 | Lacek | Data Intelligence Internship | Unknown | Declined | 2025-04-29 |
 | Vistra Retail Operations Company | Data Scientist, Retail | Unknown | Applied | 2025-04-29 |
+| S&P Global | Data Analyst | Unknown | Declined | 2025-04-29 |
+| Colibri Group | Marketing Data Analyst | Unknown | Declined | 2025-04-29 |
+| Uber | Scientist II, Matching | Unknown | Declined | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
@@ -1199,7 +1202,6 @@
 | Centerfield | Business Analyst, Media Ping Post | Unknown | Applied | 2025-03-31 |
 | Unknown | Finance Analyst I | Unknown | Applied | 2025-03-31 |
 | AssuredPartners | Unknown | Unknown | Applied | 2025-03-31 |
-| Uber | Scientist II, Matching | Unknown | Applied | 2025-03-31 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-03-31 |
 | Hinge Health, Inc. | Supply Chain Analyst | Unknown | Applied | 2025-03-31 |
 | Lineage Logistics | Insurance & Risk Analyst | Unknown | Applied | 2025-03-31 |
@@ -1805,7 +1807,6 @@
 | Carilion Clinic | AI and Data Scientist- Health Analytics (151205) | Unknown | Declined | 2025-03-12 |
 | Plaid | Business Intelligence - GTM | Unknown | Applied | 2025-03-12 |
 | Zoox | Business Intelligence Engineer | Unknown | Applied | 2025-03-12 |
-| Colibri Group | Marketing Data Analyst | Unknown | Applied | 2025-03-12 |
 | Critical Mass | Marketing Science Analyst | Unknown | Declined | 2025-03-12 |
 | BetterHelp | Data Scientist, Marketing Inference | Unknown | Applied | 2025-03-12 |
 | Scribd | Product Analyst II (UGC) | Unknown | Applied | 2025-03-12 |
