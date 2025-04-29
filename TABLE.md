@@ -14,6 +14,11 @@
 | Convoso | Unknown | Unknown | Applied | 2025-04-29 |
 | Eight Sleep | Unknown | Unknown | Applied | 2025-04-29 |
 | Diamond Foundry / VRAI | Data Scientist | Unknown | Applied | 2025-04-29 |
+| Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Declined | 2025-04-29 |
+| Bristlecone | Visualization Specialist - BI - 14863 | Unknown | Applied | 2025-04-29 |
+| Bristlecone | Visualization Specialist - BI - 14863 | Unknown | Applied | 2025-04-29 |
+| Zenlayer, Inc | Unknown | Unknown | Applied | 2025-04-29 |
+| APL Logistics | Super User & Data Analyst | Sacramento, CA | Applied | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
@@ -74,7 +79,6 @@
 | Tri Counties Bank | CRA HMDA Data Analyst I, II or III | Unknown | Declined | 2025-04-26 |
 | Clinical Resolution Laboratory | Supply Chain Analyst | Unknown | Declined | 2025-04-26 |
 | SpotHero | Marketing Analyst | Unknown | Applied | 2025-04-25 |
-| Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |
 | Champions Group Holdings | Data Analyst Intern | Unknown | Applied | 2025-04-25 |
 | Everbridge | Data Analytics & Reporting Specialist | Unknown | Declined | 2025-04-25 |

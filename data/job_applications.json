@@ -21847,13 +21847,6 @@
         "Date": "2025-04-25"
     },
     {
-        "Company": "Lucid Motors",
-        "Job Title": "Intern, Talent Acquisition Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-25"
-    },
-    {
         "Company": "Notion",
         "Job Title": "Data Scientist, Product",
         "Location": "Unknown",
@@ -22669,6 +22662,41 @@
         "Company": "Diamond Foundry / VRAI",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Lucid Motors",
+        "Job Title": "Intern, Talent Acquisition Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Bristlecone",
+        "Job Title": "Visualization Specialist - BI - 14863",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Bristlecone",
+        "Job Title": "Visualization Specialist - BI - 14863",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Zenlayer, Inc",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "APL Logistics",
+        "Job Title": "Super User & Data Analyst",
+        "Location": "Sacramento, CA",
         "status": "Applied",
         "Date": "2025-04-29"
     }
