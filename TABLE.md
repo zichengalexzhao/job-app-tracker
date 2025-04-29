@@ -28,6 +28,7 @@
 | Forbes Advisor | Research and Methodology Analyst | Unknown | Declined | 2025-04-29 |
 | The Wonderful Company | Digital Marketing Strategist | Unknown | Declined | 2025-04-29 |
 | Lacek | Data Intelligence Internship | Unknown | Declined | 2025-04-29 |
+| Vistra Retail Operations Company | Data Scientist, Retail | Unknown | Applied | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |

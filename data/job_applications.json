@@ -22741,5 +22741,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-29"
+    },
+    {
+        "Company": "Vistra Retail Operations Company",
+        "Job Title": "Data Scientist, Retail",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
     }
 ]
