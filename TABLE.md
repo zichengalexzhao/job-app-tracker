@@ -22,6 +22,8 @@
 | Mass General Brigham | Data Analyst I - Neurosciences ICU | Unknown | Applied | 2025-04-29 |
 | LA Pension Planners | Entry Level Financial Professional | Pasadena, CA | Applied | 2025-04-29 |
 | One Inc | Intern, Data Visualization & Analytics | Unknown | Applied | 2025-04-29 |
+| Uber | Data Scientist II - Brand Marketing | Unknown | Declined | 2025-04-29 |
+| Blue Yonder | Data Scientist | Unknown | Applied | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
@@ -682,7 +684,6 @@
 | Veolia North America | Water Quality Data Analyst (Entry Level) | Unknown | Applied | 2025-04-11 |
 | Lincoln Financial | Unknown | Unknown | Applied | 2025-04-11 |
 | Morningstar | Analyst, Cash Flow Analytics | Unknown | Applied | 2025-04-11 |
-| Uber | Data Scientist II - Brand Marketing | Unknown | Applied | 2025-04-11 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-04-11 |
 | Chime | Data Analyst, Credit Risk | Unknown | Applied | 2025-04-11 |
 | Ensemble Health Partners | Reporting Analyst | Unknown | Applied | 2025-04-11 |

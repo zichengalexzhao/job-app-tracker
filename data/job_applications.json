@@ -17591,13 +17591,6 @@
         "Date": "2025-04-11"
     },
     {
-        "Company": "Uber",
-        "Job Title": "Data Scientist II - Brand Marketing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-11"
-    },
-    {
         "Company": "Western Digital",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -22717,6 +22710,20 @@
     {
         "Company": "One Inc",
         "Job Title": "Intern, Data Visualization & Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Data Scientist II - Brand Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Blue Yonder",
+        "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-29"
