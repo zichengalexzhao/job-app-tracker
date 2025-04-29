@@ -18690,13 +18690,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Forbes Advisor",
-        "Job Title": "Research and Methodology Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-14"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Business Intelligence Analyst II",
         "Location": "Unknown",
@@ -20204,13 +20197,6 @@
     {
         "Company": "Zeta Global",
         "Job Title": "Senior Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-18"
-    },
-    {
-        "Company": "The Wonderful Company",
-        "Job Title": "Digital Marketing Strategist",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-18"
@@ -22726,6 +22712,34 @@
         "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "ACA (AC Acceptance)",
+        "Job Title": "Operations Analyst",
+        "Location": "Unknown",
+        "status": "Interviewed",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Forbes Advisor",
+        "Job Title": "Research and Methodology Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "The Wonderful Company",
+        "Job Title": "Digital Marketing Strategist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Lacek",
+        "Job Title": "Data Intelligence Internship",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-29"
     }
 ]

@@ -24,6 +24,10 @@
 | One Inc | Intern, Data Visualization & Analytics | Unknown | Applied | 2025-04-29 |
 | Uber | Data Scientist II - Brand Marketing | Unknown | Declined | 2025-04-29 |
 | Blue Yonder | Data Scientist | Unknown | Applied | 2025-04-29 |
+| ACA (AC Acceptance) | Operations Analyst | Unknown | Interviewed | 2025-04-29 |
+| Forbes Advisor | Research and Methodology Analyst | Unknown | Declined | 2025-04-29 |
+| The Wonderful Company | Digital Marketing Strategist | Unknown | Declined | 2025-04-29 |
+| Lacek | Data Intelligence Internship | Unknown | Declined | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
@@ -408,7 +412,6 @@
 | Coinbase | Unknown | Unknown | Applied | 2025-04-18 |
 | ByteDance | Data Scientist (Multiple Positions) | Unknown | Applied | 2025-04-18 |
 | Zeta Global | Senior Analyst | Unknown | Applied | 2025-04-18 |
-| The Wonderful Company | Digital Marketing Strategist | Unknown | Applied | 2025-04-18 |
 | TikTok | Data Scientist - Search | Unknown | Applied | 2025-04-18 |
 | Rockerbox | Professional Services Analyst | Unknown | Applied | 2025-04-18 |
 | Redwood Materials | Unknown | Unknown | Applied | 2025-04-18 |
@@ -615,7 +618,6 @@
 | Experis | Research Analyst I | Unknown | Applied | 2025-04-14 |
 | CLAREMEDICA HEALTH PARTNERS LLC | Unknown | Unknown | Applied | 2025-04-14 |
 | ZestyAI | Unknown | Unknown | Applied | 2025-04-14 |
-| Forbes Advisor | Research and Methodology Analyst | Unknown | Applied | 2025-04-14 |
 | Unknown | Business Intelligence Analyst II | Unknown | Applied | 2025-04-14 |
 | SPS Health LLC | Data Analyst | Unknown | Applied | 2025-04-14 |
 | MLK Community Healthcare | Business Intelligence Analyst | Los Angeles, California | Applied | 2025-04-14 |
