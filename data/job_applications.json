@@ -22587,5 +22587,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-28"
+    },
+    {
+        "Company": "Oobli",
+        "Job Title": "Summer Internship",
+        "Location": "Unknown",
+        "status": "Interviewed",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Trane Technologies",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
     }
 ]
