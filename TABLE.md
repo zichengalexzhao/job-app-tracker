@@ -11,6 +11,9 @@
 | PowerSchool Group LLC | Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations) | Folsom, CA | Declined | 2025-04-29 |
 | Veear (inferred from the email address) | Data Scientist | Elk Grove, CA or Sunnyvale, CA or Austin, TX | Applied | 2025-04-29 |
 | Topcon Healthcare | Data Analyst Intern | Unknown | Applied | 2025-04-29 |
+| Convoso | Unknown | Unknown | Applied | 2025-04-29 |
+| Eight Sleep | Unknown | Unknown | Applied | 2025-04-29 |
+| Diamond Foundry / VRAI | Data Scientist | Unknown | Applied | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
