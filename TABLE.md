@@ -2,6 +2,11 @@
 | --- | --- | --- | --- | --- |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
+| Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
+| R1RCM | Data Operations Analyst II | Unknown | Applied | 2025-04-29 |
+| Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
+| Canvas Worldwide | Junior Analyst, Analytics | Unknown | Applied | 2025-04-29 |
+| Amplify | Order Data Integrity Analyst (Contractor) | Unknown | Applied | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
