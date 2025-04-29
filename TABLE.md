@@ -7,6 +7,7 @@
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
 | Canvas Worldwide | Junior Analyst, Analytics | Unknown | Applied | 2025-04-29 |
 | Amplify | Order Data Integrity Analyst (Contractor) | Unknown | Applied | 2025-04-29 |
+| Brightspeed | Business Analyst | Unknown | Declined | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
@@ -804,7 +805,6 @@
 | Ensemble Health Partners | Analyst II, Business Product | Unknown | Applied | 2025-04-09 |
 | Form Energy | Unknown | Unknown | Applied | 2025-04-09 |
 | Sanofi | Sales Analyst | Unknown | Applied | 2025-04-09 |
-| Brightspeed | Business Analyst | Unknown | Applied | 2025-04-09 |
 | Oscar | Senior Analyst, Compensation | Unknown | Applied | 2025-04-09 |
 | Okland | Data Analyst | Unknown | Applied | 2025-04-09 |
 | Retool | Unknown | Unknown | Applied | 2025-04-09 |

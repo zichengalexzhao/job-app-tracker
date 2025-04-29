@@ -16961,13 +16961,6 @@
         "Date": "2025-04-09"
     },
     {
-        "Company": "Brightspeed",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-09"
-    },
-    {
         "Company": "Oscar",
         "Job Title": "Senior Analyst, Compensation",
         "Location": "Unknown",
@@ -22635,6 +22628,13 @@
         "Job Title": "Order Data Integrity Analyst (Contractor)",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Brightspeed",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-04-29"
     }
 ]
