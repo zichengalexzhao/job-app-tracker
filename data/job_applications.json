@@ -21862,13 +21862,6 @@
     },
     {
         "Company": "PowerSchool Group LLC",
-        "Job Title": "Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-25"
-    },
-    {
-        "Company": "PowerSchool Group LLC",
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
@@ -22635,6 +22628,27 @@
         "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "PowerSchool Group LLC",
+        "Job Title": "Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations)",
+        "Location": "Folsom, CA",
+        "status": "Declined",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Veear (inferred from the email address)",
+        "Job Title": "Data Scientist",
+        "Location": "Elk Grove, CA or Sunnyvale, CA or Austin, TX",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "Topcon Healthcare",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-04-29"
     }
 ]

@@ -8,6 +8,9 @@
 | Canvas Worldwide | Junior Analyst, Analytics | Unknown | Applied | 2025-04-29 |
 | Amplify | Order Data Integrity Analyst (Contractor) | Unknown | Applied | 2025-04-29 |
 | Brightspeed | Business Analyst | Unknown | Declined | 2025-04-29 |
+| PowerSchool Group LLC | Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations) | Folsom, CA | Declined | 2025-04-29 |
+| Veear (inferred from the email address) | Data Scientist | Elk Grove, CA or Sunnyvale, CA or Austin, TX | Applied | 2025-04-29 |
+| Topcon Healthcare | Data Analyst Intern | Unknown | Applied | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
@@ -70,7 +73,6 @@
 | SpotHero | Marketing Analyst | Unknown | Applied | 2025-04-25 |
 | Lucid Motors | Intern, Talent Acquisition Data Analyst | Unknown | Applied | 2025-04-25 |
 | Notion | Data Scientist, Product | Unknown | Declined | 2025-04-25 |
-| PowerSchool Group LLC | Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations) | Unknown | Applied | 2025-04-25 |
 | Champions Group Holdings | Data Analyst Intern | Unknown | Applied | 2025-04-25 |
 | Everbridge | Data Analytics & Reporting Specialist | Unknown | Declined | 2025-04-25 |
 | Bitus Labs | Data Product Manager (Mandarin Speaking) | Unknown | Declined | 2025-04-25 |
