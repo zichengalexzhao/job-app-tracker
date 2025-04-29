@@ -22699,5 +22699,26 @@
         "Location": "Sacramento, CA",
         "status": "Applied",
         "Date": "2025-04-29"
+    },
+    {
+        "Company": "Mass General Brigham",
+        "Job Title": "Data Analyst I - Neurosciences ICU",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "LA Pension Planners",
+        "Job Title": "Entry Level Financial Professional",
+        "Location": "Pasadena, CA",
+        "status": "Applied",
+        "Date": "2025-04-29"
+    },
+    {
+        "Company": "One Inc",
+        "Job Title": "Intern, Data Visualization & Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-29"
     }
 ]

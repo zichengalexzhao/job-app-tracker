@@ -19,6 +19,9 @@
 | Bristlecone | Visualization Specialist - BI - 14863 | Unknown | Applied | 2025-04-29 |
 | Zenlayer, Inc | Unknown | Unknown | Applied | 2025-04-29 |
 | APL Logistics | Super User & Data Analyst | Sacramento, CA | Applied | 2025-04-29 |
+| Mass General Brigham | Data Analyst I - Neurosciences ICU | Unknown | Applied | 2025-04-29 |
+| LA Pension Planners | Entry Level Financial Professional | Pasadena, CA | Applied | 2025-04-29 |
+| One Inc | Intern, Data Visualization & Analytics | Unknown | Applied | 2025-04-29 |
 | Optiv | Associate IT Business Analyst | Unknown | Applied | 2025-04-28 |
 | Cigna | Business Analytics Advisor | Remote | Applied | 2025-04-28 |
 | M&T Bank | Unknown | Unknown | Applied | 2025-04-28 |
