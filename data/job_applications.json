@@ -22839,5 +22839,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-30"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Intelligence Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Ross Stores, Inc.",
+        "Job Title": "Analyst, Receipt Management (Planning)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
     }
 ]
