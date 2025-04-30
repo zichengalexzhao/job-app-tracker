@@ -22755,5 +22755,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-29"
+    },
+    {
+        "Company": "Ciena",
+        "Job Title": "Data Scientist Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Zipline",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Senior Revenue Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
     }
 ]
