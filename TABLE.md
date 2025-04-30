@@ -4,6 +4,7 @@
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
 | Dataiku | Associate Data Scientist | Unknown | Applied | 2025-04-30 |
+| Mayo Clinic | Associate Data Science Analyst - Shung Lab 355680 | Unknown | Applied | 2025-04-30 |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
