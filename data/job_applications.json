@@ -22888,5 +22888,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-30"
+    },
+    {
+        "Company": "Highbrow LLC",
+        "Job Title": "Data Science with AI/ML",
+        "Location": "Austin, Texas",
+        "status": "Applied",
+        "Date": "2025-04-30"
     }
 ]
