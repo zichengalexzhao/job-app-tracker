@@ -22867,5 +22867,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-30"
+    },
+    {
+        "Company": "Anthology",
+        "Job Title": "Data Analytics Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Stanford University",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Block",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-30"
     }
 ]

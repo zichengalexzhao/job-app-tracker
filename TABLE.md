@@ -16,6 +16,9 @@
 | Ross Stores, Inc. | Analyst, Receipt Management (Planning) | Unknown | Applied | 2025-04-30 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-04-30 |
 | Equinix | Unknown | Unknown | Declined | 2025-04-30 |
+| Anthology | Data Analytics Consultant | Unknown | Applied | 2025-04-30 |
+| Stanford University | Business Intelligence Analyst | Unknown | Applied | 2025-04-30 |
+| Block | Marketing Data Analyst | Unknown | Declined | 2025-04-30 |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
