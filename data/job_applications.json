@@ -22916,5 +22916,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-30"
+    },
+    {
+        "Company": "Levi Strauss & Co.",
+        "Job Title": "Senior Retail Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Merck & Co. Inc.",
+        "Job Title": "Specialist \u2013 Data Science, Commercial AI",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-30"
     }
 ]

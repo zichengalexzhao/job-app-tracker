@@ -23,6 +23,8 @@
 | Cotiviti | Data Integration Analyst I | Unknown | Applied | 2025-04-30 |
 | Holman Enterprises | Unknown | Unknown | Applied | 2025-04-30 |
 | Blue Yonder | Data Scientist (Gen AI) | Unknown | Applied | 2025-04-30 |
+| Levi Strauss & Co. | Senior Retail Analyst | Unknown | Declined | 2025-04-30 |
+| Merck & Co. Inc. | Specialist – Data Science, Commercial AI | Unknown | Declined | 2025-04-30 |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
