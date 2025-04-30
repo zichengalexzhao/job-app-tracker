@@ -14,6 +14,8 @@
 | Oracle | Sales Operations Territory and Compensation Analyst-288947 | Unknown | Declined | 2025-04-30 |
 | Amazon | Business Intelligence Engineer | Unknown | Applied | 2025-04-30 |
 | Ross Stores, Inc. | Analyst, Receipt Management (Planning) | Unknown | Applied | 2025-04-30 |
+| Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-04-30 |
+| Equinix | Unknown | Unknown | Declined | 2025-04-30 |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |

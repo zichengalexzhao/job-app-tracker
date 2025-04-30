@@ -22853,5 +22853,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-30"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Equinix",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-30"
     }
 ]
