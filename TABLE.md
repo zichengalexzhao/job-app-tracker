@@ -8,6 +8,7 @@
 | Discover | Data Science Analyst | Unknown | Applied | 2025-04-30 |
 | Equifax | Data Discovery Analyst | Unknown | Applied | 2025-04-30 |
 | Equifax | Data Analytics and Reporting Specialist | Unknown | Applied | 2025-04-30 |
+| Boston Consulting Group (BCG) | Analyst - BCG Vantage, Organization Design - I/O Psychology | Unknown | Declined | 2025-04-30 |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
