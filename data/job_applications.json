@@ -22895,5 +22895,19 @@
         "Location": "Austin, Texas",
         "status": "Applied",
         "Date": "2025-04-30"
+    },
+    {
+        "Company": "Cotiviti",
+        "Job Title": "Data Integration Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Holman Enterprises",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-04-30"
     }
 ]

@@ -20,6 +20,8 @@
 | Stanford University | Business Intelligence Analyst | Unknown | Applied | 2025-04-30 |
 | Block | Marketing Data Analyst | Unknown | Declined | 2025-04-30 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-04-30 |
+| Cotiviti | Data Integration Analyst I | Unknown | Applied | 2025-04-30 |
+| Holman Enterprises | Unknown | Unknown | Applied | 2025-04-30 |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
