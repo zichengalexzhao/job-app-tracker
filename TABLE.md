@@ -14,6 +14,7 @@
 | Bumble Inc. | Data Scientist, Trust & Safety | Unknown | Declined | 2025-05-01 |
 | Zipline | People/HR Data Analyst | Unknown | Declined | 2025-05-01 |
 | Molina Healthcare | Associate Analyst, Provider Config | Unknown | Applied | 2025-05-01 |
+| Twitch | Data Scientist | Unknown | Applied | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
