@@ -3528,13 +3528,6 @@
         "Date": "2025-02-24"
     },
     {
-        "Company": "Zimmer Biomet",
-        "Job Title": "Business Insights Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-24"
-    },
-    {
         "Company": "Confluence Technologies",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -8388,13 +8381,6 @@
     {
         "Company": "Quince",
         "Job Title": "Data Scientist, ML - Storefront",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-06"
-    },
-    {
-        "Company": "IDB",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-06"
@@ -23026,6 +23012,27 @@
         "Company": "Claritev",
         "Job Title": "Business Analyst - Claims",
         "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "IDB",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Zimmer Biomet",
+        "Job Title": "Business Insights Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Autoliv",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-01"
     }

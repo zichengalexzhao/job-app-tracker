@@ -19,6 +19,9 @@
 | Lightcast | Linguistics Data Analyst | Remote - US | Declined | 2025-05-01 |
 | West Coast University, Inc | Business Analyst | Unknown | Declined | 2025-05-01 |
 | Claritev | Business Analyst - Claims | Remote | Declined | 2025-05-01 |
+| IDB | Data Analyst | Unknown | Declined | 2025-05-01 |
+| Zimmer Biomet | Business Insights Analyst | Unknown | Declined | 2025-05-01 |
+| Autoliv | Data Analyst | Unknown | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
@@ -2092,7 +2095,6 @@
 | StackAdapt | Data Scientist | Unknown | Applied | 2025-03-06 |
 | Businessolver | Unknown | Unknown | Applied | 2025-03-06 |
 | Quince | Data Scientist, ML - Storefront | Unknown | Applied | 2025-03-06 |
-| IDB | Data Analyst | Unknown | Applied | 2025-03-06 |
 | Bertram Capital Management | Unknown | Unknown | Applied | 2025-03-06 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-06 |
 | JPMorgan Chase & Co. | Unknown | Unknown | Applied | 2025-03-06 |
@@ -2373,7 +2375,6 @@
 | Miami Dolphins and Hard Rock Stadium | Marketing Analyst | Unknown | Applied | 2025-02-24 |
 | KENDO HOLDINGS INC | Internship, Ecommerce & Digital | San Francisco, California | Applied | 2025-02-24 |
 | Code.org | Data Analyst | Unknown | Applied | 2025-02-24 |
-| Zimmer Biomet | Business Insights Analyst | Unknown | Applied | 2025-02-24 |
 | Confluence Technologies | Data Analyst | Unknown | Applied | 2025-02-24 |
 | Tripoint Solutions | Data Analyst | Unknown | Applied | 2025-02-24 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-02-24 |
