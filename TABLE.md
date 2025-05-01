@@ -7,6 +7,9 @@
 | GHX | Data Analyst- Epay | Louisville, CO | Applied | 2025-05-01 |
 | Alo Yoga | Data Science MS Intern | Unknown | Applied | 2025-05-01 |
 | Campbell Soup | Data Sync Analyst | Unknown | Declined | 2025-05-01 |
+| CrowdStrike | Sr. Analyst, Marketing & Growth Analytics | Unknown | Declined | 2025-05-01 |
+| Allstate Insurance Company | Rating & Ratemaking Insights Analyst | Unknown | Applied | 2025-05-01 |
+| Salesforce | Technical Architect | Unknown | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
@@ -89,7 +92,6 @@
 | ButterflyMX | Data Analytics Intern | Unknown | Applied | 2025-04-28 |
 | Syndio | Data Scientist | Unknown | Applied | 2025-04-28 |
 | Golden1 | Unknown | Unknown | Applied | 2025-04-28 |
-| CrowdStrike | Sr. Analyst, Marketing & Growth Analytics | Remote | Applied | 2025-04-28 |
 | Wesley Health Centers (JWCH Institute) | Unknown | Unknown | Applied | 2025-04-28 |
 | PeopleConnect (using ADP services) | Financial Business Analyst | Unknown | Applied | 2025-04-28 |
 | Tanimura & Antle | Financial Analyst | Unknown | Applied | 2025-04-28 |
@@ -564,7 +566,6 @@
 | Amount | Unknown | Unknown | Applied | 2025-04-15 |
 | Epiq | Unknown | Unknown | Applied | 2025-04-15 |
 | Warner Music Group | Analyst, D2C | Unknown | Applied | 2025-04-15 |
-| Salesforce | Technical Architect | Unknown | Applied | 2025-04-15 |
 | Elevance Health Companies, Inc. | Actuarial Analyst II (JR147965) | Unknown | Applied | 2025-04-15 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-04-15 |
 | Mattel | Procurement Analyst | Unknown | Applied | 2025-04-15 |

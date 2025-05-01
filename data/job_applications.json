@@ -18718,13 +18718,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "Salesforce",
-        "Job Title": "Technical Architect",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Elevance Health Companies, Inc.",
         "Job Title": "Actuarial Analyst II (JR147965)",
         "Location": "Unknown",
@@ -22407,13 +22400,6 @@
         "Date": "2025-04-28"
     },
     {
-        "Company": "CrowdStrike",
-        "Job Title": "Sr. Analyst, Marketing & Growth Analytics",
-        "Location": "Remote",
-        "status": "Applied",
-        "Date": "2025-04-28"
-    },
-    {
         "Company": "Wesley Health Centers (JWCH Institute)",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -22969,6 +22955,27 @@
     {
         "Company": "Campbell Soup",
         "Job Title": "Data Sync Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "CrowdStrike",
+        "Job Title": "Sr. Analyst, Marketing & Growth Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Allstate Insurance Company",
+        "Job Title": "Rating & Ratemaking Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Salesforce",
+        "Job Title": "Technical Architect",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-01"
