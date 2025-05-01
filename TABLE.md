@@ -11,6 +11,8 @@
 | Allstate Insurance Company | Rating & Ratemaking Insights Analyst | Unknown | Applied | 2025-05-01 |
 | Salesforce | Technical Architect | Unknown | Declined | 2025-05-01 |
 | Sofi | Staff Product Data Analyst | San Francisco, CA | Applied | 2025-05-01 |
+| Bumble Inc. | Data Scientist, Trust & Safety | Unknown | Declined | 2025-05-01 |
+| Zipline | People/HR Data Analyst | Unknown | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
@@ -2199,7 +2201,6 @@
 | ByteDance | Enterprise Application System Operation Specialist | Unknown | Applied | 2025-03-03 |
 | ByteDance | Data Scientist | Unknown | Applied | 2025-03-03 |
 | Hayden AI | Data Analyst | Unknown | Applied | 2025-03-03 |
-| Bumble Inc. | Data Scientist, Trust & Safety | Unknown | Applied | 2025-03-03 |
 | SimpliSafe | Analytics Engineer | Unknown | Applied | 2025-03-03 |
 | McKinsey | Unknown | Unknown | Applied | 2025-03-03 |
 | CarGurus | Marketing Analytics Analyst | Unknown | Applied | 2025-03-03 |
