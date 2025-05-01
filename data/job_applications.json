@@ -15092,13 +15092,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Age of Learning",
-        "Job Title": "Data Science & Analytics Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "The Standard",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -19733,13 +19726,6 @@
         "Date": "2025-04-17"
     },
     {
-        "Company": "Global Music Rights, LLC",
-        "Job Title": "Data Analyst, Financial Planning & Analysis",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-17"
-    },
-    {
         "Company": "Toyota",
         "Job Title": "Senior Analyst - Analytics",
         "Location": "Unknown",
@@ -22927,6 +22913,27 @@
     {
         "Company": "Merck & Co. Inc.",
         "Job Title": "Specialist \u2013 Data Science, Commercial AI",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Global Music Rights, LLC",
+        "Job Title": "Data Analyst, Financial Planning & Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Interviewed",
+        "Date": "2025-04-30"
+    },
+    {
+        "Company": "Age of Learning",
+        "Job Title": "Data Science & Analytics Intern",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-04-30"

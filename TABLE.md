@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
@@ -25,6 +26,8 @@
 | Blue Yonder | Data Scientist (Gen AI) | Unknown | Applied | 2025-04-30 |
 | Levi Strauss & Co. | Senior Retail Analyst | Unknown | Declined | 2025-04-30 |
 | Merck & Co. Inc. | Specialist – Data Science, Commercial AI | Unknown | Declined | 2025-04-30 |
+| Unknown | Research Analyst | Unknown | Interviewed | 2025-04-30 |
+| Age of Learning | Data Science & Analytics Intern | Unknown | Declined | 2025-04-30 |
 | Oobli | Summer Internship | Unknown | Interviewed | 2025-04-29 |
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
@@ -484,7 +487,6 @@
 | Sephora | Senior Analyst, Data Science | FSC REMOTE SF/NY/DC -173(USA_0173) | Applied | 2025-04-17 |
 | Synchrony Financial | Unknown | Unknown | Applied | 2025-04-17 |
 | theScore | Data Analyst, Product | Unknown | Declined | 2025-04-17 |
-| Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Applied | 2025-04-17 |
 | Toyota | Senior Analyst - Analytics | Unknown | Applied | 2025-04-17 |
 | West Coast University, Inc | Business Intelligence Analyst (ID 2025-3639) | Unknown | Declined | 2025-04-17 |
 | Red Bull Distribution Company | Business Operations Analyst | Unknown | Declined | 2025-04-17 |
@@ -1135,7 +1137,6 @@
 | Disney | Unknown | Unknown | Applied | 2025-04-02 |
 | KRAFT SPORTS AND ENTERTAINMENT LLC | Business Intelligence Analyst | Unknown | Declined | 2025-04-02 |
 | NCH | Category Insights Analyst | Unknown | Declined | 2025-04-02 |
-| Age of Learning | Data Science & Analytics Intern | Unknown | Applied | 2025-04-02 |
 | The Standard | Unknown | Unknown | Applied | 2025-04-02 |
 | Kaiser Permanente | Business Analytics Master's Intern | Unknown | Applied | 2025-04-02 |
 | Daifuku | Data Analyst Intern | Hobart, IN | Applied | 2025-04-02 |
