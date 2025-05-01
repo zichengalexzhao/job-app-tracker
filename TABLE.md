@@ -1,6 +1,11 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
+| DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
+| DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
+| DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
+| GHX | Data Analyst- Epay | Louisville, CO | Applied | 2025-05-01 |
+| Alo Yoga | Data Science MS Intern | Unknown | Applied | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
