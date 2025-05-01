@@ -6,6 +6,7 @@
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
 | GHX | Data Analyst- Epay | Louisville, CO | Applied | 2025-05-01 |
 | Alo Yoga | Data Science MS Intern | Unknown | Applied | 2025-05-01 |
+| Campbell Soup | Data Sync Analyst | Unknown | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
@@ -2275,7 +2276,6 @@
 | PitchBook | Data Operations Associate, Sourcing | Unknown | Declined | 2025-02-27 |
 | NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-02-27 |
 | MCRA | Associate, Analytics | Unknown | Applied | 2025-02-27 |
-| Campbell Soup | Data Sync Analyst | Unknown | Applied | 2025-02-27 |
 | Informative Research | IT Programmer Analyst I | Unknown | Applied | 2025-02-27 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-02-27 |
 | YouGov | Survey Analytics Analyst | Unknown | Applied | 2025-02-27 |

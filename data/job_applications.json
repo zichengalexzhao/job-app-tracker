@@ -6958,13 +6958,6 @@
         "Date": "2025-02-27"
     },
     {
-        "Company": "Campbell Soup",
-        "Job Title": "Data Sync Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-27"
-    },
-    {
         "Company": "Informative Research",
         "Job Title": "IT Programmer Analyst I",
         "Location": "Unknown",
@@ -22971,6 +22964,13 @@
         "Job Title": "Data Science MS Intern",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Campbell Soup",
+        "Job Title": "Data Sync Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-01"
     }
 ]
