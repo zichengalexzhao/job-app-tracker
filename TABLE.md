@@ -15,6 +15,8 @@
 | Zipline | People/HR Data Analyst | Unknown | Declined | 2025-05-01 |
 | Molina Healthcare | Associate Analyst, Provider Config | Unknown | Applied | 2025-05-01 |
 | Twitch | Data Scientist | Unknown | Applied | 2025-05-01 |
+| Disney | Digital Research Analyst - Sports | Unknown | Applied | 2025-05-01 |
+| Lightcast | Linguistics Data Analyst | Remote - US | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
@@ -1560,7 +1562,6 @@
 | Independence Pet Group | Unknown | Unknown | Applied | 2025-03-19 |
 | EBSCO Industries | Unknown | Unknown | Applied | 2025-03-19 |
 | Unknown | Unknown | Unknown | Applied | 2025-03-19 |
-| Lightcast | Linguistics Data Analyst | Unknown | Applied | 2025-03-19 |
 | Flatiron Health | Real World Evidence Data Analyst | Unknown | Applied | 2025-03-19 |
 | Wells Fargo | Quantitative Research Associate | Unknown | Applied | 2025-03-19 |
 | Wells Fargo | Business Analyst - Real Time Payments | Unknown | Applied | 2025-03-19 |

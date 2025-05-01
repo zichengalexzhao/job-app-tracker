@@ -11865,13 +11865,6 @@
         "Date": "2025-03-19"
     },
     {
-        "Company": "Lightcast",
-        "Job Title": "Linguistics Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-19"
-    },
-    {
         "Company": "Flatiron Health",
         "Job Title": "Real World Evidence Data Analyst",
         "Location": "Unknown",
@@ -23006,6 +22999,20 @@
         "Job Title": "Data Scientist",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Digital Research Analyst - Sports",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Lightcast",
+        "Job Title": "Linguistics Data Analyst",
+        "Location": "Remote - US",
+        "status": "Declined",
         "Date": "2025-05-01"
     }
 ]
