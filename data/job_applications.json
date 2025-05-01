@@ -23035,5 +23035,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-01"
+    },
+    {
+        "Company": "CentralSquare Technologies",
+        "Job Title": "Professional Services Consultant",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Lemonade",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
+    },
+    {
+        "Company": "Storage and Fulfillment USA",
+        "Job Title": "Systems Operator/Data Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
     }
 ]

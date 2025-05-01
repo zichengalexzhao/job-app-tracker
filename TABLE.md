@@ -22,6 +22,9 @@
 | IDB | Data Analyst | Unknown | Declined | 2025-05-01 |
 | Zimmer Biomet | Business Insights Analyst | Unknown | Declined | 2025-05-01 |
 | Autoliv | Data Analyst | Unknown | Declined | 2025-05-01 |
+| CentralSquare Technologies | Professional Services Consultant | Unknown | Declined | 2025-05-01 |
+| Lemonade | Unknown | Unknown | Declined | 2025-05-01 |
+| Storage and Fulfillment USA | Systems Operator/Data Analysis | Unknown | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
