@@ -17,6 +17,7 @@
 | Twitch | Data Scientist | Unknown | Applied | 2025-05-01 |
 | Disney | Digital Research Analyst - Sports | Unknown | Applied | 2025-05-01 |
 | Lightcast | Linguistics Data Analyst | Remote - US | Declined | 2025-05-01 |
+| West Coast University, Inc | Business Analyst | Unknown | Declined | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |

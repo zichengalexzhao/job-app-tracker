@@ -23014,5 +23014,12 @@
         "Location": "Remote - US",
         "status": "Declined",
         "Date": "2025-05-01"
+    },
+    {
+        "Company": "West Coast University, Inc",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-01"
     }
 ]
