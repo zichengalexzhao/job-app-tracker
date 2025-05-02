@@ -5,6 +5,8 @@
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-05-02 |
 | PayPal | Data Scientist 1 | Unknown | Applied | 2025-05-02 |
 | Vinculum Inc | Business Intelligence / Data analyst | Unknown | Applied | 2025-05-02 |
+| Visa | Analyst, Business Strategy and Operations | Unknown | Declined | 2025-05-02 |
+| Anywhere | Unknown | Unknown | Applied | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
@@ -507,7 +509,6 @@
 | SCAN Health Plan | Analyst, Marketing & Digital Analytics | Unknown | Applied | 2025-04-17 |
 | GoFundMe | Strategy Analyst I | Unknown | Applied | 2025-04-17 |
 | Xos, Inc. | Unknown | Unknown | Applied | 2025-04-17 |
-| Visa | Analyst, Business Strategy and Operations | Unknown | Applied | 2025-04-17 |
 | Pinterest | Data Scientist I | Unknown | Applied | 2025-04-17 |
 | Redwood Materials | Unknown | Unknown | Applied | 2025-04-17 |
 | Partnership HealthPlan of California | Health Services Analyst I | Unknown | Applied | 2025-04-17 |

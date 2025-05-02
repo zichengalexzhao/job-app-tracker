@@ -19593,13 +19593,6 @@
         "Date": "2025-04-17"
     },
     {
-        "Company": "Visa",
-        "Job Title": "Analyst, Business Strategy and Operations",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-17"
-    },
-    {
         "Company": "Pinterest",
         "Job Title": "Data Scientist I",
         "Location": "Unknown",
@@ -23123,6 +23116,20 @@
     {
         "Company": "Vinculum Inc",
         "Job Title": "Business Intelligence / Data analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Analyst, Business Strategy and Operations",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Anywhere",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-02"
