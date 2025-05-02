@@ -23205,15 +23205,22 @@
         "Date": "2025-05-02"
     },
     {
-        "Company": "Barkbus",
-        "Job Title": "Tableau Data Visualization Intern",
+        "Company": "ServiceNow",
+        "Job Title": "Assoc Data Informatics Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-02"
     },
     {
-        "Company": "ServiceNow",
-        "Job Title": "Assoc Data Informatics Analyst",
+        "Company": "Barkbus",
+        "Job Title": "Tableau Data Visualization Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Molina Healthcare",
+        "Job Title": "Healthcare Data Analyst (Enrollment/QNXT)",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-02"
