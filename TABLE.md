@@ -23,6 +23,8 @@
 | ServiceNow | Assoc Data Informatics Analyst | Unknown | Applied | 2025-05-02 |
 | Barkbus | Tableau Data Visualization Intern | Unknown | Declined | 2025-05-02 |
 | Molina Healthcare | Healthcare Data Analyst (Enrollment/QNXT) | Unknown | Applied | 2025-05-02 |
+| OLD MASTER PRODUCTS, INC. | Jr. Data Analyst | Unknown | Declined | 2025-05-02 |
+| Tanimura & Antle | Financial Analyst | Unknown | Applied | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |

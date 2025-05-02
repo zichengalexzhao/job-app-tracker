@@ -23224,5 +23224,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-02"
+    },
+    {
+        "Company": "OLD MASTER PRODUCTS, INC.",
+        "Job Title": "Jr. Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Tanimura & Antle",
+        "Job Title": "Financial Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
     }
 ]
