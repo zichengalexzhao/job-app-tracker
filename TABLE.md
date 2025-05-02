@@ -11,6 +11,9 @@
 | Morningstar | Analyst, Cash Flow Analytics | Unknown | Declined | 2025-05-02 |
 | DoorDash | Data Scientist / Senior Data Scientist, Analytics | Unknown | Applied | 2025-05-02 |
 | Netflix | Data Analyst, Production Finance Operations & Innovation | Unknown | Applied | 2025-05-02 |
+| Kroll Government Solutions | Analyst - Data Analytics | Unknown | Applied | 2025-05-02 |
+| Kroll Government Solutions | Analyst - Data Analytics | Unknown | Applied | 2025-05-02 |
+| Mutual of Omaha Mortgage | Unknown | Unknown | Applied | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
