@@ -12432,13 +12432,6 @@
         "Date": "2025-03-21"
     },
     {
-        "Company": "Bayer",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-21"
-    },
-    {
         "Company": "Northwestern Mutual",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -23132,6 +23125,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Bayer",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-02"
     }
 ]

@@ -7,6 +7,7 @@
 | Vinculum Inc | Business Intelligence / Data analyst | Unknown | Applied | 2025-05-02 |
 | Visa | Analyst, Business Strategy and Operations | Unknown | Declined | 2025-05-02 |
 | Anywhere | Unknown | Unknown | Applied | 2025-05-02 |
+| Bayer | Business Intelligence Analyst | Unknown | Declined | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
@@ -1508,7 +1509,6 @@
 | ZwillGen | Data Scientist | Unknown | Applied | 2025-03-21 |
 | Cerberus | Associate/Sr. Associate – Business Intelligence and Data Analytics, Credit Risk | Unknown | Applied | 2025-03-21 |
 | Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
-| Bayer | Business Intelligence Analyst | Unknown | Applied | 2025-03-21 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-21 |
 | Kohl's | Unknown | Unknown | Applied | 2025-03-21 |
 | Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-21 |
