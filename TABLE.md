@@ -1,6 +1,9 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | AAA (Automobile Club of Southern California) | Claims Quality Assurance Data Analyst | Unknown | Declined | 2025-05-02 |
+| Kaweah Health | OP Business Analyst | Unknown | Applied | 2025-05-02 |
+| Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-05-02 |
+| PayPal | Data Scientist 1 | Unknown | Applied | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |

@@ -23098,5 +23098,26 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-05-01"
+    },
+    {
+        "Company": "Kaweah Health",
+        "Job Title": "OP Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Warner Bros. Discovery",
+        "Job Title": "Analyst, Forecasting & Video Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "PayPal",
+        "Job Title": "Data Scientist 1",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
     }
 ]
