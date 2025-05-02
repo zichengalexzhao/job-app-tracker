@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| AAA (Automobile Club of Southern California) | Claims Quality Assurance Data Analyst | Unknown | Declined | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
@@ -25,6 +26,11 @@
 | CentralSquare Technologies | Professional Services Consultant | Unknown | Declined | 2025-05-01 |
 | Lemonade | Unknown | Unknown | Declined | 2025-05-01 |
 | Storage and Fulfillment USA | Systems Operator/Data Analysis | Unknown | Declined | 2025-05-01 |
+| Vizient | Unknown | Unknown | Applied | 2025-05-01 |
+| Vizient | Data Operations Associate II | Unknown | Applied | 2025-05-01 |
+| Fivetran | Data Analyst Intern | Unknown | Applied | 2025-05-01 |
+| Mochi Health | Unknown | Unknown | Applied | 2025-05-01 |
+| Escalent | Insights Analyst - Health & Life Science | Remote | Applied | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
