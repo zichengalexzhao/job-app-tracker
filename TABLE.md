@@ -8,6 +8,9 @@
 | Visa | Analyst, Business Strategy and Operations | Unknown | Declined | 2025-05-02 |
 | Anywhere | Unknown | Unknown | Applied | 2025-05-02 |
 | Bayer | Business Intelligence Analyst | Unknown | Declined | 2025-05-02 |
+| Morningstar | Analyst, Cash Flow Analytics | Unknown | Declined | 2025-05-02 |
+| DoorDash | Data Scientist / Senior Data Scientist, Analytics | Unknown | Applied | 2025-05-02 |
+| Netflix | Data Analyst, Production Finance Operations & Innovation | Unknown | Applied | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
@@ -750,7 +753,6 @@
 | Credit One Bank | Data Science (Decision Science) Intern | Unknown | Applied | 2025-04-11 |
 | Veolia North America | Water Quality Data Analyst (Entry Level) | Unknown | Applied | 2025-04-11 |
 | Lincoln Financial | Unknown | Unknown | Applied | 2025-04-11 |
-| Morningstar | Analyst, Cash Flow Analytics | Unknown | Applied | 2025-04-11 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-04-11 |
 | Chime | Data Analyst, Credit Risk | Unknown | Applied | 2025-04-11 |
 | Ensemble Health Partners | Reporting Analyst | Unknown | Applied | 2025-04-11 |

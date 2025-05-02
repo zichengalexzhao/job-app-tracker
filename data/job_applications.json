@@ -17521,13 +17521,6 @@
         "Date": "2025-04-11"
     },
     {
-        "Company": "Morningstar",
-        "Job Title": "Analyst, Cash Flow Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-11"
-    },
-    {
         "Company": "Western Digital",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -23132,6 +23125,27 @@
         "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Morningstar",
+        "Job Title": "Analyst, Cash Flow Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Data Scientist / Senior Data Scientist, Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Netflix",
+        "Job Title": "Data Analyst, Production Finance Operations & Innovation",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-02"
     }
 ]
