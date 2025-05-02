@@ -16,6 +16,12 @@
 | Mutual of Omaha Mortgage | Unknown | Unknown | Applied | 2025-05-02 |
 | Handshake | Senior Analyst, Consumer Research & Marketing | Unknown | Applied | 2025-05-02 |
 | Consumer Cellular, Inc. | Data Scientist Junior | Unknown | Applied | 2025-05-02 |
+| Actively AI | Unknown | Unknown | Declined | 2025-05-02 |
+| Los Angeles Sparks | Staff Accountant | Los Angeles, CA | Applied | 2025-05-02 |
+| Total Wine & More | Data Analyst, Merchandising Analytics | Unknown | Applied | 2025-05-02 |
+| Oracle | Data Science Intern - Global Industries - 292570 | Unknown | Applied | 2025-05-02 |
+| Barkbus | Tableau Data Visualization Intern | Unknown | Applied | 2025-05-02 |
+| ServiceNow | Assoc Data Informatics Analyst | Unknown | Applied | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
@@ -1196,7 +1202,6 @@
 | Veolia North America | Data Analyst | Unknown | Applied | 2025-04-02 |
 | Tubi | Analyst, Business Operations & Strategy | Unknown | Applied | 2025-04-02 |
 | Cable One, Inc. | Data Analyst II | Unknown | Applied | 2025-04-02 |
-| Actively AI | Unknown | Unknown | Applied | 2025-04-02 |
 | Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-04-02 |
 | Medallion | Unknown | Unknown | Applied | 2025-04-02 |
 | Alo Yoga | Data Science MS Intern | Unknown | Applied | 2025-04-02 |

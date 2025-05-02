@@ -15176,13 +15176,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Actively AI",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "Turing",
         "Job Title": "Business Analyst (Chinese Language)",
         "Location": "Unknown",
@@ -23179,6 +23172,48 @@
     {
         "Company": "Consumer Cellular, Inc.",
         "Job Title": "Data Scientist Junior",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Actively AI",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Los Angeles Sparks",
+        "Job Title": "Staff Accountant",
+        "Location": "Los Angeles, CA",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Total Wine & More",
+        "Job Title": "Data Analyst, Merchandising Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Science Intern - Global Industries - 292570",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "Barkbus",
+        "Job Title": "Tableau Data Visualization Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-02"
+    },
+    {
+        "Company": "ServiceNow",
+        "Job Title": "Assoc Data Informatics Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-02"
