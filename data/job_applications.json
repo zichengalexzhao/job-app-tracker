@@ -12922,13 +12922,6 @@
         "Date": "2025-03-24"
     },
     {
-        "Company": "Westrock Coffee",
-        "Job Title": "Reporting Analyst",
-        "Location": "Concord, North Carolina",
-        "status": "Applied",
-        "Date": "2025-03-24"
-    },
-    {
         "Company": "FactSet Research Systems Inc",
         "Job Title": "Power Markets Analyst",
         "Location": "Unknown",
@@ -23265,6 +23258,13 @@
         "Job Title": "Remote Data Entry Clerk",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-03"
+    },
+    {
+        "Company": "Westrock Coffee",
+        "Job Title": "Reporting Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-03"
     }
 ]

@@ -4,6 +4,7 @@
 | Sony Pictures Entertainment | Data Analysis Intern, New Media – Summer 2025 | Unknown | Declined | 2025-05-03 |
 | Yahoo | Senior Analyst, Business Intelligence - AOL | Unknown | Applied | 2025-05-03 |
 | Luxe Royale Endeavors LLC (Recruiting as Apex Talent Solutions) | Remote Data Entry Clerk | Unknown | Applied | 2025-05-03 |
+| Westrock Coffee | Reporting Analyst | Unknown | Declined | 2025-05-03 |
 | AAA (Automobile Club of Southern California) | Claims Quality Assurance Data Analyst | Unknown | Declined | 2025-05-02 |
 | Kaweah Health | OP Business Analyst | Unknown | Applied | 2025-05-02 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-05-02 |
@@ -1499,7 +1500,6 @@
 | TransUnion | Unknown | Unknown | Applied | 2025-03-24 |
 | Macquarie Group | Business Analyst - Identity Access Management Team | Unknown | Declined | 2025-03-24 |
 | FactSet | Power Markets Analyst | Unknown | Applied | 2025-03-24 |
-| Westrock Coffee | Reporting Analyst | Concord, North Carolina | Applied | 2025-03-24 |
 | Amazon | Business Analyst, NASC ACES, ACES Analytics and Strategy | Unknown | Applied | 2025-03-23 |
 | Ascend Analytics | Unknown | Unknown | Applied | 2025-03-23 |
 | Mapfre Insurance | Business Intelligence Analyst II | Unknown | Applied | 2025-03-23 |
