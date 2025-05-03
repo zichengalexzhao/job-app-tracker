@@ -6,6 +6,18 @@
 | Luxe Royale Endeavors LLC (Recruiting as Apex Talent Solutions) | Remote Data Entry Clerk | Unknown | Applied | 2025-05-03 |
 | Westrock Coffee | Reporting Analyst | Unknown | Declined | 2025-05-03 |
 | Luxe Royale Endeavors | Data Entry Clerk | Unknown | Applied | 2025-05-03 |
+| McKinsey & Company | Business Analyst - Growth, Marketing & Sales | Unknown | Applied | 2025-05-03 |
+| Gurobi Optimization | Data Quality Analyst | USA Remote | Applied | 2025-05-03 |
+| Telnyx | Unknown | Unknown | Applied | 2025-05-03 |
+| IQVIA | Associate Data Science & Advanced Analytics Manager | Unknown | Applied | 2025-05-03 |
+| Ultima Genomics | Unknown | Unknown | Applied | 2025-05-03 |
+| Sunrise Systems | Unknown | Unknown | Applied | 2025-05-03 |
+| C Space | Associate Consultant | Unknown | Applied | 2025-05-03 |
+| TalentBurst | Business Analyst | Remote | Applied | 2025-05-03 |
+| Washington Hospital | Application Analyst I - Information Services | Unknown | Applied | 2025-05-03 |
+| MedRisk LLC | Implementations Business Analyst I | Unknown | Applied | 2025-05-03 |
+| Western Dental | Unknown | Unknown | Applied | 2025-05-03 |
+| Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming-1346644 | Unknown | Applied | 2025-05-03 |
 | AAA (Automobile Club of Southern California) | Claims Quality Assurance Data Analyst | Unknown | Declined | 2025-05-02 |
 | Kaweah Health | OP Business Analyst | Unknown | Applied | 2025-05-02 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-05-02 |
