@@ -23238,5 +23238,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-02"
+    },
+    {
+        "Company": "Cisco",
+        "Job Title": "Product Manager",
+        "Location": "San Jose, CA",
+        "status": "Applied",
+        "Date": "2025-05-03"
     }
 ]
