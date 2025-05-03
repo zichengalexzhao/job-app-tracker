@@ -3,6 +3,7 @@
 | Cisco | Product Manager | San Jose, CA | Applied | 2025-05-03 |
 | Sony Pictures Entertainment | Data Analysis Intern, New Media – Summer 2025 | Unknown | Declined | 2025-05-03 |
 | Yahoo | Senior Analyst, Business Intelligence - AOL | Unknown | Applied | 2025-05-03 |
+| Luxe Royale Endeavors LLC (Recruiting as Apex Talent Solutions) | Remote Data Entry Clerk | Unknown | Applied | 2025-05-03 |
 | AAA (Automobile Club of Southern California) | Claims Quality Assurance Data Analyst | Unknown | Declined | 2025-05-02 |
 | Kaweah Health | OP Business Analyst | Unknown | Applied | 2025-05-02 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-05-02 |
