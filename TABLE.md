@@ -2,7 +2,6 @@
 | --- | --- | --- | --- | --- |
 | Garner Health | Unknown | Unknown | Applied | 2025-05-04 |
 | Social Finance | Associate, Data Analytics | Unknown | Applied | 2025-05-04 |
-| USAA | Audit Data Analyst II | Unknown | Applied | 2025-05-04 |
 | Doximity | Unknown | Unknown | Applied | 2025-05-04 |
 | Warner Bros. Discovery | Data Scientist II | Unknown | Applied | 2025-05-04 |
 | TransUnion | Unknown | Unknown | Applied | 2025-05-04 |
@@ -13,6 +12,13 @@
 | The Brattle Group | Research Analyst (Economics) - July 2025 | Unknown | Applied | 2025-05-04 |
 | Fliff | Data Scientist | Unknown | Applied | 2025-05-04 |
 | West Monroe | Unknown | Unknown | Applied | 2025-05-04 |
+| USAA | Audit Data Analyst II | Unknown | Declined | 2025-05-04 |
+| The Green Cities Company | Analyst, Capital Markets & Strategy | San Francisco, CA | Applied | 2025-05-04 |
+| AAA Club Alliance | Unknown | Unknown | Applied | 2025-05-04 |
+| AAA | Unknown | Unknown | Applied | 2025-05-04 |
+| Service Credit Union | Data Analytics Intern | Portsmouth, NH | Applied | 2025-05-04 |
+| Rubber-Cal | Data Analyst | Fountain Valley, CA | Applied | 2025-05-04 |
+| FXG Management, Inc. | Data and Financial Analyst | San Francisco, CA | Applied | 2025-05-04 |
 | Cisco | Product Manager | San Jose, CA | Applied | 2025-05-03 |
 | Sony Pictures Entertainment | Data Analysis Intern, New Media – Summer 2025 | Unknown | Declined | 2025-05-03 |
 | Yahoo | Senior Analyst, Business Intelligence - AOL | Unknown | Applied | 2025-05-03 |

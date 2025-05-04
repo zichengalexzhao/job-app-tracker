@@ -23380,13 +23380,6 @@
         "Date": "2025-05-04"
     },
     {
-        "Company": "USAA",
-        "Job Title": "Audit Data Analyst II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-04"
-    },
-    {
         "Company": "Doximity",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -23453,6 +23446,55 @@
         "Company": "West Monroe",
         "Job Title": "Unknown",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-04"
+    },
+    {
+        "Company": "USAA",
+        "Job Title": "Audit Data Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-04"
+    },
+    {
+        "Company": "The Green Cities Company",
+        "Job Title": "Analyst, Capital Markets & Strategy",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-05-04"
+    },
+    {
+        "Company": "AAA Club Alliance",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-04"
+    },
+    {
+        "Company": "AAA",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-04"
+    },
+    {
+        "Company": "Service Credit Union",
+        "Job Title": "Data Analytics Intern",
+        "Location": "Portsmouth, NH",
+        "status": "Applied",
+        "Date": "2025-05-04"
+    },
+    {
+        "Company": "Rubber-Cal",
+        "Job Title": "Data Analyst",
+        "Location": "Fountain Valley, CA",
+        "status": "Applied",
+        "Date": "2025-05-04"
+    },
+    {
+        "Company": "FXG Management, Inc.",
+        "Job Title": "Data and Financial Analyst",
+        "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-05-04"
     }
