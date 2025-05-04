@@ -22,6 +22,7 @@
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-05-04 |
 | Luxe Royale Endeavors | Data Entry Clerk | Unknown | Interviewed | 2025-05-04 |
 | Alo Yoga | Business Analyst, HR Systems | Unknown | Applied | 2025-05-04 |
+| Ultima Genomics | Unknown | Unknown | Applied | 2025-05-04 |
 | Cisco | Product Manager | San Jose, CA | Applied | 2025-05-03 |
 | Sony Pictures Entertainment | Data Analysis Intern, New Media – Summer 2025 | Unknown | Declined | 2025-05-03 |
 | Yahoo | Senior Analyst, Business Intelligence - AOL | Unknown | Applied | 2025-05-03 |
