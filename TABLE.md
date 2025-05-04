@@ -19,6 +19,7 @@
 | Service Credit Union | Data Analytics Intern | Portsmouth, NH | Applied | 2025-05-04 |
 | Rubber-Cal | Data Analyst | Fountain Valley, CA | Applied | 2025-05-04 |
 | FXG Management, Inc. | Data and Financial Analyst | San Francisco, CA | Applied | 2025-05-04 |
+| Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-05-04 |
 | Cisco | Product Manager | San Jose, CA | Applied | 2025-05-03 |
 | Sony Pictures Entertainment | Data Analysis Intern, New Media – Summer 2025 | Unknown | Declined | 2025-05-03 |
 | Yahoo | Senior Analyst, Business Intelligence - AOL | Unknown | Applied | 2025-05-03 |

@@ -23497,5 +23497,12 @@
         "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-05-04"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Music Generation Research Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-04"
     }
 ]
