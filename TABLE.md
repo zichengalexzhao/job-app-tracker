@@ -25,6 +25,7 @@
 | Ultima Genomics | Unknown | Unknown | Applied | 2025-05-04 |
 | Luxe Royale Endeavors | Unknown | Unknown | Interviewed | 2025-05-04 |
 | Amtrak | Unknown | Washington, Washington DC | Applied | 2025-05-04 |
+| Adobe | Machine Learning Intern, Sensei Machine Learning Engineer Intern, Big Data Intern | San Jose, CA | Applied | 2025-05-04 |
 | Cisco | Product Manager | San Jose, CA | Applied | 2025-05-03 |
 | Sony Pictures Entertainment | Data Analysis Intern, New Media – Summer 2025 | Unknown | Declined | 2025-05-03 |
 | Yahoo | Senior Analyst, Business Intelligence - AOL | Unknown | Applied | 2025-05-03 |
