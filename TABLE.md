@@ -1,5 +1,18 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Garner Health | Unknown | Unknown | Applied | 2025-05-04 |
+| Social Finance | Associate, Data Analytics | Unknown | Applied | 2025-05-04 |
+| USAA | Audit Data Analyst II | Unknown | Applied | 2025-05-04 |
+| Doximity | Unknown | Unknown | Applied | 2025-05-04 |
+| Warner Bros. Discovery | Data Scientist II | Unknown | Applied | 2025-05-04 |
+| TransUnion | Unknown | Unknown | Applied | 2025-05-04 |
+| Goodwin | Business Intelligence & Analytics Analyst | Unknown | Applied | 2025-05-04 |
+| DMGT | Unknown | Unknown | Applied | 2025-05-04 |
+| Robinhood | Unknown | Unknown | Applied | 2025-05-04 |
+| Influential | Unknown | Unknown | Applied | 2025-05-04 |
+| The Brattle Group | Research Analyst (Economics) - July 2025 | Unknown | Applied | 2025-05-04 |
+| Fliff | Data Scientist | Unknown | Applied | 2025-05-04 |
+| West Monroe | Unknown | Unknown | Applied | 2025-05-04 |
 | Cisco | Product Manager | San Jose, CA | Applied | 2025-05-03 |
 | Sony Pictures Entertainment | Data Analysis Intern, New Media – Summer 2025 | Unknown | Declined | 2025-05-03 |
 | Yahoo | Senior Analyst, Business Intelligence - AOL | Unknown | Applied | 2025-05-03 |
