@@ -23553,5 +23553,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-05"
+    },
+    {
+        "Company": "Western Dental",
+        "Job Title": "Data Analyst, Payroll",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Western Dental",
+        "Job Title": "Unknown",
+        "Location": "Orange, CA 92868",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Capital Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
     }
 ]
