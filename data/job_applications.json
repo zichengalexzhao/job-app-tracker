@@ -23609,5 +23609,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-05"
+    },
+    {
+        "Company": "Petco",
+        "Job Title": "Analyst, Data Science & Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Bevalty",
+        "Job Title": "Data Analytics Intern",
+        "Location": "San Francisco, CA (Hybrid)",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Garner Health",
+        "Job Title": "Data Analyst I",
+        "Location": "NYC",
+        "status": "Applied",
+        "Date": "2025-05-05"
     }
 ]

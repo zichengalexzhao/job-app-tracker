@@ -9,6 +9,9 @@
 | West Monroe | Consultant, Data & Analytics | Unknown | Declined | 2025-05-05 |
 | Western Digital | Supply Chain Planner | Unknown | Declined | 2025-05-05 |
 | Vizient | Associate Analyst | Unknown | Declined | 2025-05-05 |
+| Petco | Analyst, Data Science & Analytics | Unknown | Applied | 2025-05-05 |
+| Bevalty | Data Analytics Intern | San Francisco, CA (Hybrid) | Applied | 2025-05-05 |
+| Garner Health | Data Analyst I | NYC | Applied | 2025-05-05 |
 | Garner Health | Unknown | Unknown | Applied | 2025-05-04 |
 | Social Finance | Associate, Data Analytics | Unknown | Applied | 2025-05-04 |
 | Doximity | Unknown | Unknown | Applied | 2025-05-04 |
