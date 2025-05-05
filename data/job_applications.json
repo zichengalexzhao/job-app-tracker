@@ -23546,5 +23546,12 @@
         "Location": "San Jose, CA",
         "status": "Applied",
         "Date": "2025-05-04"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Marketing Data Science Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-05"
     }
 ]
