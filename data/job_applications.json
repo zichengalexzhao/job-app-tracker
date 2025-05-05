@@ -23581,5 +23581,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-05"
+    },
+    {
+        "Company": "Ramp",
+        "Job Title": "Fraud Risk Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "West Monroe",
+        "Job Title": "Consultant, Data & Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Western Digital",
+        "Job Title": "Supply Chain Planner",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Vizient",
+        "Job Title": "Associate Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-05"
     }
 ]
