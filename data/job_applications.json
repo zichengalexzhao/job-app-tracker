@@ -23735,5 +23735,19 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-05-05"
+    },
+    {
+        "Company": "Roche",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Vizient",
+        "Job Title": "Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-05"
     }
 ]
