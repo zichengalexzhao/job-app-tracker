@@ -23630,5 +23630,54 @@
         "Location": "NYC",
         "status": "Applied",
         "Date": "2025-05-05"
+    },
+    {
+        "Company": "NielsenIQ",
+        "Job Title": "R&D Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Keystone",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Central Bank Lake of the Ozark",
+        "Job Title": "Market Research Sales Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Royal Caribbean Group",
+        "Job Title": "Business Intelligence Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Scout Motors",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Nalu Federal",
+        "Job Title": "Medical Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "CivicPlus, LLC",
+        "Job Title": "Strategy Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
     }
 ]
