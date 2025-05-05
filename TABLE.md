@@ -19,6 +19,12 @@
 | Scout Motors | Business Analyst | Unknown | Applied | 2025-05-05 |
 | Nalu Federal | Medical Data Analyst | Unknown | Applied | 2025-05-05 |
 | CivicPlus, LLC | Strategy Analyst I | Unknown | Applied | 2025-05-05 |
+| Tailored Shared Services, LLC | Data Scientist - Machine Learning | Unknown | Applied | 2025-05-05 |
+| American Fidelity | Enrollment Data Analyst | Unknown | Applied | 2025-05-05 |
+| Fox | Unknown | Unknown | Applied | 2025-05-05 |
+| Aledade | AI Analyst Internship | Unknown | Applied | 2025-05-05 |
+| Notion | Data Scientist, Finance | Unknown | Declined | 2025-05-05 |
+| United States Olympic & Paralympic Committee | Associate Sport Technology & Data Analyst | Unknown | Applied | 2025-05-05 |
 | Garner Health | Unknown | Unknown | Applied | 2025-05-04 |
 | Social Finance | Associate, Data Analytics | Unknown | Applied | 2025-05-04 |
 | Doximity | Unknown | Unknown | Applied | 2025-05-04 |

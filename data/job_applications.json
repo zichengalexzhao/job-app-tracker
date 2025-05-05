@@ -23679,5 +23679,47 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-05"
+    },
+    {
+        "Company": "Tailored Shared Services, LLC",
+        "Job Title": "Data Scientist - Machine Learning",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "American Fidelity",
+        "Job Title": "Enrollment Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Fox",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Aledade",
+        "Job Title": "AI Analyst Internship",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "Notion",
+        "Job Title": "Data Scientist, Finance",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-05"
+    },
+    {
+        "Company": "United States Olympic & Paralympic Committee",
+        "Job Title": "Associate Sport Technology & Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-05"
     }
 ]
