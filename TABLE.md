@@ -4,6 +4,7 @@
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-05 |
+| Warner Music Group | Analyst, D2C | Unknown | Applied | 2025-05-05 |
 | Garner Health | Unknown | Unknown | Applied | 2025-05-04 |
 | Social Finance | Associate, Data Analytics | Unknown | Applied | 2025-05-04 |
 | Doximity | Unknown | Unknown | Applied | 2025-05-04 |
