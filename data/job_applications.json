@@ -23730,13 +23730,6 @@
         "Date": "2025-05-06"
     },
     {
-        "Company": "First Citizens Bank",
-        "Job Title": "Data and Analytics Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "Rivian Automotive, LLC",
         "Job Title": "Business Intelligence Associate, Remarketing",
         "Location": "Unknown",
@@ -24089,6 +24082,20 @@
     {
         "Company": "Motus",
         "Job Title": "Revenue Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "First Citizens Bank",
+        "Job Title": "Data and Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Crown World",
+        "Job Title": "Intern - Corporate (Summer)",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-06"
