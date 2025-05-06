@@ -16,6 +16,7 @@
 | Centene | Data Analyst III | Unknown | Applied | 2025-05-06 |
 | Unknown | IT Intern, Business Intelligence and Data Warehousing | Unknown | Applied | 2025-05-06 |
 | NRI | Unknown | Unknown | Declined | 2025-05-06 |
+| NRI | Unknown | Unknown | Declined | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
