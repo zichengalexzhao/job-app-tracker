@@ -20,6 +20,7 @@
 | Altair | Engineering Data Scientist | Unknown | Declined | 2025-05-06 |
 | Yahoo | Data Engineer/Data Science Intern | Unknown | Declined | 2025-05-06 |
 | Warner Bros. Discovery | Data Scientist II | Unknown | Applied | 2025-05-06 |
+| Spotify | Data Scientist I - User Growth Analytics (LatAm) | Unknown | Declined | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
@@ -2705,7 +2706,6 @@
 | Walgreens | Data Scientist | Unknown | Declined | 2025-02-10 |
 | DoorDash | Associate, DashMart - Strategy & Analytics | Unknown | Declined | 2025-02-10 |
 | TransUnion | Unknown | Unknown | Applied | 2025-02-09 |
-| Spotify | Data Scientist I - User Growth Analytics (LatAm) | Unknown | Applied | 2025-02-09 |
 | Sumitomo Mitsui Banking Corporation | Business Analyst (Hybrid) | Unknown | Applied | 2025-02-08 |
 | Sephora | Unknown | Unknown | Applied | 2025-02-08 |
 | DaVita Kidney Care | Business Analyst | Unknown | Applied | 2025-02-08 |

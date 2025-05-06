@@ -1400,13 +1400,6 @@
         "Date": "2025-02-09"
     },
     {
-        "Company": "Spotify",
-        "Job Title": "Data Scientist I - User Growth Analytics (LatAm)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-09"
-    },
-    {
         "Company": "Sumitomo Mitsui Banking Corporation",
         "Job Title": "Business Analyst (Hybrid)",
         "Location": "Unknown",
@@ -23895,6 +23888,13 @@
         "Job Title": "Data Scientist II",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Data Scientist I - User Growth Analytics (LatAm)",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-06"
     }
 ]
