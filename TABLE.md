@@ -7,6 +7,15 @@
 | Discord | Data Scientist, Analytics | Unknown | Applied | 2025-05-06 |
 | Ziff Davis | Junior Data Analyst | Unknown | Applied | 2025-05-06 |
 | Upgrade | Product Data Analyst | Unknown | Applied | 2025-05-06 |
+| Rochester Regional Health | Website & Search Analyst, Marketing and Communications | Unknown | Applied | 2025-05-06 |
+| Amerit Fleet Solutions | Unknown | Unknown | Applied | 2025-05-06 |
+| Study.com | Data Scientist | Unknown | Applied | 2025-05-06 |
+| MSX International | Warranty Compliance Data Analyst L3 | Unknown | Applied | 2025-05-06 |
+| Paycom | Associate Data Analyst | Unknown | Applied | 2025-05-06 |
+| CircleCI | Senior Data Analyst, Product | Unknown | Applied | 2025-05-06 |
+| Centene | Data Analyst III | Unknown | Applied | 2025-05-06 |
+| Unknown | IT Intern, Business Intelligence and Data Warehousing | Unknown | Applied | 2025-05-06 |
+| NRI | Unknown | Unknown | Declined | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
