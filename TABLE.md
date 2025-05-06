@@ -51,6 +51,9 @@
 | Zions Bancorporation | Marketing Data Analyst | Unknown | Applied | 2025-05-06 |
 | The Shipyard | Data Strategist | Unknown | Applied | 2025-05-06 |
 | The Shipyard | Data Strategist | San Diego, CA | Applied | 2025-05-06 |
+| Moog | Data Analyst | Unknown | Declined | 2025-05-06 |
+| Crawford | Data Analyst | Unknown | Applied | 2025-05-06 |
+| Motus | Revenue Operations Analyst | Unknown | Applied | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
@@ -985,7 +988,6 @@
 | HealthEquity | Business Analyst, Fraud Prevention | Unknown | Declined | 2025-04-10 |
 | Child Action, Inc. | Data Analyst | Unknown | Applied | 2025-04-10 |
 | Infinitive Inc | Unknown | Unknown | Applied | 2025-04-10 |
-| Moog | Data Analyst | Unknown | Applied | 2025-04-10 |
 | Steampunk | Junior Data Analyst | Unknown | Applied | 2025-04-10 |
 | steampunk | Junior Data Analyst | Unknown | Applied | 2025-04-10 |
 | Yeti Coolers | Unknown | Unknown | Applied | 2025-04-10 |

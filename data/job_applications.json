@@ -17367,13 +17367,6 @@
         "Date": "2025-04-10"
     },
     {
-        "Company": "Moog",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-10"
-    },
-    {
         "Company": "Steampunk",
         "Job Title": "Junior Data Analyst",
         "Location": "Unknown",
@@ -24076,6 +24069,27 @@
         "Company": "The Shipyard",
         "Job Title": "Data Strategist",
         "Location": "San Diego, CA",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Moog",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Crawford",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Motus",
+        "Job Title": "Revenue Operations Analyst",
+        "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-06"
     }
