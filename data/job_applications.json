@@ -23903,5 +23903,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-06"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Risk Reporting Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Aquent",
+        "Job Title": "Sourcing Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
     }
 ]

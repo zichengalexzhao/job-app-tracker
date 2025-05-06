@@ -22,6 +22,8 @@
 | Warner Bros. Discovery | Data Scientist II | Unknown | Applied | 2025-05-06 |
 | Spotify | Data Scientist I - User Growth Analytics (LatAm) | Unknown | Declined | 2025-05-06 |
 | TransUnion | Unknown | Unknown | Applied | 2025-05-06 |
+| JPMorgan Chase & Co. | Risk Reporting Analyst | Unknown | Declined | 2025-05-06 |
+| Aquent | Sourcing Data Analyst | Unknown | Declined | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
