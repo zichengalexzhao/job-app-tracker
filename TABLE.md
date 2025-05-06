@@ -55,6 +55,7 @@
 | Motus | Revenue Operations Analyst | Unknown | Applied | 2025-05-06 |
 | First Citizens Bank | Data and Analytics Intern | Unknown | Declined | 2025-05-06 |
 | Crown World | Intern - Corporate (Summer) | Unknown | Applied | 2025-05-06 |
+| Disney | Data Analyst | Unknown | Applied | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
