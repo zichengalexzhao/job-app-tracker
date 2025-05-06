@@ -6,7 +6,6 @@
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
 | Discord | Data Scientist, Analytics | Unknown | Applied | 2025-05-06 |
 | Ziff Davis | Junior Data Analyst | Unknown | Applied | 2025-05-06 |
-| Upgrade | Product Data Analyst | Unknown | Applied | 2025-05-06 |
 | Rochester Regional Health | Website & Search Analyst, Marketing and Communications | Unknown | Applied | 2025-05-06 |
 | Amerit Fleet Solutions | Unknown | Unknown | Applied | 2025-05-06 |
 | Study.com | Data Scientist | Unknown | Applied | 2025-05-06 |
@@ -28,6 +27,24 @@
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | JPMorgan Chase & Co. | Data Scientist Associate | Unknown | Declined | 2025-05-06 |
 | 10x Genomics | Marketing Analytics Analyst | Unknown | Declined | 2025-05-06 |
+| Gusto | Sales Compensation Analyst | Unknown | Declined | 2025-05-06 |
+| Luxe Royale Endeavors | Data Entry Clerk | Remote | Applied | 2025-05-06 |
+| Snowflake | Marketplace Operations Specialist | Unknown | Declined | 2025-05-06 |
+| IFG Distribution, LLC | Omnichannel Analyst | Unknown | Applied | 2025-05-06 |
+| Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-05-06 |
+| Zions Bancorporation | Marketing Data Analyst | Unknown | Applied | 2025-05-06 |
+| Darden Restaurant Support Center | Unknown | Unknown | Applied | 2025-05-06 |
+| Geisinger | Business Intelligence Analyst Associate | Unknown | Applied | 2025-05-06 |
+| Upgrade | Product Data Analyst | Unknown | Declined | 2025-05-06 |
+| Campus | Data Operations Analyst, Academic & Student Affairs | Unknown | Declined | 2025-05-06 |
+| CircleCI | Senior Data Analyst, Product | Unknown | Applied | 2025-05-06 |
+| Ascensus | Business Analyst | Unknown | Applied | 2025-05-06 |
+| Navien, Inc. | Product and Business Analyst | Unknown | Applied | 2025-05-06 |
+| Vistage Worldwide | Senior Analyst, Strategic Finance | Unknown | Applied | 2025-05-06 |
+| Kaiser Permanente | Data Scientist II | Unknown | Applied | 2025-05-06 |
+| TikTok | Data Scientist - TikTok E-commerce Governance | Unknown | Applied | 2025-05-06 |
+| Disney | Unknown | Unknown | Applied | 2025-05-06 |
+| Midland Credit Management | HR - 17828 Forecasting Analyst | Unknown | Applied | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
@@ -429,7 +446,6 @@
 | AlphaSense | Associate Product Manager - Company Docs | Unknown | Applied | 2025-04-22 |
 | Solstice Power Technologies LLC | Unknown | Unknown | Applied | 2025-04-22 |
 | Kin Insurance | Growth Analyst | Unknown | Applied | 2025-04-22 |
-| Gusto | Sales Compensation Analyst | Unknown | Applied | 2025-04-22 |
 | Dragonfly | Operations - Dragonfly Portfolio | Unknown | Applied | 2025-04-22 |
 | YouGov | Research Analyst | Unknown | Applied | 2025-04-22 |
 | West Marine | Supply Chain Analyst | Unknown | Applied | 2025-04-22 |
@@ -543,7 +559,6 @@
 | TeleTracking Technologies, Inc. | Healthcare Business Intelligence Analyst | Unknown | Declined | 2025-04-19 |
 | Circana | Client Insights Consultant | Unknown | Declined | 2025-04-19 |
 | ServiceUp | Business Data Analyst | Unknown | Applied | 2025-04-19 |
-| Snowflake | Marketplace Operations Specialist | Unknown | Applied | 2025-04-19 |
 | Terray Therapeutics, Inc. | Associate Data Scientist | Unknown | Applied | 2025-04-19 |
 | Blueprint | Data & Ops Analyst | Unknown | Applied | 2025-04-19 |
 | Natera | Business Analyst | Unknown | Declined | 2025-04-19 |
@@ -2602,7 +2617,6 @@
 | PlayStation | Data Scientist | Unknown | Applied | 2025-02-20 |
 | Campus | Data Operations Analyst, Admissions & Marketing | Unknown | Applied | 2025-02-20 |
 | PlayStation Global | Product Analyst | Unknown | Applied | 2025-02-20 |
-| Campus | Data Operations Analyst, Academic & Student Affairs | Unknown | Applied | 2025-02-20 |
 | AllSTEM Connections | Data Scientist | Emeryville, CA | Applied | 2025-02-20 |
 | Tempus | Unknown | Unknown | Applied | 2025-02-20 |
 | Tempus | Unknown | Unknown | Applied | 2025-02-20 |

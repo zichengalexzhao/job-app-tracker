@@ -623,13 +623,6 @@
         "Date": "2025-02-20"
     },
     {
-        "Company": "Campus",
-        "Job Title": "Data Operations Analyst, Academic & Student Affairs",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-20"
-    },
-    {
         "Company": "AllSTEM Connections",
         "Job Title": "Data Scientist",
         "Location": "Emeryville, CA",
@@ -20146,13 +20139,6 @@
         "Date": "2025-04-19"
     },
     {
-        "Company": "Snowflake",
-        "Job Title": "Marketplace Operations Specialist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-19"
-    },
-    {
         "Company": "Terray Therapeutics, Inc.",
         "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
@@ -20652,13 +20638,6 @@
     {
         "Company": "Kin Insurance",
         "Job Title": "Growth Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-22"
-    },
-    {
-        "Company": "Gusto",
-        "Job Title": "Sales Compensation Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-22"
@@ -23793,13 +23772,6 @@
         "Date": "2025-05-06"
     },
     {
-        "Company": "Upgrade",
-        "Job Title": "Product Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "Rochester Regional Health",
         "Job Title": "Website & Search Analyst, Marketing and Communications",
         "Location": "Unknown",
@@ -23944,6 +23916,132 @@
         "Job Title": "Marketing Analytics Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Sales Compensation Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Luxe Royale Endeavors",
+        "Job Title": "Data Entry Clerk",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Snowflake",
+        "Job Title": "Marketplace Operations Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "IFG Distribution, LLC",
+        "Job Title": "Omnichannel Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Reporting and Analytics Consultant II, Programming",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Zions Bancorporation",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Darden Restaurant Support Center",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Geisinger",
+        "Job Title": "Business Intelligence Analyst Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Upgrade",
+        "Job Title": "Product Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Campus",
+        "Job Title": "Data Operations Analyst, Academic & Student Affairs",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "CircleCI",
+        "Job Title": "Senior Data Analyst, Product",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Ascensus",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Navien, Inc.",
+        "Job Title": "Product and Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Vistage Worldwide",
+        "Job Title": "Senior Analyst, Strategic Finance",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "TikTok",
+        "Job Title": "Data Scientist - TikTok E-commerce Governance",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Midland Credit Management",
+        "Job Title": "HR - 17828 Forecasting Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-06"
     }
 ]
