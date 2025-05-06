@@ -23924,5 +23924,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-06"
+    },
+    {
+        "Company": "Zayo",
+        "Job Title": "Data Analyst, Sales Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "JPMorgan Chase & Co.",
+        "Job Title": "Data Scientist Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "10x Genomics",
+        "Job Title": "Marketing Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
     }
 ]
