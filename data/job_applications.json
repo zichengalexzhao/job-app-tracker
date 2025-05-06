@@ -1631,13 +1631,6 @@
         "Date": "2025-02-06"
     },
     {
-        "Company": "Hill International",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-06"
-    },
-    {
         "Company": "TD Bank Group",
         "Job Title": "Data Scientist I",
         "Location": "US",
@@ -24105,6 +24098,20 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Cal Poly",
+        "Job Title": "Graduate Education Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Hill International",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-06"
     }
 ]

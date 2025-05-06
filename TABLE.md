@@ -56,6 +56,8 @@
 | First Citizens Bank | Data and Analytics Intern | Unknown | Declined | 2025-05-06 |
 | Crown World | Intern - Corporate (Summer) | Unknown | Applied | 2025-05-06 |
 | Disney | Data Analyst | Unknown | Applied | 2025-05-06 |
+| Cal Poly | Graduate Education Analyst | Unknown | Applied | 2025-05-06 |
+| Hill International | Data Analyst | Unknown | Declined | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
@@ -2771,7 +2773,6 @@
 | DaVita Kidney Care | Business Analyst | Unknown | Applied | 2025-02-06 |
 | Wounded Warrior Project | Data Analyst Specialist - Programs Impact & Evaluation | Unknown | Applied | 2025-02-06 |
 | Rippling | Growth Analyst, Core HR | Unknown | Declined | 2025-02-06 |
-| Hill International | Data Analyst | Unknown | Applied | 2025-02-06 |
 | TD Bank Group | Data Scientist I | US | Applied | 2025-02-05 |
 | Unknown | Global Ambassador Mentor Fellow | Unknown | Applied | 2025-02-05 |
 | Sephora | Unknown | Unknown | Applied | 2025-02-05 |
