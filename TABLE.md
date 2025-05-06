@@ -29,6 +29,7 @@
 | Luxe Royale Endeavors | Data Entry Clerk | Remote | Applied | 2025-05-05 |
 | Roche | Unknown | Unknown | Applied | 2025-05-05 |
 | Vizient | Analyst | Unknown | Declined | 2025-05-05 |
+| KinderCare | Procurement Analyst | Unknown | Declined | 2025-05-05 |
 | Garner Health | Unknown | Unknown | Applied | 2025-05-04 |
 | Social Finance | Associate, Data Analytics | Unknown | Applied | 2025-05-04 |
 | Doximity | Unknown | Unknown | Applied | 2025-05-04 |
