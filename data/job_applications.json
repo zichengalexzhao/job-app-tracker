@@ -23756,5 +23756,54 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-05"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Business Intelligence Associate (Temporary)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Zayo",
+        "Job Title": "Data Analyst, Sales Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "First Citizens Bank",
+        "Job Title": "Data and Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Rivian Automotive, LLC",
+        "Job Title": "Business Intelligence Associate, Remarketing",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Discord",
+        "Job Title": "Data Scientist, Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Ziff Davis",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Upgrade",
+        "Job Title": "Product Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
     }
 ]

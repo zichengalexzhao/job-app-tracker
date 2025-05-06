@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
+| Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
+| First Citizens Bank | Data and Analytics Intern | Unknown | Applied | 2025-05-06 |
+| Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
+| Discord | Data Scientist, Analytics | Unknown | Applied | 2025-05-06 |
+| Ziff Davis | Junior Data Analyst | Unknown | Applied | 2025-05-06 |
+| Upgrade | Product Data Analyst | Unknown | Applied | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
