@@ -45,6 +45,12 @@
 | TikTok | Data Scientist - TikTok E-commerce Governance | Unknown | Applied | 2025-05-06 |
 | Disney | Unknown | Unknown | Applied | 2025-05-06 |
 | Midland Credit Management | HR - 17828 Forecasting Analyst | Unknown | Applied | 2025-05-06 |
+| Campus | Data Operations Analyst, Admissions & Marketing | Unknown | Declined | 2025-05-06 |
+| Unknown | Pricing Analyst | Unknown | Applied | 2025-05-06 |
+| Proofpoint | Unknown | Unknown | Applied | 2025-05-06 |
+| Zions Bancorporation | Marketing Data Analyst | Unknown | Applied | 2025-05-06 |
+| The Shipyard | Data Strategist | Unknown | Applied | 2025-05-06 |
+| The Shipyard | Data Strategist | San Diego, CA | Applied | 2025-05-06 |
 | Unknown | Marketing Data Science Analyst | Unknown | Declined | 2025-05-05 |
 | Western Dental | Data Analyst, Payroll | Unknown | Applied | 2025-05-05 |
 | Western Dental | Unknown | Orange, CA 92868 | Applied | 2025-05-05 |
@@ -2615,7 +2621,6 @@
 | PlayStation | Senior Analyst - Content Insights | Unknown | Applied | 2025-02-20 |
 | Waymo | Data Scientist | Unknown | Applied | 2025-02-20 |
 | PlayStation | Data Scientist | Unknown | Applied | 2025-02-20 |
-| Campus | Data Operations Analyst, Admissions & Marketing | Unknown | Applied | 2025-02-20 |
 | PlayStation Global | Product Analyst | Unknown | Applied | 2025-02-20 |
 | AllSTEM Connections | Data Scientist | Emeryville, CA | Applied | 2025-02-20 |
 | Tempus | Unknown | Unknown | Applied | 2025-02-20 |

@@ -609,13 +609,6 @@
         "Date": "2025-02-20"
     },
     {
-        "Company": "Campus",
-        "Job Title": "Data Operations Analyst, Admissions & Marketing",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-20"
-    },
-    {
         "Company": "PlayStation Global",
         "Job Title": "Product Analyst",
         "Location": "Unknown",
@@ -24041,6 +24034,48 @@
         "Company": "Midland Credit Management",
         "Job Title": "HR - 17828 Forecasting Analyst",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Campus",
+        "Job Title": "Data Operations Analyst, Admissions & Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Pricing Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Proofpoint",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Zions Bancorporation",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "The Shipyard",
+        "Job Title": "Data Strategist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "The Shipyard",
+        "Job Title": "Data Strategist",
+        "Location": "San Diego, CA",
         "status": "Applied",
         "Date": "2025-05-06"
     }
