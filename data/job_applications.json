@@ -23875,5 +23875,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-06"
+    },
+    {
+        "Company": "Altair",
+        "Job Title": "Engineering Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Yahoo",
+        "Job Title": "Data Engineer/Data Science Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-06"
+    },
+    {
+        "Company": "Warner Bros. Discovery",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-06"
     }
 ]
