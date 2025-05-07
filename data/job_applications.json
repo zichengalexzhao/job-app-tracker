@@ -24225,5 +24225,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-07"
+    },
+    {
+        "Company": "Study.com",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-07"
     }
 ]
