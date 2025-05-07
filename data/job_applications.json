@@ -24428,5 +24428,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-07"
+    },
+    {
+        "Company": "Sofi",
+        "Job Title": "Digital Chatbot Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-07"
     }
 ]
