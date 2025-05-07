@@ -24353,13 +24353,6 @@
         "Date": "2025-05-07"
     },
     {
-        "Company": "RQ Construction",
-        "Job Title": "Junior Purchasing Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-07"
-    },
-    {
         "Company": "Sabot Consulting",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -24382,6 +24375,34 @@
     },
     {
         "Company": "PIH Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Walgreens",
+        "Job Title": "Analyst, Data Analytics",
+        "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "RQ Construction",
+        "Job Title": "Junior Purchasing Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Snapchat",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "AG1",
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",

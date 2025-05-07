@@ -37,11 +37,14 @@
 | National University | Data Analyst | Unknown | Applied | 2025-05-07 |
 | The Hitachi Group | Business Analyst | Unknown | Applied | 2025-05-07 |
 | sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
-| RQ Construction | Junior Purchasing Data Analyst | Unknown | Applied | 2025-05-07 |
 | Sabot Consulting | Unknown | Unknown | Applied | 2025-05-07 |
 | One Inc | Data Analyst II | Unknown | Declined | 2025-05-07 |
 | Snowflake | Business Intelligence Analyst - Workloads Finance | Unknown | Applied | 2025-05-07 |
 | PIH Health | Unknown | Unknown | Applied | 2025-05-07 |
+| Walgreens | Analyst, Data Analytics | Remote | Declined | 2025-05-07 |
+| RQ Construction | Junior Purchasing Data Analyst | Unknown | Declined | 2025-05-07 |
+| Snapchat | Unknown | Unknown | Applied | 2025-05-07 |
+| AG1 | Unknown | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
