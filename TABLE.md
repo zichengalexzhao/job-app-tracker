@@ -47,6 +47,7 @@
 | AG1 | Unknown | Unknown | Applied | 2025-05-07 |
 | Evolent | Analyst, Client Analytics | Unknown | Applied | 2025-05-07 |
 | Tristar Insurance | Unknown | Unknown | Applied | 2025-05-07 |
+| Total Wine & More | Data Analyst, Merchandising Analytics | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
