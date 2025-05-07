@@ -24169,5 +24169,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-07"
+    },
+    {
+        "Company": "Redwood Materials",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Navien, Inc.",
+        "Job Title": "Product and Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Cadence",
+        "Job Title": "Finance Transformation Data & Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
     }
 ]

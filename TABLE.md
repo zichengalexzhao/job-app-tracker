@@ -9,6 +9,10 @@
 | The Shipyard | Data Strategist | Unknown | Applied | 2025-05-07 |
 | The Shipyard | Data Strategist | Sacramento, CA | Applied | 2025-05-07 |
 | Uber | Scientist II, Merchant Growth | Unknown | Declined | 2025-05-07 |
+| Redwood Materials | Data Scientist | Unknown | Declined | 2025-05-07 |
+| Navien, Inc. | Product and Business Analyst | Unknown | Applied | 2025-05-07 |
+| KeyBank | Unknown | Unknown | Applied | 2025-05-07 |
+| Cadence | Finance Transformation Data & Analytics Intern | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
