@@ -23590,13 +23590,6 @@
         "Date": "2025-05-05"
     },
     {
-        "Company": "Central Bank Lake of the Ozark",
-        "Job Title": "Market Research Sales Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-05"
-    },
-    {
         "Company": "Royal Caribbean Group",
         "Job Title": "Business Intelligence Data Analyst",
         "Location": "Unknown",
@@ -24252,6 +24245,20 @@
         "Job Title": "Associate Business Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Central Bank Lake of the Ozark",
+        "Job Title": "Market Research Sales Analyst",
+        "Location": "Lake Ozarks Main",
+        "status": "Declined",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Aegon Transamerica",
+        "Job Title": "Business Intelligence Developer/Analyst - WFG",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-07"
     }
 ]

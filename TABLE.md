@@ -22,6 +22,8 @@
 | DaVita Kidney Care | Analyst, HSG Data Analytics | Unknown | Applied | 2025-05-07 |
 | Amplify | Data Scientist | Unknown | Declined | 2025-05-07 |
 | Discover | Associate Business Analyst | Unknown | Applied | 2025-05-07 |
+| Central Bank Lake of the Ozark | Market Research Sales Analyst | Lake Ozarks Main | Declined | 2025-05-07 |
+| Aegon Transamerica | Business Intelligence Developer/Analyst - WFG | Unknown | Declined | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
@@ -94,7 +96,6 @@
 | Garner Health | Data Analyst I | NYC | Applied | 2025-05-05 |
 | NielsenIQ | R&D Research Analyst | Unknown | Applied | 2025-05-05 |
 | Keystone | Unknown | Unknown | Applied | 2025-05-05 |
-| Central Bank Lake of the Ozark | Market Research Sales Analyst | Unknown | Applied | 2025-05-05 |
 | Royal Caribbean Group | Business Intelligence Data Analyst | Unknown | Applied | 2025-05-05 |
 | Scout Motors | Business Analyst | Unknown | Applied | 2025-05-05 |
 | Nalu Federal | Medical Data Analyst | Unknown | Applied | 2025-05-05 |
