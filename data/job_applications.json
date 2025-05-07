@@ -24435,5 +24435,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-07"
+    },
+    {
+        "Company": "TCS (Tata Consultancy Services)",
+        "Job Title": "Tableau Developer",
+        "Location": "Plano TX, Newark DE, Charlotte NC",
+        "status": "Applied",
+        "Date": "2025-05-07"
     }
 ]
