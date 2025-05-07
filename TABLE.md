@@ -20,6 +20,8 @@
 | Study.com | Unknown | Unknown | Declined | 2025-05-07 |
 | American Fidelity | Enrollment Data Analyst | Unknown | Declined | 2025-05-07 |
 | DaVita Kidney Care | Analyst, HSG Data Analytics | Unknown | Applied | 2025-05-07 |
+| Amplify | Data Scientist | Unknown | Declined | 2025-05-07 |
+| Discover | Associate Business Analyst | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
