@@ -23632,13 +23632,6 @@
         "Date": "2025-05-05"
     },
     {
-        "Company": "American Fidelity",
-        "Job Title": "Enrollment Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-05"
-    },
-    {
         "Company": "Fox",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -24231,6 +24224,20 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "American Fidelity",
+        "Job Title": "Enrollment Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "DaVita Kidney Care",
+        "Job Title": "Analyst, HSG Data Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-07"
     }
 ]

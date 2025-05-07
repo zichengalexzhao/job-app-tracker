@@ -18,6 +18,8 @@
 | Unknown | Marketing Communications Campaign Manager | Unknown | Applied | 2025-05-07 |
 | Nalu Federal | Medical Data Analyst | Unknown | Applied | 2025-05-07 |
 | Study.com | Unknown | Unknown | Declined | 2025-05-07 |
+| American Fidelity | Enrollment Data Analyst | Unknown | Declined | 2025-05-07 |
+| DaVita Kidney Care | Analyst, HSG Data Analytics | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
@@ -96,7 +98,6 @@
 | Nalu Federal | Medical Data Analyst | Unknown | Applied | 2025-05-05 |
 | CivicPlus, LLC | Strategy Analyst I | Unknown | Applied | 2025-05-05 |
 | Tailored Shared Services, LLC | Data Scientist - Machine Learning | Unknown | Applied | 2025-05-05 |
-| American Fidelity | Enrollment Data Analyst | Unknown | Applied | 2025-05-05 |
 | Fox | Unknown | Unknown | Applied | 2025-05-05 |
 | Aledade | AI Analyst Internship | Unknown | Applied | 2025-05-05 |
 | Notion | Data Scientist, Finance | Unknown | Declined | 2025-05-05 |
