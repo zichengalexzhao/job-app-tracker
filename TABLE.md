@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
+| Extend | Unknown | Unknown | Applied | 2025-05-07 |
+| Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
+| VIANT | Data Analyst | Unknown | Applied | 2025-05-07 |
+| Trustmark National Bank | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-07 |
+| Mitratech | Unknown | Unknown | Applied | 2025-05-07 |
+| The Shipyard | Data Strategist | Unknown | Applied | 2025-05-07 |
+| The Shipyard | Data Strategist | Sacramento, CA | Applied | 2025-05-07 |
+| Uber | Scientist II, Merchant Growth | Unknown | Declined | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
@@ -441,7 +450,6 @@
 | TotalEnergies | Energy Data Portfolio Analyst | Unknown | Declined | 2025-04-23 |
 | GoFundMe | Strategy Analyst I | Unknown | Applied | 2025-04-23 |
 | Ayar Labs | Data Analyst - Semiconductor Lasers | Unknown | Applied | 2025-04-23 |
-| Uber | Scientist II, Merchant Growth | Unknown | Applied | 2025-04-23 |
 | TeamViewer US, Inc. | Customer Operations Analyst | Clearwater, FL | Applied | 2025-04-22 |
 | Navitus Health Solutions, LLC | Analyst, Pricing and Underwriting (2025-4472) | Unknown | Applied | 2025-04-22 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-04-22 |

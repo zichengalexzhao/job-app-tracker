@@ -21329,13 +21329,6 @@
         "Date": "2025-04-23"
     },
     {
-        "Company": "Uber",
-        "Job Title": "Scientist II, Merchant Growth",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-23"
-    },
-    {
         "Company": "Endeavor",
         "Job Title": "Analyst, Endeavor Analytics",
         "Location": "Unknown",
@@ -24113,5 +24106,68 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-06"
+    },
+    {
+        "Company": "The Shipyard",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Extend",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Sweetgreen",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "VIANT",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Trustmark National Bank",
+        "Job Title": "Enterprise Business Intelligence Analyst I/II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Mitratech",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "The Shipyard",
+        "Job Title": "Data Strategist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "The Shipyard",
+        "Job Title": "Data Strategist",
+        "Location": "Sacramento, CA",
+        "status": "Applied",
+        "Date": "2025-05-07"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Scientist II, Merchant Growth",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-07"
     }
 ]
