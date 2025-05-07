@@ -15,6 +15,8 @@
 | Cadence | Finance Transformation Data & Analytics Intern | Unknown | Applied | 2025-05-07 |
 | Molina Healthcare | Assoc Analyst, Provider Config - 2031592 | Unknown | Applied | 2025-05-07 |
 | San Antonio Independent School District | Unknown | Unknown | Applied | 2025-05-07 |
+| Unknown | Marketing Communications Campaign Manager | Unknown | Applied | 2025-05-07 |
+| Nalu Federal | Medical Data Analyst | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
