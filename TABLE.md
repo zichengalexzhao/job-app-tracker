@@ -24,6 +24,24 @@
 | Discover | Associate Business Analyst | Unknown | Applied | 2025-05-07 |
 | Central Bank Lake of the Ozark | Market Research Sales Analyst | Lake Ozarks Main | Declined | 2025-05-07 |
 | Aegon Transamerica | Business Intelligence Developer/Analyst - WFG | Unknown | Declined | 2025-05-07 |
+| DENSO | Data Scientist 2 - 19551 | Unknown | Applied | 2025-05-07 |
+| Upgrade | Product Data Analyst | Unknown | Declined | 2025-05-07 |
+| Workday | Unknown | Unknown | Applied | 2025-05-07 |
+| Mercer | Career Consulting Associate R_308058 | Unknown | Applied | 2025-05-07 |
+| Spinnaker Support | Unknown | Unknown | Applied | 2025-05-07 |
+| Los Angeles Sparks | Staff Accountant | Los Angeles, CA | Applied | 2025-05-07 |
+| Discord | Data Scientist, Analytics | Unknown | Applied | 2025-05-07 |
+| RQ Construction | Sr. Project Engineer, Pipefitter, Mechanical Superintendent, Assistant Electrical Project Manager (AEPM), Junior Purchasing Data Analyst, Electrical Project Engineer | Camp Lejeune, North Carolina; Jacksonville, Florida; Carlsbad, California; Kings Bay Base, Georgia | Applied | 2025-05-07 |
+| CrowdStrike | Data Scientist, GTM | Remote | Applied | 2025-05-07 |
+| Compass Group | SENIOR ANALYST, STRATEGY & ANALYTICS (DODGER STADIUM) (1421928) | Unknown | Declined | 2025-05-07 |
+| National University | Data Analyst | Unknown | Applied | 2025-05-07 |
+| The Hitachi Group | Business Analyst | Unknown | Applied | 2025-05-07 |
+| sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
+| RQ Construction | Junior Purchasing Data Analyst | Unknown | Applied | 2025-05-07 |
+| Sabot Consulting | Unknown | Unknown | Applied | 2025-05-07 |
+| One Inc | Data Analyst II | Unknown | Declined | 2025-05-07 |
+| Snowflake | Business Intelligence Analyst - Workloads Finance | Unknown | Applied | 2025-05-07 |
+| PIH Health | Unknown | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
