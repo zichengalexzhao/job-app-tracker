@@ -24554,5 +24554,40 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-08"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst II - AMZ9084459",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Dr. Squatch",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Live Nation Entertainment",
+        "Job Title": "Business Analyst, Fan-Based Marketing",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "JLL",
+        "Job Title": "Business Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
     }
 ]
