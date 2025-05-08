@@ -8,6 +8,7 @@
 | DraftWise | Data Analyst, Revenue Operations | East Coast | Applied | 2025-05-08 |
 | Centene | Data Analyst III | Unknown | Applied | 2025-05-08 |
 | Discover | Associate Business Analyst | Unknown | Applied | 2025-05-08 |
+| Goodwin | Unknown | Unknown | Applied | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
