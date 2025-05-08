@@ -24533,5 +24533,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-08"
+    },
+    {
+        "Company": "Tarzana Treatment Centers, Inc",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Autodesk",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Decision Analytics Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-08"
     }
 ]

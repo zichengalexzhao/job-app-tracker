@@ -14,6 +14,9 @@
 | The Influential Network | Specialist, Analytics | Unknown | Declined | 2025-05-08 |
 | Motus | Revenue Operations Analyst | Unknown | Declined | 2025-05-08 |
 | Scout Motors | Business Analyst | Unknown | Declined | 2025-05-08 |
+| Tarzana Treatment Centers, Inc | Data Analyst I | Unknown | Applied | 2025-05-08 |
+| Autodesk | Data Analyst | Unknown | Applied | 2025-05-08 |
+| ZS | Decision Analytics Associate | Unknown | Declined | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
