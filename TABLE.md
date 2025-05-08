@@ -12,6 +12,7 @@
 | Datadog | Senior Data Scientist - Core Analytics | Unknown | Declined | 2025-05-08 |
 | Oracle | Consulting Project Consultant | Unknown | Declined | 2025-05-08 |
 | The Influential Network | Specialist, Analytics | Unknown | Declined | 2025-05-08 |
+| Motus | Revenue Operations Analyst | Unknown | Declined | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
@@ -115,7 +116,6 @@
 | The Shipyard | Data Strategist | San Diego, CA | Applied | 2025-05-06 |
 | Moog | Data Analyst | Unknown | Declined | 2025-05-06 |
 | Crawford | Data Analyst | Unknown | Applied | 2025-05-06 |
-| Motus | Revenue Operations Analyst | Unknown | Applied | 2025-05-06 |
 | First Citizens Bank | Data and Analytics Intern | Unknown | Declined | 2025-05-06 |
 | Crown World | Intern - Corporate (Summer) | Unknown | Applied | 2025-05-06 |
 | Disney | Data Analyst | Unknown | Applied | 2025-05-06 |

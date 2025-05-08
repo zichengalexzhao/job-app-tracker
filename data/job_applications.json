@@ -24038,13 +24038,6 @@
         "Date": "2025-05-06"
     },
     {
-        "Company": "Motus",
-        "Job Title": "Revenue Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "First Citizens Bank",
         "Job Title": "Data and Analytics Intern",
         "Location": "Unknown",
@@ -24530,6 +24523,13 @@
     {
         "Company": "The Influential Network",
         "Job Title": "Specialist, Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Motus",
+        "Job Title": "Revenue Operations Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-08"
