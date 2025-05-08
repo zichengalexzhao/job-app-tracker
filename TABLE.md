@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
@@ -50,6 +51,9 @@
 | Total Wine & More | Data Analyst, Merchandising Analytics | Unknown | Applied | 2025-05-07 |
 | Sofi | Digital Chatbot Analyst | Unknown | Declined | 2025-05-07 |
 | TCS (Tata Consultancy Services) | Tableau Developer | Plano TX, Newark DE, Charlotte NC | Applied | 2025-05-07 |
+| Mitchell International, Inc. | Data Analyst | Unknown | Applied | 2025-05-07 |
+| Dr. Squatch | Data Analyst | Unknown | Applied | 2025-05-07 |
+| Publicis Collective (Publicis Groupe) | BI Developer, Analytics (2025-107873) | Unknown | Applied | 2025-05-07 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
