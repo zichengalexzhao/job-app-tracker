@@ -3,6 +3,7 @@
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
+| Sabot Consulting | Business Analyst - Pension | Unknown | Declined | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
