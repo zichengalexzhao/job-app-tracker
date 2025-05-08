@@ -24603,5 +24603,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-08"
+    },
+    {
+        "Company": "Cambridge Systematics",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Cotiviti",
+        "Job Title": "Summer Internship - Enterprise Reporting & Data Visualization",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
     }
 ]

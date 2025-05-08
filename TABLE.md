@@ -24,6 +24,8 @@
 | JLL | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-05-08 |
 | F5 | Data Analyst I | Unknown | Declined | 2025-05-08 |
+| Cambridge Systematics | Data Analyst | Unknown | Applied | 2025-05-08 |
+| Cotiviti | Summer Internship - Enterprise Reporting & Data Visualization | Unknown | Applied | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
