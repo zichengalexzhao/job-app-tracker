@@ -1,6 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
+| Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
+| CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
@@ -54,7 +56,6 @@
 | Mitchell International, Inc. | Data Analyst | Unknown | Applied | 2025-05-07 |
 | Dr. Squatch | Data Analyst | Unknown | Applied | 2025-05-07 |
 | Publicis Collective (Publicis Groupe) | BI Developer, Analytics (2025-107873) | Unknown | Applied | 2025-05-07 |
-| CBRE | Business Intelligence Associate (Temporary) | Unknown | Applied | 2025-05-06 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |
 | Discord | Data Scientist, Analytics | Unknown | Applied | 2025-05-06 |
@@ -94,7 +95,6 @@
 | Ascensus | Business Analyst | Unknown | Applied | 2025-05-06 |
 | Navien, Inc. | Product and Business Analyst | Unknown | Applied | 2025-05-06 |
 | Vistage Worldwide | Senior Analyst, Strategic Finance | Unknown | Applied | 2025-05-06 |
-| Kaiser Permanente | Data Scientist II | Unknown | Applied | 2025-05-06 |
 | TikTok | Data Scientist - TikTok E-commerce Governance | Unknown | Applied | 2025-05-06 |
 | Disney | Unknown | Unknown | Applied | 2025-05-06 |
 | Midland Credit Management | HR - 17828 Forecasting Analyst | Unknown | Applied | 2025-05-06 |

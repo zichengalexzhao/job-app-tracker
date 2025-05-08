@@ -23688,13 +23688,6 @@
         "Date": "2025-05-05"
     },
     {
-        "Company": "CBRE",
-        "Job Title": "Business Intelligence Associate (Temporary)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "Zayo",
         "Job Title": "Data Analyst, Sales Operations",
         "Location": "Unknown",
@@ -23963,13 +23956,6 @@
     {
         "Company": "Vistage Worldwide",
         "Job Title": "Senior Analyst, Strategic Finance",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
-        "Company": "Kaiser Permanente",
-        "Job Title": "Data Scientist II",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-06"
@@ -24470,5 +24456,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-07"
+    },
+    {
+        "Company": "Kaiser Permanente",
+        "Job Title": "Data Scientist II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Business Intelligence Associate (Temporary)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-08"
     }
 ]
