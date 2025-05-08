@@ -13,6 +13,7 @@
 | Oracle | Consulting Project Consultant | Unknown | Declined | 2025-05-08 |
 | The Influential Network | Specialist, Analytics | Unknown | Declined | 2025-05-08 |
 | Motus | Revenue Operations Analyst | Unknown | Declined | 2025-05-08 |
+| Scout Motors | Business Analyst | Unknown | Declined | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
 | Sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
@@ -136,7 +137,6 @@
 | NielsenIQ | R&D Research Analyst | Unknown | Applied | 2025-05-05 |
 | Keystone | Unknown | Unknown | Applied | 2025-05-05 |
 | Royal Caribbean Group | Business Intelligence Data Analyst | Unknown | Applied | 2025-05-05 |
-| Scout Motors | Business Analyst | Unknown | Applied | 2025-05-05 |
 | Nalu Federal | Medical Data Analyst | Unknown | Applied | 2025-05-05 |
 | CivicPlus, LLC | Strategy Analyst I | Unknown | Applied | 2025-05-05 |
 | Tailored Shared Services, LLC | Data Scientist - Machine Learning | Unknown | Applied | 2025-05-05 |

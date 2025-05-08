@@ -23597,13 +23597,6 @@
         "Date": "2025-05-05"
     },
     {
-        "Company": "Scout Motors",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-05"
-    },
-    {
         "Company": "Nalu Federal",
         "Job Title": "Medical Data Analyst",
         "Location": "Unknown",
@@ -24530,6 +24523,13 @@
     {
         "Company": "Motus",
         "Job Title": "Revenue Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Scout Motors",
+        "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-08"
