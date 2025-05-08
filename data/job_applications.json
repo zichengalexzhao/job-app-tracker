@@ -24491,5 +24491,19 @@
         "Location": "East Coast",
         "status": "Applied",
         "Date": "2025-05-08"
+    },
+    {
+        "Company": "Centene",
+        "Job Title": "Data Analyst III",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
+    },
+    {
+        "Company": "Discover",
+        "Job Title": "Associate Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-08"
     }
 ]
