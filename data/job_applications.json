@@ -24631,5 +24631,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-09"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Business Analyst - Application Insights",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
     }
 ]

@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Autoliv United States | Material Analyst | Unknown | Applied | 2025-05-09 |
+| KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
