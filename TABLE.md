@@ -28,6 +28,13 @@
 | Oracle | Data Scientist | Unknown | Declined | 2025-05-09 |
 | DoorDash | Associate Manager, Product Operations | Unknown | Declined | 2025-05-09 |
 | DaVita Kidney Care | Business Analyst - Growth Strategy & Analytics | Unknown | Applied | 2025-05-09 |
+| Claritev | Data Business Analyst | Remote | Applied | 2025-05-09 |
+| FanDuel | Data Analyst, Experimentation | Unknown | Applied | 2025-05-09 |
+| Gusto | Salesforce Business Systems Analyst | Unknown | Applied | 2025-05-09 |
+| CrowdStrike | Data & Automation Analyst | Remote | Applied | 2025-05-09 |
+| Broadcast Music, Inc | Analyst, Accounts Payable (PT) | Unknown | Applied | 2025-05-09 |
+| Cloudflare | Business Operations Analyst | Unknown | Applied | 2025-05-09 |
+| Capital One | Senior Data Scientist - NLP | Unknown | Declined | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |

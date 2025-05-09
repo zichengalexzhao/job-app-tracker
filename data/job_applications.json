@@ -24771,5 +24771,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-09"
+    },
+    {
+        "Company": "Claritev",
+        "Job Title": "Data Business Analyst",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "FanDuel",
+        "Job Title": "Data Analyst, Experimentation",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Salesforce Business Systems Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "CrowdStrike",
+        "Job Title": "Data & Automation Analyst",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Broadcast Music, Inc",
+        "Job Title": "Analyst, Accounts Payable (PT)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Cloudflare",
+        "Job Title": "Business Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Capital One",
+        "Job Title": "Senior Data Scientist - NLP",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
     }
 ]
