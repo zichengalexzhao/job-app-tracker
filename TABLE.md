@@ -25,6 +25,9 @@
 | WalletHub | Marketing Manager | Winchester, VA | Applied | 2025-05-09 |
 | Silicon Valley Clean Energy | Associate Finance, Risk, & Data Analyst | Unknown | Applied | 2025-05-09 |
 | Tristar Insurance | Unknown | Unknown | Applied | 2025-05-09 |
+| Oracle | Data Scientist | Unknown | Declined | 2025-05-09 |
+| DoorDash | Associate Manager, Product Operations | Unknown | Declined | 2025-05-09 |
+| DaVita Kidney Care | Business Analyst - Growth Strategy & Analytics | Unknown | Applied | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
@@ -521,7 +524,6 @@
 | Prime Healthcare | Unknown | Unknown | Applied | 2025-04-23 |
 | Roblox | (Temporary) Ad Operations Specialist | Unknown | Declined | 2025-04-23 |
 | Penn Mutual | Wealth Management Business Insights Analyst | Unknown | Applied | 2025-04-23 |
-| DoorDash | Associate Manager, Product Operations | Unknown | Applied | 2025-04-23 |
 | FedEx | Unknown | Unknown | Applied | 2025-04-23 |
 | FedEx | Unknown | Unknown | Applied | 2025-04-23 |
 | TransUnion | Unknown | Unknown | Applied | 2025-04-23 |

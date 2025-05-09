@@ -21196,13 +21196,6 @@
         "Date": "2025-04-23"
     },
     {
-        "Company": "DoorDash",
-        "Job Title": "Associate Manager, Product Operations",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-23"
-    },
-    {
         "Company": "FedEx",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -24754,6 +24747,27 @@
     {
         "Company": "Tristar Insurance",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Associate Manager, Product Operations",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "DaVita Kidney Care",
+        "Job Title": "Business Analyst - Growth Strategy & Analytics",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-09"
