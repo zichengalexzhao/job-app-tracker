@@ -17,6 +17,13 @@
 | Disney | Unknown | Unknown | Applied | 2025-05-09 |
 | Numerator | Research Analyst (Survey) | Unknown | Applied | 2025-05-09 |
 | Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Declined | 2025-05-09 |
+| Dr. Squatch | Data Analyst | Unknown | Declined | 2025-05-09 |
+| Unknown | University Associate, Data Privacy | Unknown | Applied | 2025-05-09 |
+| Techgene Solutions LLC | Data Analyst | Boise, ID | Applied | 2025-05-09 |
+| Three Day Rule, Inc. | Data Analyst Intern | Remote | Applied | 2025-05-09 |
+| Kinetic Technologies | Unknown | Unknown | Applied | 2025-05-09 |
+| WalletHub | Marketing Manager | Winchester, VA | Applied | 2025-05-09 |
+| Silicon Valley Clean Energy | Associate Finance, Risk, & Data Analyst | Unknown | Applied | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
@@ -36,7 +43,6 @@
 | ZS | Decision Analytics Associate | Unknown | Declined | 2025-05-08 |
 | Amazon | Business Analyst II - AMZ9084459 | Unknown | Applied | 2025-05-08 |
 | Amazon | Business Analyst II | Unknown | Applied | 2025-05-08 |
-| Dr. Squatch | Data Analyst | Unknown | Applied | 2025-05-08 |
 | Live Nation Entertainment | Business Analyst, Fan-Based Marketing | Unknown | Applied | 2025-05-08 |
 | JLL | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-05-08 |
@@ -94,7 +100,6 @@
 | Sofi | Digital Chatbot Analyst | Unknown | Declined | 2025-05-07 |
 | TCS (Tata Consultancy Services) | Tableau Developer | Plano TX, Newark DE, Charlotte NC | Applied | 2025-05-07 |
 | Mitchell International, Inc. | Data Analyst | Unknown | Applied | 2025-05-07 |
-| Dr. Squatch | Data Analyst | Unknown | Applied | 2025-05-07 |
 | Publicis Collective (Publicis Groupe) | BI Developer, Analytics (2025-107873) | Unknown | Applied | 2025-05-07 |
 | Zayo | Data Analyst, Sales Operations | Unknown | Applied | 2025-05-06 |
 | Rivian Automotive, LLC | Business Intelligence Associate, Remarketing | Unknown | Applied | 2025-05-06 |

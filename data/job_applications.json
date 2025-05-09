@@ -24402,13 +24402,6 @@
         "Date": "2025-05-07"
     },
     {
-        "Company": "Dr. Squatch",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-07"
-    },
-    {
         "Company": "Publicis Collective (Publicis Groupe)",
         "Job Title": "BI Developer, Analytics (2025-107873)",
         "Location": "Unknown",
@@ -24537,13 +24530,6 @@
     {
         "Company": "Amazon",
         "Job Title": "Business Analyst II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-08"
-    },
-    {
-        "Company": "Dr. Squatch",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-08"
@@ -24714,6 +24700,55 @@
         "Job Title": "Data Scientist | Logistics Algorithms",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Dr. Squatch",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "University Associate, Data Privacy",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Techgene Solutions LLC",
+        "Job Title": "Data Analyst",
+        "Location": "Boise, ID",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Three Day Rule, Inc.",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Kinetic Technologies",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "WalletHub",
+        "Job Title": "Marketing Manager",
+        "Location": "Winchester, VA",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Silicon Valley Clean Energy",
+        "Job Title": "Associate Finance, Risk, & Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-09"
     }
 ]
