@@ -371,13 +371,6 @@
         "Date": "2025-02-21"
     },
     {
-        "Company": "Stitch Fix",
-        "Job Title": "Data Scientist | Logistics Algorithms",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-21"
-    },
-    {
         "Company": "Windfall",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -8626,13 +8619,6 @@
     {
         "Company": "Costco Wholesale",
         "Job Title": "CDS Summer Intern - Data Science",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
-        "Company": "Stitch Fix",
-        "Job Title": "Data Scientist | Logistics Algorithms",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-03-07"
@@ -24656,6 +24642,76 @@
     {
         "Company": "Salsify",
         "Job Title": "Associate Market Strategy Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Sajix Software Solution Private Limited",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Chino Valley Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Xponential Fitness",
+        "Job Title": "Senior Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Analyst - ETL Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "BeOne",
+        "Job Title": "Data Science Intern",
+        "Location": "San Carlos, CA",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Petco",
+        "Job Title": "Analyst, Pricing And Promotions Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Stride",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Numerator",
+        "Job Title": "Research Analyst (Survey)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Stitch Fix",
+        "Job Title": "Data Scientist | Logistics Algorithms",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-09"

@@ -7,6 +7,16 @@
 | Agilent | Service Project Coordinator | Unknown | Declined | 2025-05-09 |
 | National University | Data Analyst | Unknown | Declined | 2025-05-09 |
 | Salsify | Associate Market Strategy Analyst | Unknown | Declined | 2025-05-09 |
+| Sajix Software Solution Private Limited | Business Intelligence Analyst | Unknown | Applied | 2025-05-09 |
+| Chino Valley Medical Center | Unknown | Unknown | Applied | 2025-05-09 |
+| Xponential Fitness | Senior Data Analyst | Unknown | Declined | 2025-05-09 |
+| Oracle | Data Analyst - ETL Consultant | Unknown | Applied | 2025-05-09 |
+| BeOne | Data Science Intern | San Carlos, CA | Applied | 2025-05-09 |
+| Petco | Analyst, Pricing And Promotions Analytics | Unknown | Applied | 2025-05-09 |
+| Stride | Unknown | Unknown | Applied | 2025-05-09 |
+| Disney | Unknown | Unknown | Applied | 2025-05-09 |
+| Numerator | Research Analyst (Survey) | Unknown | Applied | 2025-05-09 |
+| Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Declined | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
@@ -2273,7 +2283,6 @@
 | ERM (Environmental Resources Management) | Consulting Associate, Environmental Data Manager (Entry Level) | Unknown | Applied | 2025-03-07 |
 | Sully.ai | Unknown | Unknown | Applied | 2025-03-07 |
 | Costco Wholesale | CDS Summer Intern - Data Science | Unknown | Applied | 2025-03-07 |
-| Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-03-07 |
 | Texas Capital Bank | Unknown | Unknown | Applied | 2025-03-07 |
 | Blue River Technology | Unknown | Unknown | Applied | 2025-03-07 |
 | Uline | Unknown | Unknown | Applied | 2025-03-07 |
@@ -2671,7 +2680,6 @@
 | Extend | Unknown | Unknown | Applied | 2025-02-21 |
 | Databricks | Data Scientist - New Grad | Unknown | Declined | 2025-02-21 |
 | Derex Technologies Inc | Research Data Scientist | Unknown | Applied | 2025-02-21 |
-| Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Applied | 2025-02-21 |
 | Windfall | Data Analyst | Unknown | Applied | 2025-02-21 |
 | Garner Health | Unknown | Unknown | Applied | 2025-02-21 |
 | Panda Restaurant Group | Unknown | Unknown | Applied | 2025-02-21 |
