@@ -4,6 +4,8 @@
 | KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | Trustmark | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-09 |
 | Fox Corporation | Research Analyst | Unknown | Applied | 2025-05-09 |
+| Agilent | Service Project Coordinator | Unknown | Declined | 2025-05-09 |
+| National University | Data Analyst | Unknown | Declined | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
@@ -65,7 +67,6 @@
 | RQ Construction | Sr. Project Engineer, Pipefitter, Mechanical Superintendent, Assistant Electrical Project Manager (AEPM), Junior Purchasing Data Analyst, Electrical Project Engineer | Camp Lejeune, North Carolina; Jacksonville, Florida; Carlsbad, California; Kings Bay Base, Georgia | Applied | 2025-05-07 |
 | CrowdStrike | Data Scientist, GTM | Remote | Applied | 2025-05-07 |
 | Compass Group | SENIOR ANALYST, STRATEGY & ANALYTICS (DODGER STADIUM) (1421928) | Unknown | Declined | 2025-05-07 |
-| National University | Data Analyst | Unknown | Applied | 2025-05-07 |
 | The Hitachi Group | Business Analyst | Unknown | Applied | 2025-05-07 |
 | sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
 | Sabot Consulting | Unknown | Unknown | Applied | 2025-05-07 |

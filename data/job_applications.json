@@ -24304,13 +24304,6 @@
         "Date": "2025-05-07"
     },
     {
-        "Company": "National University",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-07"
-    },
-    {
         "Company": "The Hitachi Group",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -24651,6 +24644,20 @@
         "Job Title": "Research Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Agilent",
+        "Job Title": "Service Project Coordinator",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "National University",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-09"
     }
 ]
