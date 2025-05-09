@@ -10689,13 +10689,6 @@
         "Date": "2025-03-16"
     },
     {
-        "Company": "Salsify",
-        "Job Title": "Associate Market Strategy Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-16"
-    },
-    {
         "Company": "Sunbit",
         "Job Title": "Credit Card Business Analyst",
         "Location": "Unknown",
@@ -24656,6 +24649,13 @@
     {
         "Company": "National University",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Salsify",
+        "Job Title": "Associate Market Strategy Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-09"

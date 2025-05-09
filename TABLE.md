@@ -6,6 +6,7 @@
 | Fox Corporation | Research Analyst | Unknown | Applied | 2025-05-09 |
 | Agilent | Service Project Coordinator | Unknown | Declined | 2025-05-09 |
 | National University | Data Analyst | Unknown | Declined | 2025-05-09 |
+| Salsify | Associate Market Strategy Analyst | Unknown | Declined | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
@@ -1971,7 +1972,6 @@
 | KeyBank | Digital Analyst | Unknown | Declined | 2025-03-16 |
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
 | Uniphore | AI Scientist | Unknown | Applied | 2025-03-16 |
-| Salsify | Associate Market Strategy Analyst | Unknown | Applied | 2025-03-16 |
 | Sunbit | Credit Card Business Analyst | Unknown | Applied | 2025-03-16 |
 | Ascension | Data Scientist (Machine Learning) | Unknown | Applied | 2025-03-16 |
 | Amazon | Business Analyst I, Profit Intelligence | Unknown | Applied | 2025-03-16 |
