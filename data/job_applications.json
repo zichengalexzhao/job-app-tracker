@@ -19957,13 +19957,6 @@
         "Date": "2025-04-18"
     },
     {
-        "Company": "AppFolio",
-        "Job Title": "Sr. Performance Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-18"
-    },
-    {
         "Company": "IMP Consulting",
         "Job Title": "Business Analyst - West Coast",
         "Location": "Unknown",
@@ -24817,6 +24810,20 @@
     {
         "Company": "Capital One",
         "Job Title": "Senior Data Scientist - NLP",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "AppFolio",
+        "Job Title": "Sr. Performance Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-09"
+    },
+    {
+        "Company": "Capital One",
+        "Job Title": "AI Engineer",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-09"

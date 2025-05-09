@@ -35,6 +35,8 @@
 | Broadcast Music, Inc | Analyst, Accounts Payable (PT) | Unknown | Applied | 2025-05-09 |
 | Cloudflare | Business Operations Analyst | Unknown | Applied | 2025-05-09 |
 | Capital One | Senior Data Scientist - NLP | Unknown | Declined | 2025-05-09 |
+| AppFolio | Sr. Performance Analyst | Unknown | Declined | 2025-05-09 |
+| Capital One | AI Engineer | Unknown | Declined | 2025-05-09 |
 | DataVisor | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
@@ -720,7 +722,6 @@
 | Evolus | Digital Product Business Analyst | Unknown | Applied | 2025-04-18 |
 | Sony | Data Analyst | Unknown | Declined | 2025-04-18 |
 | Autodesk | Strategic Analyst | Unknown | Applied | 2025-04-18 |
-| AppFolio | Sr. Performance Analyst | Unknown | Applied | 2025-04-18 |
 | IMP Consulting | Business Analyst - West Coast | Unknown | Applied | 2025-04-18 |
 | Terrestris Global Solutions | Management Analyst I | Unknown | Applied | 2025-04-18 |
 | Experis | Pricing Analyst | Unknown | Applied | 2025-04-18 |
