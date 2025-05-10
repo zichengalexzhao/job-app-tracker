@@ -10,6 +10,7 @@
 | AG1 | Unknown | Unknown | Declined | 2025-05-10 |
 | Circana | Client Insights Analyst | Unknown | Declined | 2025-05-10 |
 | Dr. Squatch | Data Analyst | Unknown | Declined | 2025-05-10 |
+| Weee! | Operations Analyst II | Unknown | Declined | 2025-05-10 |
 | Autoliv United States | Material Analyst | Unknown | Applied | 2025-05-09 |
 | KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | Trustmark | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-09 |
