@@ -7,6 +7,7 @@
 | Michael Page | IT Infrastructure Auditor | New York | Applied | 2025-05-10 |
 | EssilorLuxottica | Optical Customer Satisfaction Analyst - Returns and Quality | Unknown | Declined | 2025-05-10 |
 | Royal Caribbean Group | Business Intelligence Data Analyst | Unknown | Declined | 2025-05-10 |
+| AG1 | Unknown | Unknown | Declined | 2025-05-10 |
 | Autoliv United States | Material Analyst | Unknown | Applied | 2025-05-09 |
 | KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | Trustmark | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-09 |
@@ -112,7 +113,6 @@
 | Walgreens | Analyst, Data Analytics | Remote | Declined | 2025-05-07 |
 | RQ Construction | Junior Purchasing Data Analyst | Unknown | Declined | 2025-05-07 |
 | Snapchat | Unknown | Unknown | Applied | 2025-05-07 |
-| AG1 | Unknown | Unknown | Applied | 2025-05-07 |
 | Evolent | Analyst, Client Analytics | Unknown | Applied | 2025-05-07 |
 | Tristar Insurance | Unknown | Unknown | Applied | 2025-05-07 |
 | Total Wine & More | Data Analyst, Merchandising Analytics | Unknown | Applied | 2025-05-07 |

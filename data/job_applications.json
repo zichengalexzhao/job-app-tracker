@@ -24325,13 +24325,6 @@
         "Date": "2025-05-07"
     },
     {
-        "Company": "AG1",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-07"
-    },
-    {
         "Company": "Evolent",
         "Job Title": "Analyst, Client Analytics",
         "Location": "Unknown",
@@ -24859,6 +24852,13 @@
     {
         "Company": "Royal Caribbean Group",
         "Job Title": "Business Intelligence Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-10"
+    },
+    {
+        "Company": "AG1",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-10"
