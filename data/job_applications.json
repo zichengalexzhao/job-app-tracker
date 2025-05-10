@@ -24827,5 +24827,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-09"
+    },
+    {
+        "Company": "Mercury Insurance Services, LLC",
+        "Job Title": "Sr Analyst Product Management (2025-5427)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-10"
+    },
+    {
+        "Company": "RPA Advertising",
+        "Job Title": "Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-10"
+    },
+    {
+        "Company": "Mochi Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-10"
     }
 ]

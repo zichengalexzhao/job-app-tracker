@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Mercury Insurance Services, LLC | Sr Analyst Product Management (2025-5427) | Unknown | Applied | 2025-05-10 |
+| RPA Advertising | Analyst | Unknown | Applied | 2025-05-10 |
+| Mochi Health | Unknown | Unknown | Applied | 2025-05-10 |
 | Autoliv United States | Material Analyst | Unknown | Applied | 2025-05-09 |
 | KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | Trustmark | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-09 |
