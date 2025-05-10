@@ -24416,13 +24416,6 @@
         "Date": "2025-05-08"
     },
     {
-        "Company": "Universal Music Group",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-08"
-    },
-    {
         "Company": "DraftWise",
         "Job Title": "Data Analyst, Revenue Operations",
         "Location": "East Coast",
@@ -24847,6 +24840,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-10"
+    },
+    {
+        "Company": "Universal Music Group",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-10"
     }
 ]

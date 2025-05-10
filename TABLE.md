@@ -3,6 +3,7 @@
 | Mercury Insurance Services, LLC | Sr Analyst Product Management (2025-5427) | Unknown | Applied | 2025-05-10 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-05-10 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-10 |
+| Universal Music Group | Data Analyst | Unknown | Declined | 2025-05-10 |
 | Autoliv United States | Material Analyst | Unknown | Applied | 2025-05-09 |
 | KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | Trustmark | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-09 |
@@ -44,7 +45,6 @@
 | Kaiser Permanente | Data Scientist II | Unknown | Declined | 2025-05-08 |
 | CBRE | Business Intelligence Associate (Temporary) | Unknown | Declined | 2025-05-08 |
 | Sabot Consulting | Business Analyst - Pension | Unknown | Declined | 2025-05-08 |
-| Universal Music Group | Data Analyst | Unknown | Applied | 2025-05-08 |
 | DraftWise | Data Analyst, Revenue Operations | East Coast | Applied | 2025-05-08 |
 | Centene | Data Analyst III | Unknown | Applied | 2025-05-08 |
 | Discover | Associate Business Analyst | Unknown | Applied | 2025-05-08 |
