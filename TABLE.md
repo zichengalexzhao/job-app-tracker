@@ -11,6 +11,8 @@
 | Circana | Client Insights Analyst | Unknown | Declined | 2025-05-10 |
 | Dr. Squatch | Data Analyst | Unknown | Declined | 2025-05-10 |
 | Weee! | Operations Analyst II | Unknown | Declined | 2025-05-10 |
+| Assurant (Inferred from email address) | Claims Business Intelligence Analyst | Unknown | Applied | 2025-05-10 |
+| Oracle | Data Science Intern - Global Industries | Unknown | Declined | 2025-05-10 |
 | Autoliv United States | Material Analyst | Unknown | Applied | 2025-05-09 |
 | KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | Trustmark | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-09 |

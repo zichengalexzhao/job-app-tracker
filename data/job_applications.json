@@ -24883,5 +24883,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-10"
+    },
+    {
+        "Company": "Assurant (Inferred from email address)",
+        "Job Title": "Claims Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-10"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Science Intern - Global Industries",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-10"
     }
 ]
