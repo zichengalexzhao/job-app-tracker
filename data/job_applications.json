@@ -23555,13 +23555,6 @@
         "Date": "2025-05-05"
     },
     {
-        "Company": "Royal Caribbean Group",
-        "Job Title": "Business Intelligence Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-05"
-    },
-    {
         "Company": "Nalu Federal",
         "Job Title": "Medical Data Analyst",
         "Location": "Unknown",
@@ -24854,6 +24847,20 @@
         "Job Title": "IT Infrastructure Auditor",
         "Location": "New York",
         "status": "Applied",
+        "Date": "2025-05-10"
+    },
+    {
+        "Company": "EssilorLuxottica",
+        "Job Title": "Optical Customer Satisfaction Analyst - Returns and Quality",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-10"
+    },
+    {
+        "Company": "Royal Caribbean Group",
+        "Job Title": "Business Intelligence Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-10"
     }
 ]

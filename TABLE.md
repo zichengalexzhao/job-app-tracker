@@ -5,6 +5,8 @@
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-10 |
 | Universal Music Group | Data Analyst | Unknown | Declined | 2025-05-10 |
 | Michael Page | IT Infrastructure Auditor | New York | Applied | 2025-05-10 |
+| EssilorLuxottica | Optical Customer Satisfaction Analyst - Returns and Quality | Unknown | Declined | 2025-05-10 |
+| Royal Caribbean Group | Business Intelligence Data Analyst | Unknown | Declined | 2025-05-10 |
 | Autoliv United States | Material Analyst | Unknown | Applied | 2025-05-09 |
 | KeyBank | Business Analyst - Application Insights | Unknown | Declined | 2025-05-09 |
 | Trustmark | Enterprise Business Intelligence Analyst I/II | Unknown | Applied | 2025-05-09 |
@@ -187,7 +189,6 @@
 | Garner Health | Data Analyst I | NYC | Applied | 2025-05-05 |
 | NielsenIQ | R&D Research Analyst | Unknown | Applied | 2025-05-05 |
 | Keystone | Unknown | Unknown | Applied | 2025-05-05 |
-| Royal Caribbean Group | Business Intelligence Data Analyst | Unknown | Applied | 2025-05-05 |
 | Nalu Federal | Medical Data Analyst | Unknown | Applied | 2025-05-05 |
 | CivicPlus, LLC | Strategy Analyst I | Unknown | Applied | 2025-05-05 |
 | Tailored Shared Services, LLC | Data Scientist - Machine Learning | Unknown | Applied | 2025-05-05 |
