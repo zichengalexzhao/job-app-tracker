@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
+| Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | Mercury Insurance Services, LLC | Sr Analyst Product Management (2025-5427) | Unknown | Applied | 2025-05-10 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-05-10 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-10 |
@@ -161,7 +162,6 @@
 | Upgrade | Product Data Analyst | Unknown | Declined | 2025-05-06 |
 | Campus | Data Operations Analyst, Academic & Student Affairs | Unknown | Declined | 2025-05-06 |
 | CircleCI | Senior Data Analyst, Product | Unknown | Applied | 2025-05-06 |
-| Ascensus | Business Analyst | Unknown | Applied | 2025-05-06 |
 | Navien, Inc. | Product and Business Analyst | Unknown | Applied | 2025-05-06 |
 | Vistage Worldwide | Senior Analyst, Strategic Finance | Unknown | Applied | 2025-05-06 |
 | TikTok | Data Scientist - TikTok E-commerce Governance | Unknown | Applied | 2025-05-06 |

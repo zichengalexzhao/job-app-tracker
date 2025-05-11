@@ -23884,13 +23884,6 @@
         "Date": "2025-05-06"
     },
     {
-        "Company": "Ascensus",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "Navien, Inc.",
         "Job Title": "Product and Business Analyst",
         "Location": "Unknown",
@@ -24894,6 +24887,13 @@
     {
         "Company": "MSX International",
         "Job Title": "Warranty Compliance Data Analyst L3",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-11"
+    },
+    {
+        "Company": "Ascensus",
+        "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-11"
