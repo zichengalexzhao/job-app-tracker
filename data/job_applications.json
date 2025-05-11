@@ -24745,13 +24745,6 @@
         "Date": "2025-05-09"
     },
     {
-        "Company": "Gusto",
-        "Job Title": "Salesforce Business Systems Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-09"
-    },
-    {
         "Company": "CrowdStrike",
         "Job Title": "Data & Automation Analyst",
         "Location": "Remote",
@@ -24903,6 +24896,13 @@
         "Job Title": "Intern, Ecommerce & Digital",
         "Location": "San Francisco, California",
         "status": "Offer",
+        "Date": "2025-05-11"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Salesforce Business Systems Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-11"
     }
 ]
