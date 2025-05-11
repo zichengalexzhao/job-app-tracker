@@ -24911,5 +24911,12 @@
         "Location": "Washington, Washington DC US",
         "status": "Applied",
         "Date": "2025-05-11"
+    },
+    {
+        "Company": "American Indian Health & Services",
+        "Job Title": "Healthcare Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-11"
     }
 ]
