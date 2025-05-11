@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Mercury Insurance Services, LLC | Sr Analyst Product Management (2025-5427) | Unknown | Applied | 2025-05-10 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-05-10 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-10 |
@@ -132,7 +133,6 @@
 | Rochester Regional Health | Website & Search Analyst, Marketing and Communications | Unknown | Applied | 2025-05-06 |
 | Amerit Fleet Solutions | Unknown | Unknown | Applied | 2025-05-06 |
 | Study.com | Data Scientist | Unknown | Applied | 2025-05-06 |
-| MSX International | Warranty Compliance Data Analyst L3 | Unknown | Applied | 2025-05-06 |
 | Paycom | Associate Data Analyst | Unknown | Applied | 2025-05-06 |
 | CircleCI | Senior Data Analyst, Product | Unknown | Applied | 2025-05-06 |
 | Centene | Data Analyst III | Unknown | Applied | 2025-05-06 |

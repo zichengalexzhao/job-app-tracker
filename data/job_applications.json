@@ -23688,13 +23688,6 @@
         "Date": "2025-05-06"
     },
     {
-        "Company": "MSX International",
-        "Job Title": "Warranty Compliance Data Analyst L3",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "Paycom",
         "Job Title": "Associate Data Analyst",
         "Location": "Unknown",
@@ -24897,5 +24890,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-10"
+    },
+    {
+        "Company": "MSX International",
+        "Job Title": "Warranty Compliance Data Analyst L3",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-11"
     }
 ]
