@@ -7,6 +7,7 @@
 | Cloudflare | Business Operations Analyst | Unknown | Declined | 2025-05-11 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-05-11 |
 | American Indian Health & Services | Healthcare Data Analyst | Unknown | Declined | 2025-05-11 |
+| Pandora eComm, LLC | E-Commerce Analytics Intern | New York City Office | Declined | 2025-05-11 |
 | Mercury Insurance Services, LLC | Sr Analyst Product Management (2025-5427) | Unknown | Applied | 2025-05-10 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-05-10 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-10 |
