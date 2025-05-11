@@ -24759,13 +24759,6 @@
         "Date": "2025-05-09"
     },
     {
-        "Company": "Cloudflare",
-        "Job Title": "Business Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-09"
-    },
-    {
         "Company": "Capital One",
         "Job Title": "Senior Data Scientist - NLP",
         "Location": "Unknown",
@@ -24901,6 +24894,13 @@
     {
         "Company": "Gusto",
         "Job Title": "Salesforce Business Systems Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-11"
+    },
+    {
+        "Company": "Cloudflare",
+        "Job Title": "Business Operations Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-11"

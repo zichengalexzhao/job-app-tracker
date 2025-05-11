@@ -4,6 +4,7 @@
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |
 | Gusto | Salesforce Business Systems Analyst | Unknown | Declined | 2025-05-11 |
+| Cloudflare | Business Operations Analyst | Unknown | Declined | 2025-05-11 |
 | Mercury Insurance Services, LLC | Sr Analyst Product Management (2025-5427) | Unknown | Applied | 2025-05-10 |
 | RPA Advertising | Analyst | Unknown | Applied | 2025-05-10 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-10 |
@@ -49,7 +50,6 @@
 | FanDuel | Data Analyst, Experimentation | Unknown | Applied | 2025-05-09 |
 | CrowdStrike | Data & Automation Analyst | Remote | Applied | 2025-05-09 |
 | Broadcast Music, Inc | Analyst, Accounts Payable (PT) | Unknown | Applied | 2025-05-09 |
-| Cloudflare | Business Operations Analyst | Unknown | Applied | 2025-05-09 |
 | Capital One | Senior Data Scientist - NLP | Unknown | Declined | 2025-05-09 |
 | AppFolio | Sr. Performance Analyst | Unknown | Declined | 2025-05-09 |
 | Capital One | AI Engineer | Unknown | Declined | 2025-05-09 |
