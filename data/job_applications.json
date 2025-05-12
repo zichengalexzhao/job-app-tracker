@@ -23583,13 +23583,6 @@
         "Date": "2025-05-05"
     },
     {
-        "Company": "Aledade",
-        "Job Title": "AI Analyst Internship",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-05"
-    },
-    {
         "Company": "Notion",
         "Job Title": "Data Scientist, Finance",
         "Location": "Unknown",
@@ -24696,13 +24689,6 @@
         "Date": "2025-05-09"
     },
     {
-        "Company": "Silicon Valley Clean Energy",
-        "Job Title": "Associate Finance, Risk, & Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-09"
-    },
-    {
         "Company": "Tristar Insurance",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -24999,6 +24985,27 @@
     {
         "Company": "REPS & Co.",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Silicon Valley Clean Energy",
+        "Job Title": "Associate Finance, Risk, & Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "CloudTrucks",
+        "Job Title": "Business Operations Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Aledade",
+        "Job Title": "AI Analyst Internship",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-12"

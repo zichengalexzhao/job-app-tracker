@@ -11,6 +11,9 @@
 | Goldman Sachs | New Analyst | New York, New York, United States | Declined | 2025-05-12 |
 | Goldman Sachs | New Analyst | Dallas, Texas, United States | Declined | 2025-05-12 |
 | REPS & Co. | Unknown | Unknown | Declined | 2025-05-12 |
+| Silicon Valley Clean Energy | Associate Finance, Risk, & Data Analyst | Unknown | Declined | 2025-05-12 |
+| CloudTrucks | Business Operations Associate | Unknown | Declined | 2025-05-12 |
+| Aledade | AI Analyst Internship | Unknown | Declined | 2025-05-12 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |
@@ -55,7 +58,6 @@
 | Three Day Rule, Inc. | Data Analyst Intern | Remote | Applied | 2025-05-09 |
 | Kinetic Technologies | Unknown | Unknown | Applied | 2025-05-09 |
 | WalletHub | Marketing Manager | Winchester, VA | Applied | 2025-05-09 |
-| Silicon Valley Clean Energy | Associate Finance, Risk, & Data Analyst | Unknown | Applied | 2025-05-09 |
 | Tristar Insurance | Unknown | Unknown | Applied | 2025-05-09 |
 | Oracle | Data Scientist | Unknown | Declined | 2025-05-09 |
 | DoorDash | Associate Manager, Product Operations | Unknown | Declined | 2025-05-09 |
@@ -213,7 +215,6 @@
 | CivicPlus, LLC | Strategy Analyst I | Unknown | Applied | 2025-05-05 |
 | Tailored Shared Services, LLC | Data Scientist - Machine Learning | Unknown | Applied | 2025-05-05 |
 | Fox | Unknown | Unknown | Applied | 2025-05-05 |
-| Aledade | AI Analyst Internship | Unknown | Applied | 2025-05-05 |
 | Notion | Data Scientist, Finance | Unknown | Declined | 2025-05-05 |
 | United States Olympic & Paralympic Committee | Associate Sport Technology & Data Analyst | Unknown | Applied | 2025-05-05 |
 | Pacifica Trucks, LLC | TMS and Data Analyst | Unknown | Declined | 2025-05-05 |
