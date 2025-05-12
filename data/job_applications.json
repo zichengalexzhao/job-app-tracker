@@ -24981,5 +24981,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-12"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "New Analyst",
+        "Location": "New York, New York, United States",
+        "status": "Declined",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Goldman Sachs",
+        "Job Title": "New Analyst",
+        "Location": "Dallas, Texas, United States",
+        "status": "Declined",
+        "Date": "2025-05-12"
     }
 ]

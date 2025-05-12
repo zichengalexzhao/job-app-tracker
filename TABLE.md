@@ -8,6 +8,8 @@
 | Ajinomoto Foods North America | Coupa Logistics Analyst | Unknown | Applied | 2025-05-12 |
 | Collectors | Growth Operations Analyst | Unknown | Applied | 2025-05-12 |
 | American Woodmark | Supply Chain Analyst | Unknown | Applied | 2025-05-12 |
+| Goldman Sachs | New Analyst | New York, New York, United States | Declined | 2025-05-12 |
+| Goldman Sachs | New Analyst | Dallas, Texas, United States | Declined | 2025-05-12 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |
