@@ -33,6 +33,8 @@
 | Garner Health | Unknown | Unknown | Applied | 2025-05-12 |
 | REAL | Product Analyst | Unknown | Applied | 2025-05-12 |
 | Metronome | Unknown | Unknown | Applied | 2025-05-12 |
+| Systems Planning and Analysis Inc. | Space Operations Analyst | San Diego, California, USA | Applied | 2025-05-12 |
+| RPA | Analyst | Unknown | Declined | 2025-05-12 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |

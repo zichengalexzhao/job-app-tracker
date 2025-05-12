@@ -25135,5 +25135,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-12"
+    },
+    {
+        "Company": "Systems Planning and Analysis Inc.",
+        "Job Title": "Space Operations Analyst",
+        "Location": "San Diego, California, USA",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "RPA",
+        "Job Title": "Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-12"
     }
 ]
