@@ -25009,5 +25009,61 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-12"
+    },
+    {
+        "Company": "First Citizens Bank",
+        "Job Title": "SVB - Data Analyst, Sales Strategy",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Valera Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Salsify",
+        "Job Title": "Retail Strategy & Ops Manager",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Applied Scientist, Marketing Measurement",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Fisher Phillips",
+        "Job Title": "Data Analyst II",
+        "Location": "California",
+        "status": "Declined",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Ridgewood Savings Bank",
+        "Job Title": "Digital Banking & Payments Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Solera Health",
+        "Job Title": "Product Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Fuse Energy",
+        "Job Title": "Quantitative Finance Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
     }
 ]

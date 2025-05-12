@@ -14,6 +14,14 @@
 | Silicon Valley Clean Energy | Associate Finance, Risk, & Data Analyst | Unknown | Declined | 2025-05-12 |
 | CloudTrucks | Business Operations Associate | Unknown | Declined | 2025-05-12 |
 | Aledade | AI Analyst Internship | Unknown | Declined | 2025-05-12 |
+| First Citizens Bank | SVB - Data Analyst, Sales Strategy | Unknown | Applied | 2025-05-12 |
+| Valera Health | Unknown | Unknown | Applied | 2025-05-12 |
+| Salsify | Retail Strategy & Ops Manager | Unknown | Applied | 2025-05-12 |
+| Uber | Applied Scientist, Marketing Measurement | Unknown | Applied | 2025-05-12 |
+| Fisher Phillips | Data Analyst II | California | Declined | 2025-05-12 |
+| Ridgewood Savings Bank | Digital Banking & Payments Data Analyst | Unknown | Applied | 2025-05-12 |
+| Solera Health | Product Operations Analyst | Unknown | Applied | 2025-05-12 |
+| Fuse Energy | Quantitative Finance Analyst | Unknown | Applied | 2025-05-12 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |
