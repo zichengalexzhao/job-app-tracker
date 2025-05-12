@@ -25156,5 +25156,12 @@
         "Location": "East Coast",
         "status": "Declined",
         "Date": "2025-05-12"
+    },
+    {
+        "Company": "First Citizens Bank",
+        "Job Title": "Data Analyst, Sales Strategy",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-12"
     }
 ]
