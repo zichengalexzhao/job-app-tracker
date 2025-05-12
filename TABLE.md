@@ -24,6 +24,15 @@
 | Fuse Energy | Quantitative Finance Analyst | Unknown | Applied | 2025-05-12 |
 | Cantex Continuing Care Network | Health Plan Data Analyst | Unknown | Declined | 2025-05-12 |
 | Rush | Data Analyst | Unknown | Applied | 2025-05-12 |
+| Abbott | Associate Statistical Analyst | Unknown | Applied | 2025-05-12 |
+| NextEra Energy | IT Data Analyst | Unknown | Declined | 2025-05-12 |
+| First American | Business Intelligence Intern | Unknown | Applied | 2025-05-12 |
+| SCA Health | Data Analyst | Unknown | Applied | 2025-05-12 |
+| Numerator | Consultant | Unknown | Applied | 2025-05-12 |
+| T-Mobile | Analyst, BI AdTech Focus | Unknown | Applied | 2025-05-12 |
+| Garner Health | Unknown | Unknown | Applied | 2025-05-12 |
+| REAL | Product Analyst | Unknown | Applied | 2025-05-12 |
+| Metronome | Unknown | Unknown | Applied | 2025-05-12 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |
@@ -1906,7 +1915,6 @@
 | Under Armour | Sr. Planner, Wholesale - Dick's Sporting Goods | Remote, US | Applied | 2025-03-19 |
 | Muck Rack | Data Scientist | Unknown | Declined | 2025-03-19 |
 | Pluralsight | Web Analyst | Unknown | Applied | 2025-03-18 |
-| NextEra Energy | IT Data Analyst | Unknown | Applied | 2025-03-18 |
 | Trinity Health | Donor Data Analyst | Remote | Applied | 2025-03-18 |
 | ECU Health | Unknown | Unknown | Applied | 2025-03-18 |
 | Warner Bros. Discovery | Analyst, Forecasting & Video Insights | Unknown | Applied | 2025-03-18 |
