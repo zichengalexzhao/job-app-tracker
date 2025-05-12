@@ -25065,5 +25065,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-12"
+    },
+    {
+        "Company": "Cantex Continuing Care Network",
+        "Job Title": "Health Plan Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Rush",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
     }
 ]

@@ -22,6 +22,8 @@
 | Ridgewood Savings Bank | Digital Banking & Payments Data Analyst | Unknown | Applied | 2025-05-12 |
 | Solera Health | Product Operations Analyst | Unknown | Applied | 2025-05-12 |
 | Fuse Energy | Quantitative Finance Analyst | Unknown | Applied | 2025-05-12 |
+| Cantex Continuing Care Network | Health Plan Data Analyst | Unknown | Declined | 2025-05-12 |
+| Rush | Data Analyst | Unknown | Applied | 2025-05-12 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |
