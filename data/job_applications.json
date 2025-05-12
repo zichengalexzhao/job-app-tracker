@@ -24925,5 +24925,26 @@
         "Location": "New York City Office",
         "status": "Declined",
         "Date": "2025-05-11"
+    },
+    {
+        "Company": "East West Bank",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "East West Bank",
+        "Job Title": "Financial Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
+    },
+    {
+        "Company": "Amgen Inc.",
+        "Job Title": "Scientific Business Analyst \u2013 Research Informatics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-12"
     }
 ]
