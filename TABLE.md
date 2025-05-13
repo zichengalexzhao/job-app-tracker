@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
+| Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
+| PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
+| Gusto | Sales Analyst, Revenue Analytics | Unknown | Applied | 2025-05-13 |
+| UCLA Health | Unknown | Unknown | Applied | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |

@@ -25177,5 +25177,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-12"
+    },
+    {
+        "Company": "Thumbtack",
+        "Job Title": "Data Scientist, Business Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Unite Us",
+        "Job Title": "Research Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "PlayStation",
+        "Job Title": "Fraud Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Sales Analyst, Revenue Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "UCLA Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
     }
 ]
