@@ -11,6 +11,21 @@
 | Circana | Client Insights Consultant SRMGR015671 | Unknown | Declined | 2025-05-13 |
 | Oscar Health | Senior Analyst, Compensation | Unknown | Declined | 2025-05-13 |
 | Salsify | Retail Strategy & Ops Manager | Unknown | Declined | 2025-05-13 |
+| Tanimura & Antle | Financial Analyst | Unknown | Declined | 2025-05-13 |
+| RIVO Holdings, LLC | Junior Data Analyst | Unknown | Applied | 2025-05-13 |
+| Stripe | Data Analyst, New Grad | Unknown | Declined | 2025-05-13 |
+| Esri | Business Analyst | Unknown | Applied | 2025-05-13 |
+| BUCKELEW PROGRAMS | Unknown | Unknown | Applied | 2025-05-13 |
+| SBM Management | Data Analyst | Unknown | Applied | 2025-05-13 |
+| Tanimura & Antle | Financial Analyst | Unknown | Declined | 2025-05-13 |
+| Unknown | Data Collection Analyst | Unknown | Applied | 2025-05-13 |
+| TikTok | Data Scientist - Recommendation | Unknown | Applied | 2025-05-13 |
+| Spellman HV | Unknown | Unknown | Applied | 2025-05-13 |
+| HealthEdge | Unknown | Unknown | Declined | 2025-05-13 |
+| Underdog Fantasy | Data Analyst II, Commercial | Unknown | Declined | 2025-05-13 |
+| Scribd | Product Analyst II (Content) | Unknown | Applied | 2025-05-13 |
+| Charles Schwab Corporation | Quantitative Research Analyst | Unknown | Applied | 2025-05-13 |
+| Charles Schwab Corporation | Quantitative Research Analyst | Unknown | Applied | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
@@ -326,7 +341,6 @@
 | Barkbus | Tableau Data Visualization Intern | Unknown | Declined | 2025-05-02 |
 | Molina Healthcare | Healthcare Data Analyst (Enrollment/QNXT) | Unknown | Applied | 2025-05-02 |
 | OLD MASTER PRODUCTS, INC. | Jr. Data Analyst | Unknown | Declined | 2025-05-02 |
-| Tanimura & Antle | Financial Analyst | Unknown | Applied | 2025-05-02 |
 | Global Music Rights, LLC | Data Analyst, Financial Planning & Analysis | Unknown | Declined | 2025-05-01 |
 | DrFirst Inc | Unknown | Unknown | Interviewed | 2025-05-01 |
 | DrFirst | Intern, Data Analyst | Unknown | Applied | 2025-05-01 |
@@ -441,7 +455,6 @@
 | Golden1 | Unknown | Unknown | Applied | 2025-04-28 |
 | Wesley Health Centers (JWCH Institute) | Unknown | Unknown | Applied | 2025-04-28 |
 | PeopleConnect (using ADP services) | Financial Business Analyst | Unknown | Applied | 2025-04-28 |
-| Tanimura & Antle | Financial Analyst | Unknown | Applied | 2025-04-28 |
 | EisnerAmper | 2025 Enterprise Technology Finance – Data Analyst Summer Intern | Unknown | Declined | 2025-04-28 |
 | Autoliv United States | Production Control Supervisor | Unknown | Applied | 2025-04-28 |
 | Unknown | Unknown | Unknown | Applied | 2025-04-28 |
@@ -916,7 +929,6 @@
 | Attentive | Analyst, Deal Strategy (Sales) | Unknown | Applied | 2025-04-15 |
 | MongoDB | Unknown | Unknown | Applied | 2025-04-15 |
 | Unknown | Business Analyst - Default Systems and Support | On-Site | Applied | 2025-04-15 |
-| HealthEdge | Unknown | Unknown | Applied | 2025-04-15 |
 | Matillion | Pricing and Analytics Manager | Unknown | Declined | 2025-04-15 |
 | TransGlobal | Marketing Intern-CMO Assistant | Diamond Bar, CA, USA | Applied | 2025-04-15 |
 | JPMorgan Chase & Co. | Data Scientist Associate | Unknown | Declined | 2025-04-15 |
@@ -2955,7 +2967,6 @@
 | Unknown | Data Analyst, Investment Proposals - Parametric | Unknown | Applied | 2025-02-04 |
 | Bitwise Asset Management | Junior Salesforce Business Analyst | Unknown | Applied | 2025-02-04 |
 | Paramount | Unknown | Unknown | Applied | 2025-02-04 |
-| Stripe | Data Analyst, New Grad | Unknown | Applied | 2025-02-04 |
 | Thumbtack | Data Scientist, Product (Marketplace) | Unknown | Applied | 2025-02-04 |
 | CBRE | Research Analyst | Unknown | Applied | 2025-02-04 |
 | Circle K | Unknown | Unknown | Applied | 2025-02-04 |
@@ -3124,7 +3135,6 @@
 | Zipline | Business Analytics & Insights Manager, Africa | Unknown | Declined | 2024-12-23 |
 | Airtable | Data Scientist, Business Analytics | Unknown | Applied | 2024-12-21 |
 | CVS Health | Unknown | Unknown | Applied | 2024-12-21 |
-| Stripe | Data Analyst, New Grad | Unknown | Applied | 2024-12-21 |
 | Smart Rewards Inc | Business Analyst Intern | New York, NY | Interviewed | 2024-12-21 |
 | Databricks | Senior Data Engineer | Unknown | Declined | 2024-12-20 |
 | UPS | Marketing Analyst | Unknown | Applied | 2024-12-19 |

@@ -1764,13 +1764,6 @@
         "Date": "2025-02-04"
     },
     {
-        "Company": "Stripe",
-        "Job Title": "Data Analyst, New Grad",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
         "Company": "Thumbtack",
         "Job Title": "Data Scientist, Product (Marketplace)",
         "Location": "Unknown",
@@ -2942,13 +2935,6 @@
     {
         "Company": "CVS Health",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-12-21"
-    },
-    {
-        "Company": "Stripe",
-        "Job Title": "Data Analyst, New Grad",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2024-12-21"
@@ -18662,13 +18648,6 @@
         "Date": "2025-04-15"
     },
     {
-        "Company": "HealthEdge",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-15"
-    },
-    {
         "Company": "Matillion",
         "Job Title": "Pricing and Analytics Manager",
         "Location": "Unknown",
@@ -22253,13 +22232,6 @@
         "Date": "2025-04-28"
     },
     {
-        "Company": "Tanimura & Antle",
-        "Job Title": "Financial Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-28"
-    },
-    {
         "Company": "EisnerAmper",
         "Job Title": "2025 Enterprise Technology Finance \u2013 Data Analyst Summer Intern",
         "Location": "Unknown",
@@ -23125,13 +23097,6 @@
         "Job Title": "Jr. Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-05-02"
-    },
-    {
-        "Company": "Tanimura & Antle",
-        "Job Title": "Financial Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-05-02"
     },
     {
@@ -25246,6 +25211,111 @@
         "Job Title": "Retail Strategy & Ops Manager",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Tanimura & Antle",
+        "Job Title": "Financial Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "RIVO Holdings, LLC",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Stripe",
+        "Job Title": "Data Analyst, New Grad",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Esri",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "BUCKELEW PROGRAMS",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "SBM Management",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Tanimura & Antle",
+        "Job Title": "Financial Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Data Collection Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "TikTok",
+        "Job Title": "Data Scientist - Recommendation",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Spellman HV",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "HealthEdge",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Underdog Fantasy",
+        "Job Title": "Data Analyst II, Commercial",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Scribd",
+        "Job Title": "Product Analyst II (Content)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Charles Schwab Corporation",
+        "Job Title": "Quantitative Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Charles Schwab Corporation",
+        "Job Title": "Quantitative Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-13"
     }
 ]
