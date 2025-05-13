@@ -37,6 +37,8 @@
 | RPA | Analyst | Unknown | Declined | 2025-05-12 |
 | DraftWise | Revenue Operations Analyst | East Coast | Declined | 2025-05-12 |
 | First Citizens Bank | Data Analyst, Sales Strategy | Unknown | Declined | 2025-05-12 |
+| ECG Management Consultants | Healthcare Data Analyst or Senior Healthcare Data Analyst, Analytics Hub | Unknown | Applied | 2025-05-12 |
+| RIVO Holdings, LLC | Junior Data Analyst | Unknown | Applied | 2025-05-12 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-05-11 |
 | Ascensus | Business Analyst | Unknown | Declined | 2025-05-11 |
 | KENDO HOLDINGS INC | Intern, Ecommerce & Digital | San Francisco, California | Offer | 2025-05-11 |
