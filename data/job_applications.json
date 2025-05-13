@@ -25219,5 +25219,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-13"
+    },
+    {
+        "Company": "Valera Health",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Turing",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
     }
 ]
