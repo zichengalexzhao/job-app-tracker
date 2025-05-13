@@ -10885,13 +10885,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "JetBlue",
-        "Job Title": "Analyst Airline Optimization Operability",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "Rush Street Interactive",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -24444,13 +24437,6 @@
         "Date": "2025-05-08"
     },
     {
-        "Company": "JLL",
-        "Job Title": "Business Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-08"
-    },
-    {
         "Company": "Infinitive Inc",
         "Job Title": "Business/Data Analyst",
         "Location": "Unknown",
@@ -25314,6 +25300,34 @@
     {
         "Company": "Charles Schwab Corporation",
         "Job Title": "Quantitative Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "JLL",
+        "Job Title": "Business Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Sales Analyst, Revenue Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "JetBlue",
+        "Job Title": "Analyst Airline Optimization Operability",
+        "Location": "LSC Long Island City SC",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Credit One Bank",
+        "Job Title": "Data Science (Decision Science) Intern",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-13"

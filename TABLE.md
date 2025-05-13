@@ -26,6 +26,10 @@
 | Scribd | Product Analyst II (Content) | Unknown | Applied | 2025-05-13 |
 | Charles Schwab Corporation | Quantitative Research Analyst | Unknown | Applied | 2025-05-13 |
 | Charles Schwab Corporation | Quantitative Research Analyst | Unknown | Applied | 2025-05-13 |
+| JLL | Business Operations Analyst | Unknown | Declined | 2025-05-13 |
+| Gusto | Sales Analyst, Revenue Analytics | Unknown | Applied | 2025-05-13 |
+| JetBlue | Analyst Airline Optimization Operability | LSC Long Island City SC | Declined | 2025-05-13 |
+| Credit One Bank | Data Science (Decision Science) Intern | Unknown | Applied | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
@@ -138,7 +142,6 @@
 | Amazon | Business Analyst II - AMZ9084459 | Unknown | Applied | 2025-05-08 |
 | Amazon | Business Analyst II | Unknown | Applied | 2025-05-08 |
 | Live Nation Entertainment | Business Analyst, Fan-Based Marketing | Unknown | Applied | 2025-05-08 |
-| JLL | Business Operations Analyst | Unknown | Applied | 2025-05-08 |
 | Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-05-08 |
 | F5 | Data Analyst I | Unknown | Declined | 2025-05-08 |
 | Cambridge Systematics | Data Analyst | Unknown | Applied | 2025-05-08 |
@@ -2004,7 +2007,6 @@
 | Press Ganey | Unknown | Unknown | Applied | 2025-03-17 |
 | NRG | Market Research Analyst or Sr. Analyst | Unknown | Applied | 2025-03-17 |
 | TaylorMade | Unknown | Unknown | Applied | 2025-03-17 |
-| JetBlue | Analyst Airline Optimization Operability | Unknown | Applied | 2025-03-17 |
 | Rush Street Interactive | Unknown | Unknown | Applied | 2025-03-17 |
 | Cardinal Health | Unknown | Unknown | Applied | 2025-03-17 |
 | Root, Inc. | Analyst II, Business Intelligence | Unknown | Applied | 2025-03-17 |
