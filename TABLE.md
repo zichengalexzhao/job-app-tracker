@@ -8,6 +8,7 @@
 | United Collective | Data Analyst | Unknown | Applied | 2025-05-13 |
 | Valera Health | Data Analyst | Unknown | Declined | 2025-05-13 |
 | Turing | Unknown | Unknown | Applied | 2025-05-13 |
+| Circana | Client Insights Consultant SRMGR015671 | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
