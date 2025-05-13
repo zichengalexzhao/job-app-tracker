@@ -5,6 +5,7 @@
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
 | Gusto | Sales Analyst, Revenue Analytics | Unknown | Applied | 2025-05-13 |
 | UCLA Health | Unknown | Unknown | Applied | 2025-05-13 |
+| United Collective | Data Analyst | Unknown | Applied | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
