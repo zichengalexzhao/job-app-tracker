@@ -38,6 +38,7 @@
 | Quantifind | Unknown | Unknown | Applied | 2025-05-13 |
 | Roofstock | Business Intelligence Analyst | Unknown | Applied | 2025-05-13 |
 | Palo Alto Networks | Strategic Insights Analyst - Global Customer Services | Unknown | Applied | 2025-05-13 |
+| ICANN | Unknown | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |

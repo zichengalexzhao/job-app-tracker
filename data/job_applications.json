@@ -25380,5 +25380,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-13"
+    },
+    {
+        "Company": "ICANN",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
     }
 ]
