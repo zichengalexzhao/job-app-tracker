@@ -24878,13 +24878,6 @@
         "Date": "2025-05-12"
     },
     {
-        "Company": "KLA-Tencor",
-        "Job Title": "Inventory Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-12"
-    },
-    {
         "Company": "Ajinomoto Foods North America",
         "Job Title": "Coupa Logistics Analyst",
         "Location": "Unknown",
@@ -25344,6 +25337,48 @@
         "Job Title": "Client Insights Analyst SRANA015290",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "KLA-Tencor",
+        "Job Title": "Inventory Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "V2X",
+        "Job Title": "Competitive Intelligence Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "BCD",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Quantifind",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Roofstock",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Palo Alto Networks",
+        "Job Title": "Strategic Insights Analyst - Global Customer Services",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-13"
     }
 ]

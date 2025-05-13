@@ -32,10 +32,15 @@
 | Credit One Bank | Data Science (Decision Science) Intern | Unknown | Applied | 2025-05-13 |
 | Sigma Computing | Revenue Operations Analyst | San Francisco, CA | Declined | 2025-05-13 |
 | Circana | Client Insights Analyst SRANA015290 | Unknown | Declined | 2025-05-13 |
+| KLA-Tencor | Inventory Analyst | Unknown | Declined | 2025-05-13 |
+| V2X | Competitive Intelligence Intern | Unknown | Applied | 2025-05-13 |
+| BCD | Data Analyst | Unknown | Applied | 2025-05-13 |
+| Quantifind | Unknown | Unknown | Applied | 2025-05-13 |
+| Roofstock | Business Intelligence Analyst | Unknown | Applied | 2025-05-13 |
+| Palo Alto Networks | Strategic Insights Analyst - Global Customer Services | Unknown | Applied | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
-| KLA-Tencor | Inventory Analyst | Unknown | Applied | 2025-05-12 |
 | Ajinomoto Foods North America | Coupa Logistics Analyst | Unknown | Applied | 2025-05-12 |
 | Ajinomoto Foods North America | Coupa Logistics Analyst | Unknown | Applied | 2025-05-12 |
 | Collectors | Growth Operations Analyst | Unknown | Applied | 2025-05-12 |
