@@ -25018,13 +25018,6 @@
         "Date": "2025-05-12"
     },
     {
-        "Company": "Salsify",
-        "Job Title": "Retail Strategy & Ops Manager",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-12"
-    },
-    {
         "Company": "Uber",
         "Job Title": "Applied Scientist, Marketing Measurement",
         "Location": "Unknown",
@@ -25244,6 +25237,13 @@
     {
         "Company": "Oscar Health",
         "Job Title": "Senior Analyst, Compensation",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Salsify",
+        "Job Title": "Retail Strategy & Ops Manager",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-13"

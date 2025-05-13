@@ -10,6 +10,7 @@
 | Turing | Unknown | Unknown | Applied | 2025-05-13 |
 | Circana | Client Insights Consultant SRMGR015671 | Unknown | Declined | 2025-05-13 |
 | Oscar Health | Senior Analyst, Compensation | Unknown | Declined | 2025-05-13 |
+| Salsify | Retail Strategy & Ops Manager | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
@@ -26,7 +27,6 @@
 | Aledade | AI Analyst Internship | Unknown | Declined | 2025-05-12 |
 | First Citizens Bank | SVB - Data Analyst, Sales Strategy | Unknown | Applied | 2025-05-12 |
 | Valera Health | Unknown | Unknown | Applied | 2025-05-12 |
-| Salsify | Retail Strategy & Ops Manager | Unknown | Applied | 2025-05-12 |
 | Uber | Applied Scientist, Marketing Measurement | Unknown | Applied | 2025-05-12 |
 | Fisher Phillips | Data Analyst II | California | Declined | 2025-05-12 |
 | Ridgewood Savings Bank | Digital Banking & Payments Data Analyst | Unknown | Applied | 2025-05-12 |
