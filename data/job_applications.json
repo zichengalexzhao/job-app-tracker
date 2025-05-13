@@ -25331,5 +25331,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-13"
+    },
+    {
+        "Company": "Sigma Computing",
+        "Job Title": "Revenue Operations Analyst",
+        "Location": "San Francisco, CA",
+        "status": "Declined",
+        "Date": "2025-05-13"
+    },
+    {
+        "Company": "Circana",
+        "Job Title": "Client Insights Analyst SRANA015290",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-13"
     }
 ]

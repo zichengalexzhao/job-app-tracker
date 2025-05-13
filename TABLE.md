@@ -30,6 +30,8 @@
 | Gusto | Sales Analyst, Revenue Analytics | Unknown | Applied | 2025-05-13 |
 | JetBlue | Analyst Airline Optimization Operability | LSC Long Island City SC | Declined | 2025-05-13 |
 | Credit One Bank | Data Science (Decision Science) Intern | Unknown | Applied | 2025-05-13 |
+| Sigma Computing | Revenue Operations Analyst | San Francisco, CA | Declined | 2025-05-13 |
+| Circana | Client Insights Analyst SRANA015290 | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
