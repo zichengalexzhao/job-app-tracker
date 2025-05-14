@@ -15078,13 +15078,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Tubi",
-        "Job Title": "Analyst, Business Operations & Strategy",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "Cable One, Inc.",
         "Job Title": "Data Analyst II",
         "Location": "Unknown",
@@ -25552,6 +25545,48 @@
     {
         "Company": "Levi Strauss & Co",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Upgrade",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Virgin Galactic",
+        "Job Title": "Sr. Analyst, Data Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "University of Southern California (USC)",
+        "Job Title": "Product Analyst II (Data & Digital)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Marvin Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Roofstock",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Tubi",
+        "Job Title": "Analyst, Business Operations & Strategy",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-14"

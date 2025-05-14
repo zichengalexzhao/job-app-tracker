@@ -29,6 +29,12 @@
 | Numerator | Consultant | Unknown | Declined | 2025-05-14 |
 | Numerator | Research Analyst (Survey) | Unknown | Declined | 2025-05-14 |
 | Levi Strauss & Co | Data Analyst | Unknown | Declined | 2025-05-14 |
+| Upgrade | Data Scientist | Unknown | Applied | 2025-05-14 |
+| Virgin Galactic | Sr. Analyst, Data Analytics | Unknown | Applied | 2025-05-14 |
+| University of Southern California (USC) | Product Analyst II (Data & Digital) | Unknown | Applied | 2025-05-14 |
+| Marvin Group | Unknown | Unknown | Applied | 2025-05-14 |
+| Roofstock | Business Intelligence Analyst | Unknown | Applied | 2025-05-14 |
+| Tubi | Analyst, Business Operations & Strategy | Unknown | Declined | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
@@ -1546,7 +1552,6 @@
 | Oldcastle BuildingEnvelope, Inc. | Business Intelligence Analyst | Dallas, TX | Applied | 2025-04-02 |
 | Gainwell Technologies LLC | Associate Professional Business Analyst | Unknown | Applied | 2025-04-02 |
 | Veolia North America | Data Analyst | Unknown | Applied | 2025-04-02 |
-| Tubi | Analyst, Business Operations & Strategy | Unknown | Applied | 2025-04-02 |
 | Cable One, Inc. | Data Analyst II | Unknown | Applied | 2025-04-02 |
 | Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-04-02 |
 | Medallion | Unknown | Unknown | Applied | 2025-04-02 |
