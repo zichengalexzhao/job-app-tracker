@@ -22911,13 +22911,6 @@
         "Date": "2025-05-01"
     },
     {
-        "Company": "Fivetran",
-        "Job Title": "Data Analyst Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-01"
-    },
-    {
         "Company": "Mochi Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -25461,6 +25454,13 @@
     {
         "Company": "The Brattle Group",
         "Job Title": "Research Analyst (Economics) - July 2025",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Fivetran",
+        "Job Title": "Data Analyst Intern",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-14"

@@ -13,6 +13,7 @@
 | Mspark | Reporting Associate | Unknown | Declined | 2025-05-14 |
 | Palo Alto Networks | Strategic Insights Analyst - Global Customer Services | Unknown | Declined | 2025-05-14 |
 | The Brattle Group | Research Analyst (Economics) - July 2025 | Unknown | Declined | 2025-05-14 |
+| Fivetran | Data Analyst Intern | Unknown | Declined | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
@@ -390,7 +391,6 @@
 | Storage and Fulfillment USA | Systems Operator/Data Analysis | Unknown | Declined | 2025-05-01 |
 | Vizient | Unknown | Unknown | Applied | 2025-05-01 |
 | Vizient | Data Operations Associate II | Unknown | Applied | 2025-05-01 |
-| Fivetran | Data Analyst Intern | Unknown | Applied | 2025-05-01 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-01 |
 | Escalent | Insights Analyst - Health & Life Science | Remote | Applied | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
