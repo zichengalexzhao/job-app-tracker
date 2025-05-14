@@ -7,6 +7,9 @@
 | Snowflake | Associate Data Scientist | Unknown | Applied | 2025-05-14 |
 | UCLA Health | Unknown | Unknown | Applied | 2025-05-14 |
 | KeyBank | Quant Analytics Associate | Unknown | Declined | 2025-05-14 |
+| FIS | Statistician-Data Analyst II | Unknown | Applied | 2025-05-14 |
+| Sutter Health | Statistician, Research Institute | Unknown | Applied | 2025-05-14 |
+| Sutter Health | Statistician | Unknown | Applied | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |

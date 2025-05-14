@@ -25436,5 +25436,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "FIS",
+        "Job Title": "Statistician-Data Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Sutter Health",
+        "Job Title": "Statistician, Research Institute",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Sutter Health",
+        "Job Title": "Statistician",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
     }
 ]
