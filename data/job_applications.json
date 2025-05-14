@@ -25541,5 +25541,12 @@
         "Location": "San Diego, CA, USA",
         "status": "Declined",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "Anywhere",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
     }
 ]
