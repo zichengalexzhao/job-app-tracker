@@ -16,6 +16,13 @@
 | Fivetran | Data Analyst Intern | Unknown | Declined | 2025-05-14 |
 | Paramount | Unknown | Unknown | Applied | 2025-05-14 |
 | AlphaSense | Associate Product Manager - Company Docs | Unknown | Applied | 2025-05-14 |
+| K1 | Analyst, Executive Recruiting | Unknown | Declined | 2025-05-14 |
+| AMAROK | Unknown | Unknown | Applied | 2025-05-14 |
+| St. Michael's Inc | Data Analytics Intern | Unknown | Declined | 2025-05-14 |
+| Hightouch | Unknown | Unknown | Applied | 2025-05-14 |
+| Live Nation Entertainment | Pricing Analyst | Unknown | Applied | 2025-05-14 |
+| PCAOB (Public Company Accounting Oversight Board) | Unknown | Unknown | Applied | 2025-05-14 |
+| Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |

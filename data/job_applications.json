@@ -25478,5 +25478,54 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "K1",
+        "Job Title": "Analyst, Executive Recruiting",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "AMAROK",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "St. Michael's Inc",
+        "Job Title": "Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Hightouch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Live Nation Entertainment",
+        "Job Title": "Pricing Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "PCAOB (Public Company Accounting Oversight Board)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-05-14"
     }
 ]
