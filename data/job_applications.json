@@ -24563,13 +24563,6 @@
         "Date": "2025-05-09"
     },
     {
-        "Company": "Numerator",
-        "Job Title": "Research Analyst (Survey)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-09"
-    },
-    {
         "Company": "Stitch Fix",
         "Job Title": "Data Scientist | Logistics Algorithms",
         "Location": "Unknown",
@@ -25020,13 +25013,6 @@
     {
         "Company": "SCA Health",
         "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-12"
-    },
-    {
-        "Company": "Numerator",
-        "Job Title": "Consultant",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-12"
@@ -25547,6 +25533,27 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Numerator",
+        "Job Title": "Consultant",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Numerator",
+        "Job Title": "Research Analyst (Survey)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Levi Strauss & Co",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-14"
     }
 ]

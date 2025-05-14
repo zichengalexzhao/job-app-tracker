@@ -26,6 +26,9 @@
 | Buckelew Programs | Data Analyst | Unknown | Declined | 2025-05-14 |
 | ECG Management Consultants | Unknown | San Diego, CA, USA | Declined | 2025-05-14 |
 | Anywhere | Unknown | Unknown | Applied | 2025-05-14 |
+| Numerator | Consultant | Unknown | Declined | 2025-05-14 |
+| Numerator | Research Analyst (Survey) | Unknown | Declined | 2025-05-14 |
+| Levi Strauss & Co | Data Analyst | Unknown | Declined | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
@@ -90,7 +93,6 @@
 | NextEra Energy | IT Data Analyst | Unknown | Declined | 2025-05-12 |
 | First American | Business Intelligence Intern | Unknown | Applied | 2025-05-12 |
 | SCA Health | Data Analyst | Unknown | Applied | 2025-05-12 |
-| Numerator | Consultant | Unknown | Applied | 2025-05-12 |
 | T-Mobile | Analyst, BI AdTech Focus | Unknown | Applied | 2025-05-12 |
 | Garner Health | Unknown | Unknown | Applied | 2025-05-12 |
 | REAL | Product Analyst | Unknown | Applied | 2025-05-12 |
@@ -137,7 +139,6 @@
 | Petco | Analyst, Pricing And Promotions Analytics | Unknown | Applied | 2025-05-09 |
 | Stride | Unknown | Unknown | Applied | 2025-05-09 |
 | Disney | Unknown | Unknown | Applied | 2025-05-09 |
-| Numerator | Research Analyst (Survey) | Unknown | Applied | 2025-05-09 |
 | Stitch Fix | Data Scientist \| Logistics Algorithms | Unknown | Declined | 2025-05-09 |
 | Dr. Squatch | Data Analyst | Unknown | Declined | 2025-05-09 |
 | Unknown | University Associate, Data Privacy | Unknown | Applied | 2025-05-09 |
