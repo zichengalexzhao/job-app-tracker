@@ -25590,5 +25590,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "ResMed",
+        "Job Title": "Senior Analyst, Corporate Strategy",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Beghou Consulting",
+        "Job Title": "Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
     }
 ]

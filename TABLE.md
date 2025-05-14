@@ -35,6 +35,8 @@
 | Marvin Group | Unknown | Unknown | Applied | 2025-05-14 |
 | Roofstock | Business Intelligence Analyst | Unknown | Applied | 2025-05-14 |
 | Tubi | Analyst, Business Operations & Strategy | Unknown | Declined | 2025-05-14 |
+| ResMed | Senior Analyst, Corporate Strategy | Unknown | Applied | 2025-05-14 |
+| Beghou Consulting | Consultant | Unknown | Applied | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
