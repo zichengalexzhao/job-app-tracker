@@ -25422,5 +25422,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "UCLA Health",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Quant Analytics Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
     }
 ]
