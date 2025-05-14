@@ -10,6 +10,9 @@
 | FIS | Statistician-Data Analyst II | Unknown | Applied | 2025-05-14 |
 | Sutter Health | Statistician, Research Institute | Unknown | Applied | 2025-05-14 |
 | Sutter Health | Statistician | Unknown | Applied | 2025-05-14 |
+| Mspark | Reporting Associate | Unknown | Declined | 2025-05-14 |
+| Palo Alto Networks | Strategic Insights Analyst - Global Customer Services | Unknown | Declined | 2025-05-14 |
+| The Brattle Group | Research Analyst (Economics) - July 2025 | Unknown | Declined | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
@@ -47,7 +50,6 @@
 | BCD | Data Analyst | Unknown | Applied | 2025-05-13 |
 | Quantifind | Unknown | Unknown | Applied | 2025-05-13 |
 | Roofstock | Business Intelligence Analyst | Unknown | Applied | 2025-05-13 |
-| Palo Alto Networks | Strategic Insights Analyst - Global Customer Services | Unknown | Applied | 2025-05-13 |
 | ICANN | Unknown | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
@@ -302,7 +304,6 @@
 | DMGT | Unknown | Unknown | Applied | 2025-05-04 |
 | Robinhood | Unknown | Unknown | Applied | 2025-05-04 |
 | Influential | Unknown | Unknown | Applied | 2025-05-04 |
-| The Brattle Group | Research Analyst (Economics) - July 2025 | Unknown | Applied | 2025-05-04 |
 | Fliff | Data Scientist | Unknown | Applied | 2025-05-04 |
 | West Monroe | Unknown | Unknown | Applied | 2025-05-04 |
 | USAA | Audit Data Analyst II | Unknown | Declined | 2025-05-04 |

@@ -23289,13 +23289,6 @@
         "Date": "2025-05-04"
     },
     {
-        "Company": "The Brattle Group",
-        "Job Title": "Research Analyst (Economics) - July 2025",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-04"
-    },
-    {
         "Company": "Fliff",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -25375,13 +25368,6 @@
         "Date": "2025-05-13"
     },
     {
-        "Company": "Palo Alto Networks",
-        "Job Title": "Strategic Insights Analyst - Global Customer Services",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-13"
-    },
-    {
         "Company": "ICANN",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -25456,6 +25442,27 @@
         "Job Title": "Statistician",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Mspark",
+        "Job Title": "Reporting Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Palo Alto Networks",
+        "Job Title": "Strategic Insights Analyst - Global Customer Services",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "The Brattle Group",
+        "Job Title": "Research Analyst (Economics) - July 2025",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-14"
     }
 ]
