@@ -14,6 +14,8 @@
 | Palo Alto Networks | Strategic Insights Analyst - Global Customer Services | Unknown | Declined | 2025-05-14 |
 | The Brattle Group | Research Analyst (Economics) - July 2025 | Unknown | Declined | 2025-05-14 |
 | Fivetran | Data Analyst Intern | Unknown | Declined | 2025-05-14 |
+| Paramount | Unknown | Unknown | Applied | 2025-05-14 |
+| AlphaSense | Associate Product Manager - Company Docs | Unknown | Applied | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |

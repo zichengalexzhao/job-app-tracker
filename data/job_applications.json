@@ -25464,5 +25464,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "AlphaSense",
+        "Job Title": "Associate Product Manager - Company Docs",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
     }
 ]
