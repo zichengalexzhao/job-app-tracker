@@ -25527,5 +25527,19 @@
         "Location": "Yonkers, NY, US",
         "status": "Applied",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "Buckelew Programs",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "ECG Management Consultants",
+        "Job Title": "Unknown",
+        "Location": "San Diego, CA, USA",
+        "status": "Declined",
+        "Date": "2025-05-14"
     }
 ]

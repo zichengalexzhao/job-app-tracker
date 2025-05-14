@@ -23,6 +23,8 @@
 | Live Nation Entertainment | Pricing Analyst | Unknown | Applied | 2025-05-14 |
 | PCAOB (Public Company Accounting Oversight Board) | Unknown | Unknown | Applied | 2025-05-14 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-05-14 |
+| Buckelew Programs | Data Analyst | Unknown | Declined | 2025-05-14 |
+| ECG Management Consultants | Unknown | San Diego, CA, USA | Declined | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
