@@ -1,6 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
+| Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
+| Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
+| Unknown | Junior Data Analyst | Unknown | Applied | 2025-05-14 |
+| Snowflake | Associate Data Scientist | Unknown | Applied | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |

@@ -25394,5 +25394,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "Spectrum",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Ankura",
+        "Job Title": "University Associate, Data Privacy",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Snowflake",
+        "Job Title": "Associate Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-14"
     }
 ]
