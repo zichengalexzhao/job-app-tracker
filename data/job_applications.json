@@ -25737,5 +25737,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-15"
+    },
+    {
+        "Company": "NextEra Energy",
+        "Job Title": "IT Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-15"
     }
 ]
