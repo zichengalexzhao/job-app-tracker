@@ -13384,13 +13384,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "Claritev",
-        "Job Title": "Business Analyst - AI",
-        "Location": "Remote",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "Hubbell",
         "Job Title": "Associate Business Analyst",
         "Location": "Shelton, CT",
@@ -15808,13 +15801,6 @@
     {
         "Company": "T-Mobile",
         "Job Title": "Analyst, Business Intelligence",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-05"
-    },
-    {
-        "Company": "Silicon Valley Clean Energy",
-        "Job Title": "Data Analytics Intern",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-05"
@@ -25627,13 +25613,6 @@
         "Date": "2025-05-15"
     },
     {
-        "Company": "Schneider Electric",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-15"
-    },
-    {
         "Company": "Capital Group",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -25757,6 +25736,27 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Claritev",
+        "Job Title": "Business Analyst - AI",
+        "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Schneider Electric",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Silicon Valley Clean Energy",
+        "Job Title": "Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-15"
     }
 ]

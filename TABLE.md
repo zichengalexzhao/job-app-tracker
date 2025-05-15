@@ -7,7 +7,6 @@
 | Schneider Electric | Unknown | Unknown | Applied | 2025-05-15 |
 | Risepoint | Unknown | Unknown | Applied | 2025-05-15 |
 | UnitedHealth Group | Data Analyst 1 | Remote Nationwide | Applied | 2025-05-15 |
-| Schneider Electric | Business Intelligence Analyst | Unknown | Applied | 2025-05-15 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-15 |
 | SentinelOne | Data Analyst Intern | Unknown | Applied | 2025-05-15 |
 | Scopely | Product Analyst | Unknown | Applied | 2025-05-15 |
@@ -25,6 +24,9 @@
 | NextEra Energy | IT Data Analyst | Unknown | Declined | 2025-05-15 |
 | NielsenIQ | Junior Analytic Consultant Retailer | Unknown | Applied | 2025-05-15 |
 | Snap Inc. | Unknown | Unknown | Applied | 2025-05-15 |
+| Claritev | Business Analyst - AI | Remote | Declined | 2025-05-15 |
+| Schneider Electric | Business Intelligence Analyst | Unknown | Declined | 2025-05-15 |
+| Silicon Valley Clean Energy | Data Analytics Intern | Unknown | Declined | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
@@ -1440,7 +1442,6 @@
 | Weee! Inc | Operations Analyst II | Unknown | Applied | 2025-04-05 |
 | Elevance Health Companies, Inc. | Advanced Analytics Analyst | Unknown | Applied | 2025-04-05 |
 | T-Mobile | Analyst, Business Intelligence | Unknown | Applied | 2025-04-05 |
-| Silicon Valley Clean Energy | Data Analytics Intern | Unknown | Applied | 2025-04-05 |
 | Samsung Semiconductor | Unknown | Unknown | Applied | 2025-04-05 |
 | Kohl's | Unknown | Unknown | Applied | 2025-04-05 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-05 |
@@ -1784,7 +1785,6 @@
 | SitusAMC | Business Intelligence Analyst - Tableau | Remote US | Applied | 2025-03-27 |
 | Goldman Sachs | Unknown | Salt Lake City, Utah, United States | Declined | 2025-03-27 |
 | GSR | Unknown | Unknown | Applied | 2025-03-27 |
-| Claritev | Business Analyst - AI | Remote | Applied | 2025-03-27 |
 | Hubbell | Associate Business Analyst | Shelton, CT | Applied | 2025-03-27 |
 | PHS Bio-Medical Services | Business Analyst I | Unknown | Applied | 2025-03-27 |
 | Rue Gilt Groupe | Data Analyst - Member Services | Unknown | Applied | 2025-03-27 |
