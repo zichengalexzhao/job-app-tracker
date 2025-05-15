@@ -33,6 +33,19 @@
 | Experian | Senior Data Scientist | Remote | Applied | 2025-05-15 |
 | PG&E (Pacific Gas and Electric Company) | Data Scientist | Unknown | Declined | 2025-05-15 |
 | Reddit | Data Scientist, Ads | Unknown | Declined | 2025-05-15 |
+| Topgolf Callaway Brands | Unknown | Unknown | Applied | 2025-05-15 |
+| Capgemini | Business Analyst | Unknown | Applied | 2025-05-15 |
+| Unknown | Business Analyst, IT | Unknown | Applied | 2025-05-15 |
+| G3 (G3 Enterprises) | Analyst 2-Sourcing | Unknown | Applied | 2025-05-15 |
+| Glovis America | Unknown | Unknown | Applied | 2025-05-15 |
+| TransUnion | Unknown | Unknown | Applied | 2025-05-15 |
+| PRA | Data Analyst - Operational Analytics and Reporting | Unknown | Applied | 2025-05-15 |
+| Softermii | Unknown | Unknown | Applied | 2025-05-15 |
+| Capital Rx | Unknown | Unknown | Applied | 2025-05-15 |
+| Tatari | Data Science Intern | Unknown | Declined | 2025-05-15 |
+| MyHR (Allstate) | Unknown | Unknown | Applied | 2025-05-15 |
+| SitusAMC | Unknown | Unknown | Applied | 2025-05-15 |
+| Greenlane | Summer Ops Internship | Unknown | Interviewed | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
