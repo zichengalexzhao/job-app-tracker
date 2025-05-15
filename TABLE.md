@@ -14,6 +14,10 @@
 | Nextdoor | Customer Insights Analyst | Unknown | Declined | 2025-05-15 |
 | Independence Pet Holdings | Unknown | Unknown | Declined | 2025-05-15 |
 | Deckers Brands | Analyst, Consumer Data | Unknown | Applied | 2025-05-15 |
+| CrowdStrike | Data & Automation Analyst | Remote | Declined | 2025-05-15 |
+| FIS | Statistician-Data Analyst II | Unknown | Applied | 2025-05-15 |
+| CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-05-15 |
+| Holman | Reporting Analyst l | Unknown | Applied | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
@@ -175,7 +179,6 @@
 | DaVita Kidney Care | Business Analyst - Growth Strategy & Analytics | Unknown | Applied | 2025-05-09 |
 | Claritev | Data Business Analyst | Remote | Applied | 2025-05-09 |
 | FanDuel | Data Analyst, Experimentation | Unknown | Applied | 2025-05-09 |
-| CrowdStrike | Data & Automation Analyst | Remote | Applied | 2025-05-09 |
 | Broadcast Music, Inc | Analyst, Accounts Payable (PT) | Unknown | Applied | 2025-05-09 |
 | Capital One | Senior Data Scientist - NLP | Unknown | Declined | 2025-05-09 |
 | AppFolio | Sr. Performance Analyst | Unknown | Declined | 2025-05-09 |

@@ -24640,13 +24640,6 @@
         "Date": "2025-05-09"
     },
     {
-        "Company": "CrowdStrike",
-        "Job Title": "Data & Automation Analyst",
-        "Location": "Remote",
-        "status": "Applied",
-        "Date": "2025-05-09"
-    },
-    {
         "Company": "Broadcast Music, Inc",
         "Job Title": "Analyst, Accounts Payable (PT)",
         "Location": "Unknown",
@@ -25699,6 +25692,34 @@
     {
         "Company": "Deckers Brands",
         "Job Title": "Analyst, Consumer Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "CrowdStrike",
+        "Job Title": "Data & Automation Analyst",
+        "Location": "Remote",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "FIS",
+        "Job Title": "Statistician-Data Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "CAA (Creative Artists Agency)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Holman",
+        "Job Title": "Reporting Analyst l",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-15"
