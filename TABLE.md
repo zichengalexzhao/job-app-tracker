@@ -23,6 +23,7 @@
 | Unknown | Data Collection Analyst | Unknown | Applied | 2025-05-15 |
 | Unknown | Data Collection Analyst | Unknown | Applied | 2025-05-15 |
 | NextEra Energy | IT Data Analyst | Unknown | Declined | 2025-05-15 |
+| NielsenIQ | Junior Analytic Consultant Retailer | Unknown | Applied | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
