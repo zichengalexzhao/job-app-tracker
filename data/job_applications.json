@@ -25688,5 +25688,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-14"
+    },
+    {
+        "Company": "Independence Pet Holdings",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Deckers Brands",
+        "Job Title": "Analyst, Consumer Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
     }
 ]

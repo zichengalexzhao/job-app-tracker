@@ -12,6 +12,8 @@
 | SentinelOne | Data Analyst Intern | Unknown | Applied | 2025-05-15 |
 | Scopely | Product Analyst | Unknown | Applied | 2025-05-15 |
 | Nextdoor | Customer Insights Analyst | Unknown | Declined | 2025-05-15 |
+| Independence Pet Holdings | Unknown | Unknown | Declined | 2025-05-15 |
+| Deckers Brands | Analyst, Consumer Data | Unknown | Applied | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
