@@ -8750,13 +8750,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Reddit",
-        "Job Title": "Data Scientist, Ads",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Texas Capital Bank",
         "Job Title": "Risk Analytics Analyst",
         "Location": "Unknown",
@@ -25762,6 +25755,41 @@
     {
         "Company": "The Marvin Group",
         "Job Title": "Business Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "YouGov",
+        "Job Title": "Research Associate",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Tesla",
+        "Job Title": "Internship, Business Intelligence Analyst, Sales & Service (Fall 2025), 242781",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Experian",
+        "Job Title": "Senior Data Scientist",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "PG&E (Pacific Gas and Electric Company)",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Reddit",
+        "Job Title": "Data Scientist, Ads",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-15"

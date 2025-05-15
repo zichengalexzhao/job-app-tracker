@@ -28,6 +28,11 @@
 | Schneider Electric | Business Intelligence Analyst | Unknown | Declined | 2025-05-15 |
 | Silicon Valley Clean Energy | Data Analytics Intern | Unknown | Declined | 2025-05-15 |
 | The Marvin Group | Business Analyst I | Unknown | Declined | 2025-05-15 |
+| YouGov | Research Associate | Unknown | Applied | 2025-05-15 |
+| Tesla | Internship, Business Intelligence Analyst, Sales & Service (Fall 2025), 242781 | Unknown | Applied | 2025-05-15 |
+| Experian | Senior Data Scientist | Remote | Applied | 2025-05-15 |
+| PG&E (Pacific Gas and Electric Company) | Data Scientist | Unknown | Declined | 2025-05-15 |
+| Reddit | Data Scientist, Ads | Unknown | Declined | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
@@ -2455,7 +2460,6 @@
 | Snowflake | Data Scientist, GTM Data Science | Unknown | Applied | 2025-03-07 |
 | Reddit | Machine Learning Engineer, Search (multiple levels) | Unknown | Applied | 2025-03-07 |
 | Ascend Analytics, LLC | Data Scientist | Unknown | Declined | 2025-03-07 |
-| Reddit | Data Scientist, Ads | Unknown | Applied | 2025-03-07 |
 | Texas Capital Bank | Risk Analytics Analyst | Unknown | Applied | 2025-03-07 |
 | Baptist Memorial Health Care | Analyst-Data Reporting Associate - HS Enterprise Reporting Analytics | Unknown | Applied | 2025-03-07 |
 | Deloitte | AI/ ML Data Scientist | McLean or Chantilly, VA | Applied | 2025-03-07 |
