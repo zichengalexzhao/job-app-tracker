@@ -1,5 +1,17 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
+| Addepar | Unknown | Unknown | Applied | 2025-05-15 |
+| Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |
+| Refuel Operating Company, LLC | Marketing Data Analyst Intern | Charleston, SC | Applied | 2025-05-15 |
+| Schneider Electric | Unknown | Unknown | Applied | 2025-05-15 |
+| Risepoint | Unknown | Unknown | Applied | 2025-05-15 |
+| UnitedHealth Group | Data Analyst 1 | Remote Nationwide | Applied | 2025-05-15 |
+| Schneider Electric | Business Intelligence Analyst | Unknown | Applied | 2025-05-15 |
+| Capital Group | Unknown | Unknown | Applied | 2025-05-15 |
+| SentinelOne | Data Analyst Intern | Unknown | Applied | 2025-05-15 |
+| Scopely | Product Analyst | Unknown | Applied | 2025-05-15 |
+| Nextdoor | Customer Insights Analyst | Unknown | Declined | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
@@ -37,6 +49,7 @@
 | Tubi | Analyst, Business Operations & Strategy | Unknown | Declined | 2025-05-14 |
 | ResMed | Senior Analyst, Corporate Strategy | Unknown | Applied | 2025-05-14 |
 | Beghou Consulting | Consultant | Unknown | Applied | 2025-05-14 |
+| Splunk | Campaign Business Analyst | Unknown | Declined | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
@@ -2197,7 +2210,6 @@
 | DISH Network L.L.C. | Data and Business Operations Analyst | Unknown | Declined | 2025-03-13 |
 | Shepherd | Business Analytics | Unknown | Declined | 2025-03-13 |
 | Cognizant | Data Conversion Associate Consultant | Unknown | Applied | 2025-03-12 |
-| Splunk | Campaign Business Analyst | Unknown | Applied | 2025-03-12 |
 | Western Digital | Business Analyst | Unknown | Applied | 2025-03-12 |
 | Walmart | Data Scientist III | Unknown | Declined | 2025-03-12 |
 | Horizon Media | Analyst, Performance Media Analytics | Unknown | Declined | 2025-03-12 |

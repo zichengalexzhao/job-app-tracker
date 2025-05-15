@@ -9905,13 +9905,6 @@
         "Date": "2025-03-11"
     },
     {
-        "Company": "Splunk",
-        "Job Title": "Campaign Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "Western Digital",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -25603,6 +25596,97 @@
         "Job Title": "Consultant",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-14"
+    },
+    {
+        "Company": "Partners Group AG",
+        "Job Title": "Financial Analyst",
+        "Location": "Baar, Switzerland",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Addepar",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Clinpharma Clinical Research, LLC",
+        "Job Title": "Data Analyst",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Refuel Operating Company, LLC",
+        "Job Title": "Marketing Data Analyst Intern",
+        "Location": "Charleston, SC",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Schneider Electric",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Risepoint",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "UnitedHealth Group",
+        "Job Title": "Data Analyst 1",
+        "Location": "Remote Nationwide",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Schneider Electric",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Capital Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "SentinelOne",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Scopely",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Nextdoor",
+        "Job Title": "Customer Insights Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Splunk",
+        "Job Title": "Campaign Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-14"
     }
 ]
