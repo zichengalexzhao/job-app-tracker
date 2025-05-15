@@ -21546,13 +21546,6 @@
         "Date": "2025-04-24"
     },
     {
-        "Company": "American Credit Acceptance",
-        "Job Title": "Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-24"
-    },
-    {
         "Company": "Unknown",
         "Job Title": "Data and Analytics Intern",
         "Location": "Unknown",
@@ -21723,13 +21716,6 @@
     {
         "Company": "American Credit Acceptance",
         "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-25"
-    },
-    {
-        "Company": "American Credit Acceptance",
-        "Job Title": "Operations Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-04-25"
@@ -25722,6 +25708,13 @@
         "Job Title": "Reporting Analyst l",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "American Credit Acceptance",
+        "Job Title": "Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-15"
     }
 ]

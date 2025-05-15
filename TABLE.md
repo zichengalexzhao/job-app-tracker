@@ -18,6 +18,7 @@
 | FIS | Statistician-Data Analyst II | Unknown | Applied | 2025-05-15 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-05-15 |
 | Holman | Reporting Analyst l | Unknown | Applied | 2025-05-15 |
+| American Credit Acceptance | Operations Analyst | Unknown | Declined | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
@@ -568,7 +569,6 @@
 | Faire | Revenue Operations Associate | Unknown | Declined | 2025-04-25 |
 | American Credit Acceptance | Data Scientist | Unknown | Applied | 2025-04-25 |
 | American Credit Acceptance | Data Analyst | Unknown | Applied | 2025-04-25 |
-| American Credit Acceptance | Operations Analyst | Unknown | Applied | 2025-04-25 |
 | Cirrus Group Consulting | IT Business/Data Analyst | San Francisco, CA | Applied | 2025-04-25 |
 | Abbott | Statistical Analyst | Unknown | Applied | 2025-04-25 |
 | Humana | Data and Reporting Professional | Unknown | Applied | 2025-04-25 |
@@ -634,7 +634,6 @@
 | Shopify | Unknown | Unknown | Declined | 2025-04-24 |
 | American Credit Acceptance | Data Scientist | Unknown | Applied | 2025-04-24 |
 | American Credit Acceptance | Data Analyst | Unknown | Applied | 2025-04-24 |
-| American Credit Acceptance | Operations Analyst | Unknown | Applied | 2025-04-24 |
 | Unknown | Data and Analytics Intern | Unknown | Applied | 2025-04-24 |
 | Adventist Health | Data Integrity Analyst | Unknown | Declined | 2025-04-24 |
 | Attentive | Data Scientist II | Unknown | Applied | 2025-04-24 |
