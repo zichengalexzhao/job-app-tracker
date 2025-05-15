@@ -25716,5 +25716,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-15"
+    },
+    {
+        "Company": "Attentive",
+        "Job Title": "Deal Strategy (Sales) Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Data Collection Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Data Collection Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
     }
 ]
