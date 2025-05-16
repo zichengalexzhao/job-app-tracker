@@ -5,6 +5,7 @@
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
 | KeyBank | Data & BI Lead Assoc | Unknown | Declined | 2025-05-16 |
 | Epiq Systems | Unknown | Unknown | Applied | 2025-05-16 |
+| Agilent | Business Intelligence Market Research - Intern | Unknown | Declined | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |
@@ -1566,7 +1567,6 @@
 | Trane Technologies | Unknown | Unknown | Applied | 2025-04-02 |
 | Amazon | Partner Management Coordinator, Prime Video Channels | Unknown | Declined | 2025-04-02 |
 | FIS | Data Scientist, FIS University Program | Unknown | Applied | 2025-04-02 |
-| Agilent | Business Intelligence Market Research - Intern | Unknown | Applied | 2025-04-02 |
 | Recology | Waste Zero Reporting Analyst | Unknown | Applied | 2025-04-02 |
 | Cigna | Data Scientist Intern | Unknown | Applied | 2025-04-02 |
 | DaVita Kidney Care | Analyst, Change Management & Deployment | Unknown | Applied | 2025-04-02 |

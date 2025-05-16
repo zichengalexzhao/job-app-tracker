@@ -14784,13 +14784,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Agilent",
-        "Job Title": "Business Intelligence Market Research - Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "Recology",
         "Job Title": "Waste Zero Reporting Analyst",
         "Location": "Unknown",
@@ -25939,6 +25932,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Agilent",
+        "Job Title": "Business Intelligence Market Research - Intern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-16"
     }
 ]
