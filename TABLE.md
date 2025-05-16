@@ -28,6 +28,9 @@
 | Bloom Energy | Business Data Analyst Intern – Indirect Commodity | Unknown | Declined | 2025-05-16 |
 | Driscoll's | Supply Quality Analyst | Unknown | Applied | 2025-05-16 |
 | Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-05-16 |
+| Amazon | Business Intelligence Engineer | Unknown | Applied | 2025-05-16 |
+| Amazon | Business Intelligence Engineer | Unknown | Applied | 2025-05-16 |
+| Tesla | Internship, Business Intelligence, Infrastructure Operations (Fall 2025), 242784 | Unknown | Applied | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |

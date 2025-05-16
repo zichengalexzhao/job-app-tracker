@@ -26066,5 +26066,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-16"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Intelligence Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Intelligence Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Tesla",
+        "Job Title": "Internship, Business Intelligence, Infrastructure Operations (Fall 2025), 242784",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
     }
 ]
