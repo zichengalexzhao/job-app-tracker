@@ -7,6 +7,16 @@
 | Epiq Systems | Unknown | Unknown | Applied | 2025-05-16 |
 | Agilent | Business Intelligence Market Research - Intern | Unknown | Declined | 2025-05-16 |
 | Gusto | Sales Analyst, Revenue Analytics | Unknown | Declined | 2025-05-16 |
+| Niagara Bottling | Oracle EBS Business Analyst I - MFG Shop Floor Processes | Unknown | Applied | 2025-05-16 |
+| Experian | Data Science Analyst Senior | Unknown | Applied | 2025-05-16 |
+| Recidiviz | Unknown | Unknown | Applied | 2025-05-16 |
+| Oracle | Data Scientist 1 - 294489 | Unknown | Applied | 2025-05-16 |
+| Yaamava Resort and Casino | Customer Experience Analyst | Unknown | Declined | 2025-05-16 |
+| Yaamava Resort and Casino | Unknown | Unknown | Applied | 2025-05-16 |
+| Owner | Data Scientist (coming soon) | Unknown | Applied | 2025-05-16 |
+| Hilton Grand Vacations | Call Center Operations Analyst | Unknown | Applied | 2025-05-16 |
+| Axle | Jr. Data Science Engineer | Unknown | Applied | 2025-05-16 |
+| Pennymac | Analyst, IT FinOps | Unknown | Applied | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |

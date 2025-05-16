@@ -25933,5 +25933,75 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-16"
+    },
+    {
+        "Company": "Niagara Bottling",
+        "Job Title": "Oracle EBS Business Analyst I - MFG Shop Floor Processes",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Experian",
+        "Job Title": "Data Science Analyst Senior",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Recidiviz",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Scientist 1 - 294489",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Yaamava Resort and Casino",
+        "Job Title": "Customer Experience Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Yaamava Resort and Casino",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Owner",
+        "Job Title": "Data Scientist (coming soon)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Hilton Grand Vacations",
+        "Job Title": "Call Center Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Axle",
+        "Job Title": "Jr. Data Science Engineer",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Pennymac",
+        "Job Title": "Analyst, IT FinOps",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
     }
 ]
