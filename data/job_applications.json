@@ -25919,5 +25919,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-15"
+    },
+    {
+        "Company": "PCAOB (Public Company Accounting Oversight Board)",
+        "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Data & BI Lead Assoc",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-16"
     }
 ]
