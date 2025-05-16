@@ -4,6 +4,7 @@
 | Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
 | KeyBank | Data & BI Lead Assoc | Unknown | Declined | 2025-05-16 |
+| Epiq Systems | Unknown | Unknown | Applied | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |
