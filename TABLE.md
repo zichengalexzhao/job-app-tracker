@@ -21,6 +21,10 @@
 | Turing | Unknown | Unknown | Applied | 2025-05-16 |
 | Aon | New Business Analyst | Southern California | Applied | 2025-05-16 |
 | Lionsgate | Business Analyst - IT, PMO - Office of the CIO | Unknown | Applied | 2025-05-16 |
+| Block | Behavioral Insights Fraud Analyst - Customer Identity | Unknown | Applied | 2025-05-16 |
+| COSM | Data Scientist | Unknown | Applied | 2025-05-16 |
+| Acuity | Product Analyst - Insights | Unknown | Applied | 2025-05-16 |
+| Veritone | Unknown | Unknown | Applied | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |
