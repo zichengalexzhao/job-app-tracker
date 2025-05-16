@@ -25263,13 +25263,6 @@
         "Date": "2025-05-13"
     },
     {
-        "Company": "Roofstock",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-13"
-    },
-    {
         "Company": "ICANN",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -25503,13 +25496,6 @@
     {
         "Company": "Marvin Group",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-14"
-    },
-    {
-        "Company": "Roofstock",
-        "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-14"
@@ -26058,6 +26044,27 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Bloom Energy",
+        "Job Title": "Business Data Analyst Intern \u2013 Indirect Commodity",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Driscoll's",
+        "Job Title": "Supply Quality Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Roofstock",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-16"
     }
 ]

@@ -25,6 +25,9 @@
 | COSM | Data Scientist | Unknown | Applied | 2025-05-16 |
 | Acuity | Product Analyst - Insights | Unknown | Applied | 2025-05-16 |
 | Veritone | Unknown | Unknown | Applied | 2025-05-16 |
+| Bloom Energy | Business Data Analyst Intern – Indirect Commodity | Unknown | Declined | 2025-05-16 |
+| Driscoll's | Supply Quality Analyst | Unknown | Applied | 2025-05-16 |
+| Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |
@@ -107,7 +110,6 @@
 | Virgin Galactic | Sr. Analyst, Data Analytics | Unknown | Applied | 2025-05-14 |
 | University of Southern California (USC) | Product Analyst II (Data & Digital) | Unknown | Applied | 2025-05-14 |
 | Marvin Group | Unknown | Unknown | Applied | 2025-05-14 |
-| Roofstock | Business Intelligence Analyst | Unknown | Applied | 2025-05-14 |
 | Tubi | Analyst, Business Operations & Strategy | Unknown | Declined | 2025-05-14 |
 | ResMed | Senior Analyst, Corporate Strategy | Unknown | Applied | 2025-05-14 |
 | Beghou Consulting | Consultant | Unknown | Applied | 2025-05-14 |
@@ -146,7 +148,6 @@
 | V2X | Competitive Intelligence Intern | Unknown | Applied | 2025-05-13 |
 | BCD | Data Analyst | Unknown | Applied | 2025-05-13 |
 | Quantifind | Unknown | Unknown | Applied | 2025-05-13 |
-| Roofstock | Business Intelligence Analyst | Unknown | Applied | 2025-05-13 |
 | ICANN | Unknown | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
 | East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
