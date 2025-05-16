@@ -17,6 +17,10 @@
 | Hilton Grand Vacations | Call Center Operations Analyst | Unknown | Applied | 2025-05-16 |
 | Axle | Jr. Data Science Engineer | Unknown | Applied | 2025-05-16 |
 | Pennymac | Analyst, IT FinOps | Unknown | Applied | 2025-05-16 |
+| Basis Technologies | Client Analyst | Unknown | Declined | 2025-05-16 |
+| Turing | Unknown | Unknown | Applied | 2025-05-16 |
+| Aon | New Business Analyst | Southern California | Applied | 2025-05-16 |
+| Lionsgate | Business Analyst - IT, PMO - Office of the CIO | Unknown | Applied | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |

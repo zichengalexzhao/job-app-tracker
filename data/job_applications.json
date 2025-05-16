@@ -26003,5 +26003,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-16"
+    },
+    {
+        "Company": "Basis Technologies",
+        "Job Title": "Client Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Turing",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Aon",
+        "Job Title": "New Business Analyst",
+        "Location": "Southern California",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Lionsgate",
+        "Job Title": "Business Analyst - IT, PMO - Office of the CIO",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
     }
 ]
