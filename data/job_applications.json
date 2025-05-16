@@ -25884,5 +25884,40 @@
         "Location": "Unknown",
         "status": "Interviewed",
         "Date": "2025-05-15"
+    },
+    {
+        "Company": "Capital Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Metronome",
+        "Job Title": "Junior Analyst Intern (Summer 2025 Internship)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "BetterHelp",
+        "Job Title": "AI Extern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "SeatGeek",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
+    },
+    {
+        "Company": "Apex Systems",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-15"
     }
 ]

@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Capital Group | Unknown | Unknown | Applied | 2025-05-16 |
+| Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |
@@ -46,6 +48,9 @@
 | MyHR (Allstate) | Unknown | Unknown | Applied | 2025-05-15 |
 | SitusAMC | Unknown | Unknown | Applied | 2025-05-15 |
 | Greenlane | Summer Ops Internship | Unknown | Interviewed | 2025-05-15 |
+| BetterHelp | AI Extern | Unknown | Applied | 2025-05-15 |
+| SeatGeek | Data Scientist | Unknown | Applied | 2025-05-15 |
+| Apex Systems | Unknown | Unknown | Applied | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
 | Spectrum | Unknown | Unknown | Applied | 2025-05-14 |
 | Ankura | University Associate, Data Privacy | Unknown | Declined | 2025-05-14 |
