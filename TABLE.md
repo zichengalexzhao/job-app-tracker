@@ -6,6 +6,7 @@
 | KeyBank | Data & BI Lead Assoc | Unknown | Declined | 2025-05-16 |
 | Epiq Systems | Unknown | Unknown | Applied | 2025-05-16 |
 | Agilent | Business Intelligence Market Research - Intern | Unknown | Declined | 2025-05-16 |
+| Gusto | Sales Analyst, Revenue Analytics | Unknown | Declined | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |
@@ -96,7 +97,6 @@
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
-| Gusto | Sales Analyst, Revenue Analytics | Unknown | Applied | 2025-05-13 |
 | UCLA Health | Unknown | Unknown | Applied | 2025-05-13 |
 | United Collective | Data Analyst | Unknown | Applied | 2025-05-13 |
 | Valera Health | Data Analyst | Unknown | Declined | 2025-05-13 |
@@ -120,7 +120,6 @@
 | Charles Schwab Corporation | Quantitative Research Analyst | Unknown | Applied | 2025-05-13 |
 | Charles Schwab Corporation | Quantitative Research Analyst | Unknown | Applied | 2025-05-13 |
 | JLL | Business Operations Analyst | Unknown | Declined | 2025-05-13 |
-| Gusto | Sales Analyst, Revenue Analytics | Unknown | Applied | 2025-05-13 |
 | JetBlue | Analyst Airline Optimization Operability | LSC Long Island City SC | Declined | 2025-05-13 |
 | Credit One Bank | Data Science (Decision Science) Intern | Unknown | Applied | 2025-05-13 |
 | Sigma Computing | Revenue Operations Analyst | San Francisco, CA | Declined | 2025-05-13 |

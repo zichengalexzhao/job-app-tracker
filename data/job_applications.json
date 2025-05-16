@@ -25046,13 +25046,6 @@
         "Date": "2025-05-13"
     },
     {
-        "Company": "Gusto",
-        "Job Title": "Sales Analyst, Revenue Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-13"
-    },
-    {
         "Company": "UCLA Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -25211,13 +25204,6 @@
         "Job Title": "Business Operations Analyst",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-05-13"
-    },
-    {
-        "Company": "Gusto",
-        "Job Title": "Sales Analyst, Revenue Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-05-13"
     },
     {
@@ -25937,6 +25923,13 @@
     {
         "Company": "Agilent",
         "Job Title": "Business Intelligence Market Research - Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Sales Analyst, Revenue Analytics",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-16"
