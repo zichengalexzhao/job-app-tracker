@@ -6,6 +6,7 @@
 | Unlock Health | Unknown | Unknown | Applied | 2025-05-17 |
 | Plaid | People Analytics Analyst | Unknown | Applied | 2025-05-17 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-17 |
+| ABK Workday | Platform Data Analyst | Irvine, CA | Applied | 2025-05-17 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-16 |
 | Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
