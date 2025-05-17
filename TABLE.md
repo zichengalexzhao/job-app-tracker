@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | UCSF (University of California, San Francisco) | Research Data Analyst | Unknown | Applied | 2025-05-17 |
+| Zynga | Data Analyst | Unknown | Declined | 2025-05-17 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-16 |
 | Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
