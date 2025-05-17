@@ -23,6 +23,7 @@
 | The Better Companies | Power BI Analyst | Unknown | Applied | 2025-05-17 |
 | One Inc | Associate Data Analytics | Unknown | Applied | 2025-05-17 |
 | Basis Technologies | Client Analyst | Unknown | Declined | 2025-05-17 |
+| Businessolver | Data Integrations Analyst | Unknown | Declined | 2025-05-17 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-16 |
 | Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
