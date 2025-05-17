@@ -26129,5 +26129,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-17"
+    },
+    {
+        "Company": "The Home Depot",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-17"
     }
 ]
