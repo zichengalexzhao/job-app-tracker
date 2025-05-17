@@ -9,6 +9,20 @@
 | ABK Workday | Platform Data Analyst | Irvine, CA | Applied | 2025-05-17 |
 | Niagara Bottling, LLC | Oracle EBS Business Analyst I - MFG Shop Floor Processes | Unknown | Applied | 2025-05-17 |
 | San Manuel | Unknown | Unknown | Applied | 2025-05-17 |
+| Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-17 |
+| Upgrade | Data Scientist | Unknown | Applied | 2025-05-17 |
+| Serve Robotics | Data Analyst, Autonomy | Unknown | Applied | 2025-05-17 |
+| Brisk Teaching | Product Analyst | Unknown | Applied | 2025-05-17 |
+| Gorgias | Data Analytics Manager | Unknown | Applied | 2025-05-17 |
+| Sleeper | Data Scientist | Unknown | Applied | 2025-05-17 |
+| Docusign | Org Effectiveness Business Analyst | Unknown | Applied | 2025-05-17 |
+| UCSF (University of California, San Francisco) | Data and Reporting Analyst | Unknown | Applied | 2025-05-17 |
+| Crossmedia Inc | Sr Data Analyst | Unknown | Applied | 2025-05-17 |
+| Plaza Home Mortgage, Inc. | Business Intelligence Analyst I | Unknown | Applied | 2025-05-17 |
+| Pennymac | Analyst II, Bus | Unknown | Applied | 2025-05-17 |
+| The Better Companies | Power BI Analyst | Unknown | Applied | 2025-05-17 |
+| One Inc | Associate Data Analytics | Unknown | Applied | 2025-05-17 |
+| Basis Technologies | Client Analyst | Unknown | Declined | 2025-05-17 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-16 |
 | Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
