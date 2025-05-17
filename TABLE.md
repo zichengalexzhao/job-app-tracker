@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| UCSF (University of California, San Francisco) | Research Data Analyst | Unknown | Applied | 2025-05-17 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-16 |
 | Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
@@ -31,6 +32,10 @@
 | Amazon | Business Intelligence Engineer | Unknown | Applied | 2025-05-16 |
 | Amazon | Business Intelligence Engineer | Unknown | Applied | 2025-05-16 |
 | Tesla | Internship, Business Intelligence, Infrastructure Operations (Fall 2025), 242784 | Unknown | Applied | 2025-05-16 |
+| Synchrony | Unknown | Unknown | Applied | 2025-05-16 |
+| Synchrony Financial | Analyst, Data Sourcing – Metadata | Unknown | Applied | 2025-05-16 |
+| Timescale | Marketing Data Analyst | Unknown | Applied | 2025-05-16 |
+| Altair | Data Analyst | Unknown | Applied | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |

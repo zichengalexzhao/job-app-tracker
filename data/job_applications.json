@@ -26087,5 +26087,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-16"
+    },
+    {
+        "Company": "UCSF (University of California, San Francisco)",
+        "Job Title": "Research Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-17"
+    },
+    {
+        "Company": "Synchrony",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Synchrony Financial",
+        "Job Title": "Analyst, Data Sourcing \u2013 Metadata",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Timescale",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
+    },
+    {
+        "Company": "Altair",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-16"
     }
 ]
