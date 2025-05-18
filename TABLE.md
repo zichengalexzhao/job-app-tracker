@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | BetterHelp | Data Science Extern, Experimentation | Unknown | Applied | 2025-05-18 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-18 |
+| Holman | Data Analyst - Sales Analytics | Unknown | Applied | 2025-05-18 |
 | UCSF (University of California, San Francisco) | Research Data Analyst | Unknown | Applied | 2025-05-17 |
 | Zynga | Data Analyst | Unknown | Declined | 2025-05-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-05-17 |
