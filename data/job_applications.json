@@ -26297,5 +26297,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-17"
+    },
+    {
+        "Company": "BetterHelp",
+        "Job Title": "Data Science Extern, Experimentation",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-18"
+    },
+    {
+        "Company": "EnergyHub",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-18"
     }
 ]
