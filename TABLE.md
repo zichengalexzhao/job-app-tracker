@@ -5,6 +5,8 @@
 | Holman | Data Analyst - Sales Analytics | Unknown | Applied | 2025-05-18 |
 | Experian | Data Science Analyst Senior | Unknown | Declined | 2025-05-18 |
 | Unlock Health | Business Analyst | Unknown | Declined | 2025-05-18 |
+| Meta Platforms, Inc. | Data Scientist, Product Analytics | Unknown | Applied | 2025-05-18 |
+| DoorDash | Data Scientist / Senior Data Scientist, Analytics | Unknown | Applied | 2025-05-18 |
 | UCSF (University of California, San Francisco) | Research Data Analyst | Unknown | Applied | 2025-05-17 |
 | Zynga | Data Analyst | Unknown | Declined | 2025-05-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-05-17 |

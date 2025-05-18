@@ -26325,5 +26325,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-18"
+    },
+    {
+        "Company": "Meta Platforms, Inc.",
+        "Job Title": "Data Scientist, Product Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-18"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Data Scientist / Senior Data Scientist, Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-18"
     }
 ]
