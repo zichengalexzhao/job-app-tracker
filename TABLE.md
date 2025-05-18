@@ -24,6 +24,8 @@
 | One Inc | Associate Data Analytics | Unknown | Applied | 2025-05-17 |
 | Basis Technologies | Client Analyst | Unknown | Declined | 2025-05-17 |
 | Businessolver | Data Integrations Analyst | Unknown | Declined | 2025-05-17 |
+| Pacific Gas and Electric Company (PG&E) | Data Scientist Intern | Unknown | Declined | 2025-05-17 |
+| Kingston Technology Corporation | Business Analyst- Finance | Unknown | Declined | 2025-05-17 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-16 |
 | Metronome | Junior Analyst Intern (Summer 2025 Internship) | Unknown | Declined | 2025-05-16 |
 | PCAOB (Public Company Accounting Oversight Board) | Research Analyst | Unknown | Applied | 2025-05-16 |
