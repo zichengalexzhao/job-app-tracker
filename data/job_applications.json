@@ -25928,13 +25928,6 @@
         "Date": "2025-05-16"
     },
     {
-        "Company": "Experian",
-        "Job Title": "Data Science Analyst Senior",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-16"
-    },
-    {
         "Company": "Recidiviz",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -26317,6 +26310,20 @@
         "Job Title": "Data Analyst - Sales Analytics",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-18"
+    },
+    {
+        "Company": "Experian",
+        "Job Title": "Data Science Analyst Senior",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-18"
+    },
+    {
+        "Company": "Unlock Health",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-18"
     }
 ]

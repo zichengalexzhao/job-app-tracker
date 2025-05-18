@@ -3,6 +3,8 @@
 | BetterHelp | Data Science Extern, Experimentation | Unknown | Applied | 2025-05-18 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-18 |
 | Holman | Data Analyst - Sales Analytics | Unknown | Applied | 2025-05-18 |
+| Experian | Data Science Analyst Senior | Unknown | Declined | 2025-05-18 |
+| Unlock Health | Business Analyst | Unknown | Declined | 2025-05-18 |
 | UCSF (University of California, San Francisco) | Research Data Analyst | Unknown | Applied | 2025-05-17 |
 | Zynga | Data Analyst | Unknown | Declined | 2025-05-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-05-17 |
@@ -37,7 +39,6 @@
 | Agilent | Business Intelligence Market Research - Intern | Unknown | Declined | 2025-05-16 |
 | Gusto | Sales Analyst, Revenue Analytics | Unknown | Declined | 2025-05-16 |
 | Niagara Bottling | Oracle EBS Business Analyst I - MFG Shop Floor Processes | Unknown | Applied | 2025-05-16 |
-| Experian | Data Science Analyst Senior | Unknown | Applied | 2025-05-16 |
 | Recidiviz | Unknown | Unknown | Applied | 2025-05-16 |
 | Oracle | Data Scientist 1 - 294489 | Unknown | Applied | 2025-05-16 |
 | Yaamava Resort and Casino | Customer Experience Analyst | Unknown | Declined | 2025-05-16 |
