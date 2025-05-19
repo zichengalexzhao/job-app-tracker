@@ -25396,13 +25396,6 @@
         "Date": "2025-05-14"
     },
     {
-        "Company": "Hightouch",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-14"
-    },
-    {
         "Company": "Live Nation Entertainment",
         "Job Title": "Pricing Analyst",
         "Location": "Unknown",
@@ -26408,6 +26401,20 @@
         "Job Title": "Data Analyst 1",
         "Location": "Remote Nationwide",
         "status": "Applied",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Hightouch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Aptara",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-19"
     }
 ]

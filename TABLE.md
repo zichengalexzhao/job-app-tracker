@@ -13,6 +13,8 @@
 | AllSTEM Connections | Business Analyst | Torrance, CA | Applied | 2025-05-19 |
 | Partnership HealthPlan of CA | Health Services Analyst I | Unknown | Declined | 2025-05-19 |
 | UnitedHealth Group | Data Analyst 1 | Remote Nationwide | Applied | 2025-05-19 |
+| Hightouch | Unknown | Unknown | Declined | 2025-05-19 |
+| Aptara | Data Analyst | Unknown | Declined | 2025-05-19 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-18 |
 | Holman | Data Analyst - Sales Analytics | Unknown | Applied | 2025-05-18 |
 | Experian | Data Science Analyst Senior | Unknown | Declined | 2025-05-18 |
@@ -146,7 +148,6 @@
 | K1 | Analyst, Executive Recruiting | Unknown | Declined | 2025-05-14 |
 | AMAROK | Unknown | Unknown | Applied | 2025-05-14 |
 | St. Michael's Inc | Data Analytics Intern | Unknown | Declined | 2025-05-14 |
-| Hightouch | Unknown | Unknown | Applied | 2025-05-14 |
 | Live Nation Entertainment | Pricing Analyst | Unknown | Applied | 2025-05-14 |
 | PCAOB (Public Company Accounting Oversight Board) | Unknown | Unknown | Applied | 2025-05-14 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-05-14 |
