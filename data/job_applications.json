@@ -26395,5 +26395,12 @@
         "Location": "Torrance, CA",
         "status": "Applied",
         "Date": "2025-05-19"
+    },
+    {
+        "Company": "Partnership HealthPlan of CA",
+        "Job Title": "Health Services Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
     }
 ]
