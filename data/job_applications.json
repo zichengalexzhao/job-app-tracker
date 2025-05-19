@@ -26360,5 +26360,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-19"
+    },
+    {
+        "Company": "Tandem",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Recidiviz",
+        "Job Title": "Policy Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
     }
 ]
