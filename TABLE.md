@@ -4,6 +4,9 @@
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
 | Recidiviz | Policy Data Analyst | Unknown | Declined | 2025-05-19 |
+| Altair | Data Analyst | Unknown | Declined | 2025-05-19 |
+| Aon | New Business Analyst | Southern California | Declined | 2025-05-19 |
+| Aon | New Business Analyst | Southern California | Declined | 2025-05-19 |
 | BetterHelp | Data Science Extern, Experimentation | Unknown | Applied | 2025-05-18 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-18 |
 | Holman | Data Analyst - Sales Analytics | Unknown | Applied | 2025-05-18 |
@@ -56,7 +59,6 @@
 | Pennymac | Analyst, IT FinOps | Unknown | Applied | 2025-05-16 |
 | Basis Technologies | Client Analyst | Unknown | Declined | 2025-05-16 |
 | Turing | Unknown | Unknown | Applied | 2025-05-16 |
-| Aon | New Business Analyst | Southern California | Applied | 2025-05-16 |
 | Lionsgate | Business Analyst - IT, PMO - Office of the CIO | Unknown | Applied | 2025-05-16 |
 | Block | Behavioral Insights Fraud Analyst - Customer Identity | Unknown | Applied | 2025-05-16 |
 | COSM | Data Scientist | Unknown | Applied | 2025-05-16 |
@@ -71,7 +73,6 @@
 | Synchrony | Unknown | Unknown | Applied | 2025-05-16 |
 | Synchrony Financial | Analyst, Data Sourcing – Metadata | Unknown | Applied | 2025-05-16 |
 | Timescale | Marketing Data Analyst | Unknown | Applied | 2025-05-16 |
-| Altair | Data Analyst | Unknown | Applied | 2025-05-16 |
 | Partners Group AG | Financial Analyst | Baar, Switzerland | Applied | 2025-05-15 |
 | Addepar | Unknown | Unknown | Applied | 2025-05-15 |
 | Clinpharma Clinical Research, LLC | Data Analyst | Remote | Applied | 2025-05-15 |

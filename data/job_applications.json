@@ -25998,13 +25998,6 @@
         "Date": "2025-05-16"
     },
     {
-        "Company": "Aon",
-        "Job Title": "New Business Analyst",
-        "Location": "Southern California",
-        "status": "Applied",
-        "Date": "2025-05-16"
-    },
-    {
         "Company": "Lionsgate",
         "Job Title": "Business Analyst - IT, PMO - Office of the CIO",
         "Location": "Unknown",
@@ -26105,13 +26098,6 @@
     {
         "Company": "Timescale",
         "Job Title": "Marketing Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-16"
-    },
-    {
-        "Company": "Altair",
-        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-16"
@@ -26372,6 +26358,27 @@
         "Company": "Recidiviz",
         "Job Title": "Policy Data Analyst",
         "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Altair",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Aon",
+        "Job Title": "New Business Analyst",
+        "Location": "Southern California",
+        "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Aon",
+        "Job Title": "New Business Analyst",
+        "Location": "Southern California",
         "status": "Declined",
         "Date": "2025-05-19"
     }
