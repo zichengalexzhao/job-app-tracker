@@ -26402,5 +26402,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-19"
+    },
+    {
+        "Company": "UnitedHealth Group",
+        "Job Title": "Data Analyst 1",
+        "Location": "Remote Nationwide",
+        "status": "Applied",
+        "Date": "2025-05-19"
     }
 ]
