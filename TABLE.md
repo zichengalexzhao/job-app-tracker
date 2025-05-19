@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | BetterHelp | Data Science Extern, Experimentation | Unknown | Applied | 2025-05-18 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-18 |
 | Holman | Data Analyst - Sales Analytics | Unknown | Applied | 2025-05-18 |

@@ -26346,5 +26346,12 @@
         "Location": "Washington, Washington DC US",
         "status": "Applied",
         "Date": "2025-05-18"
+    },
+    {
+        "Company": "ABK Workday (Assumed from email address)",
+        "Job Title": "Data Analyst, Analytics Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-19"
     }
 ]
