@@ -7,7 +7,10 @@
 | Altair | Data Analyst | Unknown | Declined | 2025-05-19 |
 | Aon | New Business Analyst | Southern California | Declined | 2025-05-19 |
 | Aon | New Business Analyst | Southern California | Declined | 2025-05-19 |
-| BetterHelp | Data Science Extern, Experimentation | Unknown | Applied | 2025-05-18 |
+| Capital Rx | Analyst, Analytics | Unknown | Declined | 2025-05-19 |
+| BetterHelp | Data Science Extern, Experimentation | Unknown | Declined | 2025-05-19 |
+| Voltus | Market Operations Analyst | Unknown | Applied | 2025-05-19 |
+| AllSTEM Connections | Business Analyst | Torrance, CA | Applied | 2025-05-19 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-18 |
 | Holman | Data Analyst - Sales Analytics | Unknown | Applied | 2025-05-18 |
 | Experian | Data Science Analyst Senior | Unknown | Declined | 2025-05-18 |
@@ -605,7 +608,6 @@
 | BeOne | BI and Reporting Intern | Remote | Applied | 2025-04-28 |
 | Dow Jones | Data Analyst (Contact Center-Hybrid) | Unknown | Applied | 2025-04-28 |
 | Dow Jones | Data Analyst - Contact Center | Princeton | Applied | 2025-04-28 |
-| Capital Rx | Analyst, Analytics | Unknown | Applied | 2025-04-28 |
 | Capital Rx | Unknown | Unknown | Applied | 2025-04-28 |
 | AIPSO | Assistant Data Analyst/Data Analyst | Johnston, Rhode Island | Applied | 2025-04-28 |
 | RLI | Unknown | Unknown | Applied | 2025-04-28 |

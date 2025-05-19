@@ -22093,13 +22093,6 @@
     },
     {
         "Company": "Capital Rx",
-        "Job Title": "Analyst, Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-28"
-    },
-    {
-        "Company": "Capital Rx",
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
@@ -26278,13 +26271,6 @@
         "Date": "2025-05-17"
     },
     {
-        "Company": "BetterHelp",
-        "Job Title": "Data Science Extern, Experimentation",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-18"
-    },
-    {
         "Company": "EnergyHub",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -26380,6 +26366,34 @@
         "Job Title": "New Business Analyst",
         "Location": "Southern California",
         "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Capital Rx",
+        "Job Title": "Analyst, Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "BetterHelp",
+        "Job Title": "Data Science Extern, Experimentation",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "Voltus",
+        "Job Title": "Market Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-19"
+    },
+    {
+        "Company": "AllSTEM Connections",
+        "Job Title": "Business Analyst",
+        "Location": "Torrance, CA",
+        "status": "Applied",
         "Date": "2025-05-19"
     }
 ]
