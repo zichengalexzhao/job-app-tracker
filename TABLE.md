@@ -21,6 +21,20 @@
 | Tutor Perini Corporation | Data and Analytics Intern | Unknown | Applied | 2025-05-20 |
 | AMAROK | Sales Territory Optimization Analyst | Unknown | Declined | 2025-05-20 |
 | Geisinger | Business Intelligence Analyst Associate | Unknown | Declined | 2025-05-20 |
+| Amazon | Business Analyst II, Prime Video Global Operations | Unknown | Applied | 2025-05-20 |
+| Exelon Business Services, LLC | Business Analyst | Unknown | Applied | 2025-05-20 |
+| Wilson Sonsini Goodrich & Rosati | Data Analyst, CRM | Unknown | Applied | 2025-05-20 |
+| CircleCI | Senior Data Analyst, Product | Unknown | Declined | 2025-05-20 |
+| AAA (Automobile Club of Southern California) | Digital Data Analyst - Hybrid | Unknown | Declined | 2025-05-20 |
+| Tiburcio Vasquez Health Center | Clinical Data Analyst - Population Health | Unknown | Applied | 2025-05-20 |
+| Tiburcio Vasquez Health Center | Clinical Data Analyst - Population Health | Unknown | Applied | 2025-05-20 |
+| Sierra Nevada Brewing Co. | SALES DATA QUALITY ANALYST | Unknown | Applied | 2025-05-20 |
+| Infosys | Systems Engineer - US, 133106BR | Unknown | Applied | 2025-05-20 |
+| BeOne | Market Access Operations Intern | San Carlos, CA | Applied | 2025-05-20 |
+| Khan Academy | Unknown | Unknown | Applied | 2025-05-20 |
+| Twitch | Unknown | Unknown | Applied | 2025-05-20 |
+| TikTok | Data Scientist, Product Analytics - USDS | Unknown | Applied | 2025-05-20 |
+| Authentic Brands Group | Data Analyst Summer Intern | Unknown | Declined | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
@@ -392,7 +406,6 @@
 | Amerit Fleet Solutions | Unknown | Unknown | Applied | 2025-05-06 |
 | Study.com | Data Scientist | Unknown | Applied | 2025-05-06 |
 | Paycom | Associate Data Analyst | Unknown | Applied | 2025-05-06 |
-| CircleCI | Senior Data Analyst, Product | Unknown | Applied | 2025-05-06 |
 | Centene | Data Analyst III | Unknown | Applied | 2025-05-06 |
 | Unknown | IT Intern, Business Intelligence and Data Warehousing | Unknown | Applied | 2025-05-06 |
 | NRI | Unknown | Unknown | Declined | 2025-05-06 |
@@ -417,7 +430,6 @@
 | Darden Restaurant Support Center | Unknown | Unknown | Applied | 2025-05-06 |
 | Upgrade | Product Data Analyst | Unknown | Declined | 2025-05-06 |
 | Campus | Data Operations Analyst, Academic & Student Affairs | Unknown | Declined | 2025-05-06 |
-| CircleCI | Senior Data Analyst, Product | Unknown | Applied | 2025-05-06 |
 | Navien, Inc. | Product and Business Analyst | Unknown | Applied | 2025-05-06 |
 | Vistage Worldwide | Senior Analyst, Strategic Finance | Unknown | Applied | 2025-05-06 |
 | TikTok | Data Scientist - TikTok E-commerce Governance | Unknown | Applied | 2025-05-06 |
@@ -1210,7 +1222,6 @@
 | DaVita Kidney Care | Analyst, HSG Data Analytics | Unknown | Applied | 2025-04-13 |
 | Rocket Money | Unknown | Unknown | Applied | 2025-04-13 |
 | ALX Africa | Unknown | Unknown | Applied | 2025-04-13 |
-| Authentic Brands Group | Data Analyst Summer Intern | Unknown | Applied | 2025-04-13 |
 | StackAdapt | Data Scientist | Unknown | Applied | 2025-04-13 |
 | StackAdapt | Product Analytics, Mobile App | USA or Canada | Applied | 2025-04-13 |
 | Citi | AVP, AML Namescreening Data Analyst-25854159 | Unknown | Applied | 2025-04-13 |

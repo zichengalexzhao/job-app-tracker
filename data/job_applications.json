@@ -18123,13 +18123,6 @@
         "Date": "2025-04-13"
     },
     {
-        "Company": "Authentic Brands Group",
-        "Job Title": "Data Analyst Summer Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-13"
-    },
-    {
         "Company": "StackAdapt",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -23555,13 +23548,6 @@
         "Date": "2025-05-06"
     },
     {
-        "Company": "CircleCI",
-        "Job Title": "Senior Data Analyst, Product",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "Centene",
         "Job Title": "Data Analyst III",
         "Location": "Unknown",
@@ -23727,13 +23713,6 @@
         "Job Title": "Data Operations Analyst, Academic & Student Affairs",
         "Location": "Unknown",
         "status": "Declined",
-        "Date": "2025-05-06"
-    },
-    {
-        "Company": "CircleCI",
-        "Job Title": "Senior Data Analyst, Product",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-05-06"
     },
     {
@@ -26546,6 +26525,104 @@
     {
         "Company": "Geisinger",
         "Job Title": "Business Intelligence Analyst Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst II, Prime Video Global Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Exelon Business Services, LLC",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Wilson Sonsini Goodrich & Rosati",
+        "Job Title": "Data Analyst, CRM",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "CircleCI",
+        "Job Title": "Senior Data Analyst, Product",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "AAA (Automobile Club of Southern California)",
+        "Job Title": "Digital Data Analyst - Hybrid",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Tiburcio Vasquez Health Center",
+        "Job Title": "Clinical Data Analyst - Population Health",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Tiburcio Vasquez Health Center",
+        "Job Title": "Clinical Data Analyst - Population Health",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Sierra Nevada Brewing Co.",
+        "Job Title": "SALES DATA QUALITY ANALYST",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Infosys",
+        "Job Title": "Systems Engineer - US, 133106BR",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "BeOne",
+        "Job Title": "Market Access Operations Intern",
+        "Location": "San Carlos, CA",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Khan Academy",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Twitch",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "TikTok",
+        "Job Title": "Data Scientist, Product Analytics - USDS",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Authentic Brands Group",
+        "Job Title": "Data Analyst Summer Intern",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-20"
