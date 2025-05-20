@@ -22603,13 +22603,6 @@
         "Date": "2025-04-30"
     },
     {
-        "Company": "Cotiviti",
-        "Job Title": "Data Integration Analyst I",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-30"
-    },
-    {
         "Company": "Holman Enterprises",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -26506,6 +26499,20 @@
         "Job Title": "Business Analyst (Chinese Language)",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Dragonfly",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Cotiviti",
+        "Job Title": "Data Integration Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-20"
     }
 ]

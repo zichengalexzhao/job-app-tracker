@@ -13,6 +13,8 @@
 | Capital Group | Content & Data Analyst | Unknown | Applied | 2025-05-20 |
 | Tricon Residential | Business Analyst, IT | Unknown | Applied | 2025-05-20 |
 | Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-05-20 |
+| Dragonfly | Unknown | Unknown | Applied | 2025-05-20 |
+| Cotiviti | Data Integration Analyst I | Unknown | Declined | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
@@ -571,7 +573,6 @@
 | Stanford University | Business Intelligence Analyst | Unknown | Applied | 2025-04-30 |
 | Block | Marketing Data Analyst | Unknown | Declined | 2025-04-30 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-04-30 |
-| Cotiviti | Data Integration Analyst I | Unknown | Applied | 2025-04-30 |
 | Holman Enterprises | Unknown | Unknown | Applied | 2025-04-30 |
 | Blue Yonder | Data Scientist (Gen AI) | Unknown | Applied | 2025-04-30 |
 | Levi Strauss & Co. | Senior Retail Analyst | Unknown | Declined | 2025-04-30 |
