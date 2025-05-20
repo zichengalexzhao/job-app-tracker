@@ -5,6 +5,7 @@
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
 | Cox | Business Intelligence Analyst II | Unknown | Applied | 2025-05-20 |
 | Cisco | Data/Business Analyst | Unknown | Applied | 2025-05-20 |
+| Morgan Lewis | New Business Analyst | Unknown | Applied | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
