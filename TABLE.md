@@ -6,6 +6,10 @@
 | Cox | Business Intelligence Analyst II | Unknown | Applied | 2025-05-20 |
 | Cisco | Data/Business Analyst | Unknown | Applied | 2025-05-20 |
 | Morgan Lewis | New Business Analyst | Unknown | Applied | 2025-05-20 |
+| PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Applied | 2025-05-20 |
+| EnergyHub | Unknown | Unknown | Applied | 2025-05-20 |
+| YETI | Unknown | Unknown | Applied | 2025-05-20 |
+| PowerSchool Group LLC | Associate Data Services Analyst - IC1 (DATSRV - Data Services) | Unknown | Applied | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
