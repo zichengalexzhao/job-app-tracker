@@ -45,6 +45,9 @@
 | Augment Code | Unknown | Unknown | Applied | 2025-05-20 |
 | Capital Rx | Unknown | Unknown | Applied | 2025-05-20 |
 | Privia Health | Growth Strategy & Analytics Coordinator | Unknown | Applied | 2025-05-20 |
+| Foodsmart | Data Analyst | Unknown | Applied | 2025-05-20 |
+| City National Bank | Business Strategy Associate Analyst | Unknown | Declined | 2025-05-20 |
+| Rivian | Business Intelligence Associate, Remarketing | Unknown | Declined | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
@@ -1819,7 +1822,6 @@
 | Momentum Worldwide | Analyst, Analytics | Unknown | Applied | 2025-03-29 |
 | Walden University | Data Analyst | Unknown | Declined | 2025-03-29 |
 | PRA Group | Strategy Analyst - Legal Recovery | Unknown | Applied | 2025-03-29 |
-| City National Bank | Business Strategy Associate Analyst | Unknown | Applied | 2025-03-29 |
 | HealthEquity Inc. | Unknown | Unknown | Applied | 2025-03-29 |
 | WebMD | Business Finance Analyst | Unknown | Applied | 2025-03-29 |
 | Edelman | Analyst, Data Science | Unknown | Applied | 2025-03-29 |

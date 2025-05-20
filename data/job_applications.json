@@ -13846,13 +13846,6 @@
         "Date": "2025-03-29"
     },
     {
-        "Company": "City National Bank",
-        "Job Title": "Business Strategy Associate Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-29"
-    },
-    {
         "Company": "HealthEquity Inc.",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -26681,6 +26674,27 @@
         "Job Title": "Growth Strategy & Analytics Coordinator",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Foodsmart",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "City National Bank",
+        "Job Title": "Business Strategy Associate Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Rivian",
+        "Job Title": "Business Intelligence Associate, Remarketing",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-20"
     }
 ]
