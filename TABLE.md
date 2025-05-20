@@ -17,6 +17,10 @@
 | Cotiviti | Data Integration Analyst I | Unknown | Declined | 2025-05-20 |
 | Apex Talent Solutions | Remote Data Entry Clerk | 100% Remote | Applied | 2025-05-20 |
 | Apex Talent Solutions | Remote Data Entry Clerk | 100% Remote | Applied | 2025-05-20 |
+| Brisk | Product Analyst | Unknown | Declined | 2025-05-20 |
+| Tutor Perini Corporation | Data and Analytics Intern | Unknown | Applied | 2025-05-20 |
+| AMAROK | Sales Territory Optimization Analyst | Unknown | Declined | 2025-05-20 |
+| Geisinger | Business Intelligence Analyst Associate | Unknown | Declined | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
@@ -411,7 +415,6 @@
 | Kaiser Permanente | Data Reporting and Analytics Consultant II, Programming | Unknown | Declined | 2025-05-06 |
 | Zions Bancorporation | Marketing Data Analyst | Unknown | Applied | 2025-05-06 |
 | Darden Restaurant Support Center | Unknown | Unknown | Applied | 2025-05-06 |
-| Geisinger | Business Intelligence Analyst Associate | Unknown | Applied | 2025-05-06 |
 | Upgrade | Product Data Analyst | Unknown | Declined | 2025-05-06 |
 | Campus | Data Operations Analyst, Academic & Student Affairs | Unknown | Declined | 2025-05-06 |
 | CircleCI | Senior Data Analyst, Product | Unknown | Applied | 2025-05-06 |

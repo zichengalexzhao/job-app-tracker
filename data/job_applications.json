@@ -23716,13 +23716,6 @@
         "Date": "2025-05-06"
     },
     {
-        "Company": "Geisinger",
-        "Job Title": "Business Intelligence Analyst Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-06"
-    },
-    {
         "Company": "Upgrade",
         "Job Title": "Product Data Analyst",
         "Location": "Unknown",
@@ -26527,6 +26520,34 @@
         "Job Title": "Remote Data Entry Clerk",
         "Location": "100% Remote",
         "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Brisk",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Tutor Perini Corporation",
+        "Job Title": "Data and Analytics Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "AMAROK",
+        "Job Title": "Sales Territory Optimization Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Geisinger",
+        "Job Title": "Business Intelligence Analyst Associate",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-20"
     }
 ]
