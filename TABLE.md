@@ -48,6 +48,8 @@
 | Foodsmart | Data Analyst | Unknown | Applied | 2025-05-20 |
 | City National Bank | Business Strategy Associate Analyst | Unknown | Declined | 2025-05-20 |
 | Rivian | Business Intelligence Associate, Remarketing | Unknown | Declined | 2025-05-20 |
+| APL Logistics | Super User & Data Analyst (1st Shift) | Sacramento, CA | Declined | 2025-05-20 |
+| knownwell | Data Scientist | Unknown | Applied | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |

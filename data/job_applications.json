@@ -26696,5 +26696,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-20"
+    },
+    {
+        "Company": "APL Logistics",
+        "Job Title": "Super User & Data Analyst (1st Shift)",
+        "Location": "Sacramento, CA",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "knownwell",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
     }
 ]
