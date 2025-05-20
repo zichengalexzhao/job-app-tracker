@@ -35,6 +35,10 @@
 | Twitch | Unknown | Unknown | Applied | 2025-05-20 |
 | TikTok | Data Scientist, Product Analytics - USDS | Unknown | Applied | 2025-05-20 |
 | Authentic Brands Group | Data Analyst Summer Intern | Unknown | Declined | 2025-05-20 |
+| Snowflake | Data Scientist, GTM Data Science | Unknown | Declined | 2025-05-20 |
+| Bridgewater Consulting Group | Project Analyst - 3077 (No Corp - Corp, W2 only) | Unknown | Declined | 2025-05-20 |
+| Cotiviti | Summer Internship - Enterprise Reporting & Data Visualization | Unknown | Declined | 2025-05-20 |
+| Dealerware | Unknown | Unknown | Declined | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
@@ -346,7 +350,6 @@
 | Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-05-08 |
 | F5 | Data Analyst I | Unknown | Declined | 2025-05-08 |
 | Cambridge Systematics | Data Analyst | Unknown | Applied | 2025-05-08 |
-| Cotiviti | Summer Internship - Enterprise Reporting & Data Visualization | Unknown | Applied | 2025-05-08 |
 | Optimal | Paid Media Strategist | Unknown | Applied | 2025-05-08 |
 | The Shipyard | Unknown | Unknown | Applied | 2025-05-07 |
 | Extend | Unknown | Unknown | Applied | 2025-05-07 |
@@ -2576,7 +2579,6 @@
 | AIG | Innovation and Digital Business Enablement Analyst | United States, Atlanta (GA) | Applied | 2025-03-07 |
 | Koalafi | Sales Go-To-Market (GTM) Analyst | Unknown | Declined | 2025-03-07 |
 | Kwik Trip | Data Analyst | Unknown | Applied | 2025-03-07 |
-| Snowflake | Data Scientist, GTM Data Science | Unknown | Applied | 2025-03-07 |
 | Reddit | Machine Learning Engineer, Search (multiple levels) | Unknown | Applied | 2025-03-07 |
 | Ascend Analytics, LLC | Data Scientist | Unknown | Declined | 2025-03-07 |
 | Texas Capital Bank | Risk Analytics Analyst | Unknown | Applied | 2025-03-07 |

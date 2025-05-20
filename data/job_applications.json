@@ -8729,13 +8729,6 @@
         "Date": "2025-03-07"
     },
     {
-        "Company": "Snowflake",
-        "Job Title": "Data Scientist, GTM Data Science",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-07"
-    },
-    {
         "Company": "Reddit",
         "Job Title": "Machine Learning Engineer, Search (multiple levels)",
         "Location": "Unknown",
@@ -24346,13 +24339,6 @@
         "Date": "2025-05-08"
     },
     {
-        "Company": "Cotiviti",
-        "Job Title": "Summer Internship - Enterprise Reporting & Data Visualization",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-08"
-    },
-    {
         "Company": "Optimal",
         "Job Title": "Paid Media Strategist",
         "Location": "Unknown",
@@ -26623,6 +26609,34 @@
     {
         "Company": "Authentic Brands Group",
         "Job Title": "Data Analyst Summer Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Snowflake",
+        "Job Title": "Data Scientist, GTM Data Science",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Bridgewater Consulting Group",
+        "Job Title": "Project Analyst - 3077 (No Corp - Corp, W2 only)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Cotiviti",
+        "Job Title": "Summer Internship - Enterprise Reporting & Data Visualization",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Dealerware",
+        "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-20"
