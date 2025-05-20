@@ -39,6 +39,12 @@
 | Bridgewater Consulting Group | Project Analyst - 3077 (No Corp - Corp, W2 only) | Unknown | Declined | 2025-05-20 |
 | Cotiviti | Summer Internship - Enterprise Reporting & Data Visualization | Unknown | Declined | 2025-05-20 |
 | Dealerware | Unknown | Unknown | Declined | 2025-05-20 |
+| Capital Group | Unknown | Unknown | Applied | 2025-05-20 |
+| DSV | Data Analyst, Operations | USA - Fontana, Slover Ave | Applied | 2025-05-20 |
+| Datavant | Risk Adjustment Data Analyst | Unknown | Applied | 2025-05-20 |
+| Augment Code | Unknown | Unknown | Applied | 2025-05-20 |
+| Capital Rx | Unknown | Unknown | Applied | 2025-05-20 |
+| Privia Health | Growth Strategy & Analytics Coordinator | Unknown | Applied | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |

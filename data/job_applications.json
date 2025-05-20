@@ -26640,5 +26640,47 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-20"
+    },
+    {
+        "Company": "Capital Group",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "DSV",
+        "Job Title": "Data Analyst, Operations",
+        "Location": "USA - Fontana, Slover Ave",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Datavant",
+        "Job Title": "Risk Adjustment Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Augment Code",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Capital Rx",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Privia Health",
+        "Job Title": "Growth Strategy & Analytics Coordinator",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
     }
 ]
