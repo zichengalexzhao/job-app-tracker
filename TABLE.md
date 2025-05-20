@@ -15,6 +15,8 @@
 | Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-05-20 |
 | Dragonfly | Unknown | Unknown | Applied | 2025-05-20 |
 | Cotiviti | Data Integration Analyst I | Unknown | Declined | 2025-05-20 |
+| Apex Talent Solutions | Remote Data Entry Clerk | 100% Remote | Applied | 2025-05-20 |
+| Apex Talent Solutions | Remote Data Entry Clerk | 100% Remote | Applied | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
