@@ -10,6 +10,8 @@
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-20 |
 | YETI | Unknown | Unknown | Applied | 2025-05-20 |
 | PowerSchool Group LLC | Associate Data Services Analyst - IC1 (DATSRV - Data Services) | Unknown | Applied | 2025-05-20 |
+| Capital Group | Content & Data Analyst | Unknown | Applied | 2025-05-20 |
+| Tricon Residential | Business Analyst, IT | Unknown | Applied | 2025-05-20 |
 | ABK Workday (Assumed from email address) | Data Analyst, Analytics Insights | Unknown | Applied | 2025-05-19 |
 | ALX Africa | Legacy Reward Modelling Specialist | Unknown | Declined | 2025-05-19 |
 | Tandem | Unknown | Unknown | Declined | 2025-05-19 |
