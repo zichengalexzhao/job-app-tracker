@@ -26430,5 +26430,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-20"
+    },
+    {
+        "Company": "Rivian Automotive, LLC",
+        "Job Title": "Product Strategy Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Cox",
+        "Job Title": "Business Intelligence Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
+    },
+    {
+        "Company": "Cisco",
+        "Job Title": "Data/Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-20"
     }
 ]
