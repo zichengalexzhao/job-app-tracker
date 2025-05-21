@@ -19901,13 +19901,6 @@
         "Date": "2025-04-18"
     },
     {
-        "Company": "Docusign",
-        "Job Title": "Data Science Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-18"
-    },
-    {
         "Company": "R1RCM",
         "Job Title": "Data Operations Analyst II",
         "Location": "Unknown",
@@ -24094,13 +24087,6 @@
         "Date": "2025-05-07"
     },
     {
-        "Company": "Snowflake",
-        "Job Title": "Business Intelligence Analyst - Workloads Finance",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-07"
-    },
-    {
         "Company": "PIH Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -26863,6 +26849,34 @@
         "Job Title": "Analyst, Product Management",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Docusign",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Disney",
+        "Job Title": "Data Analyst, Disney Advertising Data and Measurement Science",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Alameda-Contra Costa Transit District",
+        "Job Title": "Statistical Data and Information Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Snowflake",
+        "Job Title": "Business Intelligence Analyst - Workloads Finance",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-21"
     }
 ]

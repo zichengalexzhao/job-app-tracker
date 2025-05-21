@@ -22,6 +22,10 @@
 | Coherent | Data Science, AI and Business Analyst - 2007514 | Unknown | Applied | 2025-05-21 |
 | Paramount | Unknown | Unknown | Applied | 2025-05-21 |
 | Visa | Analyst, Product Management | Unknown | Applied | 2025-05-21 |
+| Docusign | Data Science Intern | Unknown | Declined | 2025-05-21 |
+| Disney | Data Analyst, Disney Advertising Data and Measurement Science | Unknown | Applied | 2025-05-21 |
+| Alameda-Contra Costa Transit District | Statistical Data and Information Analyst | Unknown | Declined | 2025-05-21 |
+| Snowflake | Business Intelligence Analyst - Workloads Finance | Unknown | Declined | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
@@ -422,7 +426,6 @@
 | sweetgreen | Unknown | Unknown | Applied | 2025-05-07 |
 | Sabot Consulting | Unknown | Unknown | Applied | 2025-05-07 |
 | One Inc | Data Analyst II | Unknown | Declined | 2025-05-07 |
-| Snowflake | Business Intelligence Analyst - Workloads Finance | Unknown | Applied | 2025-05-07 |
 | PIH Health | Unknown | Unknown | Applied | 2025-05-07 |
 | Walgreens | Analyst, Data Analytics | Remote | Declined | 2025-05-07 |
 | RQ Construction | Junior Purchasing Data Analyst | Unknown | Declined | 2025-05-07 |
@@ -1033,7 +1036,6 @@
 | Prosites Inc | AI Data Analyst | Unknown | Applied | 2025-04-18 |
 | Qualtrics | Analyst (Partner Payments) | Unknown | Declined | 2025-04-18 |
 | R1RCM | Data Analyst | Unknown | Applied | 2025-04-18 |
-| Docusign | Data Science Intern | Unknown | Applied | 2025-04-18 |
 | R1RCM | Data Operations Analyst II | Unknown | Applied | 2025-04-18 |
 | Coinbase | Unknown | Unknown | Applied | 2025-04-18 |
 | ByteDance | Data Scientist (Multiple Positions) | Unknown | Applied | 2025-04-18 |
