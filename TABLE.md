@@ -29,6 +29,15 @@
 | MyFitnessPal | Unknown | Unknown | Applied | 2025-05-21 |
 | ActBlue | Data Analyst I | Unknown | Declined | 2025-05-21 |
 | Costco | CDS Summer Intern - Data Science | Unknown | Declined | 2025-05-21 |
+| Upgrade | Data Scientist | Unknown | Applied | 2025-05-21 |
+| M3USA | Data Analyst, Pharma, Health and Wellness Media (Remote) | Unknown | Applied | 2025-05-21 |
+| Control Risks | Business Resiliency Specialist | Unknown | Applied | 2025-05-21 |
+| Coinbase | Unknown | Unknown | Applied | 2025-05-21 |
+| Sony Music Entertainment | Analytics Rep | Unknown | Applied | 2025-05-21 |
+| Simpro Group | Unknown | Unknown | Applied | 2025-05-21 |
+| Spellman High Voltage Electronics | People Data, Analytics, and Insights Intern | Unknown | Applied | 2025-05-21 |
+| MeridianLink | Data Analyst Consultant - #1774 | Unknown | Applied | 2025-05-21 |
+| Block | Data Scientist, Square Support | Unknown | Applied | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
