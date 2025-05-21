@@ -4,6 +4,7 @@
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |
 | SAP | Data Science: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2025-05-21 |
+| Broadridge | Business Analyst - Data (Hybrid) | Unknown | Applied | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
