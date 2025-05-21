@@ -26885,5 +26885,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-21"
+    },
+    {
+        "Company": "ActBlue",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Costco",
+        "Job Title": "CDS Summer Intern - Data Science",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-21"
     }
 ]

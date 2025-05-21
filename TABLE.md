@@ -27,6 +27,8 @@
 | Alameda-Contra Costa Transit District | Statistical Data and Information Analyst | Unknown | Declined | 2025-05-21 |
 | Snowflake | Business Intelligence Analyst - Workloads Finance | Unknown | Declined | 2025-05-21 |
 | MyFitnessPal | Unknown | Unknown | Applied | 2025-05-21 |
+| ActBlue | Data Analyst I | Unknown | Declined | 2025-05-21 |
+| Costco | CDS Summer Intern - Data Science | Unknown | Declined | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
