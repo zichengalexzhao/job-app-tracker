@@ -26878,5 +26878,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-21"
+    },
+    {
+        "Company": "MyFitnessPal",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-21"
     }
 ]
