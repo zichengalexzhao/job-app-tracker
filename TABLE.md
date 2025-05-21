@@ -6,6 +6,7 @@
 | SAP | Data Science: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort) | Palo Alto, CA, US | Applied | 2025-05-21 |
 | Broadridge | Business Analyst - Data (Hybrid) | Unknown | Applied | 2025-05-21 |
 | Pluralsight | Product Analyst | Unknown | Declined | 2025-05-21 |
+| Apex Talent Solutions | Remote Data Entry Clerk | 100% Remote | Applied | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
