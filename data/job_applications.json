@@ -26717,5 +26717,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-20"
+    },
+    {
+        "Company": "Arlo",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Ensemble Health Partners",
+        "Job Title": "Analyst II, Business Intelligence",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Handshake",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "SAP",
+        "Job Title": "Data Science: SAP Next Talent - Rotational Program (2025 Grads - Summer Cohort)",
+        "Location": "Palo Alto, CA, US",
+        "status": "Applied",
+        "Date": "2025-05-21"
     }
 ]
