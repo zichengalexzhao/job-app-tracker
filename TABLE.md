@@ -7,6 +7,8 @@
 | Broadridge | Business Analyst - Data (Hybrid) | Unknown | Applied | 2025-05-21 |
 | Pluralsight | Product Analyst | Unknown | Declined | 2025-05-21 |
 | Apex Talent Solutions | Remote Data Entry Clerk | 100% Remote | Applied | 2025-05-21 |
+| Plaid | People Analytics Analyst | Unknown | Declined | 2025-05-21 |
+| Addepar | Solutions Consultant | Unknown | Declined | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
@@ -84,7 +86,6 @@
 | Zynga | Data Analyst | Unknown | Declined | 2025-05-17 |
 | The Home Depot | Unknown | Unknown | Applied | 2025-05-17 |
 | Unlock Health | Unknown | Unknown | Applied | 2025-05-17 |
-| Plaid | People Analytics Analyst | Unknown | Applied | 2025-05-17 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-17 |
 | ABK Workday | Platform Data Analyst | Irvine, CA | Applied | 2025-05-17 |
 | Niagara Bottling, LLC | Oracle EBS Business Analyst I - MFG Shop Floor Processes | Unknown | Applied | 2025-05-17 |

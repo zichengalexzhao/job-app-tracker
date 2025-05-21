@@ -26054,13 +26054,6 @@
         "Date": "2025-05-17"
     },
     {
-        "Company": "Plaid",
-        "Job Title": "People Analytics Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-17"
-    },
-    {
         "Company": "TruStage",
         "Job Title": "Data Analyst, Wealth Management",
         "Location": "Remote",
@@ -26765,6 +26758,20 @@
         "Job Title": "Remote Data Entry Clerk",
         "Location": "100% Remote",
         "status": "Applied",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Plaid",
+        "Job Title": "People Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-21"
+    },
+    {
+        "Company": "Addepar",
+        "Job Title": "Solutions Consultant",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-21"
     }
 ]
