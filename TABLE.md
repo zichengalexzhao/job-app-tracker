@@ -10,6 +10,18 @@
 | Plaid | People Analytics Analyst | Unknown | Declined | 2025-05-21 |
 | Addepar | Solutions Consultant | Unknown | Declined | 2025-05-21 |
 | Timescale | Unknown | Unknown | Declined | 2025-05-21 |
+| Sony (PlayStation Global) | Senior Analyst - Content Insights | Unknown | Declined | 2025-05-21 |
+| Veolia Group | Water Quality Data Analyst (Entry Level) | Unknown | Declined | 2025-05-21 |
+| Swivel Payment Solutions LLC | Jr. Business Analyst | Remote | Applied | 2025-05-21 |
+| Rootshell Enterprise Technologies Inc | Data Analyst | Santa Clara, CA | Applied | 2025-05-21 |
+| Tina's Burritos (Camino Real Foods, Inc.) | Digital Marketing Associate | Bentonville, AR | Applied | 2025-05-21 |
+| Tomocredit | Payment Operation Specialist | San Francisco, CA | Applied | 2025-05-21 |
+| 24 Hour Fitness | Business Analyst Member Support Services | Remote CA-33002 | Applied | 2025-05-21 |
+| Montefiore Medical Center | Unknown | Yonkers, NY | Applied | 2025-05-21 |
+| Virtusa | Data Analyst | Unknown | Applied | 2025-05-21 |
+| Coherent | Data Science, AI and Business Analyst - 2007514 | Unknown | Applied | 2025-05-21 |
+| Paramount | Unknown | Unknown | Applied | 2025-05-21 |
+| Visa | Analyst, Product Management | Unknown | Applied | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
