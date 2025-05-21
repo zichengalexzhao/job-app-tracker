@@ -9,6 +9,7 @@
 | Apex Talent Solutions | Remote Data Entry Clerk | 100% Remote | Applied | 2025-05-21 |
 | Plaid | People Analytics Analyst | Unknown | Declined | 2025-05-21 |
 | Addepar | Solutions Consultant | Unknown | Declined | 2025-05-21 |
+| Timescale | Unknown | Unknown | Declined | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |
