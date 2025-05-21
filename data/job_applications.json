@@ -26752,5 +26752,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-21"
+    },
+    {
+        "Company": "Pluralsight",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-21"
     }
 ]
