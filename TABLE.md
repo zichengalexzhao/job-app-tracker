@@ -5,6 +5,9 @@
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
 | Augment Code | Unknown | Unknown | Applied | 2025-05-22 |
 | Confluent | Data Scientist, Marketing | Unknown | Declined | 2025-05-22 |
+| Voltus | Market Operations Analyst | Unknown | Declined | 2025-05-22 |
+| A. Duie Pyle | Leadership Development Program | Buffalo, NY | Applied | 2025-05-22 |
+| Augment Code | Product & Growth Data Analyst | Unknown | Declined | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |
@@ -103,7 +106,6 @@
 | Aon | New Business Analyst | Southern California | Declined | 2025-05-19 |
 | Capital Rx | Analyst, Analytics | Unknown | Declined | 2025-05-19 |
 | BetterHelp | Data Science Extern, Experimentation | Unknown | Declined | 2025-05-19 |
-| Voltus | Market Operations Analyst | Unknown | Applied | 2025-05-19 |
 | AllSTEM Connections | Business Analyst | Torrance, CA | Applied | 2025-05-19 |
 | Partnership HealthPlan of CA | Health Services Analyst I | Unknown | Declined | 2025-05-19 |
 | UnitedHealth Group | Data Analyst 1 | Remote Nationwide | Applied | 2025-05-19 |

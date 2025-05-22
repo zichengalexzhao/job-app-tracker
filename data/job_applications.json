@@ -26299,13 +26299,6 @@
         "Date": "2025-05-19"
     },
     {
-        "Company": "Voltus",
-        "Job Title": "Market Operations Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-19"
-    },
-    {
         "Company": "AllSTEM Connections",
         "Job Title": "Business Analyst",
         "Location": "Torrance, CA",
@@ -26994,6 +26987,27 @@
     {
         "Company": "Confluent",
         "Job Title": "Data Scientist, Marketing",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Voltus",
+        "Job Title": "Market Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "A. Duie Pyle",
+        "Job Title": "Leadership Development Program",
+        "Location": "Buffalo, NY",
+        "status": "Applied",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Augment Code",
+        "Job Title": "Product & Growth Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-22"
