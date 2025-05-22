@@ -9,6 +9,18 @@
 | A. Duie Pyle | Leadership Development Program | Buffalo, NY | Applied | 2025-05-22 |
 | Augment Code | Product & Growth Data Analyst | Unknown | Declined | 2025-05-22 |
 | Handshake | Data Scientist | Unknown | Applied | 2025-05-22 |
+| Specialized Bicycles | Product Data Analyst | Unknown | Applied | 2025-05-22 |
+| Delta Dental | Treasury Analyst | Unknown | Applied | 2025-05-22 |
+| Dataman USA | Data Analyst | Unknown | Applied | 2025-05-22 |
+| Prime Healthcare | PHS Bio-Medical Services | Unknown | Applied | 2025-05-22 |
+| Moody's | Assc Analytics & Model Analyst | Unknown | Applied | 2025-05-22 |
+| Sensiba LLP | Sustainability Analyst | Unknown | Applied | 2025-05-22 |
+| Meyer Corporation | Sr. Marketing Analyst, Growth | Unknown | Applied | 2025-05-22 |
+| Kroll | Analyst, Strategic Value Advisory | Unknown | Applied | 2025-05-22 |
+| Stanford University | Research Data Analyst 1 | Unknown | Applied | 2025-05-22 |
+| Netflix | Data Scientist (L4) - Product | Unknown | Applied | 2025-05-22 |
+| SentinelOne | TA Data Analyst Intern | Unknown | Applied | 2025-05-22 |
+| NielsenIQ | (Junior) Analytic Consultant Retailer | Unknown | Applied | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |
