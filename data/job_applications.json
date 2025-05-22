@@ -27011,5 +27011,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-22"
+    },
+    {
+        "Company": "Handshake",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-22"
     }
 ]
