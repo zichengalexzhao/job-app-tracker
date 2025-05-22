@@ -21,6 +21,7 @@
 | Netflix | Data Scientist (L4) - Product | Unknown | Applied | 2025-05-22 |
 | SentinelOne | TA Data Analyst Intern | Unknown | Applied | 2025-05-22 |
 | NielsenIQ | (Junior) Analytic Consultant Retailer | Unknown | Applied | 2025-05-22 |
+| American Woodmark | Supply Chain Analyst | Unknown | Declined | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |
@@ -314,7 +315,6 @@
 | Ajinomoto Foods North America | Coupa Logistics Analyst | Unknown | Applied | 2025-05-12 |
 | Ajinomoto Foods North America | Coupa Logistics Analyst | Unknown | Applied | 2025-05-12 |
 | Collectors | Growth Operations Analyst | Unknown | Applied | 2025-05-12 |
-| American Woodmark | Supply Chain Analyst | Unknown | Applied | 2025-05-12 |
 | Goldman Sachs | New Analyst | New York, New York, United States | Declined | 2025-05-12 |
 | Goldman Sachs | New Analyst | Dallas, Texas, United States | Declined | 2025-05-12 |
 | REPS & Co. | Unknown | Unknown | Declined | 2025-05-12 |

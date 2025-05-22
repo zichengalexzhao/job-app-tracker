@@ -24738,13 +24738,6 @@
         "Date": "2025-05-12"
     },
     {
-        "Company": "American Woodmark",
-        "Job Title": "Supply Chain Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-12"
-    },
-    {
         "Company": "Goldman Sachs",
         "Job Title": "New Analyst",
         "Location": "New York, New York, United States",
@@ -27101,6 +27094,13 @@
         "Job Title": "(Junior) Analytic Consultant Retailer",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "American Woodmark",
+        "Job Title": "Supply Chain Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-22"
     }
 ]
