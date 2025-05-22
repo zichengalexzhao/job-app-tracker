@@ -1,6 +1,9 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
+| PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
+| General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
+| Augment Code | Unknown | Unknown | Applied | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |

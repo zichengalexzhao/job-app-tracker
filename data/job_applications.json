@@ -26969,5 +26969,26 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-05-22"
+    },
+    {
+        "Company": "PEAK6 Capital Management",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "General Dynamics NASSCO",
+        "Job Title": "Engineering Process Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Augment Code",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-22"
     }
 ]
