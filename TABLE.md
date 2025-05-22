@@ -22,6 +22,10 @@
 | SentinelOne | TA Data Analyst Intern | Unknown | Applied | 2025-05-22 |
 | NielsenIQ | (Junior) Analytic Consultant Retailer | Unknown | Applied | 2025-05-22 |
 | American Woodmark | Supply Chain Analyst | Unknown | Declined | 2025-05-22 |
+| Docusign | Org Effectiveness Business Analyst | Unknown | Declined | 2025-05-22 |
+| Coinbase | Business Operations & Strategy Associate / Senior Associate | Unknown | Declined | 2025-05-22 |
+| WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-22 |
+| FedEx | Unknown | Unknown | Applied | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |
@@ -146,7 +150,6 @@
 | Brisk Teaching | Product Analyst | Unknown | Applied | 2025-05-17 |
 | Gorgias | Data Analytics Manager | Unknown | Applied | 2025-05-17 |
 | Sleeper | Data Scientist | Unknown | Applied | 2025-05-17 |
-| Docusign | Org Effectiveness Business Analyst | Unknown | Applied | 2025-05-17 |
 | UCSF (University of California, San Francisco) | Data and Reporting Analyst | Unknown | Applied | 2025-05-17 |
 | Crossmedia Inc | Sr Data Analyst | Unknown | Applied | 2025-05-17 |
 | Plaza Home Mortgage, Inc. | Business Intelligence Analyst I | Unknown | Applied | 2025-05-17 |

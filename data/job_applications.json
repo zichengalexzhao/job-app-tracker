@@ -26103,13 +26103,6 @@
         "Date": "2025-05-17"
     },
     {
-        "Company": "Docusign",
-        "Job Title": "Org Effectiveness Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-17"
-    },
-    {
         "Company": "UCSF (University of California, San Francisco)",
         "Job Title": "Data and Reporting Analyst",
         "Location": "Unknown",
@@ -27101,6 +27094,34 @@
         "Job Title": "Supply Chain Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Docusign",
+        "Job Title": "Org Effectiveness Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Coinbase",
+        "Job Title": "Business Operations & Strategy Associate / Senior Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "WalletHub",
+        "Job Title": "Marketing Manager",
+        "Location": "Miami, FL",
+        "status": "Applied",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "FedEx",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-22"
     }
 ]
