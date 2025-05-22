@@ -27,6 +27,11 @@
 | WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-22 |
 | FedEx | Unknown | Unknown | Applied | 2025-05-22 |
 | Acushnet Company | 2025 People Analytics Co-op | Unknown | Declined | 2025-05-22 |
+| APL Logistics | Super User Data Analyst, Warehouse | Unknown | Declined | 2025-05-22 |
+| Salesforce | Recruiting Data Analytics Analyst - Contractor | Unknown | Applied | 2025-05-22 |
+| General Motors | Data Scientist – AV Safety | Unknown | Applied | 2025-05-22 |
+| Waymark | Analyst - Healthcare Informatics and Business Intelligence | Unknown | Applied | 2025-05-22 |
+| Applied Materials | Talent Acquisition Data Analyst III - (B3) | Unknown | Applied | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |

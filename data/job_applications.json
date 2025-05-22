@@ -27130,5 +27130,40 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-22"
+    },
+    {
+        "Company": "APL Logistics",
+        "Job Title": "Super User Data Analyst, Warehouse",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Salesforce",
+        "Job Title": "Recruiting Data Analytics Analyst - Contractor",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "General Motors",
+        "Job Title": "Data Scientist \u2013 AV Safety",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Waymark",
+        "Job Title": "Analyst - Healthcare Informatics and Business Intelligence",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-22"
+    },
+    {
+        "Company": "Applied Materials",
+        "Job Title": "Talent Acquisition Data Analyst III - (B3)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-22"
     }
 ]
