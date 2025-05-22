@@ -26,6 +26,7 @@
 | Coinbase | Business Operations & Strategy Associate / Senior Associate | Unknown | Declined | 2025-05-22 |
 | WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-22 |
 | FedEx | Unknown | Unknown | Applied | 2025-05-22 |
+| Acushnet Company | 2025 People Analytics Co-op | Unknown | Declined | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |
