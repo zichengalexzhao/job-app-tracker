@@ -31,6 +31,7 @@
 | WEX | Business Intelligence Analyst 1 | Unknown | Declined | 2025-05-23 |
 | Visa | Visa Consulting Analytics (VCA) Analyst, New College Grad - 2025 | Unknown | Declined | 2025-05-23 |
 | Augment Code | Product & Growth Data Analyst | Unknown | Declined | 2025-05-23 |
+| Visa | Product Analyst | Unknown | Declined | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
@@ -2487,7 +2488,6 @@
 | Unknown | Junior Data Analyst | Unknown | Applied | 2025-03-12 |
 | Jerry | Associate, Business Operations | Unknown | Applied | 2025-03-12 |
 | CyberCube | Data Scientist | San Francisco, CA | Declined | 2025-03-12 |
-| Visa | Product Analyst | Unknown | Applied | 2025-03-12 |
 | UST | Unknown | Unknown | Declined | 2025-03-12 |
 | Notion | Data Scientist, Growth | Unknown | Declined | 2025-03-12 |
 | Kiavi | Product Analyst | Unknown | Applied | 2025-03-12 |

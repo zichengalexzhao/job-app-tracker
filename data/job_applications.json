@@ -10136,13 +10136,6 @@
         "Date": "2025-03-12"
     },
     {
-        "Company": "Visa",
-        "Job Title": "Product Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-12"
-    },
-    {
         "Company": "UST",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27365,6 +27358,13 @@
     {
         "Company": "Augment Code",
         "Job Title": "Product & Growth Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Product Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-23"
