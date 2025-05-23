@@ -30,6 +30,7 @@
 | PowerSchool Group LLC | Associate Data Services Analyst - IC1 (DATSRV - Data Services) | Folsom, CA | Declined | 2025-05-23 |
 | WEX | Business Intelligence Analyst 1 | Unknown | Declined | 2025-05-23 |
 | Visa | Visa Consulting Analytics (VCA) Analyst, New College Grad - 2025 | Unknown | Declined | 2025-05-23 |
+| Augment Code | Product & Growth Data Analyst | Unknown | Declined | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
