@@ -23,6 +23,10 @@
 | Meta Platforms, Inc. | Data Scientist, Product Analytics | Unknown | Applied | 2025-05-23 |
 | Analytic Partners | Consultant, Marketing Science Analytics | Unknown | Applied | 2025-05-23 |
 | Strategic Education, Inc. | Analytic Consultant | Unknown | Declined | 2025-05-23 |
+| Sony Music | Analytics Rep | Unknown | Declined | 2025-05-23 |
+| Doosan | 2025 Digital Innovation Student Experience | Unknown | Declined | 2025-05-23 |
+| Vertiv | Business Intelligence Analyst | Unknown | Declined | 2025-05-23 |
+| Unknown | Business Intelligence Analyst 1 | Unknown | Applied | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
@@ -1277,7 +1281,6 @@
 | H-E-B | Business Analyst I | Unknown | Declined | 2025-04-14 |
 | Spotify | Data Scientist I - Podcast | Unknown | Applied | 2025-04-14 |
 | Stackline | Data Analyst II | Unknown | Declined | 2025-04-14 |
-| Doosan | 2025 Digital Innovation Student Experience | Unknown | Applied | 2025-04-14 |
 | Clear Street | Data Analyst | Unknown | Declined | 2025-04-14 |
 | ALX Africa | Unknown | Unknown | Applied | 2025-04-14 |
 | NRG Energy | Graduate Rotation Analyst - VOC | Unknown | Applied | 2025-04-14 |

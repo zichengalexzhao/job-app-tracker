@@ -18221,13 +18221,6 @@
         "Date": "2025-04-14"
     },
     {
-        "Company": "Doosan",
-        "Job Title": "2025 Digital Innovation Student Experience",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-14"
-    },
-    {
         "Company": "Clear Street",
         "Job Title": "Data Analyst",
         "Location": "Unknown",
@@ -27325,6 +27318,34 @@
         "Job Title": "Analytic Consultant",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Sony Music",
+        "Job Title": "Analytics Rep",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Doosan",
+        "Job Title": "2025 Digital Innovation Student Experience",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Vertiv",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Business Intelligence Analyst 1",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-05-23"
     }
 ]
