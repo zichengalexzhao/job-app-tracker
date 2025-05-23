@@ -4,6 +4,7 @@
 | Strategic Education, Inc. | Analytic Consultant | Unknown | Applied | 2025-05-23 |
 | General Motors | Marketing Strategic Insights Analyst | Unknown | Applied | 2025-05-23 |
 | Cresta | Revenue Operations Data Analyst | Unknown | Applied | 2025-05-23 |
+| Ensemble Health Partners | Unknown | Unknown | Applied | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
