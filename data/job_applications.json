@@ -27214,5 +27214,12 @@
         "Location": "New York, NY, USA",
         "status": "Applied",
         "Date": "2025-05-23"
+    },
+    {
+        "Company": "Centene",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
     }
 ]
