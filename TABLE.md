@@ -7,6 +7,15 @@
 | Ensemble Health Partners | Unknown | Unknown | Applied | 2025-05-23 |
 | Avison Young | Analyst | New York, NY, USA | Applied | 2025-05-23 |
 | Centene | Data Analyst I | Unknown | Applied | 2025-05-23 |
+| Amazon | ICQA Data Analyst | Unknown | Applied | 2025-05-23 |
+| Mochi Health | Unknown | Unknown | Applied | 2025-05-23 |
+| HCVT | Business Analyst | Unknown | Applied | 2025-05-23 |
+| Amazon | ICQA Data Analyst | Unknown | Applied | 2025-05-23 |
+| DHL | Sr Business Data Analyst | Unknown | Applied | 2025-05-23 |
+| Pacific Gas and Electric Company | Clean Energy Quantitative Analyst | Unknown | Applied | 2025-05-23 |
+| Covetrus | Consumer Insight Analyst | Unknown | Applied | 2025-05-23 |
+| Agero | Unknown | Unknown | Applied | 2025-05-23 |
+| GM (General Motors) | Unknown | Unknown | Applied | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
