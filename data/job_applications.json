@@ -20755,13 +20755,6 @@
         "Date": "2025-04-22"
     },
     {
-        "Company": "CBRE",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-22"
-    },
-    {
         "Company": "Activision Blizzard King",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27281,6 +27274,27 @@
     {
         "Company": "GM (General Motors)",
         "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "RMD Group",
+        "Job Title": "Data Analyst & IT Support Specialist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Monzo",
+        "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-23"

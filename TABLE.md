@@ -16,6 +16,9 @@
 | Covetrus | Consumer Insight Analyst | Unknown | Applied | 2025-05-23 |
 | Agero | Unknown | Unknown | Applied | 2025-05-23 |
 | GM (General Motors) | Unknown | Unknown | Applied | 2025-05-23 |
+| CBRE | Data Analyst | Unknown | Declined | 2025-05-23 |
+| RMD Group | Data Analyst & IT Support Specialist | Unknown | Applied | 2025-05-23 |
+| Monzo | Data Analyst | Unknown | Applied | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
@@ -969,7 +972,6 @@
 | CBRE | Data Intelligence Research Analyst | Unknown | Applied | 2025-04-22 |
 | CBRE | Sales Brokerage Analyst | Unknown | Applied | 2025-04-22 |
 | Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-22 |
-| CBRE | Data Analyst | Unknown | Applied | 2025-04-22 |
 | Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-22 |
 | Aon | Data Analytics Analyst | Unknown | Declined | 2025-04-22 |
 | Michael Page | Data Analyst / Business Analytics Consultant | Unknown | Applied | 2025-04-22 |
