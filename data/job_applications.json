@@ -27167,13 +27167,6 @@
         "Date": "2025-05-23"
     },
     {
-        "Company": "Strategic Education, Inc.",
-        "Job Title": "Analytic Consultant",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-23"
-    },
-    {
         "Company": "General Motors",
         "Job Title": "Marketing Strategic Insights Analyst",
         "Location": "Unknown",
@@ -27325,6 +27318,13 @@
         "Job Title": "Consultant, Marketing Science Analytics",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Strategic Education, Inc.",
+        "Job Title": "Analytic Consultant",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-23"
     }
 ]
