@@ -27298,5 +27298,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-23"
+    },
+    {
+        "Company": "Delta Dental",
+        "Job Title": "Treasury Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "DataVisor",
+        "Job Title": "Data Scientist - Fraud Detection",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Meta Platforms, Inc.",
+        "Job Title": "Data Scientist, Product Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Analytic Partners",
+        "Job Title": "Consultant, Marketing Science Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
     }
 ]
