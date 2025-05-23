@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Dataminr | Unknown | Unknown | Applied | 2025-05-23 |
+| Strategic Education, Inc. | Analytic Consultant | Unknown | Applied | 2025-05-23 |
+| General Motors | Marketing Strategic Insights Analyst | Unknown | Applied | 2025-05-23 |
+| Cresta | Revenue Operations Data Analyst | Unknown | Applied | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
@@ -32,6 +36,7 @@
 | General Motors | Data Scientist – AV Safety | Unknown | Applied | 2025-05-22 |
 | Waymark | Analyst - Healthcare Informatics and Business Intelligence | Unknown | Applied | 2025-05-22 |
 | Applied Materials | Talent Acquisition Data Analyst III - (B3) | Unknown | Applied | 2025-05-22 |
+| Oracle | Data Analyst II - Analytics COE-289910 | Unknown | Declined | 2025-05-22 |
 | Arlo | Unknown | Unknown | Applied | 2025-05-21 |
 | Ensemble Health Partners | Analyst II, Business Intelligence | Unknown | Applied | 2025-05-21 |
 | Handshake | Unknown | Unknown | Applied | 2025-05-21 |

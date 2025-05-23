@@ -27165,5 +27165,40 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-22"
+    },
+    {
+        "Company": "Dataminr",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Strategic Education, Inc.",
+        "Job Title": "Analytic Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "General Motors",
+        "Job Title": "Marketing Strategic Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Cresta",
+        "Job Title": "Revenue Operations Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Analyst II - Analytics COE-289910",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-22"
     }
 ]
