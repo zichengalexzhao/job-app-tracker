@@ -27,6 +27,9 @@
 | Doosan | 2025 Digital Innovation Student Experience | Unknown | Declined | 2025-05-23 |
 | Vertiv | Business Intelligence Analyst | Unknown | Declined | 2025-05-23 |
 | Unknown | Business Intelligence Analyst 1 | Unknown | Applied | 2025-05-23 |
+| PowerSchool Group LLC | Associate Data Services Analyst - IC1 (DATSRV - Data Services) | Folsom, CA | Declined | 2025-05-23 |
+| WEX | Business Intelligence Analyst 1 | Unknown | Declined | 2025-05-23 |
+| Visa | Visa Consulting Analytics (VCA) Analyst, New College Grad - 2025 | Unknown | Declined | 2025-05-23 |
 | TruStage | Data Analyst, Wealth Management | Remote | Applied | 2025-05-22 |
 | PEAK6 Capital Management | Unknown | Unknown | Applied | 2025-05-22 |
 | General Dynamics NASSCO | Engineering Process Analyst I | Unknown | Declined | 2025-05-22 |
@@ -107,7 +110,6 @@
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Applied | 2025-05-20 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-20 |
 | YETI | Unknown | Unknown | Applied | 2025-05-20 |
-| PowerSchool Group LLC | Associate Data Services Analyst - IC1 (DATSRV - Data Services) | Unknown | Applied | 2025-05-20 |
 | Capital Group | Content & Data Analyst | Unknown | Applied | 2025-05-20 |
 | Tricon Residential | Business Analyst, IT | Unknown | Applied | 2025-05-20 |
 | Turing | Business Analyst (Chinese Language) | Unknown | Applied | 2025-05-20 |

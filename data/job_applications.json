@@ -26369,13 +26369,6 @@
         "Date": "2025-05-20"
     },
     {
-        "Company": "PowerSchool Group LLC",
-        "Job Title": "Associate Data Services Analyst - IC1 (DATSRV - Data Services)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-20"
-    },
-    {
         "Company": "Capital Group",
         "Job Title": "Content & Data Analyst",
         "Location": "Unknown",
@@ -27346,6 +27339,27 @@
         "Job Title": "Business Intelligence Analyst 1",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "PowerSchool Group LLC",
+        "Job Title": "Associate Data Services Analyst - IC1 (DATSRV - Data Services)",
+        "Location": "Folsom, CA",
+        "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "WEX",
+        "Job Title": "Business Intelligence Analyst 1",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-23"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Visa Consulting Analytics (VCA) Analyst, New College Grad - 2025",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-23"
     }
 ]
