@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| CVS Health | Unknown | Unknown | Applied | 2025-05-24 |
 | Dataminr | Unknown | Unknown | Applied | 2025-05-23 |
 | General Motors | Marketing Strategic Insights Analyst | Unknown | Applied | 2025-05-23 |
 | Cresta | Revenue Operations Data Analyst | Unknown | Applied | 2025-05-23 |
