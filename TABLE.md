@@ -4,6 +4,7 @@
 | ABK Workday | Data Analyst, Business Analytics | Unknown | Applied | 2025-05-24 |
 | Unknown | LoanIQ Business Analyst | New York | Applied | 2025-05-24 |
 | Datavant | Risk Adjustment Data Analyst | Unknown | Declined | 2025-05-24 |
+| Physicians' Choice, LLC | Data Analyst | Unknown | Declined | 2025-05-24 |
 | Dataminr | Unknown | Unknown | Applied | 2025-05-23 |
 | General Motors | Marketing Strategic Insights Analyst | Unknown | Applied | 2025-05-23 |
 | Cresta | Revenue Operations Data Analyst | Unknown | Applied | 2025-05-23 |
