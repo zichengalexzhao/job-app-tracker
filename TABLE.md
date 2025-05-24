@@ -3,6 +3,7 @@
 | CVS Health | Unknown | Unknown | Applied | 2025-05-24 |
 | ABK Workday | Data Analyst, Business Analytics | Unknown | Applied | 2025-05-24 |
 | Unknown | LoanIQ Business Analyst | New York | Applied | 2025-05-24 |
+| Datavant | Risk Adjustment Data Analyst | Unknown | Declined | 2025-05-24 |
 | Dataminr | Unknown | Unknown | Applied | 2025-05-23 |
 | General Motors | Marketing Strategic Insights Analyst | Unknown | Applied | 2025-05-23 |
 | Cresta | Revenue Operations Data Analyst | Unknown | Applied | 2025-05-23 |
@@ -146,7 +147,6 @@
 | Dealerware | Unknown | Unknown | Declined | 2025-05-20 |
 | Capital Group | Unknown | Unknown | Applied | 2025-05-20 |
 | DSV | Data Analyst, Operations | USA - Fontana, Slover Ave | Applied | 2025-05-20 |
-| Datavant | Risk Adjustment Data Analyst | Unknown | Applied | 2025-05-20 |
 | Augment Code | Unknown | Unknown | Applied | 2025-05-20 |
 | Capital Rx | Unknown | Unknown | Applied | 2025-05-20 |
 | Privia Health | Growth Strategy & Analytics Coordinator | Unknown | Applied | 2025-05-20 |

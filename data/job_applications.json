@@ -26579,13 +26579,6 @@
         "Date": "2025-05-20"
     },
     {
-        "Company": "Datavant",
-        "Job Title": "Risk Adjustment Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-20"
-    },
-    {
         "Company": "Augment Code",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27388,6 +27381,13 @@
         "Job Title": "LoanIQ Business Analyst",
         "Location": "New York",
         "status": "Applied",
+        "Date": "2025-05-24"
+    },
+    {
+        "Company": "Datavant",
+        "Job Title": "Risk Adjustment Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-24"
     }
 ]
