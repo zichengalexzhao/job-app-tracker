@@ -27396,5 +27396,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-24"
+    },
+    {
+        "Company": "MyFitnessPal",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-24"
+    },
+    {
+        "Company": "Impact Networking, LLC",
+        "Job Title": "Quantitative Researcher",
+        "Location": "Remote",
+        "status": "Interviewed",
+        "Date": "2025-05-24"
     }
 ]

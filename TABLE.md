@@ -5,6 +5,8 @@
 | Unknown | LoanIQ Business Analyst | New York | Applied | 2025-05-24 |
 | Datavant | Risk Adjustment Data Analyst | Unknown | Declined | 2025-05-24 |
 | Physicians' Choice, LLC | Data Analyst | Unknown | Declined | 2025-05-24 |
+| MyFitnessPal | Product Analyst | Unknown | Declined | 2025-05-24 |
+| Impact Networking, LLC | Quantitative Researcher | Remote | Interviewed | 2025-05-24 |
 | Dataminr | Unknown | Unknown | Applied | 2025-05-23 |
 | General Motors | Marketing Strategic Insights Analyst | Unknown | Applied | 2025-05-23 |
 | Cresta | Revenue Operations Data Analyst | Unknown | Applied | 2025-05-23 |
