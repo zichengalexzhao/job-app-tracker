@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Apex Focus Group LLC | Unknown | Unknown | Applied | 2025-05-25 |
+| Adobe | Senior Analyst - B2B Behavioral Analytics | Unknown | Applied | 2025-05-25 |
 | CVS Health | Unknown | Unknown | Applied | 2025-05-24 |
 | ABK Workday | Data Analyst, Business Analytics | Unknown | Applied | 2025-05-24 |
 | Unknown | LoanIQ Business Analyst | New York | Applied | 2025-05-24 |
