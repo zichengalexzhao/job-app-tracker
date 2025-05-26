@@ -17976,13 +17976,6 @@
         "Date": "2025-04-12"
     },
     {
-        "Company": "Ascension",
-        "Job Title": "Specialist - Technology, Data Analysis",
-        "Location": "St. Louis, MO",
-        "status": "Applied",
-        "Date": "2025-04-12"
-    },
-    {
         "Company": "RISEBORO COMMUNITY PARTNERSHIP",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27458,6 +27451,27 @@
         "Job Title": "Jr. Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-26"
+    },
+    {
+        "Company": "Tanimura & Antle",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-26"
+    },
+    {
+        "Company": "WalletHub",
+        "Job Title": "Marketing Manager",
+        "Location": "Miami, FL",
+        "status": "Applied",
+        "Date": "2025-05-26"
+    },
+    {
+        "Company": "Ascension",
+        "Job Title": "Specialist - Technology, Data Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-26"
     }
 ]

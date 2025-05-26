@@ -1,6 +1,9 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Axos Bank | Jr. Data Analyst | Unknown | Applied | 2025-05-26 |
+| Tanimura & Antle | Unknown | Unknown | Applied | 2025-05-26 |
+| WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-26 |
+| Ascension | Specialist - Technology, Data Analysis | Unknown | Declined | 2025-05-26 |
 | Apex Focus Group LLC | Unknown | Unknown | Applied | 2025-05-25 |
 | Adobe | Senior Analyst - B2B Behavioral Analytics | Unknown | Applied | 2025-05-25 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-05-25 |
@@ -1379,7 +1382,6 @@
 | Fandom | Product Analyst | Unknown | Applied | 2025-04-12 |
 | Altice USA | Unknown | Unknown | Applied | 2025-04-12 |
 | Coinbase | People Data Analyst | Unknown | Declined | 2025-04-12 |
-| Ascension | Specialist - Technology, Data Analysis | St. Louis, MO | Applied | 2025-04-12 |
 | RISEBORO COMMUNITY PARTNERSHIP | Unknown | Unknown | Applied | 2025-04-12 |
 | CPS Solutions, LLC | Healthcare Data Analyst | Nationwide | Declined | 2025-04-12 |
 | Universal Orlando Resort | Analyst I, Research Fulfillment | Unknown | Declined | 2025-04-12 |
