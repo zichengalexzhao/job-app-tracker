@@ -27431,5 +27431,26 @@
         "Location": "Washington, Washington DC US",
         "status": "Applied",
         "Date": "2025-05-25"
+    },
+    {
+        "Company": "Whova, Inc.",
+        "Job Title": "Associate Product Marketing Manager",
+        "Location": "San Diego, CA",
+        "status": "Applied",
+        "Date": "2025-05-25"
+    },
+    {
+        "Company": "Everlaw",
+        "Job Title": "Sales Development Representative",
+        "Location": "Oakland, CA",
+        "status": "Applied",
+        "Date": "2025-05-25"
+    },
+    {
+        "Company": "Holthouse Carlin & Van Trigt LLP",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-25"
     }
 ]
