@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Axos Bank | Jr. Data Analyst | Unknown | Applied | 2025-05-26 |
 | Apex Focus Group LLC | Unknown | Unknown | Applied | 2025-05-25 |
 | Adobe | Senior Analyst - B2B Behavioral Analytics | Unknown | Applied | 2025-05-25 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-05-25 |
