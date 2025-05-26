@@ -27006,13 +27006,6 @@
         "Date": "2025-05-22"
     },
     {
-        "Company": "Meyer Corporation",
-        "Job Title": "Sr. Marketing Analyst, Growth",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-22"
-    },
-    {
         "Company": "Kroll",
         "Job Title": "Analyst, Strategic Value Advisory",
         "Location": "Unknown",
@@ -27470,6 +27463,13 @@
     {
         "Company": "Ascension",
         "Job Title": "Specialist - Technology, Data Analysis",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-26"
+    },
+    {
+        "Company": "Meyer Corporation",
+        "Job Title": "Sr. Marketing Analyst, Growth",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-26"

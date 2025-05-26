@@ -4,6 +4,7 @@
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-05-26 |
 | WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-26 |
 | Ascension | Specialist - Technology, Data Analysis | Unknown | Declined | 2025-05-26 |
+| Meyer Corporation | Sr. Marketing Analyst, Growth | Unknown | Declined | 2025-05-26 |
 | Apex Focus Group LLC | Unknown | Unknown | Applied | 2025-05-25 |
 | Adobe | Senior Analyst - B2B Behavioral Analytics | Unknown | Applied | 2025-05-25 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-05-25 |
@@ -64,7 +65,6 @@
 | Prime Healthcare | PHS Bio-Medical Services | Unknown | Applied | 2025-05-22 |
 | Moody's | Assc Analytics & Model Analyst | Unknown | Applied | 2025-05-22 |
 | Sensiba LLP | Sustainability Analyst | Unknown | Applied | 2025-05-22 |
-| Meyer Corporation | Sr. Marketing Analyst, Growth | Unknown | Applied | 2025-05-22 |
 | Kroll | Analyst, Strategic Value Advisory | Unknown | Applied | 2025-05-22 |
 | Stanford University | Research Data Analyst 1 | Unknown | Applied | 2025-05-22 |
 | Netflix | Data Scientist (L4) - Product | Unknown | Applied | 2025-05-22 |
