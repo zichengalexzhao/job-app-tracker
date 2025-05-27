@@ -3,6 +3,7 @@
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |
+| Viant | Data Analyst | Unknown | Declined | 2025-05-27 |
 | Axos Bank | Jr. Data Analyst | Unknown | Applied | 2025-05-26 |
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-05-26 |
 | WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-26 |
