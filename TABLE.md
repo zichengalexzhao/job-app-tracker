@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
+| PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Axos Bank | Jr. Data Analyst | Unknown | Applied | 2025-05-26 |
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-05-26 |
 | WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-26 |
@@ -128,7 +129,6 @@
 | Cox | Business Intelligence Analyst II | Unknown | Applied | 2025-05-20 |
 | Cisco | Data/Business Analyst | Unknown | Applied | 2025-05-20 |
 | Morgan Lewis | New Business Analyst | Unknown | Applied | 2025-05-20 |
-| PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Applied | 2025-05-20 |
 | EnergyHub | Unknown | Unknown | Applied | 2025-05-20 |
 | YETI | Unknown | Unknown | Applied | 2025-05-20 |
 | Capital Group | Content & Data Analyst | Unknown | Applied | 2025-05-20 |

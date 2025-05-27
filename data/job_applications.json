@@ -26334,13 +26334,6 @@
         "Date": "2025-05-20"
     },
     {
-        "Company": "PNC",
-        "Job Title": "Quantitative Analytics & Model Analyst Sr",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-20"
-    },
-    {
         "Company": "EnergyHub",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27486,6 +27479,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-27"
+    },
+    {
+        "Company": "PNC",
+        "Job Title": "Quantitative Analytics & Model Analyst Sr",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-27"
     }
 ]
