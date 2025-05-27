@@ -5,6 +5,7 @@
 | WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-26 |
 | Ascension | Specialist - Technology, Data Analysis | Unknown | Declined | 2025-05-26 |
 | Meyer Corporation | Sr. Marketing Analyst, Growth | Unknown | Declined | 2025-05-26 |
+| Coinbase | Unknown | Unknown | Applied | 2025-05-26 |
 | Apex Focus Group LLC | Unknown | Unknown | Applied | 2025-05-25 |
 | Adobe | Senior Analyst - B2B Behavioral Analytics | Unknown | Applied | 2025-05-25 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-05-25 |
