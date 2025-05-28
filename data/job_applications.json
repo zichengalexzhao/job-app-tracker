@@ -14462,13 +14462,6 @@
         "Date": "2025-04-01"
     },
     {
-        "Company": "GOAT Group",
-        "Job Title": "Metadata Curation Specialist I",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-01"
-    },
-    {
         "Company": "Aon",
         "Job Title": "Early Careers: US Data Analytics - Specialist",
         "Location": "Unknown",
@@ -27605,6 +27598,27 @@
         "Job Title": "Financial Analyst",
         "Location": "Broomfield",
         "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "TikTok",
+        "Job Title": "Data Scientist, PGC",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "dv01",
+        "Job Title": "Data Analyst, Capital Markets Solutions",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "GOAT Group",
+        "Job Title": "Metadata Curation Specialist I",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-28"
     }
 ]

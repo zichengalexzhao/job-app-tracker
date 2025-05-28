@@ -18,6 +18,9 @@
 | Capital One | Business Manager, Competitor Insights Analyst | Unknown | Applied | 2025-05-28 |
 | Covetrus | Consumer Insight Analyst | Unknown | Declined | 2025-05-28 |
 | Partners Group | Financial Analyst | Broomfield | Applied | 2025-05-28 |
+| TikTok | Data Scientist, PGC | Unknown | Applied | 2025-05-28 |
+| dv01 | Data Analyst, Capital Markets Solutions | Unknown | Declined | 2025-05-28 |
+| GOAT Group | Metadata Curation Specialist I | Unknown | Declined | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |
@@ -1873,7 +1876,6 @@
 | Amazon | Business Analyst II, Prime Video Global Operations | Unknown | Applied | 2025-04-01 |
 | Amazon | Business Analyst II, Prime Video Global Operations | Unknown | Applied | 2025-04-01 |
 | Sun Coast | Performance Analyst-25000007 | Unknown | Declined | 2025-04-01 |
-| GOAT Group | Metadata Curation Specialist I | Unknown | Applied | 2025-04-01 |
 | Aon | Early Careers: US Data Analytics - Specialist | Unknown | Declined | 2025-04-01 |
 | Aon | Early Careers: US Data Analytics - Specialist | Unknown | Declined | 2025-04-01 |
 | Carvana | Associate Data Scientist, Decision Support Systems | Unknown | Declined | 2025-04-01 |
