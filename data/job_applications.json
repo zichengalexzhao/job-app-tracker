@@ -16030,13 +16030,6 @@
         "Date": "2025-04-07"
     },
     {
-        "Company": "Primerica",
-        "Job Title": "Data Support Analyst Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-07"
-    },
-    {
         "Company": "Expedia Group",
         "Job Title": "Sr. Analyst \u2013 Vrbo US Markets",
         "Location": "Unknown",
@@ -27514,6 +27507,20 @@
         "Job Title": "Reporting and Analytics Senior Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "General Motors (GM)",
+        "Job Title": "Data Scientist - AV Safety",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Primerica",
+        "Job Title": "Data Support Analyst Intern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-28"
     }
 ]

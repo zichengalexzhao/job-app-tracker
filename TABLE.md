@@ -2,6 +2,8 @@
 | --- | --- | --- | --- | --- |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
+| General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
+| Primerica | Data Support Analyst Intern | Unknown | Declined | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |
@@ -1635,7 +1637,6 @@
 | Elevance Health | Data Analytics Internship – Summer 2025 - JR146821 | Unknown | Applied | 2025-04-07 |
 | Blackstone | Quant & Portfolio Analytics, Analyst | Unknown | Applied | 2025-04-07 |
 | Acushnet | 2025 People Analytics Co-op - 3941 | Unknown | Applied | 2025-04-07 |
-| Primerica | Data Support Analyst Intern | Unknown | Applied | 2025-04-07 |
 | Expedia Group | Sr. Analyst – Vrbo US Markets | Unknown | Applied | 2025-04-07 |
 | ActBlue | Unknown | Unknown | Applied | 2025-04-07 |
 | Benjamin Moore & Co | Business Insights Intern | Unknown | Applied | 2025-04-07 |
