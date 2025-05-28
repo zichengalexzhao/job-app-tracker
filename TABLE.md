@@ -17,6 +17,7 @@
 | Acuity | Product Analyst - Insights | Unknown | Declined | 2025-05-28 |
 | Capital One | Business Manager, Competitor Insights Analyst | Unknown | Applied | 2025-05-28 |
 | Covetrus | Consumer Insight Analyst | Unknown | Declined | 2025-05-28 |
+| Partners Group | Financial Analyst | Broomfield | Applied | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |

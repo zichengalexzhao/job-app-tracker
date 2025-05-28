@@ -27599,5 +27599,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-28"
+    },
+    {
+        "Company": "Partners Group",
+        "Job Title": "Financial Analyst",
+        "Location": "Broomfield",
+        "status": "Applied",
+        "Date": "2025-05-28"
     }
 ]
