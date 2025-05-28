@@ -4,6 +4,8 @@
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
 | Primerica | Data Support Analyst Intern | Unknown | Declined | 2025-05-28 |
+| dmg media | Editorial Insights Analyst | London | Declined | 2025-05-28 |
+| Northwestern Mutual | Unknown | Unknown | Applied | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |

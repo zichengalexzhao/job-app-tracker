@@ -27522,5 +27522,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-28"
+    },
+    {
+        "Company": "dmg media",
+        "Job Title": "Editorial Insights Analyst",
+        "Location": "London",
+        "status": "Declined",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Northwestern Mutual",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
     }
 ]
