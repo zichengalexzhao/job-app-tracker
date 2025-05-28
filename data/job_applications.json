@@ -25893,13 +25893,6 @@
         "Date": "2025-05-16"
     },
     {
-        "Company": "Acuity",
-        "Job Title": "Product Analyst - Insights",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-16"
-    },
-    {
         "Company": "Veritone",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27568,6 +27561,34 @@
     {
         "Company": "Maximus",
         "Job Title": "Business Operations Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "RAPP",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Highbrow LLC",
+        "Job Title": "Data Science with AI/ML",
+        "Location": "Austin, Texas",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Acuity",
+        "Job Title": "Product Analyst - Insights",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-28"

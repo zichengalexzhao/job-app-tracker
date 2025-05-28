@@ -11,6 +11,10 @@
 | ChargePoint | Unknown | Unknown | Applied | 2025-05-28 |
 | Maximus | Data Analyst | Unknown | Declined | 2025-05-28 |
 | Maximus | Business Operations Intern | Unknown | Declined | 2025-05-28 |
+| RAPP | Data Scientist | Unknown | Applied | 2025-05-28 |
+| Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-05-28 |
+| Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-05-28 |
+| Acuity | Product Analyst - Insights | Unknown | Declined | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |
@@ -250,7 +254,6 @@
 | Lionsgate | Business Analyst - IT, PMO - Office of the CIO | Unknown | Applied | 2025-05-16 |
 | Block | Behavioral Insights Fraud Analyst - Customer Identity | Unknown | Applied | 2025-05-16 |
 | COSM | Data Scientist | Unknown | Applied | 2025-05-16 |
-| Acuity | Product Analyst - Insights | Unknown | Applied | 2025-05-16 |
 | Veritone | Unknown | Unknown | Applied | 2025-05-16 |
 | Bloom Energy | Business Data Analyst Intern – Indirect Commodity | Unknown | Declined | 2025-05-16 |
 | Driscoll's | Supply Quality Analyst | Unknown | Applied | 2025-05-16 |
