@@ -27536,5 +27536,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-28"
+    },
+    {
+        "Company": "Kroll",
+        "Job Title": "Analyst - Data Analytics",
+        "Location": "Los Angeles, CA, United States",
+        "status": "Declined",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Windfall",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "ChargePoint",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Maximus",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-28"
     }
 ]

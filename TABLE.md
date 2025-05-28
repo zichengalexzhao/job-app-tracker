@@ -6,6 +6,10 @@
 | Primerica | Data Support Analyst Intern | Unknown | Declined | 2025-05-28 |
 | dmg media | Editorial Insights Analyst | London | Declined | 2025-05-28 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-05-28 |
+| Kroll | Analyst - Data Analytics | Los Angeles, CA, United States | Declined | 2025-05-28 |
+| Windfall | Data Analyst | Unknown | Applied | 2025-05-28 |
+| ChargePoint | Unknown | Unknown | Applied | 2025-05-28 |
+| Maximus | Data Analyst | Unknown | Declined | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |
