@@ -10,6 +10,7 @@
 | Windfall | Data Analyst | Unknown | Applied | 2025-05-28 |
 | ChargePoint | Unknown | Unknown | Applied | 2025-05-28 |
 | Maximus | Data Analyst | Unknown | Declined | 2025-05-28 |
+| Maximus | Business Operations Intern | Unknown | Declined | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |
