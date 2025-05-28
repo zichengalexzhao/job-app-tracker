@@ -27501,5 +27501,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-27"
+    },
+    {
+        "Company": "ClickUp",
+        "Job Title": "Data Analyst, Product",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Equinix",
+        "Job Title": "Reporting and Analytics Senior Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
     }
 ]
