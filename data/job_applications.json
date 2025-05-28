@@ -27188,13 +27188,6 @@
         "Date": "2025-05-23"
     },
     {
-        "Company": "Covetrus",
-        "Job Title": "Consumer Insight Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-23"
-    },
-    {
         "Company": "Agero",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27589,6 +27582,20 @@
     {
         "Company": "Acuity",
         "Job Title": "Product Analyst - Insights",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Capital One",
+        "Job Title": "Business Manager, Competitor Insights Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-28"
+    },
+    {
+        "Company": "Covetrus",
+        "Job Title": "Consumer Insight Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-28"

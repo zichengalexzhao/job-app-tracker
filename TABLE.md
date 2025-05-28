@@ -15,6 +15,8 @@
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-05-28 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-05-28 |
 | Acuity | Product Analyst - Insights | Unknown | Declined | 2025-05-28 |
+| Capital One | Business Manager, Competitor Insights Analyst | Unknown | Applied | 2025-05-28 |
+| Covetrus | Consumer Insight Analyst | Unknown | Declined | 2025-05-28 |
 | Lowe's | Unknown | Unknown | Applied | 2025-05-27 |
 | PNC | Quantitative Analytics & Model Analyst Sr | Unknown | Declined | 2025-05-27 |
 | Barracuda Networks Inc. | Unknown | Unknown | Declined | 2025-05-27 |
@@ -50,7 +52,6 @@
 | Amazon | ICQA Data Analyst | Unknown | Applied | 2025-05-23 |
 | DHL | Sr Business Data Analyst | Unknown | Applied | 2025-05-23 |
 | Pacific Gas and Electric Company | Clean Energy Quantitative Analyst | Unknown | Applied | 2025-05-23 |
-| Covetrus | Consumer Insight Analyst | Unknown | Applied | 2025-05-23 |
 | Agero | Unknown | Unknown | Applied | 2025-05-23 |
 | GM (General Motors) | Unknown | Unknown | Applied | 2025-05-23 |
 | CBRE | Data Analyst | Unknown | Declined | 2025-05-23 |
