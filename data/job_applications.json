@@ -12320,13 +12320,6 @@
         "Date": "2025-03-21"
     },
     {
-        "Company": "Allredi",
-        "Job Title": "Junior Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-21"
-    },
-    {
         "Company": "Northwestern Mutual",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27661,6 +27654,20 @@
         "Job Title": "Data Science Analyst Intern",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Allredi",
+        "Job Title": "Junior Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Pump.co",
+        "Job Title": "Sales Development Representative",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
         "Date": "2025-05-29"
     }
 ]

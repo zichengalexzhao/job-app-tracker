@@ -8,6 +8,8 @@
 | Monzo | Data Analyst | Unknown | Declined | 2025-05-29 |
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-05-29 |
 | Cinch Home Services, Inc. | Data Science Analyst Intern | Unknown | Declined | 2025-05-29 |
+| Allredi | Junior Data Analyst | Unknown | Declined | 2025-05-29 |
+| Pump.co | Sales Development Representative | San Francisco, CA | Applied | 2025-05-29 |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
@@ -2170,7 +2172,6 @@
 | CAPITAL AREA FOOD BANK | Unknown | Unknown | Applied | 2025-03-22 |
 | ZwillGen | Data Scientist | Unknown | Applied | 2025-03-21 |
 | Cerberus | Associate/Sr. Associate – Business Intelligence and Data Analytics, Credit Risk | Unknown | Applied | 2025-03-21 |
-| Allredi | Junior Data Analyst | Unknown | Applied | 2025-03-21 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-03-21 |
 | Kohl's | Unknown | Unknown | Applied | 2025-03-21 |
 | Splunk | Machine Learning Engineer - Early in Career | Unknown | Applied | 2025-03-21 |
