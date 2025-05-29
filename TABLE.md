@@ -3,6 +3,7 @@
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
+| Specialized Bicycles | Product Data Analyst | Unknown | Declined | 2025-05-29 |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
@@ -87,7 +88,6 @@
 | A. Duie Pyle | Leadership Development Program | Buffalo, NY | Applied | 2025-05-22 |
 | Augment Code | Product & Growth Data Analyst | Unknown | Declined | 2025-05-22 |
 | Handshake | Data Scientist | Unknown | Applied | 2025-05-22 |
-| Specialized Bicycles | Product Data Analyst | Unknown | Applied | 2025-05-22 |
 | Delta Dental | Treasury Analyst | Unknown | Applied | 2025-05-22 |
 | Dataman USA | Data Analyst | Unknown | Applied | 2025-05-22 |
 | Prime Healthcare | PHS Bio-Medical Services | Unknown | Applied | 2025-05-22 |

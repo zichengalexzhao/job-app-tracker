@@ -26936,13 +26936,6 @@
         "Date": "2025-05-22"
     },
     {
-        "Company": "Specialized Bicycles",
-        "Job Title": "Product Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-22"
-    },
-    {
         "Company": "Delta Dental",
         "Job Title": "Treasury Analyst",
         "Location": "Unknown",
@@ -27638,6 +27631,13 @@
     {
         "Company": "General Motors (GM)",
         "Job Title": "Marketing Strategic Insights Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Specialized Bicycles",
+        "Job Title": "Product Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-29"
