@@ -27627,5 +27627,12 @@
         "Location": "Tampa, FL",
         "status": "Applied",
         "Date": "2025-05-29"
+    },
+    {
+        "Company": "Centific",
+        "Job Title": "Technical Intern",
+        "Location": "Unknown",
+        "status": "Interviewed",
+        "Date": "2025-05-29"
     }
 ]
