@@ -27690,5 +27690,12 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-05-29"
+    },
+    {
+        "Company": "SeatGeek",
+        "Job Title": "Senior Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-29"
     }
 ]
