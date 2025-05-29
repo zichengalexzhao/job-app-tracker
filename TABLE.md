@@ -5,6 +5,8 @@
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
 | Specialized Bicycles | Product Data Analyst | Unknown | Declined | 2025-05-29 |
 | Unknown | R027795 Data Scientist Intern | Unknown | Applied | 2025-05-29 |
+| Monzo | Data Analyst | Unknown | Declined | 2025-05-29 |
+| Workday | Business Intelligence Analyst | Unknown | Applied | 2025-05-29 |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
@@ -65,7 +67,6 @@
 | GM (General Motors) | Unknown | Unknown | Applied | 2025-05-23 |
 | CBRE | Data Analyst | Unknown | Declined | 2025-05-23 |
 | RMD Group | Data Analyst & IT Support Specialist | Unknown | Applied | 2025-05-23 |
-| Monzo | Data Analyst | Unknown | Applied | 2025-05-23 |
 | Delta Dental | Treasury Analyst | Unknown | Applied | 2025-05-23 |
 | DataVisor | Data Scientist - Fraud Detection | Unknown | Applied | 2025-05-23 |
 | Meta Platforms, Inc. | Data Scientist, Product Analytics | Unknown | Applied | 2025-05-23 |

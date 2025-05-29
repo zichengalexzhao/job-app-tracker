@@ -27202,13 +27202,6 @@
         "Date": "2025-05-23"
     },
     {
-        "Company": "Monzo",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-23"
-    },
-    {
         "Company": "Delta Dental",
         "Job Title": "Treasury Analyst",
         "Location": "Unknown",
@@ -27645,6 +27638,20 @@
     {
         "Company": "Unknown",
         "Job Title": "R027795 Data Scientist Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Monzo",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Workday",
+        "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-29"
