@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
