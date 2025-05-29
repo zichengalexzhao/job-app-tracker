@@ -13083,13 +13083,6 @@
         "Date": "2025-03-27"
     },
     {
-        "Company": "Bank OZK",
-        "Job Title": "Data Scientist, Risk Management",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-27"
-    },
-    {
         "Company": "Lantern",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -27666,6 +27659,27 @@
     {
         "Company": "BCD",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Toyota",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Topcon Healthcare",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-29"
+    },
+    {
+        "Company": "Bank OZK",
+        "Job Title": "Data Scientist, Risk Management",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-29"

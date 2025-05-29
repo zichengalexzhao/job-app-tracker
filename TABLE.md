@@ -11,6 +11,9 @@
 | Allredi | Junior Data Analyst | Unknown | Declined | 2025-05-29 |
 | Pump.co | Sales Development Representative | San Francisco, CA | Applied | 2025-05-29 |
 | BCD | Data Analyst | Unknown | Declined | 2025-05-29 |
+| Toyota | Data Analyst | Unknown | Applied | 2025-05-29 |
+| Topcon Healthcare | Data Science Intern | Unknown | Applied | 2025-05-29 |
+| Bank OZK | Data Scientist, Risk Management | Unknown | Declined | 2025-05-29 |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
@@ -2033,7 +2036,6 @@
 | Jerry | Data Scientist | Unknown | Applied | 2025-03-28 |
 | CAA (Creative Artists Agency) | Unknown | Unknown | Applied | 2025-03-27 |
 | University of Illinois Chicago (UIC) | Institutional Research Analyst | Unknown | Applied | 2025-03-27 |
-| Bank OZK | Data Scientist, Risk Management | Unknown | Applied | 2025-03-27 |
 | Lantern | Data Scientist | Unknown | Applied | 2025-03-27 |
 | Equilar | Research Analyst | Unknown | Applied | 2025-03-27 |
 | Housecall Pro | Unknown | Unknown | Declined | 2025-03-27 |
