@@ -7,6 +7,7 @@
 | Unknown | R027795 Data Scientist Intern | Unknown | Applied | 2025-05-29 |
 | Monzo | Data Analyst | Unknown | Declined | 2025-05-29 |
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-05-29 |
+| Cinch Home Services, Inc. | Data Science Analyst Intern | Unknown | Declined | 2025-05-29 |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
