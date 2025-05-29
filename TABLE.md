@@ -10,6 +10,7 @@
 | Cinch Home Services, Inc. | Data Science Analyst Intern | Unknown | Declined | 2025-05-29 |
 | Allredi | Junior Data Analyst | Unknown | Declined | 2025-05-29 |
 | Pump.co | Sales Development Representative | San Francisco, CA | Applied | 2025-05-29 |
+| BCD | Data Analyst | Unknown | Declined | 2025-05-29 |
 | ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
@@ -394,7 +395,6 @@
 | Circana | Client Insights Analyst SRANA015290 | Unknown | Declined | 2025-05-13 |
 | KLA-Tencor | Inventory Analyst | Unknown | Declined | 2025-05-13 |
 | V2X | Competitive Intelligence Intern | Unknown | Applied | 2025-05-13 |
-| BCD | Data Analyst | Unknown | Applied | 2025-05-13 |
 | Quantifind | Unknown | Unknown | Applied | 2025-05-13 |
 | ICANN | Unknown | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
