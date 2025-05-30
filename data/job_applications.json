@@ -20672,13 +20672,6 @@
     },
     {
         "Company": "CBRE",
-        "Job Title": "Business Intelligence Senior Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-22"
-    },
-    {
-        "Company": "CBRE",
         "Job Title": "Data Intelligence Research Analyst",
         "Location": "Unknown",
         "status": "Applied",
@@ -27787,6 +27780,13 @@
         "Job Title": "Warehouse Operations Analyst",
         "Location": "Woodridge, IL",
         "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Business Intelligence Senior Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-30"
     }
 ]

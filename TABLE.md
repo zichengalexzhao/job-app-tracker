@@ -16,6 +16,7 @@
 | ENGIE North America Inc. | Intern, Power Congestion | Unknown | Declined | 2025-05-30 |
 | Esri | Business Analyst - Architecture & Governance | Unknown | Declined | 2025-05-30 |
 | WYD USA Group.Inc | Warehouse Operations Analyst | Woodridge, IL | Applied | 2025-05-30 |
+| CBRE | Business Intelligence Senior Analyst | Unknown | Declined | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
@@ -1046,7 +1047,6 @@
 | DLH | Unknown | Unknown | Applied | 2025-04-22 |
 | Aon | Data Analytics Analyst | Unknown | Declined | 2025-04-22 |
 | Mercury Insurance Services, LLC | RD Analyst II | Unknown | Applied | 2025-04-22 |
-| CBRE | Business Intelligence Senior Analyst | Unknown | Applied | 2025-04-22 |
 | CBRE | Data Intelligence Research Analyst | Unknown | Applied | 2025-04-22 |
 | CBRE | Sales Brokerage Analyst | Unknown | Applied | 2025-04-22 |
 | Activision Blizzard King | Unknown | Unknown | Applied | 2025-04-22 |
