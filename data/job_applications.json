@@ -27746,5 +27746,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-30"
+    },
+    {
+        "Company": "Truckstop",
+        "Job Title": "Customer Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "BlackRock",
+        "Job Title": "Securities Lending and Cash Management Data Strategist, Analyst (R251052)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-30"
     }
 ]
