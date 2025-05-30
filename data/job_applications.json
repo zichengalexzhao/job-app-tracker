@@ -25711,13 +25711,6 @@
         "Date": "2025-05-16"
     },
     {
-        "Company": "BetterHelp",
-        "Job Title": "AI Extern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-15"
-    },
-    {
         "Company": "SeatGeek",
         "Job Title": "Data Scientist",
         "Location": "Unknown",
@@ -27703,6 +27696,48 @@
         "Job Title": "Business Development Representative",
         "Location": "Alpharetta, GA",
         "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "LPL Financial",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "Ferguson Enterprises, LLC",
+        "Job Title": "Marketing Analyst - Analytics and Insights",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "UCT",
+        "Job Title": "Data & Visualization Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "Sony",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "Applied Materials",
+        "Job Title": "Talent Acquisition Data Analyst III - (B3)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "BetterHelp",
+        "Job Title": "AI Extern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-30"
     }
 ]

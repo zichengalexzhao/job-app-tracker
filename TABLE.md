@@ -1,6 +1,12 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | LoadUp Technologies | Business Development Representative | Alpharetta, GA | Applied | 2025-05-30 |
+| LPL Financial | Unknown | Unknown | Applied | 2025-05-30 |
+| Ferguson Enterprises, LLC | Marketing Analyst - Analytics and Insights | Unknown | Applied | 2025-05-30 |
+| UCT | Data & Visualization Analyst | Unknown | Applied | 2025-05-30 |
+| Sony | Business Intelligence Analyst | Unknown | Applied | 2025-05-30 |
+| Applied Materials | Talent Acquisition Data Analyst III - (B3) | Unknown | Applied | 2025-05-30 |
+| BetterHelp | AI Extern | Unknown | Declined | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
@@ -330,7 +336,6 @@
 | MyHR (Allstate) | Unknown | Unknown | Applied | 2025-05-15 |
 | SitusAMC | Unknown | Unknown | Applied | 2025-05-15 |
 | Greenlane | Summer Ops Internship | Unknown | Interviewed | 2025-05-15 |
-| BetterHelp | AI Extern | Unknown | Applied | 2025-05-15 |
 | SeatGeek | Data Scientist | Unknown | Applied | 2025-05-15 |
 | Apex Systems | Unknown | Unknown | Applied | 2025-05-15 |
 | Tesla | Internship, Data Analyst, Americas Sales & Sales Operations (Fall 2025), 242779 | Unknown | Applied | 2025-05-14 |
