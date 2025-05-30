@@ -11,6 +11,7 @@
 | Truckstop | Customer Operations Analyst | Unknown | Declined | 2025-05-30 |
 | BlackRock | Securities Lending and Cash Management Data Strategist, Analyst (R251052) | Unknown | Applied | 2025-05-30 |
 | m1neral | Account Executive - SaaS | Remote | Applied | 2025-05-30 |
+| Fisher & Phillips LLP | Unknown | Unknown | Applied | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
