@@ -12,6 +12,7 @@
 | BlackRock | Securities Lending and Cash Management Data Strategist, Analyst (R251052) | Unknown | Applied | 2025-05-30 |
 | m1neral | Account Executive - SaaS | Remote | Applied | 2025-05-30 |
 | Fisher & Phillips LLP | Unknown | Unknown | Applied | 2025-05-30 |
+| Block | Data Scientist, Square Support | Unknown | Declined | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
@@ -170,7 +171,6 @@
 | Simpro Group | Unknown | Unknown | Applied | 2025-05-21 |
 | Spellman High Voltage Electronics | People Data, Analytics, and Insights Intern | Unknown | Applied | 2025-05-21 |
 | MeridianLink | Data Analyst Consultant - #1774 | Unknown | Applied | 2025-05-21 |
-| Block | Data Scientist, Square Support | Unknown | Applied | 2025-05-21 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Two Chairs | Operations Analyst II | Unknown | Declined | 2025-05-20 |
 | Rivian Automotive, LLC | Product Strategy Analyst | Unknown | Applied | 2025-05-20 |

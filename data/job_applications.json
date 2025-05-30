@@ -26838,13 +26838,6 @@
         "Date": "2025-05-21"
     },
     {
-        "Company": "Block",
-        "Job Title": "Data Scientist, Square Support",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-21"
-    },
-    {
         "Company": "TruStage",
         "Job Title": "Data Analyst, Wealth Management",
         "Location": "Remote",
@@ -27773,6 +27766,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "Block",
+        "Job Title": "Data Scientist, Square Support",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-30"
     }
 ]
