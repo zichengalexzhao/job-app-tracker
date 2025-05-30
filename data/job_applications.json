@@ -27706,13 +27706,6 @@
         "Date": "2025-05-30"
     },
     {
-        "Company": "Ferguson Enterprises, LLC",
-        "Job Title": "Marketing Analyst - Analytics and Insights",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-30"
-    },
-    {
         "Company": "UCT",
         "Job Title": "Data & Visualization Analyst",
         "Location": "Unknown",
@@ -27745,6 +27738,13 @@
         "Job Title": "Marketing Apprenticeship Program - Data Analytics",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "Ferguson Enterprises, LLC",
+        "Job Title": "Marketing Analyst - Analytics and Insights",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-05-30"
     }
 ]
