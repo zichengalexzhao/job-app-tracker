@@ -17,6 +17,7 @@
 | Esri | Business Analyst - Architecture & Governance | Unknown | Declined | 2025-05-30 |
 | WYD USA Group.Inc | Warehouse Operations Analyst | Woodridge, IL | Applied | 2025-05-30 |
 | CBRE | Business Intelligence Senior Analyst | Unknown | Declined | 2025-05-30 |
+| UCLA Health | Data Analyst, Pathology & Laboratory Medicine | Unknown | Declined | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
