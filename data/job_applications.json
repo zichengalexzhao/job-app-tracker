@@ -20153,13 +20153,6 @@
         "Date": "2025-04-21"
     },
     {
-        "Company": "ENGIE North America Inc.",
-        "Job Title": "Intern, Power Congestion",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-21"
-    },
-    {
         "Company": "Pathward, N.A.",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27771,6 +27764,20 @@
     {
         "Company": "Block",
         "Job Title": "Data Scientist, Square Support",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "ENGIE North America Inc.",
+        "Job Title": "Intern, Power Congestion",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-05-30"
+    },
+    {
+        "Company": "Esri",
+        "Job Title": "Business Analyst - Architecture & Governance",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-05-30"

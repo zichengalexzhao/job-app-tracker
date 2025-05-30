@@ -13,6 +13,8 @@
 | m1neral | Account Executive - SaaS | Remote | Applied | 2025-05-30 |
 | Fisher & Phillips LLP | Unknown | Unknown | Applied | 2025-05-30 |
 | Block | Data Scientist, Square Support | Unknown | Declined | 2025-05-30 |
+| ENGIE North America Inc. | Intern, Power Congestion | Unknown | Declined | 2025-05-30 |
+| Esri | Business Analyst - Architecture & Governance | Unknown | Declined | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
@@ -1086,7 +1088,6 @@
 | Apple | Business Systems Analyst | Unknown | Applied | 2025-04-21 |
 | Unknown | Utility Worker | San Francisco, CA | Applied | 2025-04-21 |
 | Alma Rosa Winery & Vineyards | Sales Analyst | Solvang, CA | Applied | 2025-04-21 |
-| ENGIE North America Inc. | Intern, Power Congestion | Unknown | Applied | 2025-04-21 |
 | Pathward, N.A. | Unknown | Unknown | Applied | 2025-04-21 |
 | Air Apps | Unknown | Unknown | Applied | 2025-04-21 |
 | Adobe | Data Analyst Intern | San Jose, CA, USA | Applied | 2025-04-21 |
