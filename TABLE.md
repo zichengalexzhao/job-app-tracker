@@ -15,6 +15,7 @@
 | Block | Data Scientist, Square Support | Unknown | Declined | 2025-05-30 |
 | ENGIE North America Inc. | Intern, Power Congestion | Unknown | Declined | 2025-05-30 |
 | Esri | Business Analyst - Architecture & Governance | Unknown | Declined | 2025-05-30 |
+| WYD USA Group.Inc | Warehouse Operations Analyst | Woodridge, IL | Applied | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
