@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| LoadUp Technologies | Business Development Representative | Alpharetta, GA | Applied | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
