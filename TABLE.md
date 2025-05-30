@@ -7,6 +7,7 @@
 | Sony | Business Intelligence Analyst | Unknown | Applied | 2025-05-30 |
 | Applied Materials | Talent Acquisition Data Analyst III - (B3) | Unknown | Applied | 2025-05-30 |
 | BetterHelp | AI Extern | Unknown | Declined | 2025-05-30 |
+| Allstate Insurance Company | Marketing Apprenticeship Program - Data Analytics | Unknown | Applied | 2025-05-30 |
 | VanEck | Data and Production Support Analyst | Tampa, FL | Applied | 2025-05-29 |
 | Centific | Technical Intern | Unknown | Interviewed | 2025-05-29 |
 | General Motors (GM) | Marketing Strategic Insights Analyst | Unknown | Declined | 2025-05-29 |
