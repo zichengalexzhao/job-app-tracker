@@ -27823,5 +27823,12 @@
         "Location": "New York",
         "status": "Applied",
         "Date": "2025-05-31"
+    },
+    {
+        "Company": "Compass Group",
+        "Job Title": "Analyst, Strategy & Analytics - FedEx Forum",
+        "Location": "Memphis, TN",
+        "status": "Declined",
+        "Date": "2025-05-31"
     }
 ]

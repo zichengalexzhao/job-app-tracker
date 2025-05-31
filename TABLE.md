@@ -4,6 +4,7 @@
 | CVS Health | Unknown | Unknown | Applied | 2025-05-31 |
 | Stride | Unknown | Unknown | Applied | 2025-05-31 |
 | Unknown | IT Program Manager, ServiceNow SPM | New York | Applied | 2025-05-31 |
+| Compass Group | Analyst, Strategy & Analytics - FedEx Forum | Memphis, TN | Declined | 2025-05-31 |
 | LoadUp Technologies | Business Development Representative | Alpharetta, GA | Applied | 2025-05-30 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-05-30 |
 | UCT | Data & Visualization Analyst | Unknown | Applied | 2025-05-30 |
