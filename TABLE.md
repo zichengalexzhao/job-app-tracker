@@ -1,6 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |
+| CVS Health | Unknown | Unknown | Applied | 2025-05-31 |
+| Stride | Unknown | Unknown | Applied | 2025-05-31 |
 | LoadUp Technologies | Business Development Representative | Alpharetta, GA | Applied | 2025-05-30 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-05-30 |
 | UCT | Data & Visualization Analyst | Unknown | Applied | 2025-05-30 |
