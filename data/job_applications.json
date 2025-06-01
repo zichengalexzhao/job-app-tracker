@@ -27830,5 +27830,12 @@
         "Location": "Memphis, TN",
         "status": "Declined",
         "Date": "2025-05-31"
+    },
+    {
+        "Company": "Roofstock",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-01"
     }
 ]

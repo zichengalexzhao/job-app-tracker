@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-06-01 |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |
 | CVS Health | Unknown | Unknown | Applied | 2025-05-31 |
 | Stride | Unknown | Unknown | Applied | 2025-05-31 |
