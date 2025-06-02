@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
+| Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
 | Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-06-01 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-01 |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |

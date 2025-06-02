@@ -27858,5 +27858,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-02"
+    },
+    {
+        "Company": "Citi",
+        "Job Title": "AVP, AML Namescreening Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-02"
     }
 ]
