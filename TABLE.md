@@ -15,6 +15,7 @@
 | ICONIQ | Analyst, Portfolio Analytics | Unknown | Applied | 2025-06-02 |
 | Upgrade | Model Risk Analyst | Unknown | Declined | 2025-06-02 |
 | First American | Data Business Analyst | Unknown | Declined | 2025-06-02 |
+| Unknown | Technical Intern (Data Engineer) | Unknown | Interviewed | 2025-06-02 |
 | Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-06-01 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-01 |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |
