@@ -13,6 +13,8 @@
 | Heluna Health | Predictive Data Analyst-CalAIM N37 | Unknown | Applied | 2025-06-02 |
 | Hill Country Health & Wellness Center | Unknown | Unknown | Applied | 2025-06-02 |
 | ICONIQ | Analyst, Portfolio Analytics | Unknown | Applied | 2025-06-02 |
+| Upgrade | Model Risk Analyst | Unknown | Declined | 2025-06-02 |
+| First American | Data Business Analyst | Unknown | Declined | 2025-06-02 |
 | Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-06-01 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-01 |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |
@@ -1395,7 +1397,6 @@
 | KPMG | Unknown | Unknown | Applied | 2025-04-14 |
 | IQVIA | Strategy Consulting Associate | Unknown | Applied | 2025-04-14 |
 | Pitney Bowes | Associate Business Analyst | Unknown | Applied | 2025-04-14 |
-| Upgrade | Model Risk Analyst | Unknown | Applied | 2025-04-14 |
 | Experis | Research Analyst I | Unknown | Applied | 2025-04-14 |
 | CLAREMEDICA HEALTH PARTNERS LLC | Unknown | Unknown | Applied | 2025-04-14 |
 | ZestyAI | Unknown | Unknown | Applied | 2025-04-14 |
