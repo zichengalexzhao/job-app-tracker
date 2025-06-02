@@ -27844,5 +27844,12 @@
         "Location": "Washington, Washington DC US",
         "status": "Applied",
         "Date": "2025-06-01"
+    },
+    {
+        "Company": "Oak Valley Home Buyers",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-02"
     }
 ]
