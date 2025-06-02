@@ -10640,13 +10640,6 @@
         "Date": "2025-03-16"
     },
     {
-        "Company": "Ascension",
-        "Job Title": "Data Scientist (Machine Learning)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-16"
-    },
-    {
         "Company": "Amazon",
         "Job Title": "Business Analyst I, Profit Intelligence",
         "Location": "Unknown",
@@ -27864,6 +27857,20 @@
         "Job Title": "AVP, AML Namescreening Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "Ascension",
+        "Job Title": "Data Scientist (Machine Learning)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "OneThirtyFive",
+        "Job Title": "Business Development Representative",
+        "Location": "Cleveland, OH",
+        "status": "Applied",
         "Date": "2025-06-02"
     }
 ]

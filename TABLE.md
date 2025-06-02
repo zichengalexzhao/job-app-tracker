@@ -3,6 +3,8 @@
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
+| Ascension | Data Scientist (Machine Learning) | Unknown | Declined | 2025-06-02 |
+| OneThirtyFive | Business Development Representative | Cleveland, OH | Applied | 2025-06-02 |
 | Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-06-01 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-01 |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |
@@ -2439,7 +2441,6 @@
 | Adobe | Music Generation Research Scientist | Unknown | Applied | 2025-03-16 |
 | Uniphore | AI Scientist | Unknown | Applied | 2025-03-16 |
 | Sunbit | Credit Card Business Analyst | Unknown | Applied | 2025-03-16 |
-| Ascension | Data Scientist (Machine Learning) | Unknown | Applied | 2025-03-16 |
 | Amazon | Business Analyst I, Profit Intelligence | Unknown | Applied | 2025-03-16 |
 | Thumbtack | Data Scientist, Product (Monetization) | Unknown | Applied | 2025-03-16 |
 | Amazon | Business Analyst I, Profit Intelligence | Unknown | Applied | 2025-03-16 |
