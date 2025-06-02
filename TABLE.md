@@ -5,6 +5,14 @@
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
 | Ascension | Data Scientist (Machine Learning) | Unknown | Declined | 2025-06-02 |
 | OneThirtyFive | Business Development Representative | Cleveland, OH | Applied | 2025-06-02 |
+| LA KINGS (AEG Worldwide) | Summer Intern, Data Scientist | Unknown | Declined | 2025-06-02 |
+| UniUni Logistics Inc. | Operations Assistant -Houston- Mandarin | Houston, TX | Applied | 2025-06-02 |
+| Dark Alpha Capital LLC | Private Equity Operations Associate | Remote | Applied | 2025-06-02 |
+| WYD USA Group Inc | Warehouse Operations Analyst | Woodridge, IL | Applied | 2025-06-02 |
+| Great Expectations LLC | Real Estate Private Equity Analyst | Seattle, WA | Applied | 2025-06-02 |
+| Heluna Health | Predictive Data Analyst-CalAIM N37 | Unknown | Applied | 2025-06-02 |
+| Hill Country Health & Wellness Center | Unknown | Unknown | Applied | 2025-06-02 |
+| ICONIQ | Analyst, Portfolio Analytics | Unknown | Applied | 2025-06-02 |
 | Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-06-01 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-01 |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |

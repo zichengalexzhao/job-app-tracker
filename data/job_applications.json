@@ -27872,5 +27872,61 @@
         "Location": "Cleveland, OH",
         "status": "Applied",
         "Date": "2025-06-02"
+    },
+    {
+        "Company": "LA KINGS (AEG Worldwide)",
+        "Job Title": "Summer Intern, Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "UniUni Logistics Inc.",
+        "Job Title": "Operations Assistant -Houston- Mandarin",
+        "Location": "Houston, TX",
+        "status": "Applied",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "Dark Alpha Capital LLC",
+        "Job Title": "Private Equity Operations Associate",
+        "Location": "Remote",
+        "status": "Applied",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "WYD USA Group Inc",
+        "Job Title": "Warehouse Operations Analyst",
+        "Location": "Woodridge, IL",
+        "status": "Applied",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "Great Expectations LLC",
+        "Job Title": "Real Estate Private Equity Analyst",
+        "Location": "Seattle, WA",
+        "status": "Applied",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "Heluna Health",
+        "Job Title": "Predictive Data Analyst-CalAIM N37",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "Hill Country Health & Wellness Center",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "ICONIQ",
+        "Job Title": "Analyst, Portfolio Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-02"
     }
 ]
