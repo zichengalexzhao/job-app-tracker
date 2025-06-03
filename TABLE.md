@@ -8,6 +8,7 @@
 | Walmart, Inc. - Walmart eCommerce (Marketplace) | Strategic Account Manager | Unknown | Applied | 2025-06-03 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-06-03 |
 | Sprouts AI | Unknown | Unknown | Interviewed | 2025-06-03 |
+| WalletHub | Marketing Manager | Unknown | Applied | 2025-06-03 |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
