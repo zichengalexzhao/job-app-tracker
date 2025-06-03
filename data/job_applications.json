@@ -28012,5 +28012,40 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-06-03"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "CAT Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Medline",
+        "Job Title": "Assoc Analyst Implementation Distributed Products",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "VSolvit",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Molina Healthcare",
+        "Job Title": "Analyst, Risk & Quality Reporting",
+        "Location": "Remote in CA",
+        "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Spanda AI",
+        "Job Title": "AI Software Development Intern",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-03"
     }
 ]

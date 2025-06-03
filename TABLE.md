@@ -10,6 +10,11 @@
 | Sprouts AI | Unknown | Unknown | Interviewed | 2025-06-03 |
 | WalletHub | Marketing Manager | Unknown | Applied | 2025-06-03 |
 | Molina Healthcare, Inc. | Analyst, Claims Research | Remote | Applied | 2025-06-03 |
+| Unknown | CAT Analyst | Unknown | Applied | 2025-06-03 |
+| Medline | Assoc Analyst Implementation Distributed Products | Unknown | Applied | 2025-06-03 |
+| VSolvit | Data Analyst II | Unknown | Applied | 2025-06-03 |
+| Molina Healthcare | Analyst, Risk & Quality Reporting | Remote in CA | Applied | 2025-06-03 |
+| Spanda AI | AI Software Development Intern | Unknown | Applied | 2025-06-03 |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
