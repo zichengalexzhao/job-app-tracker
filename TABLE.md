@@ -21,6 +21,7 @@
 | Skyworks | Semiconductor Process and Data Analytics Summer/Fall Co-op student | Unknown | Declined | 2025-06-03 |
 | Collectors | Unknown | Unknown | Applied | 2025-06-03 |
 | Plaza Home Mortgage | Business Intelligence Analyst I | Unknown | Declined | 2025-06-03 |
+| U.S. Pipe | Data Analytics Intern | Unknown | Declined | 2025-06-03 |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
@@ -1739,7 +1740,6 @@
 | Western Digital | Data Analytics | Unknown | Declined | 2025-04-07 |
 | AbbVie | Customer Master Data Analyst | Unknown | Applied | 2025-04-07 |
 | Exact Sciences | Unknown | Unknown | Applied | 2025-04-07 |
-| U.S. Pipe | Data Analytics Intern | Unknown | Applied | 2025-04-07 |
 | Hyland Software | Data Analyst 2 | Unknown | Applied | 2025-04-07 |
 | Live Nation Entertainment | Data Visualization Intern, LiveAnalytics | Unknown | Applied | 2025-04-07 |
 | Hyland Software | Data Analyst 2 | Unknown | Applied | 2025-04-07 |

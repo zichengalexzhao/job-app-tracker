@@ -16128,13 +16128,6 @@
         "Date": "2025-04-07"
     },
     {
-        "Company": "U.S. Pipe",
-        "Job Title": "Data Analytics Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-07"
-    },
-    {
         "Company": "Hyland Software",
         "Job Title": "Data Analyst 2",
         "Location": "Unknown",
@@ -28079,6 +28072,13 @@
     {
         "Company": "Plaza Home Mortgage",
         "Job Title": "Business Intelligence Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "U.S. Pipe",
+        "Job Title": "Data Analytics Intern",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-03"
