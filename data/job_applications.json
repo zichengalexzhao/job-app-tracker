@@ -27398,13 +27398,6 @@
         "Date": "2025-05-27"
     },
     {
-        "Company": "ClickUp",
-        "Job Title": "Data Analyst, Product",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-28"
-    },
-    {
         "Company": "Equinix",
         "Job Title": "Reporting and Analytics Senior Analyst",
         "Location": "Unknown",
@@ -27941,6 +27934,20 @@
         "Job Title": "Technical Intern (Data Engineer)",
         "Location": "Unknown",
         "status": "Interviewed",
+        "Date": "2025-06-02"
+    },
+    {
+        "Company": "Cintra US",
+        "Job Title": "Business Development Project Coordinator",
+        "Location": "Charlotte, NC",
+        "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "ClickUp",
+        "Job Title": "Data Analyst, Product",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-02"
     }
 ]

@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Cintra US | Business Development Project Coordinator | Charlotte, NC | Applied | 2025-06-03 |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
@@ -16,6 +17,7 @@
 | Upgrade | Model Risk Analyst | Unknown | Declined | 2025-06-02 |
 | First American | Data Business Analyst | Unknown | Declined | 2025-06-02 |
 | Unknown | Technical Intern (Data Engineer) | Unknown | Interviewed | 2025-06-02 |
+| ClickUp | Data Analyst, Product | Unknown | Declined | 2025-06-02 |
 | Roofstock | Business Intelligence Analyst | Unknown | Declined | 2025-06-01 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-01 |
 | Swivel Payment Solutions LLC | Jr. Data Analyst | Los Angeles, CA | Applied | 2025-05-31 |
@@ -57,7 +59,6 @@
 | Bank OZK | Data Scientist, Risk Management | Unknown | Declined | 2025-05-29 |
 | NextLabs, Inc. | Senior Marketing Data Analyst | Remote | Applied | 2025-05-29 |
 | SeatGeek | Senior Data Scientist | Unknown | Declined | 2025-05-29 |
-| ClickUp | Data Analyst, Product | Unknown | Applied | 2025-05-28 |
 | Equinix | Reporting and Analytics Senior Analyst | Unknown | Applied | 2025-05-28 |
 | General Motors (GM) | Data Scientist - AV Safety | Unknown | Declined | 2025-05-28 |
 | Primerica | Data Support Analyst Intern | Unknown | Declined | 2025-05-28 |
