@@ -20048,13 +20048,6 @@
         "Date": "2025-04-21"
     },
     {
-        "Company": "Skyworks",
-        "Job Title": "Semiconductor Process and Data Analytics Summer/Fall Co-op student",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-21"
-    },
-    {
         "Company": "United Airlines",
         "Job Title": "Analyst - Global Maintenance Strategy",
         "Location": "Unknown",
@@ -28067,6 +28060,27 @@
         "Job Title": "Predictive Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Skyworks",
+        "Job Title": "Semiconductor Process and Data Analytics Summer/Fall Co-op student",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Collectors",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Plaza Home Mortgage",
+        "Job Title": "Business Intelligence Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-03"
     }
 ]

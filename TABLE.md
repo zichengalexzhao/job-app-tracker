@@ -18,6 +18,9 @@
 | PRA Group | Data Analyst - Operational Analytics and Reporting | Unknown | Applied | 2025-06-03 |
 | Centene Corporation | Data Analyst I Healthcare Analytics | Unknown | Applied | 2025-06-03 |
 | Heluna Health | Predictive Data Analyst | Unknown | Applied | 2025-06-03 |
+| Skyworks | Semiconductor Process and Data Analytics Summer/Fall Co-op student | Unknown | Declined | 2025-06-03 |
+| Collectors | Unknown | Unknown | Applied | 2025-06-03 |
+| Plaza Home Mortgage | Business Intelligence Analyst I | Unknown | Declined | 2025-06-03 |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
@@ -1118,7 +1121,6 @@
 | Socure | Unknown | Unknown | Applied | 2025-04-21 |
 | Tarzana Treatment Center | Unknown | Unknown | Applied | 2025-04-21 |
 | Google | Unknown | Unknown | Applied | 2025-04-21 |
-| Skyworks | Semiconductor Process and Data Analytics Summer/Fall Co-op student | Unknown | Applied | 2025-04-21 |
 | United Airlines | Analyst - Global Maintenance Strategy | Unknown | Applied | 2025-04-21 |
 | Mspark | Reporting Associate | Unknown | Declined | 2025-04-21 |
 | NextEra Energy | Associate Data Scientist | Unknown | Declined | 2025-04-21 |
