@@ -22,6 +22,8 @@
 | Collectors | Unknown | Unknown | Applied | 2025-06-03 |
 | Plaza Home Mortgage | Business Intelligence Analyst I | Unknown | Declined | 2025-06-03 |
 | U.S. Pipe | Data Analytics Intern | Unknown | Declined | 2025-06-03 |
+| Vizient | AI ML Engineer | TX Irving Corporate Office \| IL Chicago Van Buren | Applied | 2025-06-03 |
+| Sony | Business Intelligence Analyst | Unknown | Declined | 2025-06-03 |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
@@ -49,7 +51,6 @@
 | LoadUp Technologies | Business Development Representative | Alpharetta, GA | Applied | 2025-05-30 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-05-30 |
 | UCT | Data & Visualization Analyst | Unknown | Applied | 2025-05-30 |
-| Sony | Business Intelligence Analyst | Unknown | Applied | 2025-05-30 |
 | Applied Materials | Talent Acquisition Data Analyst III - (B3) | Unknown | Applied | 2025-05-30 |
 | BetterHelp | AI Extern | Unknown | Declined | 2025-05-30 |
 | Allstate Insurance Company | Marketing Apprenticeship Program - Data Analytics | Unknown | Applied | 2025-05-30 |

@@ -27657,13 +27657,6 @@
         "Date": "2025-05-30"
     },
     {
-        "Company": "Sony",
-        "Job Title": "Business Intelligence Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-30"
-    },
-    {
         "Company": "Applied Materials",
         "Job Title": "Talent Acquisition Data Analyst III - (B3)",
         "Location": "Unknown",
@@ -28079,6 +28072,20 @@
     {
         "Company": "U.S. Pipe",
         "Job Title": "Data Analytics Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Vizient",
+        "Job Title": "AI ML Engineer",
+        "Location": "TX Irving Corporate Office | IL Chicago Van Buren",
+        "status": "Applied",
+        "Date": "2025-06-03"
+    },
+    {
+        "Company": "Sony",
+        "Job Title": "Business Intelligence Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-03"
