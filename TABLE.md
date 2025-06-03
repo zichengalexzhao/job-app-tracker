@@ -15,6 +15,7 @@
 | VSolvit | Data Analyst II | Unknown | Applied | 2025-06-03 |
 | Molina Healthcare | Analyst, Risk & Quality Reporting | Remote in CA | Applied | 2025-06-03 |
 | Spanda AI | AI Software Development Intern | Unknown | Applied | 2025-06-03 |
+| PRA Group | Data Analyst - Operational Analytics and Reporting | Unknown | Applied | 2025-06-03 |
 | Oak Valley Home Buyers | Data Analyst | Unknown | Declined | 2025-06-02 |
 | Warner Music Group | Coordinator, Anti-Piracy/Content Protection | Unknown | Applied | 2025-06-02 |
 | Citi | AVP, AML Namescreening Data Analyst | Unknown | Declined | 2025-06-02 |
