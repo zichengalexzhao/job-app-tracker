@@ -28124,5 +28124,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-04"
+    },
+    {
+        "Company": "NBCUniversal",
+        "Job Title": "Business Solutions Analyst - Configuration",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Alvarez and Marsal",
+        "Job Title": "Associate - Global Transaction Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Bayone Solutions",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Informative Research",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-04"
     }
 ]

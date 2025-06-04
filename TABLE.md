@@ -5,6 +5,10 @@
 | LiveRamp | Unknown | Unknown | Applied | 2025-06-04 |
 | Applied Materials | Data Science Co-op/Intern- Master's (Year-Round) | Santa Clara, CA | Applied | 2025-06-04 |
 | Tailscale | Data Analyst | Unknown | Declined | 2025-06-04 |
+| NBCUniversal | Business Solutions Analyst - Configuration | Unknown | Applied | 2025-06-04 |
+| Alvarez and Marsal | Associate - Global Transaction Analytics | Unknown | Applied | 2025-06-04 |
+| Bayone Solutions | Unknown | Unknown | Applied | 2025-06-04 |
+| Informative Research | Business Analyst | Unknown | Applied | 2025-06-04 |
 | Cintra US | Business Development Project Coordinator | Charlotte, NC | Applied | 2025-06-03 |
 | RIVO Holdings, LLC | Junior Data Analyst | Unknown | Applied | 2025-06-03 |
 | Verily | Unknown | Unknown | Applied | 2025-06-03 |
