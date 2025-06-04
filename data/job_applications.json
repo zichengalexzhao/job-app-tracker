@@ -28187,5 +28187,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-04"
+    },
+    {
+        "Company": "GiveCampus",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-04"
     }
 ]
