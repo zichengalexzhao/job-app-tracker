@@ -9,6 +9,8 @@
 | Alvarez and Marsal | Associate - Global Transaction Analytics | Unknown | Applied | 2025-06-04 |
 | Bayone Solutions | Unknown | Unknown | Applied | 2025-06-04 |
 | Informative Research | Business Analyst | Unknown | Applied | 2025-06-04 |
+| Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-06-04 |
+| Paramount | Unknown | Unknown | Applied | 2025-06-04 |
 | Cintra US | Business Development Project Coordinator | Charlotte, NC | Applied | 2025-06-03 |
 | RIVO Holdings, LLC | Junior Data Analyst | Unknown | Applied | 2025-06-03 |
 | Verily | Unknown | Unknown | Applied | 2025-06-03 |
