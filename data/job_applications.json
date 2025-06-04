@@ -28103,5 +28103,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-04"
+    },
+    {
+        "Company": "LiveRamp",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Applied Materials",
+        "Job Title": "Data Science Co-op/Intern- Master's (Year-Round)",
+        "Location": "Santa Clara, CA",
+        "status": "Applied",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Tailscale",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-04"
     }
 ]
