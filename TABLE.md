@@ -12,6 +12,9 @@
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-06-04 |
 | Paramount | Unknown | Unknown | Applied | 2025-06-04 |
 | Pacific Gas and Electric Company (PG&E) | Business Process Analyst, Associate | Unknown | Declined | 2025-06-04 |
+| Xometry | Data Science Intern | Unknown | Declined | 2025-06-04 |
+| Whatnot | Data Scientist, People Analytics | Unknown | Applied | 2025-06-04 |
+| Western Growers Family of Companies | Analytics Analyst | Unknown | Applied | 2025-06-04 |
 | Cintra US | Business Development Project Coordinator | Charlotte, NC | Applied | 2025-06-03 |
 | RIVO Holdings, LLC | Junior Data Analyst | Unknown | Applied | 2025-06-03 |
 | Verily | Unknown | Unknown | Applied | 2025-06-03 |
@@ -1904,7 +1907,6 @@
 | Hornblower Group, Inc. | Data Analyst, Tableau Developer | Unknown | Applied | 2025-04-02 |
 | SHI International Corp. | Unknown | Unknown | Applied | 2025-04-02 |
 | Perplexity AI | Unknown | Unknown | Applied | 2025-04-02 |
-| Xometry | Data Science Intern | Unknown | Applied | 2025-04-02 |
 | McKinsey & Company | Capabilities & Insights Analyst - Paper & Packaging | Unknown | Declined | 2025-04-02 |
 | DoorDash | Associate, Fraud Insights Operations | Unknown | Declined | 2025-04-02 |
 | Paramount | Unknown | Unknown | Applied | 2025-04-02 |

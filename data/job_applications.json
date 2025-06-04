@@ -14812,13 +14812,6 @@
         "Date": "2025-04-02"
     },
     {
-        "Company": "Xometry",
-        "Job Title": "Data Science Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-02"
-    },
-    {
         "Company": "McKinsey & Company",
         "Job Title": "Capabilities & Insights Analyst - Paper & Packaging",
         "Location": "Unknown",
@@ -28172,6 +28165,27 @@
         "Job Title": "Business Process Analyst, Associate",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Xometry",
+        "Job Title": "Data Science Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Whatnot",
+        "Job Title": "Data Scientist, People Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-04"
+    },
+    {
+        "Company": "Western Growers Family of Companies",
+        "Job Title": "Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-06-04"
     }
 ]
