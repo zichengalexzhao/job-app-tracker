@@ -11,6 +11,7 @@
 | Informative Research | Business Analyst | Unknown | Applied | 2025-06-04 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-06-04 |
 | Paramount | Unknown | Unknown | Applied | 2025-06-04 |
+| Pacific Gas and Electric Company (PG&E) | Business Process Analyst, Associate | Unknown | Declined | 2025-06-04 |
 | Cintra US | Business Development Project Coordinator | Charlotte, NC | Applied | 2025-06-03 |
 | RIVO Holdings, LLC | Junior Data Analyst | Unknown | Applied | 2025-06-03 |
 | Verily | Unknown | Unknown | Applied | 2025-06-03 |

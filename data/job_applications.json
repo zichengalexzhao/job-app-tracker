@@ -28166,5 +28166,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-04"
+    },
+    {
+        "Company": "Pacific Gas and Electric Company (PG&E)",
+        "Job Title": "Business Process Analyst, Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-04"
     }
 ]
