@@ -28271,5 +28271,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-05"
+    },
+    {
+        "Company": "Vail Resorts",
+        "Job Title": "Retail Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-05"
+    },
+    {
+        "Company": "Advertise Purple",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-05"
+    },
+    {
+        "Company": "Western Growers Family of Companies",
+        "Job Title": "Analytics Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-05"
     }
 ]

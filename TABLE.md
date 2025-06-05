@@ -11,6 +11,9 @@
 | Marymount University | BILT Assessment and Accreditation Analyst | Unknown | Declined | 2025-06-05 |
 | Essex Westford School District | Board Certified Behavior Analyst (BCBA) | Barre, VT | Applied | 2025-06-05 |
 | Grant Thornton | GTM Insights & Intelligence (Senior Associate) - 112147 | Unknown | Declined | 2025-06-05 |
+| Vail Resorts | Retail Operations Analyst | Unknown | Applied | 2025-06-05 |
+| Advertise Purple | Unknown | Unknown | Applied | 2025-06-05 |
+| Western Growers Family of Companies | Analytics Analyst | Unknown | Applied | 2025-06-05 |
 | Verikai | Data Scientist | Unknown | Declined | 2025-06-04 |
 | Amgen | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-06-04 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-06-04 |
