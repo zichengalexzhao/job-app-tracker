@@ -14,6 +14,8 @@
 | Vail Resorts | Retail Operations Analyst | Unknown | Applied | 2025-06-05 |
 | Advertise Purple | Unknown | Unknown | Applied | 2025-06-05 |
 | Western Growers Family of Companies | Analytics Analyst | Unknown | Applied | 2025-06-05 |
+| SRC, Inc | Business Development Analyst (Temporary) | North Syracuse, NY | Applied | 2025-06-05 |
+| Messari | Unknown | Unknown | Declined | 2025-06-05 |
 | Verikai | Data Scientist | Unknown | Declined | 2025-06-04 |
 | Amgen | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-06-04 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-06-04 |

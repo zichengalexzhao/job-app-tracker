@@ -28292,5 +28292,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-05"
+    },
+    {
+        "Company": "SRC, Inc",
+        "Job Title": "Business Development Analyst (Temporary)",
+        "Location": "North Syracuse, NY",
+        "status": "Applied",
+        "Date": "2025-06-05"
+    },
+    {
+        "Company": "Messari",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-05"
     }
 ]
