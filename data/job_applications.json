@@ -28250,5 +28250,12 @@
         "Location": "Pleasanton, California",
         "status": "Applied",
         "Date": "2025-06-05"
+    },
+    {
+        "Company": "Marymount University",
+        "Job Title": "BILT Assessment and Accreditation Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-05"
     }
 ]
