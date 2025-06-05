@@ -28215,5 +28215,19 @@
         "Location": "Schaumburg, IL",
         "status": "Applied",
         "Date": "2025-06-05"
+    },
+    {
+        "Company": "DuPont",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-05"
+    },
+    {
+        "Company": "Concentrix",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-05"
     }
 ]
