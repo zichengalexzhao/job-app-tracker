@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Grant Thornton | GTM Insights & Intelligence (Senior Associate) | Unknown | Applied | 2025-06-05 |
+| Solv Health | Project Analyst, Partnerships | Unknown | Applied | 2025-06-05 |
+| UniUni Logistics Inc. | Operations Assistant | Schaumburg, IL | Applied | 2025-06-05 |
 | Verikai | Data Scientist | Unknown | Declined | 2025-06-04 |
 | Amgen | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-06-04 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-06-04 |

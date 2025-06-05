@@ -28194,5 +28194,26 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-04"
+    },
+    {
+        "Company": "Grant Thornton",
+        "Job Title": "GTM Insights & Intelligence (Senior Associate)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-05"
+    },
+    {
+        "Company": "Solv Health",
+        "Job Title": "Project Analyst, Partnerships",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-05"
+    },
+    {
+        "Company": "UniUni Logistics Inc.",
+        "Job Title": "Operations Assistant",
+        "Location": "Schaumburg, IL",
+        "status": "Applied",
+        "Date": "2025-06-05"
     }
 ]
