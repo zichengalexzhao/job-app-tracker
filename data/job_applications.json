@@ -28313,5 +28313,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-05"
+    },
+    {
+        "Company": "Oracle",
+        "Job Title": "Data Scientist 1-294489",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-05"
     }
 ]
