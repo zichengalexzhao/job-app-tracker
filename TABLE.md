@@ -7,6 +7,7 @@
 | Concentrix | Unknown | Unknown | Applied | 2025-06-05 |
 | R1RCM | Denials Rules Associate | Unknown | Applied | 2025-06-05 |
 | CrowdStrike | Data Scientist, GTM | Unknown | Applied | 2025-06-05 |
+| Workday | Business Intelligence Analyst | Pleasanton, California | Applied | 2025-06-05 |
 | Verikai | Data Scientist | Unknown | Declined | 2025-06-04 |
 | Amgen | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-06-04 |
 | LiveRamp | Unknown | Unknown | Applied | 2025-06-04 |
