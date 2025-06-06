@@ -5,6 +5,15 @@
 | Siemens Healthineers | Data Scientist | Unknown | Applied | 2025-06-06 |
 | SproutsAI | Unknown | Unknown | Applied | 2025-06-06 |
 | Liberty Classical Schools | Data and Analytics Specialist | Atlanta, GA | Applied | 2025-06-06 |
+| Whatnot | Data Scientist, People Analytics | Unknown | Declined | 2025-06-06 |
+| Stantec Consulting Ltd. | On-site Data Analyst-2500028S | Unknown | Applied | 2025-06-06 |
+| Paramount | Data Analyst | Unknown | Applied | 2025-06-06 |
+| Workstream | Unknown | Unknown | Applied | 2025-06-06 |
+| Roku | Payment Analyst | Unknown | Applied | 2025-06-06 |
+| Golden1 | Sr Data Solutions Analyst | Unknown | Applied | 2025-06-06 |
+| Affirm | Quantitative Analyst I, Capital | Unknown | Applied | 2025-06-06 |
+| Constellation Brands | Analyst, Executive Reporting and Syndicated Data | Unknown | Applied | 2025-06-06 |
+| Constellation Brands | Analyst, Executive Reporting and Syndicated Data | Unknown | Applied | 2025-06-06 |
 | Grant Thornton | GTM Insights & Intelligence (Senior Associate) | Unknown | Applied | 2025-06-05 |
 | Solv Health | Project Analyst, Partnerships | Unknown | Applied | 2025-06-05 |
 | UniUni Logistics Inc. | Operations Assistant | Schaumburg, IL | Applied | 2025-06-05 |
@@ -36,7 +45,6 @@
 | Paramount | Unknown | Unknown | Applied | 2025-06-04 |
 | Pacific Gas and Electric Company (PG&E) | Business Process Analyst, Associate | Unknown | Declined | 2025-06-04 |
 | Xometry | Data Science Intern | Unknown | Declined | 2025-06-04 |
-| Whatnot | Data Scientist, People Analytics | Unknown | Applied | 2025-06-04 |
 | Western Growers Family of Companies | Analytics Analyst | Unknown | Applied | 2025-06-04 |
 | GiveCampus | Business Intelligence Analyst | Unknown | Declined | 2025-06-04 |
 | Cintra US | Business Development Project Coordinator | Charlotte, NC | Applied | 2025-06-03 |

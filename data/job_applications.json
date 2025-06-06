@@ -28175,13 +28175,6 @@
         "Date": "2025-06-04"
     },
     {
-        "Company": "Whatnot",
-        "Job Title": "Data Scientist, People Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-04"
-    },
-    {
         "Company": "Western Growers Family of Companies",
         "Job Title": "Analytics Analyst",
         "Location": "Unknown",
@@ -28353,6 +28346,69 @@
         "Company": "Liberty Classical Schools",
         "Job Title": "Data and Analytics Specialist",
         "Location": "Atlanta, GA",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Whatnot",
+        "Job Title": "Data Scientist, People Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Stantec Consulting Ltd.",
+        "Job Title": "On-site Data Analyst-2500028S",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Workstream",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Roku",
+        "Job Title": "Payment Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Golden1",
+        "Job Title": "Sr Data Solutions Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Affirm",
+        "Job Title": "Quantitative Analyst I, Capital",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Constellation Brands",
+        "Job Title": "Analyst, Executive Reporting and Syndicated Data",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-06"
+    },
+    {
+        "Company": "Constellation Brands",
+        "Job Title": "Analyst, Executive Reporting and Syndicated Data",
+        "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-06"
     }
