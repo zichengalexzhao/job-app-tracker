@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | UniUni Logistics Inc. | Operations Assistant | Fontana, CA | Applied | 2025-06-06 |
+| DoorDash | Data Analyst, New Verticals Business Operations | Unknown | Applied | 2025-06-06 |
 | Grant Thornton | GTM Insights & Intelligence (Senior Associate) | Unknown | Applied | 2025-06-05 |
 | Solv Health | Project Analyst, Partnerships | Unknown | Applied | 2025-06-05 |
 | UniUni Logistics Inc. | Operations Assistant | Schaumburg, IL | Applied | 2025-06-05 |
