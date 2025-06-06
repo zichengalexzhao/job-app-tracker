@@ -15,6 +15,8 @@
 | Constellation Brands | Analyst, Executive Reporting and Syndicated Data | Unknown | Applied | 2025-06-06 |
 | Constellation Brands | Analyst, Executive Reporting and Syndicated Data | Unknown | Applied | 2025-06-06 |
 | UC Davis | Senior Manager Supply Chain Management | Unknown | Applied | 2025-06-06 |
+| Brisk Teaching | Product Analyst | Unknown | Applied | 2025-06-06 |
+| NVIDIA | Unknown | Unknown | Applied | 2025-06-06 |
 | Grant Thornton | GTM Insights & Intelligence (Senior Associate) | Unknown | Applied | 2025-06-05 |
 | Solv Health | Project Analyst, Partnerships | Unknown | Applied | 2025-06-05 |
 | UniUni Logistics Inc. | Operations Assistant | Schaumburg, IL | Applied | 2025-06-05 |
