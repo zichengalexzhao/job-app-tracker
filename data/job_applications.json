@@ -28474,5 +28474,19 @@
         "Location": "Work from home",
         "status": "Applied",
         "Date": "2025-06-07"
+    },
+    {
+        "Company": "Anywhere",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-07"
+    },
+    {
+        "Company": "Aquent",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-07"
     }
 ]
