@@ -3,6 +3,7 @@
 | Frontier Airlines | Sr./Lead Analyst, Revenue Market Management | Denver, CO | Applied | 2025-06-07 |
 | Clorox Company | Customer Data Senior Analyst | Unknown | Applied | 2025-06-07 |
 | CBRE | Research & Data Intelligence Analyst | Unknown | Applied | 2025-06-07 |
+| Adobe | Data Scientist, Finance | Unknown | Applied | 2025-06-07 |
 | UniUni Logistics Inc. | Operations Assistant | Fontana, CA | Applied | 2025-06-06 |
 | DoorDash | Data Analyst, New Verticals Business Operations | Unknown | Applied | 2025-06-06 |
 | Siemens Healthineers | Data Scientist | Unknown | Applied | 2025-06-06 |
