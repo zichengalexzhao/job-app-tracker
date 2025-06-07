@@ -4,6 +4,7 @@
 | Clorox Company | Customer Data Senior Analyst | Unknown | Applied | 2025-06-07 |
 | CBRE | Research & Data Intelligence Analyst | Unknown | Applied | 2025-06-07 |
 | Adobe | Data Scientist, Finance | Unknown | Applied | 2025-06-07 |
+| Axos Bank | Jr. Business & Technology Analyst - Data Engineer | Unknown | Applied | 2025-06-07 |
 | UniUni Logistics Inc. | Operations Assistant | Fontana, CA | Applied | 2025-06-06 |
 | DoorDash | Data Analyst, New Verticals Business Operations | Unknown | Applied | 2025-06-06 |
 | Siemens Healthineers | Data Scientist | Unknown | Applied | 2025-06-06 |
