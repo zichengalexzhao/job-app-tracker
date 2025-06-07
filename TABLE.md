@@ -8,6 +8,7 @@
 | Progressive Insurance | Insurance Agent | Work from home | Applied | 2025-06-07 |
 | Anywhere | Unknown | Unknown | Applied | 2025-06-07 |
 | Aquent | Marketing Data Analyst | Unknown | Applied | 2025-06-07 |
+| UniUni Logistics Inc. | Operation Assistant | Raleigh, Chapel Hill, NC | Applied | 2025-06-07 |
 | UniUni Logistics Inc. | Operations Assistant | Fontana, CA | Applied | 2025-06-06 |
 | DoorDash | Data Analyst, New Verticals Business Operations | Unknown | Applied | 2025-06-06 |
 | Siemens Healthineers | Data Scientist | Unknown | Applied | 2025-06-06 |
