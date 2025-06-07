@@ -28432,5 +28432,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-06"
+    },
+    {
+        "Company": "Frontier Airlines",
+        "Job Title": "Sr./Lead Analyst, Revenue Market Management",
+        "Location": "Denver, CO",
+        "status": "Applied",
+        "Date": "2025-06-07"
+    },
+    {
+        "Company": "Clorox Company",
+        "Job Title": "Customer Data Senior Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-07"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Research & Data Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-07"
     }
 ]
