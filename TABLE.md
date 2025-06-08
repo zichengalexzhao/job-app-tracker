@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Axos Bank | Business Analyst II | Unknown | Applied | 2025-06-08 |
+| ABK Workday | Data Scientist - Temporary Position | Unknown | Applied | 2025-06-08 |
 | Frontier Airlines | Sr./Lead Analyst, Revenue Market Management | Denver, CO | Applied | 2025-06-07 |
 | Clorox Company | Customer Data Senior Analyst | Unknown | Applied | 2025-06-07 |
 | CBRE | Research & Data Intelligence Analyst | Unknown | Applied | 2025-06-07 |

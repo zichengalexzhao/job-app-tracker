@@ -28502,5 +28502,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-07"
+    },
+    {
+        "Company": "Axos Bank",
+        "Job Title": "Business Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-08"
+    },
+    {
+        "Company": "ABK Workday",
+        "Job Title": "Data Scientist - Temporary Position",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-08"
     }
 ]
