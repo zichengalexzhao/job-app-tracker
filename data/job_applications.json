@@ -28523,5 +28523,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-08"
+    },
+    {
+        "Company": "BetterHelp",
+        "Job Title": "Data Science Extern, Experimentation",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-08"
+    },
+    {
+        "Company": "Tesla",
+        "Job Title": "Internship, Business Intelligence, Infrastructure Operations (Fall 2025)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-08"
     }
 ]
