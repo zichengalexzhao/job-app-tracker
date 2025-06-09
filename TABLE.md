@@ -9,6 +9,7 @@
 | Shopify | Unknown | Unknown | Declined | 2025-06-09 |
 | CGI | Data Conversion Analyst | Sacramento, CA (hybrid working model acceptable) | Applied | 2025-06-09 |
 | Swivel Payment Solutions LLC | Jr. Business Systems Analyst | Remote | Applied | 2025-06-09 |
+| Prologis | Sustainability Data Analyst | Unknown | Applied | 2025-06-09 |
 | Axos Bank | Business Analyst II | Unknown | Applied | 2025-06-08 |
 | ABK Workday | Data Scientist - Temporary Position | Unknown | Applied | 2025-06-08 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-08 |
