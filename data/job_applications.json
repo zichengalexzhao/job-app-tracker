@@ -28544,5 +28544,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-09"
+    },
+    {
+        "Company": "Tanimura & Antle",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-09"
+    },
+    {
+        "Company": "CGI",
+        "Job Title": "Data Conversion Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-09"
+    },
+    {
+        "Company": "Desert Oasis Healthcare",
+        "Job Title": "Healthcare Report Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-09"
+    },
+    {
+        "Company": "KAI Partners, Inc.",
+        "Job Title": "Business Analyst - Health Programs",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-09"
     }
 ]
