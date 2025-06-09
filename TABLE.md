@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| CBRE | Research Analyst | Unknown | Declined | 2025-06-09 |
 | Axos Bank | Business Analyst II | Unknown | Applied | 2025-06-08 |
 | ABK Workday | Data Scientist - Temporary Position | Unknown | Applied | 2025-06-08 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-08 |
@@ -3429,7 +3430,6 @@
 | Bitwise Asset Management | Junior Salesforce Business Analyst | Unknown | Applied | 2025-02-04 |
 | Paramount | Unknown | Unknown | Applied | 2025-02-04 |
 | Thumbtack | Data Scientist, Product (Marketplace) | Unknown | Applied | 2025-02-04 |
-| CBRE | Research Analyst | Unknown | Applied | 2025-02-04 |
 | Circle K | Unknown | Unknown | Applied | 2025-02-04 |
 | TEKsystems | Unknown | Unknown | Applied | 2025-02-04 |
 | TEKsystems | Unknown | Unknown | Applied | 2025-02-04 |

@@ -1771,13 +1771,6 @@
         "Date": "2025-02-04"
     },
     {
-        "Company": "CBRE",
-        "Job Title": "Research Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-04"
-    },
-    {
         "Company": "Circle K",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -28544,5 +28537,12 @@
         "Location": "Washington, Washington DC, US",
         "status": "Applied",
         "Date": "2025-06-08"
+    },
+    {
+        "Company": "CBRE",
+        "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-09"
     }
 ]
