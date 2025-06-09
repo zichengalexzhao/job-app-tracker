@@ -28572,5 +28572,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-09"
+    },
+    {
+        "Company": "Shopify",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-09"
+    },
+    {
+        "Company": "CGI",
+        "Job Title": "Data Conversion Analyst",
+        "Location": "Sacramento, CA (hybrid working model acceptable)",
+        "status": "Applied",
+        "Date": "2025-06-09"
     }
 ]
