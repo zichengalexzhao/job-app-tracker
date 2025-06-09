@@ -11697,13 +11697,6 @@
         "Date": "2025-03-19"
     },
     {
-        "Company": "BlackRock",
-        "Job Title": "Financial Markets Advisory Analytics, Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-03-19"
-    },
-    {
         "Company": "Snowflake",
         "Job Title": "Associate Analyst, GTM Analytics",
         "Location": "Unknown",
@@ -28541,6 +28534,13 @@
     {
         "Company": "CBRE",
         "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-09"
+    },
+    {
+        "Company": "BlackRock",
+        "Job Title": "Financial Markets Advisory Analytics, Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-09"

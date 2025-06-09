@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | CBRE | Research Analyst | Unknown | Declined | 2025-06-09 |
+| BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Declined | 2025-06-09 |
 | Axos Bank | Business Analyst II | Unknown | Applied | 2025-06-08 |
 | ABK Workday | Data Scientist - Temporary Position | Unknown | Applied | 2025-06-08 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-08 |
@@ -2366,7 +2367,6 @@
 | Trane Technologies | Unknown | Unknown | Applied | 2025-03-19 |
 | Walgreens | Manager Data Analytics | Unknown | Declined | 2025-03-19 |
 | Uline | Data Analyst | Unknown | Applied | 2025-03-19 |
-| BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Applied | 2025-03-19 |
 | Snowflake | Associate Analyst, GTM Analytics | Unknown | Applied | 2025-03-19 |
 | Independence Pet Group | Unknown | Unknown | Applied | 2025-03-19 |
 | EBSCO Industries | Unknown | Unknown | Applied | 2025-03-19 |
