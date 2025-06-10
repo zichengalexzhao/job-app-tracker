@@ -21,6 +21,7 @@
 | AmTrust Financial Services, Inc. | Analytics Analyst II | Unknown | Applied | 2025-06-10 |
 | Coinbase | Associate Product Manager | Unknown | Applied | 2025-06-10 |
 | Clorox | Unknown | Unknown | Applied | 2025-06-10 |
+| Simpro Software | Data Analyst - Product | Unknown | Applied | 2025-06-10 |
 | CBRE | Research Analyst | Unknown | Declined | 2025-06-09 |
 | BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Declined | 2025-06-09 |
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-06-09 |
