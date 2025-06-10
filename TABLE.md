@@ -1,6 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
+| Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
+| Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | CBRE | Research Analyst | Unknown | Declined | 2025-06-09 |
 | BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Declined | 2025-06-09 |
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-06-09 |
