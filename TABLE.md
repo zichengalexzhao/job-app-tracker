@@ -4,6 +4,17 @@
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Aquent | Marketing Data Analyst | Unknown | Applied | 2025-06-10 |
+| Sutter Health | Reimbursement Analyst II | Unknown | Applied | 2025-06-10 |
+| Universal Music Group | Analyst, Data Integrity and Reporting | Unknown | Applied | 2025-06-10 |
+| Infosys | Consultant - US | Unknown | Applied | 2025-06-10 |
+| Infosys | Unknown | Unknown | Applied | 2025-06-10 |
+| Exchange Bank | Data Analyst | Unknown | Applied | 2025-06-10 |
+| Faces SF | Accountant/Data Analyst | Unknown | Applied | 2025-06-10 |
+| Gusto | Product Analyst | Unknown | Applied | 2025-06-10 |
+| Peterson Holding | Unknown | Unknown | Applied | 2025-06-10 |
+| Data Piper | Business Data Analyst/ Functional lead (Dynamics365/D365) | Unknown | Applied | 2025-06-10 |
+| Roche | Unknown | Unknown | Applied | 2025-06-10 |
+| SitusAMC | Analyst, Credit Analytics | Unknown | Applied | 2025-06-10 |
 | CBRE | Research Analyst | Unknown | Declined | 2025-06-09 |
 | BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Declined | 2025-06-09 |
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-06-09 |
