@@ -15,6 +15,7 @@
 | Data Piper | Business Data Analyst/ Functional lead (Dynamics365/D365) | Unknown | Applied | 2025-06-10 |
 | Roche | Unknown | Unknown | Applied | 2025-06-10 |
 | SitusAMC | Analyst, Credit Analytics | Unknown | Applied | 2025-06-10 |
+| Spinnaker Support | Unknown | Unknown | Declined | 2025-06-10 |
 | CBRE | Research Analyst | Unknown | Declined | 2025-06-09 |
 | BlackRock | Financial Markets Advisory Analytics, Analyst | Unknown | Declined | 2025-06-09 |
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-06-09 |
@@ -694,7 +695,6 @@
 | Upgrade | Product Data Analyst | Unknown | Declined | 2025-05-07 |
 | Workday | Unknown | Unknown | Applied | 2025-05-07 |
 | Mercer | Career Consulting Associate R_308058 | Unknown | Applied | 2025-05-07 |
-| Spinnaker Support | Unknown | Unknown | Applied | 2025-05-07 |
 | Los Angeles Sparks | Staff Accountant | Los Angeles, CA | Applied | 2025-05-07 |
 | Discord | Data Scientist, Analytics | Unknown | Applied | 2025-05-07 |
 | RQ Construction | Sr. Project Engineer, Pipefitter, Mechanical Superintendent, Assistant Electrical Project Manager (AEPM), Junior Purchasing Data Analyst, Electrical Project Engineer | Camp Lejeune, North Carolina; Jacksonville, Florida; Carlsbad, California; Kings Bay Base, Georgia | Applied | 2025-05-07 |

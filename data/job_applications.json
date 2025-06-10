@@ -23898,13 +23898,6 @@
         "Date": "2025-05-07"
     },
     {
-        "Company": "Spinnaker Support",
-        "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-07"
-    },
-    {
         "Company": "Los Angeles Sparks",
         "Job Title": "Staff Accountant",
         "Location": "Los Angeles, CA",
@@ -28704,6 +28697,13 @@
         "Job Title": "Analyst, Credit Analytics",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-10"
+    },
+    {
+        "Company": "Spinnaker Support",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-10"
     }
 ]
