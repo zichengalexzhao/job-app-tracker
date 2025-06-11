@@ -5,6 +5,7 @@
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
 | Adobe | Data Scientist, Finance | Unknown | Applied | 2025-06-11 |
 | Virtusa | Data Analyst | Unknown | Declined | 2025-06-11 |
+| Amplify | Order Data Integrity Analyst (Contractor) | Unknown | Declined | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
@@ -929,7 +930,6 @@
 | R1RCM | Data Operations Analyst II | Unknown | Applied | 2025-04-29 |
 | Donor Network West | Data Scientist | Unknown | Applied | 2025-04-29 |
 | Canvas Worldwide | Junior Analyst, Analytics | Unknown | Applied | 2025-04-29 |
-| Amplify | Order Data Integrity Analyst (Contractor) | Unknown | Applied | 2025-04-29 |
 | Brightspeed | Business Analyst | Unknown | Declined | 2025-04-29 |
 | PowerSchool Group LLC | Senior Marketing Operations Representative - IC3 (MRKOPS - Marketing Operations) | Folsom, CA | Declined | 2025-04-29 |
 | Veear (inferred from the email address) | Data Scientist | Elk Grove, CA or Sunnyvale, CA or Austin, TX | Applied | 2025-04-29 |

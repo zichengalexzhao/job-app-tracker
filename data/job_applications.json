@@ -22134,13 +22134,6 @@
         "Date": "2025-04-29"
     },
     {
-        "Company": "Amplify",
-        "Job Title": "Order Data Integrity Analyst (Contractor)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-29"
-    },
-    {
         "Company": "Brightspeed",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -28772,6 +28765,13 @@
     {
         "Company": "Virtusa",
         "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Amplify",
+        "Job Title": "Order Data Integrity Analyst (Contractor)",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-11"
