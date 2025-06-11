@@ -17,6 +17,9 @@
 | Southern California Edison | Financial Forecasting & Data Analyst, Specialist | Unknown | Declined | 2025-06-11 |
 | ZS | Decision Analytics Associate Consultant | Unknown | Applied | 2025-06-11 |
 | SoFi Technologies | Associate Marketing Data Scientist | Unknown | Applied | 2025-06-11 |
+| Amy's Kitchen | Unknown | Unknown | Declined | 2025-06-11 |
+| BYD North America | Unknown | Unknown | Applied | 2025-06-11 |
+| Nordstrom | Data Analyst 2 - Nordstrom Media Network, Customer Insights and Analytics | Remote | Applied | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
@@ -2568,7 +2571,6 @@
 | Limson Trading, Inc. (GFS) | Data and Insights Analyst | Wyoming, MI | Applied | 2025-03-17 |
 | Addepar | Unknown | Unknown | Applied | 2025-03-17 |
 | Randstad USA | Data Scientist I (#50413) | Waltham, Massachusetts | Applied | 2025-03-17 |
-| Amy's Kitchen | Unknown | Petaluma, CA | Applied | 2025-03-17 |
 | Reli. | Marketing Analyst | Unknown | Applied | 2025-03-17 |
 | Andersen Tax LLC | Business Analyst (Rating, Data) - Andersen Consulting | San Francisco, CA | Applied | 2025-03-17 |
 | Checkr | Unknown | Unknown | Applied | 2025-03-17 |

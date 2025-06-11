@@ -11207,13 +11207,6 @@
         "Date": "2025-03-17"
     },
     {
-        "Company": "Amy's Kitchen",
-        "Job Title": "Unknown",
-        "Location": "Petaluma, CA",
-        "status": "Applied",
-        "Date": "2025-03-17"
-    },
-    {
         "Company": "Reli.",
         "Job Title": "Marketing Analyst",
         "Location": "Unknown",
@@ -28850,6 +28843,27 @@
         "Company": "SoFi Technologies",
         "Job Title": "Associate Marketing Data Scientist",
         "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Amy's Kitchen",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "BYD North America",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Nordstrom",
+        "Job Title": "Data Analyst 2 - Nordstrom Media Network, Customer Insights and Analytics",
+        "Location": "Remote",
         "status": "Applied",
         "Date": "2025-06-11"
     }
