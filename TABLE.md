@@ -12,6 +12,8 @@
 | Brisk | Product Analyst | Unknown | Declined | 2025-06-11 |
 | Rivian and Volkswagen Group Technologies | Senior Data Analyst | Unknown | Declined | 2025-06-11 |
 | Mane | Supply Planning and Logistics Analyst | Unknown | Applied | 2025-06-11 |
+| Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-06-11 |
+| Paramount | Unknown | Los Angeles, CA, US, 90038 | Applied | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |

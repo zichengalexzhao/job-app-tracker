@@ -28817,5 +28817,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-11"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Unknown",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Unknown",
+        "Location": "Los Angeles, CA, US, 90038",
+        "status": "Applied",
+        "Date": "2025-06-11"
     }
 ]
