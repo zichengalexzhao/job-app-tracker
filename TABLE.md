@@ -10,6 +10,8 @@
 | Amazon | Business Analyst | Unknown | Applied | 2025-06-11 |
 | OE Federal Credit Union | Business Intelligence Analyst | Unknown | Applied | 2025-06-11 |
 | Brisk | Product Analyst | Unknown | Declined | 2025-06-11 |
+| Rivian and Volkswagen Group Technologies | Senior Data Analyst | Unknown | Declined | 2025-06-11 |
+| Mane | Supply Planning and Logistics Analyst | Unknown | Applied | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
