@@ -28866,5 +28866,26 @@
         "Location": "Remote",
         "status": "Applied",
         "Date": "2025-06-11"
+    },
+    {
+        "Company": "Headspace",
+        "Job Title": "Reporting & Insights Analyst - Commercial",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Claritev",
+        "Job Title": "Operations Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "KeyBank",
+        "Job Title": "Quantitative Analyst - Model Implementation",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
     }
 ]

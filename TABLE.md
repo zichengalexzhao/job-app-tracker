@@ -20,6 +20,9 @@
 | Amy's Kitchen | Unknown | Unknown | Declined | 2025-06-11 |
 | BYD North America | Unknown | Unknown | Applied | 2025-06-11 |
 | Nordstrom | Data Analyst 2 - Nordstrom Media Network, Customer Insights and Analytics | Remote | Applied | 2025-06-11 |
+| Headspace | Reporting & Insights Analyst - Commercial | Unknown | Applied | 2025-06-11 |
+| Claritev | Operations Analyst | Unknown | Declined | 2025-06-11 |
+| KeyBank | Quantitative Analyst - Model Implementation | Unknown | Applied | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
