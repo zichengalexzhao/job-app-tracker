@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
