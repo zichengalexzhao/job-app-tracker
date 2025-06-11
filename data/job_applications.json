@@ -28831,5 +28831,26 @@
         "Location": "Los Angeles, CA, US, 90038",
         "status": "Applied",
         "Date": "2025-06-11"
+    },
+    {
+        "Company": "Southern California Edison",
+        "Job Title": "Financial Forecasting & Data Analyst, Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Decision Analytics Associate Consultant",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "SoFi Technologies",
+        "Job Title": "Associate Marketing Data Scientist",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
     }
 ]
