@@ -6,6 +6,10 @@
 | Adobe | Data Scientist, Finance | Unknown | Applied | 2025-06-11 |
 | Virtusa | Data Analyst | Unknown | Declined | 2025-06-11 |
 | Amplify | Order Data Integrity Analyst (Contractor) | Unknown | Declined | 2025-06-11 |
+| Amazon | Business Analyst | Unknown | Applied | 2025-06-11 |
+| Amazon | Business Analyst | Unknown | Applied | 2025-06-11 |
+| OE Federal Credit Union | Business Intelligence Analyst | Unknown | Applied | 2025-06-11 |
+| Brisk | Product Analyst | Unknown | Declined | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |

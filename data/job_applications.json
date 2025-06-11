@@ -28775,5 +28775,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-11"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "OE Federal Credit Union",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Brisk",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-11"
     }
 ]
