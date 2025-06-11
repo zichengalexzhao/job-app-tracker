@@ -26635,13 +26635,6 @@
         "Date": "2025-05-21"
     },
     {
-        "Company": "Virtusa",
-        "Job Title": "Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-21"
-    },
-    {
         "Company": "Coherent",
         "Job Title": "Data Science, AI and Business Analyst - 2007514",
         "Location": "Unknown",
@@ -28774,6 +28767,13 @@
         "Job Title": "Data Scientist, Finance",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-11"
+    },
+    {
+        "Company": "Virtusa",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-11"
     }
 ]

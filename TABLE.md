@@ -4,6 +4,7 @@
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
 | Adobe | Data Scientist, Finance | Unknown | Applied | 2025-06-11 |
+| Virtusa | Data Analyst | Unknown | Declined | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
@@ -305,7 +306,6 @@
 | Tomocredit | Payment Operation Specialist | San Francisco, CA | Applied | 2025-05-21 |
 | 24 Hour Fitness | Business Analyst Member Support Services | Remote CA-33002 | Applied | 2025-05-21 |
 | Montefiore Medical Center | Unknown | Yonkers, NY | Applied | 2025-05-21 |
-| Virtusa | Data Analyst | Unknown | Applied | 2025-05-21 |
 | Coherent | Data Science, AI and Business Analyst - 2007514 | Unknown | Applied | 2025-05-21 |
 | Paramount | Unknown | Unknown | Applied | 2025-05-21 |
 | Visa | Analyst, Product Management | Unknown | Applied | 2025-05-21 |
