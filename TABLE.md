@@ -20,6 +20,9 @@
 | Sleeper | Data Scientist | Unknown | Applied | 2025-06-12 |
 | Bloom Energy | Analyst, Utility & IPP Origination (NCG) | Unknown | Applied | 2025-06-12 |
 | Gusto | Product Analyst | Unknown | Declined | 2025-06-12 |
+| Gurobi Optimization | Data Quality Analyst | USA Remote | Declined | 2025-06-12 |
+| Roku | Payment Analyst | Unknown | Declined | 2025-06-12 |
+| Criteria Corp | Unknown | Unknown | Applied | 2025-06-12 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
@@ -99,7 +102,6 @@
 | Stantec Consulting Ltd. | On-site Data Analyst-2500028S | Unknown | Applied | 2025-06-06 |
 | Paramount | Data Analyst | Unknown | Applied | 2025-06-06 |
 | Workstream | Unknown | Unknown | Applied | 2025-06-06 |
-| Roku | Payment Analyst | Unknown | Applied | 2025-06-06 |
 | Golden1 | Sr Data Solutions Analyst | Unknown | Applied | 2025-06-06 |
 | Affirm | Quantitative Analyst I, Capital | Unknown | Applied | 2025-06-06 |
 | Constellation Brands | Analyst, Executive Reporting and Syndicated Data | Unknown | Applied | 2025-06-06 |
@@ -868,7 +870,6 @@
 | Westrock Coffee | Reporting Analyst | Unknown | Declined | 2025-05-03 |
 | Luxe Royale Endeavors | Data Entry Clerk | Unknown | Applied | 2025-05-03 |
 | McKinsey & Company | Business Analyst - Growth, Marketing & Sales | Unknown | Applied | 2025-05-03 |
-| Gurobi Optimization | Data Quality Analyst | USA Remote | Applied | 2025-05-03 |
 | Telnyx | Unknown | Unknown | Applied | 2025-05-03 |
 | IQVIA | Associate Data Science & Advanced Analytics Manager | Unknown | Applied | 2025-05-03 |
 | Ultima Genomics | Unknown | Unknown | Applied | 2025-05-03 |

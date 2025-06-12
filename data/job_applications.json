@@ -22904,13 +22904,6 @@
         "Date": "2025-05-03"
     },
     {
-        "Company": "Gurobi Optimization",
-        "Job Title": "Data Quality Analyst",
-        "Location": "USA Remote",
-        "status": "Applied",
-        "Date": "2025-05-03"
-    },
-    {
         "Company": "Telnyx",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -28329,13 +28322,6 @@
         "Date": "2025-06-06"
     },
     {
-        "Company": "Roku",
-        "Job Title": "Payment Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-06"
-    },
-    {
         "Company": "Golden1",
         "Job Title": "Sr Data Solutions Analyst",
         "Location": "Unknown",
@@ -29012,6 +28998,27 @@
         "Job Title": "Product Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "Gurobi Optimization",
+        "Job Title": "Data Quality Analyst",
+        "Location": "USA Remote",
+        "status": "Declined",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "Roku",
+        "Job Title": "Payment Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "Criteria Corp",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-06-12"
     }
 ]
