@@ -7,6 +7,18 @@
 | UniUni Logistics Inc. | Operations Assistant | Raleigh, NC | Applied | 2025-06-12 |
 | Dexcom | Data Scientist 2 | San Diego, California | Applied | 2025-06-12 |
 | S&P Global | Associate, Data Acquisition Operations | Unknown | Declined | 2025-06-12 |
+| DoorDash | Data Analyst, New Verticals Business Operations | Unknown | Applied | 2025-06-12 |
+| Criteria Corp | Unknown | Unknown | Applied | 2025-06-12 |
+| Golden State Bank | Data Analyst I | Unknown | Applied | 2025-06-12 |
+| Realty Income | Business Analyst, Real Estate Data Strategy | Unknown | Applied | 2025-06-12 |
+| Realty Income | Business Intelligence Analyst | Unknown | Applied | 2025-06-12 |
+| Turning Point Community Programs | Data Analyst II | Unknown | Applied | 2025-06-12 |
+| Hard Rock Digital | Data Analyst - Marketing | Unknown | Applied | 2025-06-12 |
+| Eight Sleep | Unknown | Unknown | Applied | 2025-06-12 |
+| knownwell | Data Scientist | Unknown | Applied | 2025-06-12 |
+| PandaDoc | GTM Analyst | Unknown | Applied | 2025-06-12 |
+| Sleeper | Data Scientist | Unknown | Applied | 2025-06-12 |
+| Bloom Energy | Analyst, Utility & IPP Origination (NCG) | Unknown | Applied | 2025-06-12 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
