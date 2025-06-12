@@ -25,6 +25,7 @@
 | ZS | Decision Analytics Associate Consultant | South San Francisco | Declined | 2025-06-12 |
 | Turning Point Community Programs | Data Analyst II | Unknown | Declined | 2025-06-12 |
 | GoodLeap | Analytics Engineer, Mortgage | Unknown | Declined | 2025-06-12 |
+| JLL | Data Analyst, Sustainability | Remote | Applied | 2025-06-12 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
