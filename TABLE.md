@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Inter-American Development Bank | Data Governance Consultant | Washington, DC | Applied | 2025-06-12 |
+| Bloom Energy Corporation | Analyst, Utility & IPP Origination (NCG) (JR-19734) | San Jose, CA | Applied | 2025-06-12 |
+| East West Bank | Financial Analyst | Unknown | Declined | 2025-06-12 |
+| DoorDash & Wolt | Data Analyst, New Verticals Business Operations | Unknown | Applied | 2025-06-12 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
@@ -585,7 +589,6 @@
 | Quantifind | Unknown | Unknown | Applied | 2025-05-13 |
 | ICANN | Unknown | Unknown | Declined | 2025-05-13 |
 | East West Bank | Unknown | Unknown | Applied | 2025-05-12 |
-| East West Bank | Financial Analyst | Unknown | Applied | 2025-05-12 |
 | Amgen Inc. | Scientific Business Analyst – Research Informatics | Unknown | Applied | 2025-05-12 |
 | Ajinomoto Foods North America | Coupa Logistics Analyst | Unknown | Applied | 2025-05-12 |
 | Ajinomoto Foods North America | Coupa Logistics Analyst | Unknown | Applied | 2025-05-12 |

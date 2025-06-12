@@ -24563,13 +24563,6 @@
         "Date": "2025-05-12"
     },
     {
-        "Company": "East West Bank",
-        "Job Title": "Financial Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-12"
-    },
-    {
         "Company": "Amgen Inc.",
         "Job Title": "Scientific Business Analyst \u2013 Research Informatics",
         "Location": "Unknown",
@@ -28887,5 +28880,33 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-11"
+    },
+    {
+        "Company": "Inter-American Development Bank",
+        "Job Title": "Data Governance Consultant",
+        "Location": "Washington, DC",
+        "status": "Applied",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "Bloom Energy Corporation",
+        "Job Title": "Analyst, Utility & IPP Origination (NCG) (JR-19734)",
+        "Location": "San Jose, CA",
+        "status": "Applied",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "East West Bank",
+        "Job Title": "Financial Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "DoorDash & Wolt",
+        "Job Title": "Data Analyst, New Verticals Business Operations",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-12"
     }
 ]
