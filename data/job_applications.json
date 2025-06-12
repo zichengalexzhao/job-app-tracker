@@ -28922,5 +28922,12 @@
         "Location": "San Diego, California",
         "status": "Applied",
         "Date": "2025-06-12"
+    },
+    {
+        "Company": "S&P Global",
+        "Job Title": "Associate, Data Acquisition Operations",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-12"
     }
 ]
