@@ -5,6 +5,7 @@
 | East West Bank | Financial Analyst | Unknown | Declined | 2025-06-12 |
 | DoorDash & Wolt | Data Analyst, New Verticals Business Operations | Unknown | Applied | 2025-06-12 |
 | UniUni Logistics Inc. | Operations Assistant | Raleigh, NC | Applied | 2025-06-12 |
+| Dexcom | Data Scientist 2 | San Diego, California | Applied | 2025-06-12 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
