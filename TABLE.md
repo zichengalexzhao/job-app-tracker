@@ -19,6 +19,7 @@
 | PandaDoc | GTM Analyst | Unknown | Applied | 2025-06-12 |
 | Sleeper | Data Scientist | Unknown | Applied | 2025-06-12 |
 | Bloom Energy | Analyst, Utility & IPP Origination (NCG) | Unknown | Applied | 2025-06-12 |
+| Gusto | Product Analyst | Unknown | Declined | 2025-06-12 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
@@ -52,7 +53,6 @@
 | Infosys | Unknown | Unknown | Applied | 2025-06-10 |
 | Exchange Bank | Data Analyst | Unknown | Applied | 2025-06-10 |
 | Faces SF | Accountant/Data Analyst | Unknown | Applied | 2025-06-10 |
-| Gusto | Product Analyst | Unknown | Applied | 2025-06-10 |
 | Peterson Holding | Unknown | Unknown | Applied | 2025-06-10 |
 | Data Piper | Business Data Analyst/ Functional lead (Dynamics365/D365) | Unknown | Applied | 2025-06-10 |
 | Roche | Unknown | Unknown | Applied | 2025-06-10 |

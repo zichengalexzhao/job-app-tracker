@@ -28637,13 +28637,6 @@
         "Date": "2025-06-10"
     },
     {
-        "Company": "Gusto",
-        "Job Title": "Product Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-10"
-    },
-    {
         "Company": "Peterson Holding",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -29012,6 +29005,13 @@
         "Job Title": "Analyst, Utility & IPP Origination (NCG)",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-12"
     }
 ]
