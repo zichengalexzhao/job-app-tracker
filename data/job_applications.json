@@ -28805,13 +28805,6 @@
         "Date": "2025-06-11"
     },
     {
-        "Company": "ZS",
-        "Job Title": "Decision Analytics Associate Consultant",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-11"
-    },
-    {
         "Company": "SoFi Technologies",
         "Job Title": "Associate Marketing Data Scientist",
         "Location": "Unknown",
@@ -28945,13 +28938,6 @@
         "Date": "2025-06-12"
     },
     {
-        "Company": "Turning Point Community Programs",
-        "Job Title": "Data Analyst II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-12"
-    },
-    {
         "Company": "Hard Rock Digital",
         "Job Title": "Data Analyst - Marketing",
         "Location": "Unknown",
@@ -29019,6 +29005,27 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "ZS",
+        "Job Title": "Decision Analytics Associate Consultant",
+        "Location": "South San Francisco",
+        "status": "Declined",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "Turning Point Community Programs",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-12"
+    },
+    {
+        "Company": "GoodLeap",
+        "Job Title": "Analytics Engineer, Mortgage",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-12"
     }
 ]

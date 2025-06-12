@@ -12,7 +12,6 @@
 | Golden State Bank | Data Analyst I | Unknown | Applied | 2025-06-12 |
 | Realty Income | Business Analyst, Real Estate Data Strategy | Unknown | Applied | 2025-06-12 |
 | Realty Income | Business Intelligence Analyst | Unknown | Applied | 2025-06-12 |
-| Turning Point Community Programs | Data Analyst II | Unknown | Applied | 2025-06-12 |
 | Hard Rock Digital | Data Analyst - Marketing | Unknown | Applied | 2025-06-12 |
 | Eight Sleep | Unknown | Unknown | Applied | 2025-06-12 |
 | knownwell | Data Scientist | Unknown | Applied | 2025-06-12 |
@@ -23,6 +22,9 @@
 | Gurobi Optimization | Data Quality Analyst | USA Remote | Declined | 2025-06-12 |
 | Roku | Payment Analyst | Unknown | Declined | 2025-06-12 |
 | Criteria Corp | Unknown | Unknown | Applied | 2025-06-12 |
+| ZS | Decision Analytics Associate Consultant | South San Francisco | Declined | 2025-06-12 |
+| Turning Point Community Programs | Data Analyst II | Unknown | Declined | 2025-06-12 |
+| GoodLeap | Analytics Engineer, Mortgage | Unknown | Declined | 2025-06-12 |
 | Swivel Payment Solutions LLC | Jr. BI Analyst | Remote | Applied | 2025-06-11 |
 | HealthAxis Group, LLC | Operations Analyst | Unknown | Applied | 2025-06-11 |
 | Assurant | Unknown | Unknown | Applied | 2025-06-11 |
@@ -38,7 +40,6 @@
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-06-11 |
 | Paramount | Unknown | Los Angeles, CA, US, 90038 | Applied | 2025-06-11 |
 | Southern California Edison | Financial Forecasting & Data Analyst, Specialist | Unknown | Declined | 2025-06-11 |
-| ZS | Decision Analytics Associate Consultant | Unknown | Applied | 2025-06-11 |
 | SoFi Technologies | Associate Marketing Data Scientist | Unknown | Applied | 2025-06-11 |
 | Amy's Kitchen | Unknown | Unknown | Declined | 2025-06-11 |
 | BYD North America | Unknown | Unknown | Applied | 2025-06-11 |
