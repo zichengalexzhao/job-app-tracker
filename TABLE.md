@@ -1,6 +1,8 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Axos Bank | Business Analyst, Tech & Ops | Unknown | Applied | 2025-06-13 |
+| EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Declined | 2025-06-13 |
+| Sleeper | Data Scientist | Unknown | Declined | 2025-06-13 |
 | Inter-American Development Bank | Data Governance Consultant | Washington, DC | Applied | 2025-06-12 |
 | Bloom Energy Corporation | Analyst, Utility & IPP Origination (NCG) (JR-19734) | San Jose, CA | Applied | 2025-06-12 |
 | East West Bank | Financial Analyst | Unknown | Declined | 2025-06-12 |
@@ -17,7 +19,6 @@
 | Eight Sleep | Unknown | Unknown | Applied | 2025-06-12 |
 | knownwell | Data Scientist | Unknown | Applied | 2025-06-12 |
 | PandaDoc | GTM Analyst | Unknown | Applied | 2025-06-12 |
-| Sleeper | Data Scientist | Unknown | Applied | 2025-06-12 |
 | Bloom Energy | Analyst, Utility & IPP Origination (NCG) | Unknown | Applied | 2025-06-12 |
 | Gusto | Product Analyst | Unknown | Declined | 2025-06-12 |
 | Gurobi Optimization | Data Quality Analyst | USA Remote | Declined | 2025-06-12 |
@@ -448,7 +449,6 @@
 | Serve Robotics | Data Analyst, Autonomy | Unknown | Applied | 2025-05-17 |
 | Brisk Teaching | Product Analyst | Unknown | Applied | 2025-05-17 |
 | Gorgias | Data Analytics Manager | Unknown | Applied | 2025-05-17 |
-| Sleeper | Data Scientist | Unknown | Applied | 2025-05-17 |
 | UCSF (University of California, San Francisco) | Data and Reporting Analyst | Unknown | Applied | 2025-05-17 |
 | Crossmedia Inc | Sr Data Analyst | Unknown | Applied | 2025-05-17 |
 | Plaza Home Mortgage, Inc. | Business Intelligence Analyst I | Unknown | Applied | 2025-05-17 |
@@ -1076,7 +1076,6 @@
 | Humana | Data and Reporting Professional | Unknown | Applied | 2025-04-25 |
 | Scale AI | Prompt Engineer - New Grad | Unknown | Declined | 2025-04-25 |
 | Vinculum Inc | Business Intelligence / Data analyst | Unknown | Applied | 2025-04-25 |
-| EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Applied | 2025-04-25 |
 | PNC | Business Analytics Consultant- Python & Hadoop | Unknown | Applied | 2025-04-25 |
 | Angi | Insights Analyst | Unknown | Applied | 2025-04-25 |
 | Vynca | Healthcare Business Analyst | Unknown | Applied | 2025-04-25 |

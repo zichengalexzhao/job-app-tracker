@@ -21581,13 +21581,6 @@
         "Date": "2025-04-25"
     },
     {
-        "Company": "EVERSANA",
-        "Job Title": "Consultant (Life Sciences, Pharmaceuticals)",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-25"
-    },
-    {
         "Company": "PNC",
         "Job Title": "Business Analytics Consultant- Python & Hadoop",
         "Location": "Unknown",
@@ -25921,13 +25914,6 @@
         "Date": "2025-05-17"
     },
     {
-        "Company": "Sleeper",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-17"
-    },
-    {
         "Company": "UCSF (University of California, San Francisco)",
         "Job Title": "Data and Reporting Analyst",
         "Location": "Unknown",
@@ -28966,13 +28952,6 @@
         "Date": "2025-06-12"
     },
     {
-        "Company": "Sleeper",
-        "Job Title": "Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-12"
-    },
-    {
         "Company": "Bloom Energy",
         "Job Title": "Analyst, Utility & IPP Origination (NCG)",
         "Location": "Unknown",
@@ -29040,6 +29019,20 @@
         "Job Title": "Business Analyst, Tech & Ops",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-13"
+    },
+    {
+        "Company": "EVERSANA",
+        "Job Title": "Consultant (Life Sciences, Pharmaceuticals)",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-13"
+    },
+    {
+        "Company": "Sleeper",
+        "Job Title": "Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-13"
     }
 ]
