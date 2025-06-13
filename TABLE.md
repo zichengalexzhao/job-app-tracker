@@ -6,6 +6,9 @@
 | Applied Materials | Data Science Co-op/Intern- Master's | Santa Clara, CA | Applied | 2025-06-13 |
 | Molina Healthcare | Analyst, Risk & Quality Reporting | Remote in CA | Applied | 2025-06-13 |
 | DuPont | Unknown | Unknown | Applied | 2025-06-13 |
+| Visa | Research Analyst | Unknown | Applied | 2025-06-13 |
+| Meta Platforms, Inc. | Product Growth Analyst | Unknown | Applied | 2025-06-13 |
+| Omnicom Health | Analyst | Unknown | Applied | 2025-06-13 |
 | Inter-American Development Bank | Data Governance Consultant | Washington, DC | Applied | 2025-06-12 |
 | Bloom Energy Corporation | Analyst, Utility & IPP Origination (NCG) (JR-19734) | San Jose, CA | Applied | 2025-06-12 |
 | East West Bank | Financial Analyst | Unknown | Declined | 2025-06-12 |
