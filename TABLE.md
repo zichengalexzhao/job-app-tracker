@@ -3,6 +3,7 @@
 | Axos Bank | Business Analyst, Tech & Ops | Unknown | Applied | 2025-06-13 |
 | EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Declined | 2025-06-13 |
 | Sleeper | Data Scientist | Unknown | Declined | 2025-06-13 |
+| Applied Materials | Data Science Co-op/Intern- Master's | Santa Clara, CA | Applied | 2025-06-13 |
 | Inter-American Development Bank | Data Governance Consultant | Washington, DC | Applied | 2025-06-12 |
 | Bloom Energy Corporation | Analyst, Utility & IPP Origination (NCG) (JR-19734) | San Jose, CA | Applied | 2025-06-12 |
 | East West Bank | Financial Analyst | Unknown | Declined | 2025-06-12 |
