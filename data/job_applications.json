@@ -29090,5 +29090,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-14"
+    },
+    {
+        "Company": "Walmart",
+        "Job Title": "Distinguished Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-14"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Digital Strategy Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-14"
     }
 ]
