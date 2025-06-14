@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| USC | Product Analyst II (Data & Digital) - IS Dept Apps and Ent Rptg | Unknown | Declined | 2025-06-14 |
 | Axos Bank | Business Analyst, Tech & Ops | Unknown | Applied | 2025-06-13 |
 | EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Declined | 2025-06-13 |
 | Sleeper | Data Scientist | Unknown | Declined | 2025-06-13 |
