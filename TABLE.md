@@ -4,6 +4,7 @@
 | Walmart | Distinguished Data Scientist | Unknown | Declined | 2025-06-14 |
 | Adobe | Digital Strategy Analyst | Unknown | Applied | 2025-06-14 |
 | Headspace | Reporting & Insights Analyst - Commercial | Unknown | Declined | 2025-06-14 |
+| JPMorgan Chase & Co. | Sales Data Analytics - Associate | Unknown | Declined | 2025-06-14 |
 | Axos Bank | Business Analyst, Tech & Ops | Unknown | Applied | 2025-06-13 |
 | EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Declined | 2025-06-13 |
 | Sleeper | Data Scientist | Unknown | Declined | 2025-06-13 |
