@@ -6,6 +6,15 @@
 | Headspace | Reporting & Insights Analyst - Commercial | Unknown | Declined | 2025-06-14 |
 | JPMorgan Chase & Co. | Sales Data Analytics - Associate | Unknown | Declined | 2025-06-14 |
 | Unknown | IT Systems Functional I - MFG | Unknown | Declined | 2025-06-14 |
+| Mozilla Foundation | Business Intelligence Analyst | Unknown | Applied | 2025-06-14 |
+| Accenture | Unknown | Unknown | Applied | 2025-06-14 |
+| NBCUniversal | Analyst, Commercial Analytics | Unknown | Applied | 2025-06-14 |
+| Kaiser Permanente | Data Reporting Analyst II-1357146 | Unknown | Applied | 2025-06-14 |
+| Dr. Squatch | People Insights & Development Analyst | Unknown | Applied | 2025-06-14 |
+| BioMed Realty | Unknown | Unknown | Applied | 2025-06-14 |
+| Center for Elders' Independence | Business Intelligence Analyst | Unknown | Applied | 2025-06-14 |
+| Accenture | Unknown | Unknown | Applied | 2025-06-14 |
+| Cardinal Health | Unknown | Unknown | Applied | 2025-06-14 |
 | Axos Bank | Business Analyst, Tech & Ops | Unknown | Applied | 2025-06-13 |
 | EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Declined | 2025-06-13 |
 | Sleeper | Data Scientist | Unknown | Declined | 2025-06-13 |
