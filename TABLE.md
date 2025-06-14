@@ -3,6 +3,7 @@
 | USC | Product Analyst II (Data & Digital) - IS Dept Apps and Ent Rptg | Unknown | Declined | 2025-06-14 |
 | Walmart | Distinguished Data Scientist | Unknown | Declined | 2025-06-14 |
 | Adobe | Digital Strategy Analyst | Unknown | Applied | 2025-06-14 |
+| Headspace | Reporting & Insights Analyst - Commercial | Unknown | Declined | 2025-06-14 |
 | Axos Bank | Business Analyst, Tech & Ops | Unknown | Applied | 2025-06-13 |
 | EVERSANA | Consultant (Life Sciences, Pharmaceuticals) | Unknown | Declined | 2025-06-13 |
 | Sleeper | Data Scientist | Unknown | Declined | 2025-06-13 |
@@ -57,7 +58,6 @@
 | Amy's Kitchen | Unknown | Unknown | Declined | 2025-06-11 |
 | BYD North America | Unknown | Unknown | Applied | 2025-06-11 |
 | Nordstrom | Data Analyst 2 - Nordstrom Media Network, Customer Insights and Analytics | Remote | Applied | 2025-06-11 |
-| Headspace | Reporting & Insights Analyst - Commercial | Unknown | Applied | 2025-06-11 |
 | Claritev | Operations Analyst | Unknown | Declined | 2025-06-11 |
 | KeyBank | Quantitative Analyst - Model Implementation | Unknown | Applied | 2025-06-11 |
 | Advertise Purple | Marketing Analyst | Los Angeles | Applied | 2025-06-10 |
