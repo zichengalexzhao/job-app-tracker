@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-06-15 |
 | Redwood Family Care Network | Board Certified Behavioral Analyst | Apple Valley | Declined | 2025-06-15 |
+| Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-15 |
 | USC | Product Analyst II (Data & Digital) - IS Dept Apps and Ent Rptg | Unknown | Declined | 2025-06-14 |
 | Walmart | Distinguished Data Scientist | Unknown | Declined | 2025-06-14 |
 | Adobe | Digital Strategy Analyst | Unknown | Applied | 2025-06-14 |

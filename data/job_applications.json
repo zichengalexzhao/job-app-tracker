@@ -29195,5 +29195,12 @@
         "Location": "Apple Valley",
         "status": "Declined",
         "Date": "2025-06-15"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Unknown",
+        "Location": "Washington, Washington DC US",
+        "status": "Applied",
+        "Date": "2025-06-15"
     }
 ]
