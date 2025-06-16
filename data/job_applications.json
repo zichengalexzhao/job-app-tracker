@@ -26838,13 +26838,6 @@
         "Date": "2025-05-22"
     },
     {
-        "Company": "SentinelOne",
-        "Job Title": "TA Data Analyst Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-22"
-    },
-    {
         "Company": "NielsenIQ",
         "Job Title": "(Junior) Analytic Consultant Retailer",
         "Location": "Unknown",
@@ -29229,6 +29222,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Interviewed",
+        "Date": "2025-06-16"
+    },
+    {
+        "Company": "SentinelOne",
+        "Job Title": "TA Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-16"
     }
 ]

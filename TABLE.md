@@ -5,6 +5,7 @@
 | Cyan Systems | Business Development, Marketing & Operations, Internship | Santa Barbara, CA | Applied | 2025-06-16 |
 | UC Davis | AKUR8 - Pricing Engine Product Manager | Unknown | Applied | 2025-06-16 |
 | WalletHub | Unknown | Unknown | Interviewed | 2025-06-16 |
+| SentinelOne | TA Data Analyst Intern | Unknown | Declined | 2025-06-16 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-06-15 |
 | Redwood Family Care Network | Board Certified Behavioral Analyst | Apple Valley | Declined | 2025-06-15 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-15 |
@@ -345,7 +346,6 @@
 | Kroll | Analyst, Strategic Value Advisory | Unknown | Applied | 2025-05-22 |
 | Stanford University | Research Data Analyst 1 | Unknown | Applied | 2025-05-22 |
 | Netflix | Data Scientist (L4) - Product | Unknown | Applied | 2025-05-22 |
-| SentinelOne | TA Data Analyst Intern | Unknown | Applied | 2025-05-22 |
 | NielsenIQ | (Junior) Analytic Consultant Retailer | Unknown | Applied | 2025-05-22 |
 | American Woodmark | Supply Chain Analyst | Unknown | Declined | 2025-05-22 |
 | Docusign | Org Effectiveness Business Analyst | Unknown | Declined | 2025-05-22 |
