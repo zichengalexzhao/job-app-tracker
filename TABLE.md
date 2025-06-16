@@ -6,6 +6,7 @@
 | UC Davis | AKUR8 - Pricing Engine Product Manager | Unknown | Applied | 2025-06-16 |
 | WalletHub | Unknown | Unknown | Interviewed | 2025-06-16 |
 | SentinelOne | TA Data Analyst Intern | Unknown | Declined | 2025-06-16 |
+| Stantec | On-site Data Analyst | Unknown | Declined | 2025-06-16 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-06-15 |
 | Redwood Family Care Network | Board Certified Behavioral Analyst | Apple Valley | Declined | 2025-06-15 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-15 |
