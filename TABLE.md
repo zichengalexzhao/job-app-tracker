@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Vizient | Analytics & Insights Associate | Unknown | Declined | 2025-06-16 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-16 |
+| Cyan Systems | Business Development, Marketing & Operations, Internship | Santa Barbara, CA | Applied | 2025-06-16 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-06-15 |
 | Redwood Family Care Network | Board Certified Behavioral Analyst | Apple Valley | Declined | 2025-06-15 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-15 |
