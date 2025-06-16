@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Vizient | Analytics & Insights Associate | Unknown | Declined | 2025-06-16 |
 | Goodwin | CRM Data Specialist | Unknown | Applied | 2025-06-15 |
 | Redwood Family Care Network | Board Certified Behavioral Analyst | Apple Valley | Declined | 2025-06-15 |
 | Amtrak | Unknown | Washington, Washington DC US | Applied | 2025-06-15 |
@@ -173,7 +174,6 @@
 | Cintra US | Business Development Project Coordinator | Charlotte, NC | Applied | 2025-06-03 |
 | RIVO Holdings, LLC | Junior Data Analyst | Unknown | Applied | 2025-06-03 |
 | Verily | Unknown | Unknown | Applied | 2025-06-03 |
-| Vizient | Analytics & Insights Associate | Unknown | Applied | 2025-06-03 |
 | UC Davis | Senior Manager, Financial Planning and Analysis | Unknown | Applied | 2025-06-03 |
 | Walmart, Inc. - Walmart eCommerce (Marketplace) | Strategic Account Manager | Unknown | Applied | 2025-06-03 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-06-03 |

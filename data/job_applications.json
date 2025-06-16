@@ -27867,13 +27867,6 @@
         "Date": "2025-06-03"
     },
     {
-        "Company": "Vizient",
-        "Job Title": "Analytics & Insights Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-03"
-    },
-    {
         "Company": "UC Davis",
         "Job Title": "Senior Manager, Financial Planning and Analysis",
         "Location": "Unknown",
@@ -29202,5 +29195,12 @@
         "Location": "Washington, Washington DC US",
         "status": "Applied",
         "Date": "2025-06-15"
+    },
+    {
+        "Company": "Vizient",
+        "Job Title": "Analytics & Insights Associate",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-16"
     }
 ]
