@@ -29237,5 +29237,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-16"
+    },
+    {
+        "Company": "Hidden Information Labs",
+        "Job Title": "Summer Internship",
+        "Location": "Vancouver, BC",
+        "status": "Applied",
+        "Date": "2025-06-16"
     }
 ]
