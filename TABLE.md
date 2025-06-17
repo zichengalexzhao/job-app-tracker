@@ -10,6 +10,8 @@
 | Dow Jones | Data Analyst (Contact Center-Hybrid) | Unknown | Applied | 2025-06-17 |
 | Kaiser Permanente | Data Reporting Analyst II | Unknown | Applied | 2025-06-17 |
 | Socure | Unknown | Unknown | Applied | 2025-06-17 |
+| Microsoft | Program Coordinator | Unknown | Applied | 2025-06-17 |
+| Plaid | Business Intelligence - GTM | Unknown | Declined | 2025-06-17 |
 | Vizient | Analytics & Insights Associate | Unknown | Declined | 2025-06-16 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-16 |
 | Cyan Systems | Business Development, Marketing & Operations, Internship | Santa Barbara, CA | Applied | 2025-06-16 |
@@ -2757,7 +2759,6 @@
 | Encord | Growth Associate | Unknown | Applied | 2025-03-12 |
 | Intermountain Health | Unknown | Unknown | Applied | 2025-03-12 |
 | Carilion Clinic | AI and Data Scientist- Health Analytics (151205) | Unknown | Declined | 2025-03-12 |
-| Plaid | Business Intelligence - GTM | Unknown | Applied | 2025-03-12 |
 | Zoox | Business Intelligence Engineer | Unknown | Applied | 2025-03-12 |
 | Critical Mass | Marketing Science Analyst | Unknown | Declined | 2025-03-12 |
 | BetterHelp | Data Scientist, Marketing Inference | Unknown | Applied | 2025-03-12 |
