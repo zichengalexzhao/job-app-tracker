@@ -29244,5 +29244,19 @@
         "Location": "Vancouver, BC",
         "status": "Applied",
         "Date": "2025-06-16"
+    },
+    {
+        "Company": "Sierra Club",
+        "Job Title": "Email Marketing Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-17"
+    },
+    {
+        "Company": "Insight Global",
+        "Job Title": "SQL Data Analyst III",
+        "Location": "Palo Alto, CA, USA",
+        "status": "Applied",
+        "Date": "2025-06-17"
     }
 ]
