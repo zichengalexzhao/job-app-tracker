@@ -24787,13 +24787,6 @@
         "Date": "2025-05-13"
     },
     {
-        "Company": "Unite Us",
-        "Job Title": "Research Associate",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-13"
-    },
-    {
         "Company": "PlayStation",
         "Job Title": "Fraud Data Analyst",
         "Location": "Unknown",
@@ -29285,6 +29278,13 @@
         "Job Title": "BOM & Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-17"
+    },
+    {
+        "Company": "Unite Us",
+        "Job Title": "Research Associate",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-17"
     }
 ]

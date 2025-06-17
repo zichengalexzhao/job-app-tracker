@@ -6,6 +6,7 @@
 | Adobe | Business Solutions Analyst | Unknown | Applied | 2025-06-17 |
 | Exchange Bank | Marketing Data Analyst | Unknown | Applied | 2025-06-17 |
 | Unknown | BOM & Data Analyst | Unknown | Applied | 2025-06-17 |
+| Unite Us | Research Associate | Unknown | Declined | 2025-06-17 |
 | Vizient | Analytics & Insights Associate | Unknown | Declined | 2025-06-16 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-16 |
 | Cyan Systems | Business Development, Marketing & Operations, Internship | Santa Barbara, CA | Applied | 2025-06-16 |
@@ -611,7 +612,6 @@
 | Beghou Consulting | Consultant | Unknown | Applied | 2025-05-14 |
 | Splunk | Campaign Business Analyst | Unknown | Declined | 2025-05-14 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
-| Unite Us | Research Associate | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
 | UCLA Health | Unknown | Unknown | Applied | 2025-05-13 |
 | United Collective | Data Analyst | Unknown | Applied | 2025-05-13 |
