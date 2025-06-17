@@ -29265,5 +29265,26 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-17"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Business Solutions Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-17"
+    },
+    {
+        "Company": "Exchange Bank",
+        "Job Title": "Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-17"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "BOM & Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-17"
     }
 ]

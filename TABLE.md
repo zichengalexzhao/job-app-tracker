@@ -3,6 +3,9 @@
 | Sierra Club | Email Marketing Specialist | Unknown | Declined | 2025-06-17 |
 | Insight Global | SQL Data Analyst III | Palo Alto, CA, USA | Applied | 2025-06-17 |
 | Alliant Insurance Services, Inc. | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-06-17 |
+| Adobe | Business Solutions Analyst | Unknown | Applied | 2025-06-17 |
+| Exchange Bank | Marketing Data Analyst | Unknown | Applied | 2025-06-17 |
+| Unknown | BOM & Data Analyst | Unknown | Applied | 2025-06-17 |
 | Vizient | Analytics & Insights Associate | Unknown | Declined | 2025-06-16 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-16 |
 | Cyan Systems | Business Development, Marketing & Operations, Internship | Santa Barbara, CA | Applied | 2025-06-16 |
