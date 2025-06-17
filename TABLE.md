@@ -8,6 +8,8 @@
 | Unknown | BOM & Data Analyst | Unknown | Applied | 2025-06-17 |
 | Unite Us | Research Associate | Unknown | Declined | 2025-06-17 |
 | Dow Jones | Data Analyst (Contact Center-Hybrid) | Unknown | Applied | 2025-06-17 |
+| Kaiser Permanente | Data Reporting Analyst II | Unknown | Applied | 2025-06-17 |
+| Socure | Unknown | Unknown | Applied | 2025-06-17 |
 | Vizient | Analytics & Insights Associate | Unknown | Declined | 2025-06-16 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-16 |
 | Cyan Systems | Business Development, Marketing & Operations, Internship | Santa Barbara, CA | Applied | 2025-06-16 |
