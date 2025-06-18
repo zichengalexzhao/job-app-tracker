@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
+| WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
 | Sierra Club | Email Marketing Specialist | Unknown | Declined | 2025-06-17 |
 | Insight Global | SQL Data Analyst III | Palo Alto, CA, USA | Applied | 2025-06-17 |
 | Alliant Insurance Services, Inc. | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-06-17 |
