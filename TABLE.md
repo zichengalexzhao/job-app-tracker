@@ -16,6 +16,8 @@
 | Montefiore Medical Center | Business Intelligence Analyst | Yonkers, NY, US | Applied | 2025-06-18 |
 | Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-18 |
 | One Inc | Associate Product Analytics | Unknown | Applied | 2025-06-18 |
+| ChargePoint | Sourcing Data Analyst | Unknown | Declined | 2025-06-18 |
+| Pacific Gas and Electric Company (PG&E) | Quantitative Data Analyst | Location Flexible | Applied | 2025-06-18 |
 | Sierra Club | Email Marketing Specialist | Unknown | Declined | 2025-06-17 |
 | Insight Global | SQL Data Analyst III | Palo Alto, CA, USA | Applied | 2025-06-17 |
 | Alliant Insurance Services, Inc. | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-06-17 |

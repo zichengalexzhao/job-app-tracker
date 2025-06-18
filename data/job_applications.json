@@ -29426,5 +29426,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-18"
+    },
+    {
+        "Company": "ChargePoint",
+        "Job Title": "Sourcing Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Pacific Gas and Electric Company (PG&E)",
+        "Job Title": "Quantitative Data Analyst",
+        "Location": "Location Flexible",
+        "status": "Applied",
+        "Date": "2025-06-18"
     }
 ]
