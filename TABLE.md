@@ -14,6 +14,8 @@
 | Spotify | Junior Product Manager, Content Understanding (Data Products) | Unknown | Applied | 2025-06-18 |
 | Dr. Squatch | People Insights & Development Analyst | Unknown | Declined | 2025-06-18 |
 | Montefiore Medical Center | Business Intelligence Analyst | Yonkers, NY, US | Applied | 2025-06-18 |
+| Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-18 |
+| One Inc | Associate Product Analytics | Unknown | Applied | 2025-06-18 |
 | Sierra Club | Email Marketing Specialist | Unknown | Declined | 2025-06-17 |
 | Insight Global | SQL Data Analyst III | Palo Alto, CA, USA | Applied | 2025-06-17 |
 | Alliant Insurance Services, Inc. | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-06-17 |

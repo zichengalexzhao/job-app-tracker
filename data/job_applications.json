@@ -29412,5 +29412,19 @@
         "Location": "Yonkers, NY, US",
         "status": "Applied",
         "Date": "2025-06-18"
+    },
+    {
+        "Company": "Centene",
+        "Job Title": "Business Intelligence Engineer I",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "One Inc",
+        "Job Title": "Associate Product Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
     }
 ]
