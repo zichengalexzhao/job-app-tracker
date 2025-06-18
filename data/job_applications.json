@@ -29120,13 +29120,6 @@
         "Date": "2025-06-14"
     },
     {
-        "Company": "Dr. Squatch",
-        "Job Title": "People Insights & Development Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-14"
-    },
-    {
         "Company": "BioMed Realty",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -29397,6 +29390,20 @@
         "Job Title": "Quantitative Data Analyst",
         "Location": "Flexible",
         "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Spotify",
+        "Job Title": "Junior Product Manager, Content Understanding (Data Products)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Dr. Squatch",
+        "Job Title": "People Insights & Development Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-18"
     }
 ]

@@ -11,6 +11,8 @@
 | Warner Music Group | Assistant, Business Intelligence & Strategy | Unknown | Applied | 2025-06-18 |
 | UICGS / Bowhead family of companies | Business Analyst | Unknown | Applied | 2025-06-18 |
 | Pacific Gas and Electric Company | Quantitative Data Analyst | Flexible | Applied | 2025-06-18 |
+| Spotify | Junior Product Manager, Content Understanding (Data Products) | Unknown | Applied | 2025-06-18 |
+| Dr. Squatch | People Insights & Development Analyst | Unknown | Declined | 2025-06-18 |
 | Sierra Club | Email Marketing Specialist | Unknown | Declined | 2025-06-17 |
 | Insight Global | SQL Data Analyst III | Palo Alto, CA, USA | Applied | 2025-06-17 |
 | Alliant Insurance Services, Inc. | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-06-17 |
@@ -45,7 +47,6 @@
 | Accenture | Unknown | Unknown | Applied | 2025-06-14 |
 | NBCUniversal | Analyst, Commercial Analytics | Unknown | Applied | 2025-06-14 |
 | Kaiser Permanente | Data Reporting Analyst II-1357146 | Unknown | Applied | 2025-06-14 |
-| Dr. Squatch | People Insights & Development Analyst | Unknown | Applied | 2025-06-14 |
 | BioMed Realty | Unknown | Unknown | Applied | 2025-06-14 |
 | Center for Elders' Independence | Business Intelligence Analyst | Unknown | Applied | 2025-06-14 |
 | Accenture | Unknown | Unknown | Applied | 2025-06-14 |
