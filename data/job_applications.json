@@ -29335,5 +29335,68 @@
         "Location": "Unknown",
         "status": "Interviewed",
         "Date": "2025-06-18"
+    },
+    {
+        "Company": "Imagine Communications",
+        "Job Title": "Business Intelligence (BI) Analyst",
+        "Location": "Remote",
+        "status": "Interviewed",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Petco",
+        "Job Title": "Analyst, Data Science & Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Accenture",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Veo",
+        "Job Title": "Data Analyst II",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "CorVel",
+        "Job Title": "Junior Financial Analyst (Financial Analyst I)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "CorVel Healthcare Corporation",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Warner Music Group",
+        "Job Title": "Assistant, Business Intelligence & Strategy",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "UICGS / Bowhead family of companies",
+        "Job Title": "Business Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "Pacific Gas and Electric Company",
+        "Job Title": "Quantitative Data Analyst",
+        "Location": "Flexible",
+        "status": "Applied",
+        "Date": "2025-06-18"
     }
 ]

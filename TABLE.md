@@ -2,6 +2,15 @@
 | --- | --- | --- | --- | --- |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
 | WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
+| Imagine Communications | Business Intelligence (BI) Analyst | Remote | Interviewed | 2025-06-18 |
+| Petco | Analyst, Data Science & Analytics | Unknown | Applied | 2025-06-18 |
+| Accenture | Unknown | Unknown | Applied | 2025-06-18 |
+| Veo | Data Analyst II | Unknown | Applied | 2025-06-18 |
+| CorVel | Junior Financial Analyst (Financial Analyst I) | Unknown | Applied | 2025-06-18 |
+| CorVel Healthcare Corporation | Unknown | Unknown | Applied | 2025-06-18 |
+| Warner Music Group | Assistant, Business Intelligence & Strategy | Unknown | Applied | 2025-06-18 |
+| UICGS / Bowhead family of companies | Business Analyst | Unknown | Applied | 2025-06-18 |
+| Pacific Gas and Electric Company | Quantitative Data Analyst | Flexible | Applied | 2025-06-18 |
 | Sierra Club | Email Marketing Specialist | Unknown | Declined | 2025-06-17 |
 | Insight Global | SQL Data Analyst III | Palo Alto, CA, USA | Applied | 2025-06-17 |
 | Alliant Insurance Services, Inc. | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-06-17 |
