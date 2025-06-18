@@ -12,6 +12,7 @@
 | Socure | Unknown | Unknown | Applied | 2025-06-17 |
 | Microsoft | Program Coordinator | Unknown | Applied | 2025-06-17 |
 | Plaid | Business Intelligence - GTM | Unknown | Declined | 2025-06-17 |
+| BiggerPockets | Data Analyst | Unknown | Applied | 2025-06-17 |
 | Vizient | Analytics & Insights Associate | Unknown | Declined | 2025-06-16 |
 | MSX International | Warranty Compliance Data Analyst L3 | Unknown | Declined | 2025-06-16 |
 | Cyan Systems | Business Development, Marketing & Operations, Internship | Santa Barbara, CA | Applied | 2025-06-16 |
