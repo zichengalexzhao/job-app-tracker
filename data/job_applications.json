@@ -29405,5 +29405,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-18"
+    },
+    {
+        "Company": "Montefiore Medical Center",
+        "Job Title": "Business Intelligence Analyst",
+        "Location": "Yonkers, NY, US",
+        "status": "Applied",
+        "Date": "2025-06-18"
     }
 ]
