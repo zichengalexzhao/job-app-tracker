@@ -22813,13 +22813,6 @@
         "Date": "2025-05-02"
     },
     {
-        "Company": "ServiceNow",
-        "Job Title": "Assoc Data Informatics Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-02"
-    },
-    {
         "Company": "Barkbus",
         "Job Title": "Tableau Data Visualization Intern",
         "Location": "Unknown",
@@ -29439,6 +29432,13 @@
         "Job Title": "Quantitative Data Analyst",
         "Location": "Location Flexible",
         "status": "Applied",
+        "Date": "2025-06-18"
+    },
+    {
+        "Company": "ServiceNow",
+        "Job Title": "Assoc Data Informatics Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-18"
     }
 ]

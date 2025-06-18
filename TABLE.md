@@ -18,6 +18,7 @@
 | One Inc | Associate Product Analytics | Unknown | Applied | 2025-06-18 |
 | ChargePoint | Sourcing Data Analyst | Unknown | Declined | 2025-06-18 |
 | Pacific Gas and Electric Company (PG&E) | Quantitative Data Analyst | Location Flexible | Applied | 2025-06-18 |
+| ServiceNow | Assoc Data Informatics Analyst | Unknown | Declined | 2025-06-18 |
 | Sierra Club | Email Marketing Specialist | Unknown | Declined | 2025-06-17 |
 | Insight Global | SQL Data Analyst III | Palo Alto, CA, USA | Applied | 2025-06-17 |
 | Alliant Insurance Services, Inc. | Employee Benefits Data Analytics Associate | Unknown | Applied | 2025-06-17 |
@@ -963,7 +964,6 @@
 | Los Angeles Sparks | Staff Accountant | Los Angeles, CA | Applied | 2025-05-02 |
 | Total Wine & More | Data Analyst, Merchandising Analytics | Unknown | Applied | 2025-05-02 |
 | Oracle | Data Science Intern - Global Industries - 292570 | Unknown | Applied | 2025-05-02 |
-| ServiceNow | Assoc Data Informatics Analyst | Unknown | Applied | 2025-05-02 |
 | Barkbus | Tableau Data Visualization Intern | Unknown | Declined | 2025-05-02 |
 | Molina Healthcare | Healthcare Data Analyst (Enrollment/QNXT) | Unknown | Applied | 2025-05-02 |
 | OLD MASTER PRODUCTS, INC. | Jr. Data Analyst | Unknown | Declined | 2025-05-02 |
