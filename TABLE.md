@@ -3,6 +3,7 @@
 | DoorDash | Senior Revenue Data Analyst | Unknown | Declined | 2025-06-19 |
 | Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-19 |
 | Salesforce | Associate Data Analytics - Business Intelligence | Unknown | Declined | 2025-06-19 |
+| Kaiser Permanente | Data Reporting Analyst II | Unknown | Declined | 2025-06-19 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
 | WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
 | Imagine Communications | Business Intelligence (BI) Analyst | Remote | Interviewed | 2025-06-18 |
@@ -30,7 +31,6 @@
 | Unknown | BOM & Data Analyst | Unknown | Applied | 2025-06-17 |
 | Unite Us | Research Associate | Unknown | Declined | 2025-06-17 |
 | Dow Jones | Data Analyst (Contact Center-Hybrid) | Unknown | Applied | 2025-06-17 |
-| Kaiser Permanente | Data Reporting Analyst II | Unknown | Applied | 2025-06-17 |
 | Socure | Unknown | Unknown | Applied | 2025-06-17 |
 | Microsoft | Program Coordinator | Unknown | Applied | 2025-06-17 |
 | Plaid | Business Intelligence - GTM | Unknown | Declined | 2025-06-17 |
