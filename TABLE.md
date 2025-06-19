@@ -4,6 +4,9 @@
 | Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-19 |
 | Salesforce | Associate Data Analytics - Business Intelligence | Unknown | Declined | 2025-06-19 |
 | Kaiser Permanente | Data Reporting Analyst II | Unknown | Declined | 2025-06-19 |
+| First Citizens Bank | Wealth Sales Business Analyst I / Business Program Management | Unknown | Applied | 2025-06-19 |
+| Catalyst Family Inc. | Business Analyst | Unknown | Applied | 2025-06-19 |
+| CloudTrucks | Data Analyst | Unknown | Declined | 2025-06-19 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
 | WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
 | Imagine Communications | Business Intelligence (BI) Analyst | Remote | Interviewed | 2025-06-18 |
