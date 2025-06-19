@@ -24108,13 +24108,6 @@
         "Date": "2025-05-08"
     },
     {
-        "Company": "Amazon",
-        "Job Title": "Business Analyst II",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-08"
-    },
-    {
         "Company": "Live Nation Entertainment",
         "Job Title": "Business Analyst, Fan-Based Marketing",
         "Location": "Unknown",
@@ -29474,6 +29467,20 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-06-19"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "Business Analyst II",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-19"
+    },
+    {
+        "Company": "174 Power Global",
+        "Job Title": "Analyst, Power Market Modeling",
+        "Location": "Unknown",
+        "status": "Applied",
         "Date": "2025-06-19"
     }
 ]

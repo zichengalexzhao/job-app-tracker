@@ -7,6 +7,8 @@
 | First Citizens Bank | Wealth Sales Business Analyst I / Business Program Management | Unknown | Applied | 2025-06-19 |
 | Catalyst Family Inc. | Business Analyst | Unknown | Applied | 2025-06-19 |
 | CloudTrucks | Data Analyst | Unknown | Declined | 2025-06-19 |
+| Amazon | Business Analyst II | Unknown | Declined | 2025-06-19 |
+| 174 Power Global | Analyst, Power Market Modeling | Unknown | Applied | 2025-06-19 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
 | WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
 | Imagine Communications | Business Intelligence (BI) Analyst | Remote | Interviewed | 2025-06-18 |
@@ -778,7 +780,6 @@
 | Autodesk | Data Analyst | Unknown | Applied | 2025-05-08 |
 | ZS | Decision Analytics Associate | Unknown | Declined | 2025-05-08 |
 | Amazon | Business Analyst II - AMZ9084459 | Unknown | Applied | 2025-05-08 |
-| Amazon | Business Analyst II | Unknown | Applied | 2025-05-08 |
 | Live Nation Entertainment | Business Analyst, Fan-Based Marketing | Unknown | Applied | 2025-05-08 |
 | Infinitive Inc | Business/Data Analyst | Unknown | Declined | 2025-05-08 |
 | F5 | Data Analyst I | Unknown | Declined | 2025-05-08 |
