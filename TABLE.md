@@ -9,6 +9,7 @@
 | Amazon | Business Analyst II | Unknown | Declined | 2025-06-19 |
 | 174 Power Global | Analyst, Power Market Modeling | Unknown | Applied | 2025-06-19 |
 | First Citizens Bank | Wealth Sales Business Analyst I / Business Program Management | Unknown | Declined | 2025-06-19 |
+| PG&E (Pacific Gas and Electric) | Quantitative Data Analyst | Location Flexible | Declined | 2025-06-19 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
 | WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
 | Imagine Communications | Business Intelligence (BI) Analyst | Remote | Interviewed | 2025-06-18 |
