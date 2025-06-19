@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Declined | 2025-06-19 |
 | Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-19 |
+| Salesforce | Associate Data Analytics - Business Intelligence | Unknown | Declined | 2025-06-19 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
 | WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
 | Imagine Communications | Business Intelligence (BI) Analyst | Remote | Interviewed | 2025-06-18 |
