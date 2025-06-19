@@ -29489,5 +29489,12 @@
         "Location": "Location Flexible",
         "status": "Declined",
         "Date": "2025-06-19"
+    },
+    {
+        "Company": "Qu Pos",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-19"
     }
 ]
