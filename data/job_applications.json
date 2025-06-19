@@ -22302,13 +22302,6 @@
         "Date": "2025-04-30"
     },
     {
-        "Company": "DoorDash",
-        "Job Title": "Senior Revenue Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-30"
-    },
-    {
         "Company": "Dataiku",
         "Job Title": "Associate Data Scientist",
         "Location": "Unknown",
@@ -29440,5 +29433,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-18"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Senior Revenue Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-19"
     }
 ]

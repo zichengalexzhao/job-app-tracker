@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| DoorDash | Senior Revenue Data Analyst | Unknown | Declined | 2025-06-19 |
 | Allstate Insurance Company | Data Scientist | Unknown | Applied | 2025-06-18 |
 | WalletHub | Marketing Manager | Unknown | Interviewed | 2025-06-18 |
 | Imagine Communications | Business Intelligence (BI) Analyst | Remote | Interviewed | 2025-06-18 |
@@ -998,7 +999,6 @@
 | Escalent | Insights Analyst - Health & Life Science | Remote | Applied | 2025-05-01 |
 | Ciena | Data Scientist Intern | Unknown | Applied | 2025-04-30 |
 | Zipline | Unknown | Unknown | Applied | 2025-04-30 |
-| DoorDash | Senior Revenue Data Analyst | Unknown | Applied | 2025-04-30 |
 | Dataiku | Associate Data Scientist | Unknown | Applied | 2025-04-30 |
 | Mayo Clinic | Associate Data Science Analyst - Shung Lab 355680 | Unknown | Applied | 2025-04-30 |
 | Discover | Data Science Analyst | Unknown | Applied | 2025-04-30 |
