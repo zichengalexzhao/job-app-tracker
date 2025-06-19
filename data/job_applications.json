@@ -29449,13 +29449,6 @@
         "Date": "2025-06-19"
     },
     {
-        "Company": "First Citizens Bank",
-        "Job Title": "Wealth Sales Business Analyst I / Business Program Management",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-19"
-    },
-    {
         "Company": "Catalyst Family Inc.",
         "Job Title": "Business Analyst",
         "Location": "Unknown",
@@ -29481,6 +29474,13 @@
         "Job Title": "Analyst, Power Market Modeling",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-19"
+    },
+    {
+        "Company": "First Citizens Bank",
+        "Job Title": "Wealth Sales Business Analyst I / Business Program Management",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-19"
     }
 ]
