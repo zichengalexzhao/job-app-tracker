@@ -29510,5 +29510,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-20"
+    },
+    {
+        "Company": "Singer Vehicle Design",
+        "Job Title": "BOM & Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-20"
     }
 ]

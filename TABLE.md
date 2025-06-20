@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-06-20 |
 | Molina Healthcare | Assoc Analyst, Provider Config | Unknown | Applied | 2025-06-20 |
+| Singer Vehicle Design | BOM & Data Analyst | Unknown | Declined | 2025-06-20 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Declined | 2025-06-19 |
 | Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-19 |
 | Salesforce | Associate Data Analytics - Business Intelligence | Unknown | Declined | 2025-06-19 |
