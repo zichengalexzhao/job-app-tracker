@@ -28742,13 +28742,6 @@
         "Date": "2025-06-11"
     },
     {
-        "Company": "SoFi Technologies",
-        "Job Title": "Associate Marketing Data Scientist",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-11"
-    },
-    {
         "Company": "Amy's Kitchen",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -29516,6 +29509,20 @@
         "Job Title": "BOM & Data Analyst",
         "Location": "Unknown",
         "status": "Declined",
+        "Date": "2025-06-20"
+    },
+    {
+        "Company": "SoFi Technologies",
+        "Job Title": "Associate Marketing Data Scientist",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-20"
+    },
+    {
+        "Company": "Weber Shandwick",
+        "Job Title": "AI & Analytics Intern",
+        "Location": "Washington, DC",
+        "status": "Applied",
         "Date": "2025-06-20"
     }
 ]

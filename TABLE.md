@@ -3,6 +3,8 @@
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-06-20 |
 | Molina Healthcare | Assoc Analyst, Provider Config | Unknown | Applied | 2025-06-20 |
 | Singer Vehicle Design | BOM & Data Analyst | Unknown | Declined | 2025-06-20 |
+| SoFi Technologies | Associate Marketing Data Scientist | Unknown | Declined | 2025-06-20 |
+| Weber Shandwick | AI & Analytics Intern | Washington, DC | Applied | 2025-06-20 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Declined | 2025-06-19 |
 | Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-19 |
 | Salesforce | Associate Data Analytics - Business Intelligence | Unknown | Declined | 2025-06-19 |
@@ -120,7 +122,6 @@
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-06-11 |
 | Paramount | Unknown | Los Angeles, CA, US, 90038 | Applied | 2025-06-11 |
 | Southern California Edison | Financial Forecasting & Data Analyst, Specialist | Unknown | Declined | 2025-06-11 |
-| SoFi Technologies | Associate Marketing Data Scientist | Unknown | Applied | 2025-06-11 |
 | Amy's Kitchen | Unknown | Unknown | Declined | 2025-06-11 |
 | BYD North America | Unknown | Unknown | Applied | 2025-06-11 |
 | Nordstrom | Data Analyst 2 - Nordstrom Media Network, Customer Insights and Analytics | Remote | Applied | 2025-06-11 |
