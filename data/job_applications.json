@@ -29524,5 +29524,19 @@
         "Location": "Washington, DC",
         "status": "Applied",
         "Date": "2025-06-20"
+    },
+    {
+        "Company": "Zeta Global",
+        "Job Title": "Associate, Data Cloud Intelligence",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-20"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "AI & Analytics Intern (Summer 2025)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-20"
     }
 ]
