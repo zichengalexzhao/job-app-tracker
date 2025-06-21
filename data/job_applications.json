@@ -29559,5 +29559,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-21"
+    },
+    {
+        "Company": "Infosys",
+        "Job Title": "Consultant - US",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-21"
+    },
+    {
+        "Company": "Netflix",
+        "Job Title": "Jr. Analyst, People Data (Animation)",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-21"
     }
 ]
