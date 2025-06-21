@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | fAIshion Inc | Business Intelligence / Data Analysis Intern | Remote | Applied | 2025-06-21 |
+| E & J Gallo Winery | Analyst Master Data Management | Unknown | Declined | 2025-06-21 |
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-06-20 |
 | Molina Healthcare | Assoc Analyst, Provider Config | Unknown | Applied | 2025-06-20 |
 | Singer Vehicle Design | BOM & Data Analyst | Unknown | Declined | 2025-06-20 |
