@@ -6,6 +6,8 @@
 | Netflix | Jr. Analyst, People Data (Animation) | Unknown | Applied | 2025-06-21 |
 | FirstService Residential | Analyst, IT Business | Unknown | Applied | 2025-06-21 |
 | ATI Payroll Services LLC | Data Analyst | Unknown | Applied | 2025-06-21 |
+| DoorDash | Machine Learning Intern (Masters/PhD), Summer 2025 | Unknown | Declined | 2025-06-21 |
+| Appspace | Data Visualization Specialist | Unknown | Declined | 2025-06-21 |
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-06-20 |
 | Molina Healthcare | Assoc Analyst, Provider Config | Unknown | Applied | 2025-06-20 |
 | Singer Vehicle Design | BOM & Data Analyst | Unknown | Declined | 2025-06-20 |
@@ -3501,7 +3503,6 @@
 | Boston Consulting Group (BCG) | Analyst, GeoAnalytics - X Delivery | Unknown | Applied | 2025-02-12 |
 | Transamerica Life Insurance Company | Int Business Intelligence Dev/Analyst | Unknown | Applied | 2025-02-12 |
 | Student Medicover | Operation Analyst Summer Intern | Unknown | Applied | 2025-02-12 |
-| DoorDash | Machine Learning Intern (Masters/PhD), Summer 2025 | Unknown | Applied | 2025-02-12 |
 | Jerry | Senior Data Scientist (Machine Learning) | Unknown | Applied | 2025-02-12 |
 | CVS Health | Unknown | Unknown | Applied | 2025-02-12 |
 | The Wonderful Company | Junior Data Scientist, Global Sourcing | Unknown | Declined | 2025-02-12 |

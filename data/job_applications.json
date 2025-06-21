@@ -1225,13 +1225,6 @@
         "Date": "2025-02-12"
     },
     {
-        "Company": "DoorDash",
-        "Job Title": "Machine Learning Intern (Masters/PhD), Summer 2025",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-02-12"
-    },
-    {
         "Company": "Jerry",
         "Job Title": "Senior Data Scientist (Machine Learning)",
         "Location": "Unknown",
@@ -29586,6 +29579,20 @@
         "Job Title": "Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-21"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Machine Learning Intern (Masters/PhD), Summer 2025",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-21"
+    },
+    {
+        "Company": "Appspace",
+        "Job Title": "Data Visualization Specialist",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-21"
     }
 ]
