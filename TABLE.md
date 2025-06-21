@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| fAIshion Inc | Business Intelligence / Data Analysis Intern | Remote | Applied | 2025-06-21 |
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-06-20 |
 | Molina Healthcare | Assoc Analyst, Provider Config | Unknown | Applied | 2025-06-20 |
 | Singer Vehicle Design | BOM & Data Analyst | Unknown | Declined | 2025-06-20 |
@@ -7,6 +8,7 @@
 | Weber Shandwick | AI & Analytics Intern | Washington, DC | Applied | 2025-06-20 |
 | Zeta Global | Associate, Data Cloud Intelligence | Unknown | Applied | 2025-06-20 |
 | Unknown | AI & Analytics Intern (Summer 2025) | Unknown | Applied | 2025-06-20 |
+| Panda Restaurant Group | Unknown | Unknown | Applied | 2025-06-20 |
 | DoorDash | Senior Revenue Data Analyst | Unknown | Declined | 2025-06-19 |
 | Centene | Business Intelligence Engineer I | Unknown | Applied | 2025-06-19 |
 | Salesforce | Associate Data Analytics - Business Intelligence | Unknown | Declined | 2025-06-19 |
