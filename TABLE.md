@@ -4,6 +4,8 @@
 | E & J Gallo Winery | Analyst Master Data Management | Unknown | Declined | 2025-06-21 |
 | Infosys | Consultant - US | Unknown | Applied | 2025-06-21 |
 | Netflix | Jr. Analyst, People Data (Animation) | Unknown | Applied | 2025-06-21 |
+| FirstService Residential | Analyst, IT Business | Unknown | Applied | 2025-06-21 |
+| ATI Payroll Services LLC | Data Analyst | Unknown | Applied | 2025-06-21 |
 | Workday | Business Intelligence Analyst | Unknown | Applied | 2025-06-20 |
 | Molina Healthcare | Assoc Analyst, Provider Config | Unknown | Applied | 2025-06-20 |
 | Singer Vehicle Design | BOM & Data Analyst | Unknown | Declined | 2025-06-20 |
