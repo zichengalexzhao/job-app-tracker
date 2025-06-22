@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Zelis | Technical Product Analyst | Unknown | Applied | 2025-06-22 |
 | Amazon | ICQA Data Analyst | Unknown | Declined | 2025-06-22 |
+| Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-06-22 |
 | fAIshion Inc | Business Intelligence / Data Analysis Intern | Remote | Applied | 2025-06-21 |
 | E & J Gallo Winery | Analyst Master Data Management | Unknown | Declined | 2025-06-21 |
 | Infosys | Consultant - US | Unknown | Applied | 2025-06-21 |

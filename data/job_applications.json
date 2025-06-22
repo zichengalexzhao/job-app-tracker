@@ -29594,5 +29594,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-22"
+    },
+    {
+        "Company": "Amtrak",
+        "Job Title": "Unknown",
+        "Location": "Washington, Washington DC, US",
+        "status": "Applied",
+        "Date": "2025-06-22"
     }
 ]
