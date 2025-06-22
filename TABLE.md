@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Zelis | Technical Product Analyst | Unknown | Applied | 2025-06-22 |
 | fAIshion Inc | Business Intelligence / Data Analysis Intern | Remote | Applied | 2025-06-21 |
 | E & J Gallo Winery | Analyst Master Data Management | Unknown | Declined | 2025-06-21 |
 | Infosys | Consultant - US | Unknown | Applied | 2025-06-21 |
