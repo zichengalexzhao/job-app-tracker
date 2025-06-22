@@ -26929,13 +26929,6 @@
         "Date": "2025-05-23"
     },
     {
-        "Company": "Amazon",
-        "Job Title": "ICQA Data Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-23"
-    },
-    {
         "Company": "Mochi Health",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -26945,13 +26938,6 @@
     {
         "Company": "HCVT",
         "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-23"
-    },
-    {
-        "Company": "Amazon",
-        "Job Title": "ICQA Data Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-23"
@@ -29600,6 +29586,13 @@
         "Job Title": "Technical Product Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-22"
+    },
+    {
+        "Company": "Amazon",
+        "Job Title": "ICQA Data Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-22"
     }
 ]

@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Zelis | Technical Product Analyst | Unknown | Applied | 2025-06-22 |
+| Amazon | ICQA Data Analyst | Unknown | Declined | 2025-06-22 |
 | fAIshion Inc | Business Intelligence / Data Analysis Intern | Remote | Applied | 2025-06-21 |
 | E & J Gallo Winery | Analyst Master Data Management | Unknown | Declined | 2025-06-21 |
 | Infosys | Consultant - US | Unknown | Applied | 2025-06-21 |
@@ -364,10 +365,8 @@
 | Ensemble Health Partners | Unknown | Unknown | Applied | 2025-05-23 |
 | Avison Young | Analyst | New York, NY, USA | Applied | 2025-05-23 |
 | Centene | Data Analyst I | Unknown | Applied | 2025-05-23 |
-| Amazon | ICQA Data Analyst | Unknown | Applied | 2025-05-23 |
 | Mochi Health | Unknown | Unknown | Applied | 2025-05-23 |
 | HCVT | Business Analyst | Unknown | Applied | 2025-05-23 |
-| Amazon | ICQA Data Analyst | Unknown | Applied | 2025-05-23 |
 | DHL | Sr Business Data Analyst | Unknown | Applied | 2025-05-23 |
 | Pacific Gas and Electric Company | Clean Energy Quantitative Analyst | Unknown | Applied | 2025-05-23 |
 | Agero | Unknown | Unknown | Applied | 2025-05-23 |
