@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| UniUni Logistics Inc. | Operation Assistant | Chicago | Applied | 2025-06-23 |
 | Zelis | Technical Product Analyst | Unknown | Applied | 2025-06-22 |
 | Amazon | ICQA Data Analyst | Unknown | Declined | 2025-06-22 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-06-22 |
