@@ -6,6 +6,7 @@
 | Accenture | Unknown | Unknown | Applied | 2025-06-23 |
 | Gusto | Product Analyst | Unknown | Declined | 2025-06-23 |
 | UniUni Logistics Inc. | Operation Assistant | Atlanta, GA | Applied | 2025-06-23 |
+| TransUnion | Unknown | Unknown | Applied | 2025-06-23 |
 | Zelis | Technical Product Analyst | Unknown | Applied | 2025-06-22 |
 | Amazon | ICQA Data Analyst | Unknown | Declined | 2025-06-22 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-06-22 |
