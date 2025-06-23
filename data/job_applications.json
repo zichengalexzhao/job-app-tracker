@@ -29615,5 +29615,26 @@
         "Location": "San Francisco, CA",
         "status": "Applied",
         "Date": "2025-06-23"
+    },
+    {
+        "Company": "Accenture",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-23"
+    },
+    {
+        "Company": "Accenture",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-23"
+    },
+    {
+        "Company": "Gusto",
+        "Job Title": "Product Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-23"
     }
 ]
