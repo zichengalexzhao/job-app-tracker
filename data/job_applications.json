@@ -28497,13 +28497,6 @@
         "Date": "2025-06-10"
     },
     {
-        "Company": "Universal Music Group",
-        "Job Title": "Analyst, Data Integrity and Reporting",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-10"
-    },
-    {
         "Company": "Infosys",
         "Job Title": "Consultant - US",
         "Location": "Unknown",
@@ -29682,6 +29675,20 @@
     {
         "Company": "Inductive Automation",
         "Job Title": "Data Analyst III",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-24"
+    },
+    {
+        "Company": "Universal Music Group",
+        "Job Title": "Analyst, Data Integrity and Reporting",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-24"
+    },
+    {
+        "Company": "Adobe",
+        "Job Title": "Business Solutions Analyst",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-24"

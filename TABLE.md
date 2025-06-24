@@ -5,6 +5,8 @@
 | Bridge Housing Corporation | Unknown | Unknown | Applied | 2025-06-24 |
 | TikTok | Data Analyst, Operations - USDS | Unknown | Applied | 2025-06-24 |
 | Inductive Automation | Data Analyst III | Unknown | Applied | 2025-06-24 |
+| Universal Music Group | Analyst, Data Integrity and Reporting | Unknown | Declined | 2025-06-24 |
+| Adobe | Business Solutions Analyst | Unknown | Applied | 2025-06-24 |
 | UniUni Logistics Inc. | Operation Assistant | Chicago | Applied | 2025-06-23 |
 | EPIQ Infotech | Part-Time Data Analyst | San Francisco, CA | Applied | 2025-06-23 |
 | Accenture | Unknown | Unknown | Applied | 2025-06-23 |
@@ -159,7 +161,6 @@
 | Highbrow LLC | Data Science with AI/ML | Austin, Texas | Applied | 2025-06-10 |
 | Aquent | Marketing Data Analyst | Unknown | Applied | 2025-06-10 |
 | Sutter Health | Reimbursement Analyst II | Unknown | Applied | 2025-06-10 |
-| Universal Music Group | Analyst, Data Integrity and Reporting | Unknown | Applied | 2025-06-10 |
 | Infosys | Consultant - US | Unknown | Applied | 2025-06-10 |
 | Infosys | Unknown | Unknown | Applied | 2025-06-10 |
 | Exchange Bank | Data Analyst | Unknown | Applied | 2025-06-10 |
