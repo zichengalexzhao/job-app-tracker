@@ -29706,5 +29706,19 @@
         "Location": "Remote - US",
         "status": "Applied",
         "Date": "2025-06-24"
+    },
+    {
+        "Company": "Apploi Corp",
+        "Job Title": "Revenue Operations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-24"
+    },
+    {
+        "Company": "State Street",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-24"
     }
 ]
