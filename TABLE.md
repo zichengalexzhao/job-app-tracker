@@ -1,6 +1,10 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Chime | Data Analyst, Product | Unknown | Applied | 2025-06-24 |
+| Archer | Data Analyst | Unknown | Applied | 2025-06-24 |
+| Bridge Housing Corporation | Unknown | Unknown | Applied | 2025-06-24 |
+| TikTok | Data Analyst, Operations - USDS | Unknown | Applied | 2025-06-24 |
+| Inductive Automation | Data Analyst III | Unknown | Applied | 2025-06-24 |
 | UniUni Logistics Inc. | Operation Assistant | Chicago | Applied | 2025-06-23 |
 | EPIQ Infotech | Part-Time Data Analyst | San Francisco, CA | Applied | 2025-06-23 |
 | Accenture | Unknown | Unknown | Applied | 2025-06-23 |
