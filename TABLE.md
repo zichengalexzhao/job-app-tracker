@@ -7,6 +7,8 @@
 | Inductive Automation | Data Analyst III | Unknown | Applied | 2025-06-24 |
 | Universal Music Group | Analyst, Data Integrity and Reporting | Unknown | Declined | 2025-06-24 |
 | Adobe | Business Solutions Analyst | Unknown | Applied | 2025-06-24 |
+| TRISTAR RISK MANAGEMENT | Data Analyst I | Unknown | Declined | 2025-06-24 |
+| Visa | Research Analyst | Unknown | Declined | 2025-06-24 |
 | UniUni Logistics Inc. | Operation Assistant | Chicago | Applied | 2025-06-23 |
 | EPIQ Infotech | Part-Time Data Analyst | San Francisco, CA | Applied | 2025-06-23 |
 | Accenture | Unknown | Unknown | Applied | 2025-06-23 |
@@ -107,7 +109,6 @@
 | Applied Materials | Data Science Co-op/Intern- Master's | Santa Clara, CA | Applied | 2025-06-13 |
 | Molina Healthcare | Analyst, Risk & Quality Reporting | Remote in CA | Applied | 2025-06-13 |
 | DuPont | Unknown | Unknown | Applied | 2025-06-13 |
-| Visa | Research Analyst | Unknown | Applied | 2025-06-13 |
 | Meta Platforms, Inc. | Product Growth Analyst | Unknown | Applied | 2025-06-13 |
 | Omnicom Health | Analyst | Unknown | Applied | 2025-06-13 |
 | Hanwha Q CELLS North America Inc. (HQCA) | Energy Service Operations & Data Analyst | Unknown | Applied | 2025-06-13 |

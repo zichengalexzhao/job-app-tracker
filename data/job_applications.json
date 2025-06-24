@@ -28959,13 +28959,6 @@
         "Date": "2025-06-13"
     },
     {
-        "Company": "Visa",
-        "Job Title": "Research Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-13"
-    },
-    {
         "Company": "Meta Platforms, Inc.",
         "Job Title": "Product Growth Analyst",
         "Location": "Unknown",
@@ -29691,6 +29684,20 @@
         "Job Title": "Business Solutions Analyst",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-24"
+    },
+    {
+        "Company": "TRISTAR RISK MANAGEMENT",
+        "Job Title": "Data Analyst I",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-24"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Research Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-24"
     }
 ]
