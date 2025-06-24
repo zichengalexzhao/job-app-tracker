@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Chime | Data Analyst, Product | Unknown | Applied | 2025-06-24 |
 | UniUni Logistics Inc. | Operation Assistant | Chicago | Applied | 2025-06-23 |
 | EPIQ Infotech | Part-Time Data Analyst | San Francisco, CA | Applied | 2025-06-23 |
 | Accenture | Unknown | Unknown | Applied | 2025-06-23 |
