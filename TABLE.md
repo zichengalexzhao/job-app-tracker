@@ -7,6 +7,7 @@
 | Gusto | Product Analyst | Unknown | Declined | 2025-06-23 |
 | UniUni Logistics Inc. | Operation Assistant | Atlanta, GA | Applied | 2025-06-23 |
 | TransUnion | Unknown | Unknown | Applied | 2025-06-23 |
+| Vynca | Healthcare Business Analyst | Unknown | Declined | 2025-06-23 |
 | Zelis | Technical Product Analyst | Unknown | Applied | 2025-06-22 |
 | Amazon | ICQA Data Analyst | Unknown | Declined | 2025-06-22 |
 | Amtrak | Unknown | Washington, Washington DC, US | Applied | 2025-06-22 |
@@ -1168,7 +1169,6 @@
 | Vinculum Inc | Business Intelligence / Data analyst | Unknown | Applied | 2025-04-25 |
 | PNC | Business Analytics Consultant- Python & Hadoop | Unknown | Applied | 2025-04-25 |
 | Angi | Insights Analyst | Unknown | Applied | 2025-04-25 |
-| Vynca | Healthcare Business Analyst | Unknown | Applied | 2025-04-25 |
 | BioMarin Pharmaceutical Inc. | Performance Reporting & Analytics | Unknown | Applied | 2025-04-25 |
 | Pacific Gas and Electric Company | Substation Operations Intern | Unknown | Applied | 2025-04-25 |
 | Abbott | Clinical Data Management Analyst | Unknown | Applied | 2025-04-25 |

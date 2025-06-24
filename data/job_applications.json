@@ -21581,13 +21581,6 @@
         "Date": "2025-04-25"
     },
     {
-        "Company": "Vynca",
-        "Job Title": "Healthcare Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-04-25"
-    },
-    {
         "Company": "BioMarin Pharmaceutical Inc.",
         "Job Title": "Performance Reporting & Analytics",
         "Location": "Unknown",
@@ -29649,6 +29642,13 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-23"
+    },
+    {
+        "Company": "Vynca",
+        "Job Title": "Healthcare Business Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-23"
     }
 ]
