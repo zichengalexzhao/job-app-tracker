@@ -9,6 +9,7 @@
 | Adobe | Business Solutions Analyst | Unknown | Applied | 2025-06-24 |
 | TRISTAR RISK MANAGEMENT | Data Analyst I | Unknown | Declined | 2025-06-24 |
 | Visa | Research Analyst | Unknown | Declined | 2025-06-24 |
+| Yelp, Inc. | Senior Analyst, Product Analytics | Remote - US | Applied | 2025-06-24 |
 | UniUni Logistics Inc. | Operation Assistant | Chicago | Applied | 2025-06-23 |
 | EPIQ Infotech | Part-Time Data Analyst | San Francisco, CA | Applied | 2025-06-23 |
 | Accenture | Unknown | Unknown | Applied | 2025-06-23 |
