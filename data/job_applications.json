@@ -29783,5 +29783,12 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-25"
+    },
+    {
+        "Company": "Valuate Health Consultancy",
+        "Job Title": "Analyst",
+        "Location": "New York",
+        "status": "Declined",
+        "Date": "2025-06-25"
     }
 ]
