@@ -29776,5 +29776,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-25"
+    },
+    {
+        "Company": "Paramount",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
     }
 ]

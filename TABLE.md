@@ -11,6 +11,7 @@
 | Rivian Automotive, LLC | Data Analyst - Learning & Development | Unknown | Applied | 2025-06-25 |
 | Vail Resorts | Investigations Analyst | Unknown | Applied | 2025-06-25 |
 | WalletHub | Marketing Manager | Unknown | Declined | 2025-06-25 |
+| Paramount | Unknown | Unknown | Applied | 2025-06-25 |
 | Chime | Data Analyst, Product | Unknown | Applied | 2025-06-24 |
 | Archer | Data Analyst | Unknown | Applied | 2025-06-24 |
 | Bridge Housing Corporation | Unknown | Unknown | Applied | 2025-06-24 |
