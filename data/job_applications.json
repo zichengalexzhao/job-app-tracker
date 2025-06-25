@@ -24276,13 +24276,6 @@
         "Date": "2025-05-09"
     },
     {
-        "Company": "WalletHub",
-        "Job Title": "Marketing Manager",
-        "Location": "Winchester, VA",
-        "status": "Applied",
-        "Date": "2025-05-09"
-    },
-    {
         "Company": "Tristar Insurance",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -26817,13 +26810,6 @@
         "Date": "2025-05-22"
     },
     {
-        "Company": "WalletHub",
-        "Job Title": "Marketing Manager",
-        "Location": "Miami, FL",
-        "status": "Applied",
-        "Date": "2025-05-22"
-    },
-    {
         "Company": "FedEx",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -27177,13 +27163,6 @@
         "Company": "Tanimura & Antle",
         "Job Title": "Unknown",
         "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-26"
-    },
-    {
-        "Company": "WalletHub",
-        "Job Title": "Marketing Manager",
-        "Location": "Miami, FL",
         "status": "Applied",
         "Date": "2025-05-26"
     },
@@ -27822,13 +27801,6 @@
         "Job Title": "Unknown",
         "Location": "Unknown",
         "status": "Interviewed",
-        "Date": "2025-06-03"
-    },
-    {
-        "Company": "WalletHub",
-        "Job Title": "Marketing Manager",
-        "Location": "Unknown",
-        "status": "Applied",
         "Date": "2025-06-03"
     },
     {
@@ -29789,6 +29761,20 @@
         "Job Title": "Data Analyst - Learning & Development",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-25"
+    },
+    {
+        "Company": "Vail Resorts",
+        "Job Title": "Investigations Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
+    },
+    {
+        "Company": "WalletHub",
+        "Job Title": "Marketing Manager",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-25"
     }
 ]

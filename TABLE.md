@@ -9,6 +9,8 @@
 | U.S. Bank | Customer Remediation Data Analyst - Consumer & Business Banking Risk | Unknown | Applied | 2025-06-25 |
 | Comcast | Sr. Data Analyst - Xumo | Unknown | Applied | 2025-06-25 |
 | Rivian Automotive, LLC | Data Analyst - Learning & Development | Unknown | Applied | 2025-06-25 |
+| Vail Resorts | Investigations Analyst | Unknown | Applied | 2025-06-25 |
+| WalletHub | Marketing Manager | Unknown | Declined | 2025-06-25 |
 | Chime | Data Analyst, Product | Unknown | Applied | 2025-06-24 |
 | Archer | Data Analyst | Unknown | Applied | 2025-06-24 |
 | Bridge Housing Corporation | Unknown | Unknown | Applied | 2025-06-24 |
@@ -272,7 +274,6 @@
 | Walmart, Inc. - Walmart eCommerce (Marketplace) | Strategic Account Manager | Unknown | Applied | 2025-06-03 |
 | LPL Financial | Unknown | Unknown | Applied | 2025-06-03 |
 | Sprouts AI | Unknown | Unknown | Interviewed | 2025-06-03 |
-| WalletHub | Marketing Manager | Unknown | Applied | 2025-06-03 |
 | Molina Healthcare, Inc. | Analyst, Claims Research | Remote | Applied | 2025-06-03 |
 | Unknown | CAT Analyst | Unknown | Applied | 2025-06-03 |
 | Medline | Assoc Analyst Implementation Distributed Products | Unknown | Applied | 2025-06-03 |
@@ -371,7 +372,6 @@
 | Viant | Data Analyst | Unknown | Declined | 2025-05-27 |
 | Axos Bank | Jr. Data Analyst | Unknown | Applied | 2025-05-26 |
 | Tanimura & Antle | Unknown | Unknown | Applied | 2025-05-26 |
-| WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-26 |
 | Ascension | Specialist - Technology, Data Analysis | Unknown | Declined | 2025-05-26 |
 | Meyer Corporation | Sr. Marketing Analyst, Growth | Unknown | Declined | 2025-05-26 |
 | Coinbase | Unknown | Unknown | Applied | 2025-05-26 |
@@ -437,7 +437,6 @@
 | American Woodmark | Supply Chain Analyst | Unknown | Declined | 2025-05-22 |
 | Docusign | Org Effectiveness Business Analyst | Unknown | Declined | 2025-05-22 |
 | Coinbase | Business Operations & Strategy Associate / Senior Associate | Unknown | Declined | 2025-05-22 |
-| WalletHub | Marketing Manager | Miami, FL | Applied | 2025-05-22 |
 | FedEx | Unknown | Unknown | Applied | 2025-05-22 |
 | Acushnet Company | 2025 People Analytics Co-op | Unknown | Declined | 2025-05-22 |
 | APL Logistics | Super User Data Analyst, Warehouse | Unknown | Declined | 2025-05-22 |
@@ -798,7 +797,6 @@
 | Techgene Solutions LLC | Data Analyst | Boise, ID | Applied | 2025-05-09 |
 | Three Day Rule, Inc. | Data Analyst Intern | Remote | Applied | 2025-05-09 |
 | Kinetic Technologies | Unknown | Unknown | Applied | 2025-05-09 |
-| WalletHub | Marketing Manager | Winchester, VA | Applied | 2025-05-09 |
 | Tristar Insurance | Unknown | Unknown | Applied | 2025-05-09 |
 | Oracle | Data Scientist | Unknown | Declined | 2025-05-09 |
 | DoorDash | Associate Manager, Product Operations | Unknown | Declined | 2025-05-09 |
