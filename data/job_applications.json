@@ -29790,5 +29790,12 @@
         "Location": "New York",
         "status": "Declined",
         "Date": "2025-06-25"
+    },
+    {
+        "Company": "Visa",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
     }
 ]
