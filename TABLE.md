@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Aura | Analyst, Sales Analytics | Unknown | Applied | 2025-06-25 |
+| DoorDash | Business Intelligence Analyst, People Analytics | Unknown | Applied | 2025-06-25 |
 | Chime | Data Analyst, Product | Unknown | Applied | 2025-06-24 |
 | Archer | Data Analyst | Unknown | Applied | 2025-06-24 |
 | Bridge Housing Corporation | Unknown | Unknown | Applied | 2025-06-24 |

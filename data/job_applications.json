@@ -29727,5 +29727,19 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-24"
+    },
+    {
+        "Company": "Aura",
+        "Job Title": "Analyst, Sales Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
+    },
+    {
+        "Company": "DoorDash",
+        "Job Title": "Business Intelligence Analyst, People Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
     }
 ]
