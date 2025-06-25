@@ -29755,5 +29755,40 @@
         "Location": "Seattle, WA",
         "status": "Applied",
         "Date": "2025-06-25"
+    },
+    {
+        "Company": "Abbott",
+        "Job Title": "Business Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
+    },
+    {
+        "Company": "Horizon Media",
+        "Job Title": "Analyst, Analytics",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
+    },
+    {
+        "Company": "U.S. Bank",
+        "Job Title": "Customer Remediation Data Analyst - Consumer & Business Banking Risk",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
+    },
+    {
+        "Company": "Comcast",
+        "Job Title": "Sr. Data Analyst - Xumo",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
+    },
+    {
+        "Company": "Rivian Automotive, LLC",
+        "Job Title": "Data Analyst - Learning & Development",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-25"
     }
 ]

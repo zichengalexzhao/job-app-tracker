@@ -4,6 +4,11 @@
 | DoorDash | Business Intelligence Analyst, People Analytics | Unknown | Applied | 2025-06-25 |
 | The Siam Cement Public Company Limited (SCG) | Data Scientist (Applied) | Bangkok, Thailand | Applied | 2025-06-25 |
 | UniUni Logistics Inc. | Operations Assistant | Seattle, WA | Applied | 2025-06-25 |
+| Abbott | Business Data Analyst | Unknown | Applied | 2025-06-25 |
+| Horizon Media | Analyst, Analytics | Unknown | Applied | 2025-06-25 |
+| U.S. Bank | Customer Remediation Data Analyst - Consumer & Business Banking Risk | Unknown | Applied | 2025-06-25 |
+| Comcast | Sr. Data Analyst - Xumo | Unknown | Applied | 2025-06-25 |
+| Rivian Automotive, LLC | Data Analyst - Learning & Development | Unknown | Applied | 2025-06-25 |
 | Chime | Data Analyst, Product | Unknown | Applied | 2025-06-24 |
 | Archer | Data Analyst | Unknown | Applied | 2025-06-24 |
 | Bridge Housing Corporation | Unknown | Unknown | Applied | 2025-06-24 |
