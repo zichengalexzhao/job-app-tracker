@@ -18,6 +18,7 @@
 | Boston Consulting Group (BCG) | (Associate/Senior) Growth Architect, B2B | United States – BCG X | Applied | 2025-06-26 |
 | Yelp | Senior Analyst, Product Analytics | Remote - US | Declined | 2025-06-26 |
 | Oscar Health | Operations Analytics Associate | Unknown | Declined | 2025-06-26 |
+| Comcast | Sr. Data Analyst - Xumo | Unknown | Applied | 2025-06-26 |
 | Aura | Analyst, Sales Analytics | Unknown | Applied | 2025-06-25 |
 | DoorDash | Business Intelligence Analyst, People Analytics | Unknown | Applied | 2025-06-25 |
 | The Siam Cement Public Company Limited (SCG) | Data Scientist (Applied) | Bangkok, Thailand | Applied | 2025-06-25 |
