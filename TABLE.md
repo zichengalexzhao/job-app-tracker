@@ -1,6 +1,19 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
+| SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
+| Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |
+| Reliance, Inc. | Business Analyst III (2025-1981) | Unknown | Applied | 2025-06-26 |
+| LendingClub | Associate Data Modeler | Unknown | Applied | 2025-06-26 |
+| AgileMD | Healthcare Outcomes Data Analyst | Unknown | Applied | 2025-06-26 |
+| Peloton | Unknown | Unknown | Applied | 2025-06-26 |
+| Hims & Hers | Unknown | Unknown | Applied | 2025-06-26 |
+| Datavant | Data Analyst | Unknown | Applied | 2025-06-26 |
+| Triumph Financial | Unknown | Unknown | Applied | 2025-06-26 |
+| Rocket Money | Unknown | Unknown | Applied | 2025-06-26 |
+| Adobe | Data Scientist, Customer Analytics & VoC | Unknown | Applied | 2025-06-26 |
+| GoodRx | Unknown | Unknown | Applied | 2025-06-26 |
+| CooperCompanies | Junior Data Scientist - 7188 | Unknown | Applied | 2025-06-26 |
 | Aura | Analyst, Sales Analytics | Unknown | Applied | 2025-06-25 |
 | DoorDash | Business Intelligence Analyst, People Analytics | Unknown | Applied | 2025-06-25 |
 | The Siam Cement Public Company Limited (SCG) | Data Scientist (Applied) | Bangkok, Thailand | Applied | 2025-06-25 |
