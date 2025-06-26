@@ -16,6 +16,7 @@
 | CooperCompanies | Junior Data Scientist - 7188 | Unknown | Applied | 2025-06-26 |
 | Crete Professionals Alliance (Crete PA) | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Boston Consulting Group (BCG) | (Associate/Senior) Growth Architect, B2B | United States – BCG X | Applied | 2025-06-26 |
+| Yelp | Senior Analyst, Product Analytics | Remote - US | Declined | 2025-06-26 |
 | Aura | Analyst, Sales Analytics | Unknown | Applied | 2025-06-25 |
 | DoorDash | Business Intelligence Analyst, People Analytics | Unknown | Applied | 2025-06-25 |
 | The Siam Cement Public Company Limited (SCG) | Data Scientist (Applied) | Bangkok, Thailand | Applied | 2025-06-25 |
