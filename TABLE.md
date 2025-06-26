@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | Aura | Analyst, Sales Analytics | Unknown | Applied | 2025-06-25 |
 | DoorDash | Business Intelligence Analyst, People Analytics | Unknown | Applied | 2025-06-25 |
 | The Siam Cement Public Company Limited (SCG) | Data Scientist (Applied) | Bangkok, Thailand | Applied | 2025-06-25 |
