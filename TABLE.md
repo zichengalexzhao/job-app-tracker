@@ -7,6 +7,9 @@
 | Chegg | Unknown | Unknown | Applied | 2025-06-27 |
 | ClickUp | Data Analyst, Product | Unknown | Declined | 2025-06-27 |
 | Peloton | Data Scientist, Product Analytics | Unknown | Declined | 2025-06-27 |
+| TikTok | Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS) | Unknown | Applied | 2025-06-27 |
+| Brex | Unknown | Unknown | Applied | 2025-06-27 |
+| Vail Resorts | Retail Operations Analyst | Unknown | Applied | 2025-06-27 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |
