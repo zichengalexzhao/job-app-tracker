@@ -24724,13 +24724,6 @@
         "Date": "2025-05-12"
     },
     {
-        "Company": "Thumbtack",
-        "Job Title": "Data Scientist, Business Analytics",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-13"
-    },
-    {
         "Company": "PlayStation",
         "Job Title": "Fraud Data Analyst",
         "Location": "Unknown",
@@ -25811,13 +25804,6 @@
     {
         "Company": "San Manuel",
         "Job Title": "Unknown",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-17"
-    },
-    {
-        "Company": "Thumbtack",
-        "Job Title": "Data Scientist, Business Analytics",
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-05-17"
@@ -30013,6 +29999,13 @@
         "Job Title": "Commercial Data Analyst",
         "Location": "Santa Monica, California",
         "status": "Applied",
+        "Date": "2025-06-27"
+    },
+    {
+        "Company": "Thumbtack",
+        "Job Title": "Data Scientist, Business Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-27"
     }
 ]

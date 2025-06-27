@@ -14,6 +14,7 @@
 | Centric Brands | Unknown | Unknown | Applied | 2025-06-27 |
 | Centric Brands Holding LLC | Business Analyst (B2B E-Commerce) | Unknown | Applied | 2025-06-27 |
 | Universal Music Group | Commercial Data Analyst | Santa Monica, California | Applied | 2025-06-27 |
+| Thumbtack | Data Scientist, Business Analytics | Unknown | Declined | 2025-06-27 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |
@@ -593,7 +594,6 @@
 | ABK Workday | Platform Data Analyst | Irvine, CA | Applied | 2025-05-17 |
 | Niagara Bottling, LLC | Oracle EBS Business Analyst I - MFG Shop Floor Processes | Unknown | Applied | 2025-05-17 |
 | San Manuel | Unknown | Unknown | Applied | 2025-05-17 |
-| Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-17 |
 | Upgrade | Data Scientist | Unknown | Applied | 2025-05-17 |
 | Serve Robotics | Data Analyst, Autonomy | Unknown | Applied | 2025-05-17 |
 | Brisk Teaching | Product Analyst | Unknown | Applied | 2025-05-17 |
@@ -723,7 +723,6 @@
 | ResMed | Senior Analyst, Corporate Strategy | Unknown | Applied | 2025-05-14 |
 | Beghou Consulting | Consultant | Unknown | Applied | 2025-05-14 |
 | Splunk | Campaign Business Analyst | Unknown | Declined | 2025-05-14 |
-| Thumbtack | Data Scientist, Business Analytics | Unknown | Applied | 2025-05-13 |
 | PlayStation | Fraud Data Analyst | Unknown | Applied | 2025-05-13 |
 | UCLA Health | Unknown | Unknown | Applied | 2025-05-13 |
 | United Collective | Data Analyst | Unknown | Applied | 2025-05-13 |
