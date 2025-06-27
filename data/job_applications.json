@@ -29951,5 +29951,19 @@
         "Location": "Unknown",
         "status": "Applied",
         "Date": "2025-06-27"
+    },
+    {
+        "Company": "ClickUp",
+        "Job Title": "Data Analyst, Product",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-27"
+    },
+    {
+        "Company": "Peloton",
+        "Job Title": "Data Scientist, Product Analytics",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-27"
     }
 ]
