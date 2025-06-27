@@ -4921,13 +4921,6 @@
         "Date": "2024-10-01"
     },
     {
-        "Company": "ZURU",
-        "Job Title": "Data Analyst Intern",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2024-10-01"
-    },
-    {
         "Company": "Vectra",
         "Job Title": "Unknown",
         "Location": "Unknown",
@@ -29943,6 +29936,13 @@
         "Job Title": "Data Analyst III, Operations",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-27"
+    },
+    {
+        "Company": "ZURU",
+        "Job Title": "Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-27"
     }
 ]

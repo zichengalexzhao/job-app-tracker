@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Wescom Credit Union | Unknown | Unknown | Applied | 2025-06-27 |
 | AgelessRx | Data Analyst III, Operations | Unknown | Applied | 2025-06-27 |
+| ZURU | Data Analyst Intern | Unknown | Declined | 2025-06-27 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |
@@ -4065,7 +4066,6 @@
 | Manpower | Unknown | Unknown | Applied | 2024-10-02 |
 | Dewberry | Unknown | Unknown | Applied | 2024-10-01 |
 | Dewberry Engineers Inc. | GIS Data Analyst Intern | Unknown | Applied | 2024-10-01 |
-| ZURU | Data Analyst Intern | Unknown | Applied | 2024-10-01 |
 | Vectra | Unknown | Unknown | Applied | 2024-10-01 |
 | Duolingo | Unknown | Unknown | Applied | 2024-10-01 |
 | Zuora | Unknown | Unknown | Applied | 2024-10-01 |
