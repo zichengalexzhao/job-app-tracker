@@ -15,6 +15,7 @@
 | Centric Brands Holding LLC | Business Analyst (B2B E-Commerce) | Unknown | Applied | 2025-06-27 |
 | Universal Music Group | Commercial Data Analyst | Santa Monica, California | Applied | 2025-06-27 |
 | Thumbtack | Data Scientist, Business Analytics | Unknown | Declined | 2025-06-27 |
+| Global Music Rights | Unknown | Unknown | Applied | 2025-06-27 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |
