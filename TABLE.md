@@ -4,6 +4,7 @@
 | AgelessRx | Data Analyst III, Operations | Unknown | Applied | 2025-06-27 |
 | ZURU | Data Analyst Intern | Unknown | Declined | 2025-06-27 |
 | Informative Research | Business Analyst | Unknown | Declined | 2025-06-27 |
+| Chegg | Unknown | Unknown | Applied | 2025-06-27 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |

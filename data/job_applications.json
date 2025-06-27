@@ -29944,5 +29944,12 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-27"
+    },
+    {
+        "Company": "Chegg",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-27"
     }
 ]
