@@ -27958,13 +27958,6 @@
         "Date": "2025-06-04"
     },
     {
-        "Company": "Informative Research",
-        "Job Title": "Business Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-06-04"
-    },
-    {
         "Company": "Montefiore Medical Center",
         "Job Title": "Unknown",
         "Location": "Yonkers, NY, US",
@@ -29941,6 +29934,13 @@
     {
         "Company": "ZURU",
         "Job Title": "Data Analyst Intern",
+        "Location": "Unknown",
+        "status": "Declined",
+        "Date": "2025-06-27"
+    },
+    {
+        "Company": "Informative Research",
+        "Job Title": "Business Analyst",
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-27"

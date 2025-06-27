@@ -3,6 +3,7 @@
 | Wescom Credit Union | Unknown | Unknown | Applied | 2025-06-27 |
 | AgelessRx | Data Analyst III, Operations | Unknown | Applied | 2025-06-27 |
 | ZURU | Data Analyst Intern | Unknown | Declined | 2025-06-27 |
+| Informative Research | Business Analyst | Unknown | Declined | 2025-06-27 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |
@@ -285,7 +286,6 @@
 | NBCUniversal | Business Solutions Analyst - Configuration | Unknown | Applied | 2025-06-04 |
 | Alvarez and Marsal | Associate - Global Transaction Analytics | Unknown | Applied | 2025-06-04 |
 | Bayone Solutions | Unknown | Unknown | Applied | 2025-06-04 |
-| Informative Research | Business Analyst | Unknown | Applied | 2025-06-04 |
 | Montefiore Medical Center | Unknown | Yonkers, NY, US | Applied | 2025-06-04 |
 | Paramount | Unknown | Unknown | Applied | 2025-06-04 |
 | Pacific Gas and Electric Company (PG&E) | Business Process Analyst, Associate | Unknown | Declined | 2025-06-04 |
