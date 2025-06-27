@@ -10,6 +10,10 @@
 | TikTok | Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS) | Unknown | Applied | 2025-06-27 |
 | Brex | Unknown | Unknown | Applied | 2025-06-27 |
 | Vail Resorts | Retail Operations Analyst | Unknown | Applied | 2025-06-27 |
+| Realty Income | Business Analyst, Portfolio Analytics | Unknown | Applied | 2025-06-27 |
+| Centric Brands | Unknown | Unknown | Applied | 2025-06-27 |
+| Centric Brands Holding LLC | Business Analyst (B2B E-Commerce) | Unknown | Applied | 2025-06-27 |
+| Universal Music Group | Commercial Data Analyst | Santa Monica, California | Applied | 2025-06-27 |
 | Northwestern Mutual | Unknown | Unknown | Applied | 2025-06-26 |
 | SGS | Data Analyst | Unknown | Applied | 2025-06-26 |
 | Wescom Credit Union | Fraud Intelligence Analyst | Anaheim, CA | Applied | 2025-06-26 |
