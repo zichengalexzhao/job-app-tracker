@@ -30035,5 +30035,33 @@
         "Location": "Unknown",
         "status": "Declined",
         "Date": "2025-06-28"
+    },
+    {
+        "Company": "Unknown",
+        "Job Title": "Performance Marketing Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-28"
+    },
+    {
+        "Company": "VCA (Veterinary Centers of America)",
+        "Job Title": "Unknown",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-28"
+    },
+    {
+        "Company": "Stanley Black & Decker",
+        "Job Title": "Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-28"
+    },
+    {
+        "Company": "Uber",
+        "Job Title": "Employee Data Analyst",
+        "Location": "Unknown",
+        "status": "Applied",
+        "Date": "2025-06-28"
     }
 ]
