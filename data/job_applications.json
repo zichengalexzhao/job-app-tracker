@@ -26726,13 +26726,6 @@
         "Date": "2025-05-22"
     },
     {
-        "Company": "Moody's",
-        "Job Title": "Assc Analytics & Model Analyst",
-        "Location": "Unknown",
-        "status": "Applied",
-        "Date": "2025-05-22"
-    },
-    {
         "Company": "Sensiba LLP",
         "Job Title": "Sustainability Analyst",
         "Location": "Unknown",
@@ -30034,6 +30027,13 @@
         "Job Title": "Analyst, GTM Insights",
         "Location": "Unknown",
         "status": "Applied",
+        "Date": "2025-06-28"
+    },
+    {
+        "Company": "Moody's",
+        "Job Title": "Assc Analytics & Model Analyst",
+        "Location": "Unknown",
+        "status": "Declined",
         "Date": "2025-06-28"
     }
 ]

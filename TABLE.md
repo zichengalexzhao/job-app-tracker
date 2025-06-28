@@ -3,6 +3,7 @@
 | Fivetran | Product Analyst | Unknown | Applied | 2025-06-28 |
 | Prologis | Sustainability Data Analyst | Unknown | Applied | 2025-06-28 |
 | GoodRx | Analyst, GTM Insights | Unknown | Applied | 2025-06-28 |
+| Moody's | Assc Analytics & Model Analyst | Unknown | Declined | 2025-06-28 |
 | Wescom Credit Union | Unknown | Unknown | Applied | 2025-06-27 |
 | AgelessRx | Data Analyst III, Operations | Unknown | Applied | 2025-06-27 |
 | ZURU | Data Analyst Intern | Unknown | Declined | 2025-06-27 |
@@ -468,7 +469,6 @@
 | Delta Dental | Treasury Analyst | Unknown | Applied | 2025-05-22 |
 | Dataman USA | Data Analyst | Unknown | Applied | 2025-05-22 |
 | Prime Healthcare | PHS Bio-Medical Services | Unknown | Applied | 2025-05-22 |
-| Moody's | Assc Analytics & Model Analyst | Unknown | Applied | 2025-05-22 |
 | Sensiba LLP | Sustainability Analyst | Unknown | Applied | 2025-05-22 |
 | Kroll | Analyst, Strategic Value Advisory | Unknown | Applied | 2025-05-22 |
 | Stanford University | Research Data Analyst 1 | Unknown | Applied | 2025-05-22 |
