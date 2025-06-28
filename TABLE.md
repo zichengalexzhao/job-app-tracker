@@ -1,6 +1,7 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
 | Fivetran | Product Analyst | Unknown | Applied | 2025-06-28 |
+| Prologis | Sustainability Data Analyst | Unknown | Applied | 2025-06-28 |
 | Wescom Credit Union | Unknown | Unknown | Applied | 2025-06-27 |
 | AgelessRx | Data Analyst III, Operations | Unknown | Applied | 2025-06-27 |
 | ZURU | Data Analyst Intern | Unknown | Declined | 2025-06-27 |
