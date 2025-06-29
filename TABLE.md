@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | UniUni Logistics Inc. | Operation Assistant | Atlanta, GA | Applied | 2025-06-29 |
 | UniUni Logistics Inc. | Operations Assistant | Raleigh, NC | Applied | 2025-06-29 |
+| Amtrak | Unknown | Unknown | Applied | 2025-06-29 |
 | Fivetran | Product Analyst | Unknown | Applied | 2025-06-28 |
 | Prologis | Sustainability Data Analyst | Unknown | Applied | 2025-06-28 |
 | GoodRx | Analyst, GTM Insights | Unknown | Applied | 2025-06-28 |
