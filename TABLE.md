@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Status | Date |
 | --- | --- | --- | --- | --- |
+| UniUni Logistics Inc. | Operation Assistant | Atlanta, GA | Applied | 2025-06-29 |
 | Fivetran | Product Analyst | Unknown | Applied | 2025-06-28 |
 | Prologis | Sustainability Data Analyst | Unknown | Applied | 2025-06-28 |
 | GoodRx | Analyst, GTM Insights | Unknown | Applied | 2025-06-28 |
@@ -8,6 +9,7 @@
 | VCA (Veterinary Centers of America) | Unknown | Unknown | Applied | 2025-06-28 |
 | Stanley Black & Decker | Data Analyst | Unknown | Applied | 2025-06-28 |
 | Uber | Employee Data Analyst | Unknown | Applied | 2025-06-28 |
+| Qualtrics | XM Research & Content Associate | Unknown | Applied | 2025-06-28 |
 | Wescom Credit Union | Unknown | Unknown | Applied | 2025-06-27 |
 | AgelessRx | Data Analyst III, Operations | Unknown | Applied | 2025-06-27 |
 | ZURU | Data Analyst Intern | Unknown | Declined | 2025-06-27 |
