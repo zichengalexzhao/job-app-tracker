@@ -1,4 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore macOS folder attributes
+.DS_Store
+
+# Ignore environment variables file
 config/.env
-config/token.json
-config/gmail_credentials.json
-data/
+
+# Ignore all credential and token files in the accounts folder
+config/accounts/
+
+# Ignore all files in the data folder...
+data/*
+# ...but DO NOT ignore these specific files
+!data/job_applications.json
+!data/processed_ids.json
