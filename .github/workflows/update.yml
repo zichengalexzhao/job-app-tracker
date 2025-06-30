@@ -1,22 +1,24 @@
-name: Job App Tracker Automation
+name: Update Job Tracker
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   schedule:
-    - cron: '0 * * * *'  # Runs every hour at the start of the hour (e.g., 1:00, 2:00, etc.)
+    - cron: "0 * * * *" # Runs at the top of every hour
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
 
 jobs:
-  run-script:
-    permissions:
-      contents: write  # Explicitly grant write permissions
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
@@ -25,36 +27,29 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r job-app-tracker/requirements.txt
 
-      - name: Create Gmail credentials file
+      - name: Set up credentials for multiple accounts
         run: |
-          mkdir -p config
-          echo '${{ secrets.GMAIL_CREDENTIALS }}' | jq . > config/gmail_credentials.json
+          mkdir -p config/accounts/personal_gmail
+          mkdir -p config/accounts/school_gmail
+          echo "${{ secrets.GMAIL_CREDENTIALS_PERSONAL }}" > config/accounts/personal_gmail/gmail_credentials.json
+          echo "${{ secrets.GMAIL_TOKEN_PERSONAL }}" > config/accounts/personal_gmail/token.json
+          echo "${{ secrets.GMAIL_CREDENTIALS_SCHOOL }}" > config/accounts/school_gmail/gmail_credentials.json
+          echo "${{ secrets.GMAIL_TOKEN_SCHOOL }}" > config/accounts/school_gmail/token.json
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" > config/.env
 
-      - name: Create Gmail token file
-        run: |
-          echo '${{ secrets.GMAIL_TOKEN }}' | jq . > config/token.json
-
-      - name: Run main script
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Run the main script to fetch and process applications
         run: python job-app-tracker/main.py
 
-      - name: Clean duplicates
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Clean duplicates from the dataset
         run: python job-app-tracker/clean_duplicates.py
 
-      - name: Generate visualizations
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Generate new table and visualization
         run: python job-app-tracker/visualize_table.py
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Automated update of job applications, duplicates, and visualizations" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/zichengalexzhao/job-app-tracker.git HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Automated update of job applications, duplicates, and visualizations"
+          git push
