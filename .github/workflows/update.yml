@@ -5,11 +5,14 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 * * * *" # Runs at the top of every hour
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
+    permissions:
+      contents: write # This line is critical to allow pushing changes
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -51,5 +54,9 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Automated update of job applications, duplicates, and visualizations"
-          git push
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated update of job applications, duplicates, and visualizations"
+            git push
+          fi
