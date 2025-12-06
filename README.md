@@ -4,32 +4,6 @@ This project automates job application tracking by fetching relevant emails, ext
 
 ![Picture](job-app-tracker/featured.jpg)
 
-## New: Web Application (v2)
-
-A full-featured web application for job tracking is now available in the `web-app/` directory. This new version includes:
-
-- **Responsive Web Interface** - Works on desktop and mobile with dark mode support
-- **Full CRUD Operations** - Add, edit, delete applications through the UI
-- **Interview Scheduling** - Track interviews with Google Calendar integration
-- **Follow-up Reminders** - Set reminders with calendar sync
-- **Resume Management** - Upload and track resume versions
-- **Email Sync** - Import applications from Gmail using AI classification
-- **Reports & Export** - Excel/CSV export and visual analytics
-
-**Quick Start:**
-```bash
-cd web-app
-python install.py
-./start.sh  # or start.bat on Windows
-```
-Open http://localhost:8000 in your browser.
-
-See [web-app/README.md](web-app/README.md) for full documentation.
-
----
-
-## CLI Version (Original)
-
 ## Privacy Notice
 
 **Your job application data is personal and should remain private.**
