@@ -1,0 +1,30 @@
+[
+    {
+        "Company": "Example Corp",
+        "Job Title": "Software Engineer",
+        "Location": "San Francisco, CA",
+        "status": "Applied",
+        "Date": "2025-01-15"
+    },
+    {
+        "Company": "Tech Startup Inc",
+        "Job Title": "Data Analyst",
+        "Location": "Remote",
+        "status": "Interviewed",
+        "Date": "2025-01-10"
+    },
+    {
+        "Company": "Big Tech Co",
+        "Job Title": "Product Manager",
+        "Location": "New York, NY",
+        "status": "Declined",
+        "Date": "2025-01-05"
+    },
+    {
+        "Company": "Innovation Labs",
+        "Job Title": "ML Engineer",
+        "Location": "Austin, TX",
+        "status": "Offer",
+        "Date": "2025-01-01"
+    }
+]

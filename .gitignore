@@ -10,8 +10,10 @@ config/.env
 # Ignore all credential and token files in the accounts folder
 config/accounts/
 
-# Ignore all files in the data folder...
-data/*
-# ...but DO NOT ignore these specific files
-!data/job_applications.json
-!data/processed_ids.json
+# Ignore all personal data files (PRIVACY: never commit personal job data!)
+data/job_applications.json
+data/processed_ids.json
+
+# Keep example templates
+!data/job_applications.example.json
+!data/processed_ids.example.json
