@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+
+{% block title %}Reports & Export - Job Tracker{% endblock %}
+
+{% block content %}
+<div class="max-w-5xl mx-auto">
+    <h1 class="text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white mb-6">Reports & Export</h1>
+
+    <!-- Quick Stats -->
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+        <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-sm border dark:border-gray-700">
+            <div class="text-3xl font-bold text-primary">{{ total }}</div>
+            <div class="text-gray-600 dark:text-gray-400 text-sm">Total Applications</div>
+        </div>
+        <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-sm border dark:border-gray-700">
+            <div class="text-3xl font-bold text-green-600 dark:text-green-400">{{ "%.1f"|format(response_rate) }}%</div>
+            <div class="text-gray-600 dark:text-gray-400 text-sm">Response Rate</div>
+        </div>
+        <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-sm border dark:border-gray-700">
+            <div class="text-3xl font-bold text-yellow-600 dark:text-yellow-400">{{ "%.1f"|format(interview_rate) }}%</div>
+            <div class="text-gray-600 dark:text-gray-400 text-sm">Interview Rate</div>
+        </div>
+        <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-sm border dark:border-gray-700">
+            <div class="text-3xl font-bold text-purple-600 dark:text-purple-400">{{ status_counts.get('offer', 0) }}</div>
+            <div class="text-gray-600 dark:text-gray-400 text-sm">Offers Received</div>
+        </div>
+    </div>
+
+    <div class="grid lg:grid-cols-2 gap-6 mb-8">
+        <!-- Status Breakdown -->
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-6">
+            <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Status Breakdown</h2>
+            <div class="space-y-3">
+                {% for status in statuses %}
+                {% set count = status_counts.get(status.value, 0) %}
+                {% set pct = (count / total * 100) if total > 0 else 0 %}
+                <div>
+                    <div class="flex justify-between text-sm mb-1">
+                        <span class="capitalize text-gray-900 dark:text-white">{{ status.value }}</span>
+                        <span class="text-gray-600 dark:text-gray-400">{{ count }} ({{ "%.1f"|format(pct) }}%)</span>
+                    </div>
+                    <div class="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
+                        <div class="h-2 rounded-full
+                            {% if status.value == 'applied' %}bg-blue-500
+                            {% elif status.value == 'screening' %}bg-purple-500
+                            {% elif status.value == 'interviewing' %}bg-yellow-500
+                            {% elif status.value == 'offer' %}bg-green-500
+                            {% elif status.value == 'accepted' %}bg-green-600
+                            {% elif status.value == 'declined' %}bg-red-500
+                            {% else %}bg-gray-400{% endif %}"
+                            style="width: {{ pct }}%"></div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- Monthly Activity -->
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-6">
+            <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Applications by Month</h2>
+            <div class="space-y-3">
+                {% set max_count = monthly_data|map(attribute='count')|max %}
+                {% for month in monthly_data %}
+                <div>
+                    <div class="flex justify-between text-sm mb-1">
+                        <span class="text-gray-900 dark:text-white">{{ month.month }}</span>
+                        <span class="text-gray-600 dark:text-gray-400">{{ month.count }}</span>
+                    </div>
+                    <div class="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
+                        <div class="bg-primary h-2 rounded-full"
+                             style="width: {{ (month.count / max_count * 100) if max_count > 0 else 0 }}%"></div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- Top Companies -->
+    {% if top_companies %}
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-6 mb-8">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Top Companies Applied To</h2>
+        <div class="grid md:grid-cols-2 gap-4">
+            {% for company, count in top_companies %}
+            <div class="flex items-center justify-between p-3 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                <span class="font-medium text-gray-900 dark:text-white">{{ company }}</span>
+                <span class="px-2 py-1 bg-primary text-white text-sm rounded-full">{{ count }}</span>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Export Options -->
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-6">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Export Data</h2>
+        <p class="text-gray-600 dark:text-gray-400 mb-6">Download your job application data for backup or analysis.</p>
+
+        <div class="grid sm:grid-cols-3 gap-4">
+            <a href="/export/excel"
+               class="flex flex-col items-center p-6 border-2 border-dashed dark:border-gray-600 rounded-xl hover:border-primary dark:hover:border-primary hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-colors">
+                <svg class="w-12 h-12 text-green-600 dark:text-green-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                </svg>
+                <span class="font-medium text-gray-900 dark:text-white">Excel (.xlsx)</span>
+                <span class="text-sm text-gray-500 dark:text-gray-400">Full spreadsheet</span>
+            </a>
+
+            <a href="/export/csv"
+               class="flex flex-col items-center p-6 border-2 border-dashed dark:border-gray-600 rounded-xl hover:border-primary dark:hover:border-primary hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-colors">
+                <svg class="w-12 h-12 text-blue-600 dark:text-blue-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                </svg>
+                <span class="font-medium text-gray-900 dark:text-white">CSV</span>
+                <span class="text-sm text-gray-500 dark:text-gray-400">Applications data</span>
+            </a>
+
+            <a href="/export/interviews/csv"
+               class="flex flex-col items-center p-6 border-2 border-dashed dark:border-gray-600 rounded-xl hover:border-primary dark:hover:border-primary hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-colors">
+                <svg class="w-12 h-12 text-yellow-600 dark:text-yellow-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                </svg>
+                <span class="font-medium text-gray-900 dark:text-white">Interviews CSV</span>
+                <span class="text-sm text-gray-500 dark:text-gray-400">Interview history</span>
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}

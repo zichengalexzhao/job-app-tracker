@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block title %}Interviews - Job Tracker{% endblock %}
+
+{% block content %}
+<div class="max-w-4xl mx-auto">
+    <h1 class="text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white mb-6">Interviews</h1>
+
+    <!-- Upcoming -->
+    <div class="mb-8">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Upcoming Interviews</h2>
+        {% if upcoming %}
+        <div class="space-y-4">
+            {% for interview in upcoming %}
+            <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-4">
+                <div class="flex items-start justify-between">
+                    <div class="flex items-start space-x-4">
+                        <div class="flex-shrink-0 w-14 h-14 bg-yellow-100 dark:bg-yellow-900/50 rounded-lg flex flex-col items-center justify-center">
+                            <span class="text-lg font-bold text-yellow-700 dark:text-yellow-300">{{ interview.scheduled_at.strftime('%d') }}</span>
+                            <span class="text-xs text-yellow-600 dark:text-yellow-400">{{ interview.scheduled_at.strftime('%b') }}</span>
+                        </div>
+                        <div>
+                            <a href="/applications/{{ interview.application_id }}" class="font-medium text-gray-900 dark:text-white hover:text-primary">
+                                {{ interview.application.company }}
+                            </a>
+                            <p class="text-sm text-gray-600 dark:text-gray-400">{{ interview.application.job_title }}</p>
+                            <div class="flex items-center gap-4 mt-2 text-sm text-gray-500 dark:text-gray-400">
+                                <span class="flex items-center">
+                                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                                    </svg>
+                                    {{ interview.scheduled_at.strftime('%I:%M %p') }}
+                                </span>
+                                <span class="capitalize px-2 py-0.5 bg-gray-100 dark:bg-gray-700 rounded text-xs">
+                                    {{ interview.interview_type.value.replace('_', ' ') }}
+                                </span>
+                            </div>
+                            {% if interview.location %}
+                            <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">
+                                <svg class="w-4 h-4 inline mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                                </svg>
+                                {{ interview.location }}
+                            </p>
+                            {% endif %}
+                        </div>
+                    </div>
+                    <a href="/interviews/{{ interview.id }}/edit"
+                       class="px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:text-primary hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg">
+                        Edit
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-8 text-center text-gray-500 dark:text-gray-400 border dark:border-gray-700">
+            No upcoming interviews scheduled
+        </div>
+        {% endif %}
+    </div>
+
+    <!-- Past -->
+    {% if past %}
+    <div>
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Past Interviews</h2>
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 overflow-hidden">
+            <div class="divide-y dark:divide-gray-700">
+                {% for interview in past %}
+                <div class="p-4 hover:bg-gray-50 dark:hover:bg-gray-700">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <span class="font-medium text-gray-900 dark:text-white">{{ interview.application.company }}</span>
+                            <span class="text-gray-600 dark:text-gray-400">- {{ interview.application.job_title }}</span>
+                            <span class="ml-2 text-sm text-gray-500 dark:text-gray-400 capitalize">
+                                ({{ interview.interview_type.value.replace('_', ' ') }})
+                            </span>
+                        </div>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">
+                            {{ interview.scheduled_at.strftime('%b %d, %Y') }}
+                        </span>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

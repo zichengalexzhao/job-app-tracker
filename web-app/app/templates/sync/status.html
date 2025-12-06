@@ -1,0 +1,193 @@
+{% extends "base.html" %}
+
+{% block title %}Email Sync - Job Tracker{% endblock %}
+
+{% block content %}
+<div class="max-w-2xl mx-auto">
+    <h1 class="text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white mb-6">Email Sync</h1>
+
+    <!-- Status messages -->
+    {% if 'error' in request.query_params %}
+    <div class="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-lg p-4 mb-6">
+        <div class="flex items-center">
+            <svg class="w-5 h-5 text-red-500 dark:text-red-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <span class="text-red-700 dark:text-red-300">
+                {% if request.query_params.get('error') == 'gmail' %}
+                    Gmail is not configured. Please add your credentials.
+                {% elif request.query_params.get('error') == 'openai' %}
+                    OpenAI API key is not configured.
+                {% elif request.query_params.get('error') == 'auth' %}
+                    Failed to authenticate with Gmail.
+                {% else %}
+                    An error occurred during sync.
+                {% endif %}
+            </span>
+        </div>
+    </div>
+    {% endif %}
+
+    {% if 'success' in request.query_params %}
+    <div class="bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-lg p-4 mb-6">
+        <div class="flex items-center">
+            <svg class="w-5 h-5 text-green-500 dark:text-green-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M5 13l4 4L19 7"/>
+            </svg>
+            <span class="text-green-700 dark:text-green-300">
+                Sync complete!
+                {{ request.query_params.get('new', 0) }} new applications,
+                {{ request.query_params.get('updated', 0) }} updated.
+            </span>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Configuration Status -->
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-6 mb-6">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Configuration Status</h2>
+
+        <div class="space-y-4">
+            <!-- Gmail -->
+            <div class="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                <div class="flex items-center">
+                    <div class="w-10 h-10 rounded-full flex items-center justify-center mr-3
+                        {% if gmail_configured %}bg-green-100 dark:bg-green-900/50{% else %}bg-gray-200 dark:bg-gray-600{% endif %}">
+                        <svg class="w-5 h-5 {% if gmail_configured %}text-green-600 dark:text-green-400{% else %}text-gray-400{% endif %}"
+                             fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                  d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <div class="font-medium text-gray-900 dark:text-white">Gmail API</div>
+                        <div class="text-sm text-gray-500 dark:text-gray-400">
+                            {% if gmail_configured %}Connected{% else %}Not configured{% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% if gmail_configured %}
+                <span class="text-green-600 dark:text-green-400">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                    </svg>
+                </span>
+                {% else %}
+                <span class="text-xs text-gray-500 dark:text-gray-400">Add config/gmail_credentials.json</span>
+                {% endif %}
+            </div>
+
+            <!-- OpenAI -->
+            <div class="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                <div class="flex items-center">
+                    <div class="w-10 h-10 rounded-full flex items-center justify-center mr-3
+                        {% if openai_configured %}bg-green-100 dark:bg-green-900/50{% else %}bg-gray-200 dark:bg-gray-600{% endif %}">
+                        <svg class="w-5 h-5 {% if openai_configured %}text-green-600 dark:text-green-400{% else %}text-gray-400{% endif %}"
+                             fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                  d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <div class="font-medium text-gray-900 dark:text-white">OpenAI API</div>
+                        <div class="text-sm text-gray-500 dark:text-gray-400">
+                            {% if openai_configured %}Connected{% else %}Not configured{% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% if openai_configured %}
+                <span class="text-green-600 dark:text-green-400">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                    </svg>
+                </span>
+                {% else %}
+                <span class="text-xs text-gray-500 dark:text-gray-400">Add OPENAI_API_KEY to config/.env</span>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <!-- Sync Stats -->
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-6 mb-6">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Sync Statistics</h2>
+        <div class="grid grid-cols-2 gap-4">
+            <div class="text-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                <div class="text-3xl font-bold text-gray-900 dark:text-white">{{ total_processed }}</div>
+                <div class="text-sm text-gray-600 dark:text-gray-400">Emails Processed</div>
+            </div>
+            <div class="text-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                <div class="text-3xl font-bold text-primary">{{ job_related }}</div>
+                <div class="text-sm text-gray-600 dark:text-gray-400">Job-Related Found</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sync Button -->
+    {% if gmail_configured and openai_configured %}
+    <form method="POST" action="/sync/run" class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-6">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Run Sync</h2>
+        <p class="text-gray-600 dark:text-gray-400 mb-4">
+            Fetch recent emails and automatically classify job application updates.
+        </p>
+
+        <div class="mb-4">
+            <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Time Range</label>
+            <select name="hours" class="px-4 py-2 border dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white">
+                <option value="24">Last 24 hours</option>
+                <option value="72">Last 3 days</option>
+                <option value="168">Last week</option>
+                <option value="720">Last month</option>
+            </select>
+        </div>
+
+        <button type="submit"
+                class="w-full px-4 py-3 bg-primary text-white rounded-lg hover:bg-blue-600 transition-colors flex items-center justify-center">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+            </svg>
+            Sync Now
+        </button>
+    </form>
+    {% else %}
+    <div class="bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-200 dark:border-yellow-800 rounded-lg p-6 text-center">
+        <svg class="w-12 h-12 mx-auto text-yellow-500 dark:text-yellow-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+        </svg>
+        <h3 class="text-lg font-medium text-yellow-800 dark:text-yellow-300 mb-2">Configuration Required</h3>
+        <p class="text-yellow-700 dark:text-yellow-400">
+            Please configure Gmail API and OpenAI API to enable email sync.
+        </p>
+    </div>
+    {% endif %}
+
+    <!-- Setup Instructions -->
+    <div class="mt-8 prose prose-sm max-w-none">
+        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Setup Instructions</h3>
+
+        <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4 mt-4 border dark:border-gray-700">
+            <h4 class="font-medium text-gray-900 dark:text-white mb-2">1. Gmail API Setup</h4>
+            <ol class="list-decimal list-inside text-gray-600 dark:text-gray-400 space-y-1 text-sm">
+                <li>Go to <a href="https://console.cloud.google.com" target="_blank" class="text-primary hover:underline">Google Cloud Console</a></li>
+                <li>Create a new project and enable Gmail API</li>
+                <li>Create OAuth 2.0 credentials (Desktop app)</li>
+                <li>Download and save as <code class="bg-gray-200 dark:bg-gray-700 px-1 rounded">config/gmail_credentials.json</code></li>
+                <li>Run the app once to complete OAuth flow</li>
+            </ol>
+        </div>
+
+        <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4 mt-4 border dark:border-gray-700">
+            <h4 class="font-medium text-gray-900 dark:text-white mb-2">2. OpenAI API Setup</h4>
+            <ol class="list-decimal list-inside text-gray-600 dark:text-gray-400 space-y-1 text-sm">
+                <li>Get your API key from <a href="https://platform.openai.com/api-keys" target="_blank" class="text-primary hover:underline">OpenAI</a></li>
+                <li>Create <code class="bg-gray-200 dark:bg-gray-700 px-1 rounded">config/.env</code> file</li>
+                <li>Add: <code class="bg-gray-200 dark:bg-gray-700 px-1 rounded">OPENAI_API_KEY=your-key-here</code></li>
+            </ol>
+        </div>
+    </div>
+</div>
+{% endblock %}

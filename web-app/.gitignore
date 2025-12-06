@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# User data (PRIVACY: never commit personal data)
+data/tracker.db
+data/resumes/
+
+# Config with secrets
+config/.env
+config/token.json
+config/gmail_credentials.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep example files
+!config/.env.example

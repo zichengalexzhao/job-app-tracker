@@ -1,0 +1,164 @@
+{% extends "base.html" %}
+
+{% block title %}Applications - Job Tracker{% endblock %}
+
+{% block content %}
+<div class="max-w-7xl mx-auto">
+    <!-- Header -->
+    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-6 gap-4">
+        <div>
+            <h1 class="text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white">Applications</h1>
+            <p class="text-gray-600 dark:text-gray-400">{{ total_count }} total applications</p>
+        </div>
+        <a href="/applications/new"
+           class="inline-flex items-center justify-center px-4 py-2 bg-primary text-white rounded-lg hover:bg-blue-600 transition-colors">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+            </svg>
+            Add Application
+        </a>
+    </div>
+
+    <!-- Filters -->
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-4 mb-6">
+        <form method="GET" class="flex flex-col lg:flex-row gap-4">
+            <!-- Search -->
+            <div class="flex-1">
+                <input type="text" name="search" value="{{ current_search }}"
+                       placeholder="Search company or job title..."
+                       class="w-full px-4 py-2 border dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent bg-white dark:bg-gray-700 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400">
+            </div>
+
+            <!-- Status filter -->
+            <div class="flex flex-wrap gap-2">
+                <a href="/applications/"
+                   class="px-3 py-2 rounded-lg text-sm {% if not current_status or current_status == 'all' %}bg-primary text-white{% else %}bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600{% endif %}">
+                    All ({{ total_count }})
+                </a>
+                {% for status in statuses %}
+                <a href="/applications/?status={{ status.value }}{% if current_search %}&search={{ current_search }}{% endif %}"
+                   class="px-3 py-2 rounded-lg text-sm {% if current_status == status.value %}bg-primary text-white{% else %}bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600{% endif %}">
+                    <span class="capitalize">{{ status.value }}</span>
+                    <span class="ml-1">({{ status_counts.get(status.value, 0) }})</span>
+                </a>
+                {% endfor %}
+            </div>
+
+            <!-- Sort -->
+            <select name="sort" onchange="this.form.submit()"
+                    class="px-4 py-2 border dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-primary">
+                <option value="newest" {% if current_sort == 'newest' %}selected{% endif %}>Newest first</option>
+                <option value="oldest" {% if current_sort == 'oldest' %}selected{% endif %}>Oldest first</option>
+                <option value="company" {% if current_sort == 'company' %}selected{% endif %}>Company A-Z</option>
+                <option value="updated" {% if current_sort == 'updated' %}selected{% endif %}>Recently updated</option>
+            </select>
+        </form>
+    </div>
+
+    <!-- Applications List -->
+    {% if applications %}
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 overflow-hidden">
+        <!-- Desktop table -->
+        <div class="hidden lg:block overflow-x-auto">
+            <table class="w-full">
+                <thead class="bg-gray-50 dark:bg-gray-700 border-b dark:border-gray-600">
+                    <tr>
+                        <th class="text-left px-6 py-3 text-xs font-medium text-gray-500 dark:text-gray-400 uppercase">Company</th>
+                        <th class="text-left px-6 py-3 text-xs font-medium text-gray-500 dark:text-gray-400 uppercase">Position</th>
+                        <th class="text-left px-6 py-3 text-xs font-medium text-gray-500 dark:text-gray-400 uppercase">Location</th>
+                        <th class="text-left px-6 py-3 text-xs font-medium text-gray-500 dark:text-gray-400 uppercase">Status</th>
+                        <th class="text-left px-6 py-3 text-xs font-medium text-gray-500 dark:text-gray-400 uppercase">Date</th>
+                        <th class="text-right px-6 py-3 text-xs font-medium text-gray-500 dark:text-gray-400 uppercase">Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y dark:divide-gray-700">
+                    {% for app in applications %}
+                    <tr class="hover:bg-gray-50 dark:hover:bg-gray-700">
+                        <td class="px-6 py-4">
+                            <a href="/applications/{{ app.id }}" class="font-medium text-gray-900 dark:text-white hover:text-primary">
+                                {{ app.company }}
+                            </a>
+                        </td>
+                        <td class="px-6 py-4 text-gray-600 dark:text-gray-400">{{ app.job_title }}</td>
+                        <td class="px-6 py-4 text-gray-600 dark:text-gray-400">{{ app.location or '-' }}</td>
+                        <td class="px-6 py-4">
+                            <form method="POST" action="/applications/{{ app.id }}/status" class="inline">
+                                <select name="status" onchange="this.form.submit()"
+                                        class="px-2 py-1 text-sm rounded-full border-0 cursor-pointer
+                                        {% if app.status.value == 'applied' %}bg-blue-100 text-blue-700 dark:bg-blue-900/50 dark:text-blue-300
+                                        {% elif app.status.value == 'screening' %}bg-purple-100 text-purple-700 dark:bg-purple-900/50 dark:text-purple-300
+                                        {% elif app.status.value == 'interviewing' %}bg-yellow-100 text-yellow-700 dark:bg-yellow-900/50 dark:text-yellow-300
+                                        {% elif app.status.value == 'offer' %}bg-green-100 text-green-700 dark:bg-green-900/50 dark:text-green-300
+                                        {% elif app.status.value == 'accepted' %}bg-green-200 text-green-800 dark:bg-green-900/50 dark:text-green-300
+                                        {% elif app.status.value == 'declined' %}bg-red-100 text-red-700 dark:bg-red-900/50 dark:text-red-300
+                                        {% else %}bg-gray-100 text-gray-700 dark:bg-gray-700 dark:text-gray-300{% endif %}">
+                                    {% for status in statuses %}
+                                    <option value="{{ status.value }}" {% if app.status == status %}selected{% endif %}>
+                                        {{ status.value|capitalize }}
+                                    </option>
+                                    {% endfor %}
+                                </select>
+                            </form>
+                        </td>
+                        <td class="px-6 py-4 text-gray-600 dark:text-gray-400 text-sm">
+                            {{ app.applied_date.strftime('%b %d, %Y') }}
+                        </td>
+                        <td class="px-6 py-4 text-right">
+                            <a href="/applications/{{ app.id }}/edit"
+                               class="text-gray-600 dark:text-gray-400 hover:text-primary">Edit</a>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Mobile cards -->
+        <div class="lg:hidden divide-y dark:divide-gray-700">
+            {% for app in applications %}
+            <a href="/applications/{{ app.id }}" class="block p-4 hover:bg-gray-50 dark:hover:bg-gray-700">
+                <div class="flex items-start justify-between">
+                    <div class="min-w-0 flex-1">
+                        <div class="font-medium text-gray-900 dark:text-white">{{ app.company }}</div>
+                        <div class="text-sm text-gray-600 dark:text-gray-400">{{ app.job_title }}</div>
+                        <div class="text-xs text-gray-500 dark:text-gray-500 mt-1">
+                            {{ app.location or 'No location' }} · {{ app.applied_date.strftime('%b %d, %Y') }}
+                        </div>
+                    </div>
+                    <span class="ml-2 px-2 py-1 text-xs rounded-full
+                        {% if app.status.value == 'applied' %}bg-blue-100 text-blue-700 dark:bg-blue-900/50 dark:text-blue-300
+                        {% elif app.status.value == 'screening' %}bg-purple-100 text-purple-700 dark:bg-purple-900/50 dark:text-purple-300
+                        {% elif app.status.value == 'interviewing' %}bg-yellow-100 text-yellow-700 dark:bg-yellow-900/50 dark:text-yellow-300
+                        {% elif app.status.value == 'offer' %}bg-green-100 text-green-700 dark:bg-green-900/50 dark:text-green-300
+                        {% elif app.status.value == 'accepted' %}bg-green-200 text-green-800 dark:bg-green-900/50 dark:text-green-300
+                        {% elif app.status.value == 'declined' %}bg-red-100 text-red-700 dark:bg-red-900/50 dark:text-red-300
+                        {% else %}bg-gray-100 text-gray-700 dark:bg-gray-700 dark:text-gray-300{% endif %}">
+                        {{ app.status.value }}
+                    </span>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+    {% else %}
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-sm border dark:border-gray-700 p-12 text-center">
+        <svg class="w-16 h-16 mx-auto text-gray-300 dark:text-gray-600 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+        </svg>
+        <h3 class="text-lg font-medium text-gray-900 dark:text-white mb-2">No applications found</h3>
+        <p class="text-gray-600 dark:text-gray-400 mb-6">
+            {% if current_search or current_status %}
+                Try adjusting your filters
+            {% else %}
+                Start tracking your job applications
+            {% endif %}
+        </p>
+        <a href="/applications/new"
+           class="inline-flex items-center px-4 py-2 bg-primary text-white rounded-lg hover:bg-blue-600">
+            Add Application
+        </a>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

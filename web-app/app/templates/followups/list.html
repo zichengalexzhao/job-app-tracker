@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+
+{% block title %}Follow-ups - Job Tracker{% endblock %}
+
+{% block content %}
+<div class="max-w-4xl mx-auto">
+    <h1 class="text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white mb-6">Follow-ups & Reminders</h1>
+
+    <!-- Overdue -->
+    {% if overdue %}
+    <div class="mb-8">
+        <h2 class="text-lg font-semibold text-red-600 dark:text-red-400 mb-4">Overdue</h2>
+        <div class="space-y-3">
+            {% for followup in overdue %}
+            <div class="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-xl p-4">
+                <div class="flex items-start justify-between">
+                    <div class="flex items-start space-x-3">
+                        <div class="flex-shrink-0 w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
+                            <svg class="w-5 h-5 text-red-600 dark:text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                            </svg>
+                        </div>
+                        <div>
+                            <a href="/applications/{{ followup.application_id }}" class="font-medium text-gray-900 dark:text-white hover:text-primary">
+                                {{ followup.title }}
+                            </a>
+                            <p class="text-sm text-gray-600 dark:text-gray-400">{{ followup.application.company }} - {{ followup.application.job_title }}</p>
+                            <p class="text-xs text-red-600 dark:text-red-400 mt-1">Was due {{ followup.scheduled_date.strftime('%b %d, %Y') }}</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <form method="POST" action="/followups/{{ followup.id }}/complete">
+                            <button type="submit" class="px-3 py-1 text-sm bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-300 rounded-lg hover:bg-green-200 dark:hover:bg-green-900/70">
+                                Done
+                            </button>
+                        </form>
+                        <form method="POST" action="/followups/{{ followup.id }}/delete">
+                            <button type="submit" class="p-1 text-gray-400 dark:text-gray-500 hover:text-red-600 dark:hover:text-red-400">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                                </svg>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Upcoming -->
+    <div class="mb-8">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Upcoming</h2>
+        {% if pending %}
+        <div class="space-y-3">
+            {% for followup in pending %}
+            <div class="bg-white dark:bg-gray-800 border dark:border-gray-700 rounded-xl p-4 hover:shadow-sm transition-shadow">
+                <div class="flex items-start justify-between">
+                    <div class="flex items-start space-x-3">
+                        <div class="flex-shrink-0 w-10 h-10 bg-blue-100 dark:bg-blue-900/50 rounded-lg flex items-center justify-center">
+                            <span class="text-sm font-bold text-blue-600 dark:text-blue-400">{{ followup.scheduled_date.strftime('%d') }}</span>
+                        </div>
+                        <div>
+                            <a href="/applications/{{ followup.application_id }}" class="font-medium text-gray-900 dark:text-white hover:text-primary">
+                                {{ followup.title }}
+                            </a>
+                            <p class="text-sm text-gray-600 dark:text-gray-400">{{ followup.application.company }} - {{ followup.application.job_title }}</p>
+                            <p class="text-xs text-gray-500 dark:text-gray-500 mt-1">{{ followup.scheduled_date.strftime('%B %d, %Y at %I:%M %p') }}</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <form method="POST" action="/followups/{{ followup.id }}/complete">
+                            <button type="submit" class="px-3 py-1 text-sm bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-300 rounded-lg hover:bg-green-200 dark:hover:bg-green-900/70">
+                                Done
+                            </button>
+                        </form>
+                        <form method="POST" action="/followups/{{ followup.id }}/delete">
+                            <button type="submit" class="p-1 text-gray-400 dark:text-gray-500 hover:text-red-600 dark:hover:text-red-400">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                                </svg>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-8 text-center text-gray-500 dark:text-gray-400 border dark:border-gray-700">
+            No upcoming follow-ups scheduled
+        </div>
+        {% endif %}
+    </div>
+
+    <!-- Completed -->
+    {% if completed %}
+    <div>
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Recently Completed</h2>
+        <div class="bg-white dark:bg-gray-800 border dark:border-gray-700 rounded-xl overflow-hidden">
+            <div class="divide-y dark:divide-gray-700">
+                {% for followup in completed %}
+                <div class="p-4 flex items-center justify-between text-gray-500 dark:text-gray-400">
+                    <div>
+                        <span class="line-through">{{ followup.title }}</span>
+                        <span class="text-sm ml-2">- {{ followup.application.company }}</span>
+                    </div>
+                    <span class="text-xs">{{ followup.completed_at.strftime('%b %d') }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
