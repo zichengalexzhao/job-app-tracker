@@ -4,6 +4,17 @@ This project automates job application tracking by fetching relevant emails, ext
 
 ![Picture](job-app-tracker/featured.jpg)
 
+## Privacy Notice
+
+**Your job application data is personal and should remain private.**
+
+This tool is designed for **individual use** - each user should:
+1. Fork this repository to their own GitHub account
+2. Keep their fork **private** (or be aware that public forks expose your job search data)
+3. Never commit personal data (`data/job_applications.json`) to a public repository
+
+The data files are excluded from git by default via `.gitignore`. Example templates are provided in `data/*.example.json` to help you get started.
+
 ## Features
 
 - **Automated Email Processing**: Fetches job-related emails from Gmail.
@@ -16,7 +27,7 @@ This project automates job application tracking by fetching relevant emails, ext
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.11+
 - Google API credentials
 - OpenAI API key
 - Gmail access enabled
@@ -53,7 +64,15 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your-openai-api-key
 ```
 
-#### 5. Run the script
+#### 5. Initialize your data files
+
+Copy the example templates to create your personal data files:
+```bash
+cp data/job_applications.example.json data/job_applications.json
+cp data/processed_ids.example.json data/processed_ids.json
+```
+
+#### 6. Run the script
 
 ```bash
 python job-app-tracker/main.py
